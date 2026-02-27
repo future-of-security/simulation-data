@@ -1,2 +1,3 @@
-.claude/
-.codex/
+**/responses/*.md
+**/agent_state/
+**/.canvas_fetch_index.json

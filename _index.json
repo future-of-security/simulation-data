@@ -1,0 +1,11 @@
+{
+  "simulations": [
+    {
+      "id": "virginia-cascading-crisis",
+      "title": "Virginia Cascading Crisis",
+      "path": "virginia-cascading-crisis",
+      "active_phase": 5,
+      "total_phases": 6
+    }
+  ]
+}
