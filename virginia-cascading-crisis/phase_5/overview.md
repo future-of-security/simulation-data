@@ -71,98 +71,98 @@ Hidden environmental and health damage that was masked by Phase 4's governance c
 
 | Team | Role | Primary Focus This Phase |
 |------|------|--------------------------|
-| Acadia | AEP Power Grid & Environmental Systems | Power to healthcare facilities; coal ash pond infrastructure |
-| Arches | Montgomery County Public Health Authority | Local public health directives, water advisory implementation |
-| Banff | WDBJ7 Health & Environmental Coverage | Health communications, environmental transparency coverage |
-| Bryce | SW Virginia Sheriff's Environmental Crime Unit | Environmental enforcement, pharmacy security, mine oversight |
-| Denali | VA DEQ Emergency Environmental Response | Coal ash, water testing, air quality, environmental emergency |
-| Glacier | Shentel Emergency Health Communications | Telehealth bandwidth, health alert systems, crisis comms |
-| Jasper | Virginia Tech Environmental Health Research | Respiratory cluster investigation, environmental data analysis |
-| Olympic | Governor's Health Emergency Coordinator | Health emergency declarations, state resource authorization |
-| Redwood | VDOT Medical Transport & Supply Routes | Patient transport corridors, pharmaceutical supply routes |
-| Sequoia | Carilion Health System Crisis Command | Dialysis triage, hospital mutual aid, MOUD clinic support |
-| Shenandoah | Public Health Biosecurity Coordinator | Biosecurity assessment, CDC liaison, outbreak risk analysis |
-| Yellowstone | Appalachian Faith Network Community Health | Vulnerable population outreach, community health navigation |
-| Yoho | SW Virginia Mass Casualty Coordination | Mass casualty protocols, multi-agency medical coordination |
-| Yosemite | Regional Medical & Food Supply Chain | Pharmaceutical supply, emergency water distribution |
-| Zion | United Way Health Navigation Services | MOUD patient support, health navigator deployment |
+| Acadia | VA DEQ Emergency Environmental Response | Coal ash, water testing, air quality, environmental emergency |
+| Arches | Carilion Health System Crisis Command | Dialysis triage, hospital mutual aid, MOUD clinic support |
+| Banff | Governor's Health Emergency Coordinator | Health emergency declarations, state resource authorization |
+| Bryce | Appalachian Faith Network Community Health | Vulnerable population outreach, MOUD peer support, harm reduction |
+| Denali | VDOT Medical Transport & Supply Routes | Patient transport corridors, pharmaceutical supply routes |
+| Glacier | SW Virginia Mass Casualty Coordination | Mass casualty protocols, multi-agency medical coordination |
+| Jasper | Public Health Biosecurity Coordinator | Biosecurity assessment, CDC liaison, outbreak risk analysis |
+| Olympic | Regional Medical & Food Supply Chain | Pharmaceutical supply chain, emergency water distribution |
+| Redwood | United Way Health Navigation Services | MOUD patient support, health navigator deployment |
+| Sequoia | Virginia Tech Environmental Health Research | Respiratory cluster investigation, environmental data analysis |
+| Shenandoah | Montgomery County Public Health Authority | Local public health directives, water advisory implementation |
+| Yellowstone | WDBJ7 Health & Environmental Coverage | Health communications, environmental transparency coverage |
+| Yoho | Shentel Emergency Health Communications | Telehealth bandwidth, health alert systems, crisis comms |
+| Yosemite | SW Virginia Sheriff's Environmental Crime Unit | Environmental enforcement, mine oversight, security |
+| Zion | AEP Power Grid & Environmental Systems | Power to healthcare facilities; coal ash pond infrastructure |
 
 ### Team-Specific Objectives
 
-**Carilion Health System Crisis Command:**
+**Acadia — VA DEQ Emergency Environmental Response:**
+- Complete coal ash structural assessment and decide on emergency stabilization before the rain event
+- Issue or delay water advisory based on confirmatory testing vs. precautionary principles
+- Investigate respiratory cluster air quality data in coordination with Sequoia (VT) and Jasper (Biosecurity)
+
+**Arches — Carilion Health System Crisis Command:**
 - Coordinate emergency dialysis transport and temporary clinic solutions for 340+ patients
 - Activate hospital mutual aid to manage patient transfer volume
 - Support MOUD clinic emergency dispensing to prevent withdrawal crises
 
-**VA DEQ Emergency Environmental Response:**
-- Complete coal ash structural assessment and decide on emergency stabilization before rain event
-- Issue or delay water advisory based on confirmatory testing vs. precautionary principles
-- Investigate respiratory cluster in coordination with VT and biosecurity lead
-
-**Governor's Health Emergency Coordinator:**
+**Banff — Governor's Health Emergency Coordinator:**
 - Declare public health emergency to unlock mutual aid and emergency funding
-- Authorize state-level support for dialysis transport and pharmacy resupply
-- Coordinate federal engagement (CDC, EPA) for environmental and health crises
+- Authorize state-level support for dialysis transport and pharmaceutical resupply
+- Coordinate federal engagement (CDC, EPA) and lead the public response to preventable deaths
 
-**SW Virginia EMA (Mass Casualty Coordination):**
-- Stand up mass casualty coordination protocols for potential dialysis, respiratory, and overdose surges
-- Coordinate multi-agency medical response across county lines
-- Manage public alerts for water, air, and health advisories in coordination with DEQ
+**Bryce — Appalachian Faith Network Community Health:**
+- Reach elderly and homebound residents in hollows without internet or phone access
+- Deploy peer support and harm reduction outreach to opioid recovery patients at risk of seeking street alternatives
+- Coordinate faith-based sites as emergency medication pickup and safe haven locations
 
-**Virginia Tech Environmental Health Research:**
-- Lead respiratory illness cluster investigation — distinguish pollution event, natural outbreak, or biosecurity concern
-- Provide real-time environmental data analysis to support DEQ and DEQ enforcement decisions
-- Deploy air quality and environmental monitoring to close data gaps
-
-**Public Health Biosecurity Coordinator:**
-- Assess respiratory cluster for biosecurity escalation criteria
-- Coordinate CDC emergency consultation request if warranted
-- Provide situation assessment that clarifies what is a normal outbreak vs. a security concern
-
-**VDOT Medical Transport & Supply Routes:**
+**Denali — VDOT Medical Transport & Supply Routes:**
 - Designate and operationalize patient transport corridors to regional dialysis and emergency care facilities
 - Support pharmaceutical supply route planning for emergency medication depots
-- Coordinate with EMA on mass casualty transport capacity
+- Coordinate with Glacier (EMA) on mass casualty transport capacity
 
-**Montgomery County Public Health Authority:**
-- Implement water advisory decisions at local level, including distribution and public communication
-- Coordinate with DEQ on confirmatory testing and interim advisories
-- Host community forums to explain environmental risks transparently
+**Glacier — SW Virginia Mass Casualty Coordination:**
+- Stand up mass casualty coordination protocols for potential dialysis, respiratory, and overdose surges
+- Coordinate multi-agency medical response across county lines
+- Manage public alerts for water, air, and health advisories in coordination with Acadia (DEQ)
 
-**SW Virginia Sheriff's Environmental Crime Unit:**
-- Enforce environmental emergency orders (mine operations, ash pond access)
-- Secure pharmaceutical supply sites against theft during shortage
-- Support rural transport for vulnerable patients
+**Jasper — Public Health Biosecurity Coordinator:**
+- Assess respiratory cluster against biosecurity escalation criteria
+- Coordinate CDC emergency consultation request if escalation criteria are met
+- Produce situation assessment clarifying normal outbreak vs. biosecurity concern for decision-makers
 
-**WDBJ7 Health & Environmental Coverage:**
-- Coordinate health and environmental communications to avoid panic while ensuring informed public
-- Cover respiratory cluster and water advisory with appropriate context
-- Counter premature social media claims about contamination or outbreak
+**Olympic — Regional Medical & Food Supply Chain:**
+- Coordinate emergency pharmaceutical supply from regional distribution networks using cold-chain logistics
+- Manage emergency bottled water distribution if water advisory is issued
+- Ensure supply route integrity for medical and water distribution operations
 
-**Shentel Emergency Health Communications:**
-- Expand telehealth bandwidth for remote patient consultations (dialysis, MOUD follow-ups)
-- Stand up health alert systems for water and air quality advisories
-- Ensure connectivity to rural health sites for crisis communications
-
-**United Way Health Navigation Services:**
+**Redwood — United Way Health Navigation Services:**
 - Deploy health navigators to opioid recovery community to prevent relapse cascade
 - Connect isolated rural patients to emergency transportation and pharmacy support
 - Document and escalate unmet health needs that fall through agency gaps
 
-**Appalachian Faith Network Community Health:**
-- Reach elderly and homebound residents in hollows without internet or phone access
-- Coordinate faith-based sites as emergency water distribution points and safe havens
-- Support opioid recovery community with peer support and harm reduction
+**Sequoia — Virginia Tech Environmental Health Research:**
+- Lead epidemiological investigation of the Appalachia respiratory cluster
+- Provide real-time environmental data analysis (air quality, particulate sampling) to support Acadia (DEQ)
+- Deploy environmental monitoring to close data gaps left by weeks of offline sensors
 
-**AEP Power Grid & Environmental Systems:**
-- Maintain power to healthcare facilities as priority load
-- Provide technical support on coal ash pond infrastructure and monitoring
-- Enable environmental sensor systems to continue operating
+**Shenandoah — Montgomery County Public Health Authority:**
+- Make and implement the water advisory decision for affected rural systems
+- Coordinate with Acadia (DEQ) on confirmatory testing timing and interim advisories
+- Host transparent community forums to explain environmental risks with what is known and unknown
 
-**Regional Medical & Food Supply Chain:**
-- Coordinate emergency pharmaceutical supply from regional distribution networks
-- Manage emergency bottled water distribution if advisory issued
-- Ensure cold chain integrity for medical supplies
+**Yellowstone — WDBJ7 Health & Environmental Coverage:**
+- Coordinate health and environmental communications to prevent panic while ensuring informed public
+- Cover respiratory cluster and water advisory decisions with appropriate scientific context
+- Counter premature social media contamination and outbreak claims with verified reporting
+
+**Yoho — Shentel Emergency Health Communications:**
+- Expand telehealth bandwidth for remote patient consultations (dialysis, MOUD follow-ups)
+- Stand up health alert systems, public hotlines, and SMS notification for water and air advisories
+- Ensure connectivity to rural health sites for crisis communications and monitoring
+
+**Yosemite — SW Virginia Sheriff's Environmental Crime Unit:**
+- Enforce environmental emergency orders (mine operations halt, coal ash pond access restrictions)
+- Secure pharmaceutical supply depots against theft during shortage conditions
+- Manage protest and worker walkout situation at mine gate if operations are halted
+
+**Zion — AEP Power Grid & Environmental Systems:**
+- Maintain power to healthcare facilities and dialysis sites as priority load
+- Provide infrastructure access and technical support for coal ash pond emergency assessment
+- Ensure environmental sensor systems remain powered and transmitting
 
 ---
 
@@ -174,13 +174,13 @@ Injects are stored in `injects.csv`
 
 Each initial inject requires collaboration of exactly 3 teams. All 15 teams are covered.
 
-| # | Category | Teams | Description |
-|---|----------|-------|-------------|
-| 1 | Health/Transport | Carilion, EMA, VDOT | 340 dialysis patients with no access to treatment clinics |
-| 2 | Environment | DEQ, AEP, Governor's | Coal ash pond structural risk before major rainfall |
-| 3 | Environment/Health | DEQ, Montgomery County, WDBJ7 | Preliminary water contamination in 3 rural systems |
-| 4 | Health | Carilion, United Way, Faith Network | Opioid overdose surge + MOUD medication crisis |
-| 5 | Biosecurity | Virginia Tech, DEQ, CISA | Respiratory illness cluster in coal community |
+| # | Category | Teams (Phase 5 Roles) | Description |
+|---|----------|----------------------|-------------|
+| 1 | Health/Transport | Arches (Carilion), Glacier (EMA), Denali (VDOT) | 340 dialysis patients with no access to treatment clinics |
+| 2 | Environment | Acadia (DEQ), Zion (AEP), Banff (Governor's) | Coal ash pond structural risk before major rainfall |
+| 3 | Health/Supply | Redwood (United Way), Bryce (Faith Network), Olympic (Supply Chain) | Opioid surge + MOUD medication crisis |
+| 4 | Biosecurity | Sequoia (VT), Jasper (Biosecurity/CISA), Yosemite (Sheriff's) | Respiratory illness cluster in coal community |
+| 5 | Environment/Health | Shenandoah (Montgomery Co), Yellowstone (WDBJ7), Yoho (Shentel) | Preliminary water contamination in 3 rural systems |
 
 ### Escalation Triggers
 
@@ -188,18 +188,9 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 |-------------------|-------------------|----------|
 | No dialysis response by 0:15 | Three patients die; federal wrongful death inquiry opened | 5 |
 | No coal ash response by 0:10 | Seepage confirmed; Clinch River water advisory mandatory | 5 |
-| No water system response by 0:20 | Panic social media posts; water run on Food City stores | 4 |
-| No MOUD response by 0:20 | Three MOUD clinics suspend operations; patients in withdrawal | 4 |
-| No respiratory response by 0:25 | CDC contact tracing begins; mine restart halted by state order | 3 |
-
-### Carryover Injects (from Phase 4 — still partial)
-
-| # | Phase 4 Inject | Status | Missing Teams |
-|---|----------------|--------|---------------|
-| 11 | Supply Convoy Hijacking | Partial (2/4 teams) | EMA, Governor's Liaison |
-| 12 | Panic Arms Run | Partial (2/4 teams) | Sheriff's Coalition, Carilion |
-| 13 | Town Hall Violence | Partial (4/5 teams) | Sheriff's Coalition |
-| 14 | Healthcare Worker Attacked | Partial (2/4 teams) | Sheriff's Coalition, EMA |
+| No respiratory response by 0:25 | CDC notified; mine halted; workers walk out | 3 |
+| No MOUD response by 0:20 | Three MOUD clinics suspend; patients presenting in withdrawal | 4 |
+| No water system response by 0:20 | Viral panic posts; bottled water stockpile run at Food City | 4 |
 
 ---
 
