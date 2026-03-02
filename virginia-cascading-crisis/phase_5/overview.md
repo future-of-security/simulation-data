@@ -182,15 +182,27 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 | 4 | Biosecurity | Sequoia (VT), Jasper (Biosecurity/CISA), Yosemite (Sheriff's) | Respiratory illness cluster in coal community |
 | 5 | Environment/Health | Shenandoah (Montgomery Co), Yellowstone (WDBJ7), Yoho (Shentel) | Preliminary water contamination in 3 rural systems |
 
-### Escalation Triggers
+### Escalation Triggers (Negative — open if teams fail to respond)
 
-| Trigger Condition | Escalation Inject | Severity |
-|-------------------|-------------------|----------|
-| No dialysis response by 0:15 | Three patients die; federal wrongful death inquiry opened | 5 |
-| No coal ash response by 0:10 | Seepage confirmed; Clinch River water advisory mandatory | 5 |
-| No respiratory response by 0:25 | CDC notified; mine halted; workers walk out | 3 |
-| No MOUD response by 0:20 | Three MOUD clinics suspend; patients presenting in withdrawal | 4 |
-| No water system response by 0:20 | Viral panic posts; bottled water stockpile run at Food City | 4 |
+| Trigger Condition | Inject | Severity |
+|-------------------|--------|----------|
+| No dialysis response by 0:15 | #6 — Three patients die; federal wrongful death inquiry opened | 5 |
+| No coal ash response by 0:10 | #7 — Seepage confirmed; Clinch River do-not-use advisory mandatory | 5 |
+| No MOUD response by 0:20 | #9 — Three MOUD clinics suspend; patients presenting in withdrawal | 4 |
+| No water system response by 0:20 | #10 — Viral panic posts; incorrect boil-water advice spreading | 4 |
+| No respiratory response by 0:25 | #8 — CDC notified; mine halted; workers walk out | 3 |
+
+### Success Triggers (Positive — open if teams respond in time)
+
+Open these injects as **facilitator reward** when the corresponding initial inject is marked resolved before the escalation trigger fires. Do not open both the escalation and success inject for the same arc.
+
+| Condition | Inject | What it unlocks |
+|-----------|--------|-----------------|
+| Dialysis resolved before 0:15 | #11 — Regional medical transport model | Carilion/EMA/VDOT formalize lasting compact; bonus points |
+| Coal ash stabilized before 0:10 | #12 — Downstream community trust window | DEQ/AEP/Governor sign monitoring compact with community; bonus points |
+| MOUD stabilized before 0:20 | #13 — Recovery community mobilizes as asset | United Way/Faith/Supply Chain formalize peer navigator program; bonus points |
+| Respiratory identified before 0:25 | #14 — Voluntary mine restart protocol | VT/CISA/Sheriff broker monitoring agreement; bonus points |
+| Water advisory resolved before 0:20 | #15 — Public health authority restored | Montgomery Co/WDBJ7/Shentel build permanent early-warning system; bonus points |
 
 ---
 
