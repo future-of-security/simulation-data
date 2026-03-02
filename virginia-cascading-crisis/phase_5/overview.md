@@ -184,7 +184,7 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 
 ### Escalation Triggers (Negative — open if teams fail to respond)
 
-When an escalation trigger fires, **immediately mark the corresponding initial inject as `escalated`**. If teams demonstrably engaged with the initial inject before the deadline (submitted relevant actions or responses), award **50% of its `points_resolve` as partial credit**. If teams ignored it entirely, award 0. Either way, the escalation inject is now the live arc and is scored independently.
+When an escalation trigger fires, **immediately mark the corresponding initial inject as `escalated`**. Each initial inject has three explicit `RESPONSE COUNTS AS` clauses, one per team. Award **partial credit per clause met before the trigger deadline**: each team that satisfied its own clause earns 1/3 of the initial inject's `points_resolve`. Teams that did not meet their clause earn 0. The escalation inject is then the live arc and is scored independently on its own merits.
 
 | Trigger Condition | Inject | Severity |
 |-------------------|--------|----------|
@@ -198,7 +198,7 @@ When an escalation trigger fires, **immediately mark the corresponding initial i
 
 Open these injects as **facilitator reward** when the corresponding initial inject is marked resolved before the escalation trigger fires. Do not open both the escalation and success inject for the same arc.
 
-**Scoring rule:** Every inject is scored independently. Award `points_resolve` for any inject that is resolved, regardless of whether it is an initial inject, escalation trigger, or success follow-on. Initial injects marked `escalated` award 50% if teams engaged before deadline, 0% if not. Record all reasoning in progress.md.
+**Scoring rule:** Every inject is scored independently. Award `points_resolve` for any inject that is resolved, regardless of whether it is an initial inject, escalation trigger, or success follow-on. Initial injects marked `escalated` award 1/3 of `points_resolve` per team that met its own `RESPONSE COUNTS AS` clause before the deadline; teams that did not meet their clause earn 0. Record all reasoning in progress.md.
 
 | Condition | Inject | What it unlocks |
 |-----------|--------|-----------------|
