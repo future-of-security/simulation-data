@@ -196,6 +196,8 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 
 Open these injects as **facilitator reward** when the corresponding initial inject is marked resolved before the escalation trigger fires. Do not open both the escalation and success inject for the same arc.
 
+**Scoring rule:** Award points for either the initial inject or its escalation/success follow-on — not both. If teams resolve an initial inject and later also close a follow-on for the same arc, award only the higher `points_resolve` value for that arc. Record the reasoning in progress.md.
+
 | Condition | Inject | What it unlocks |
 |-----------|--------|-----------------|
 | Dialysis resolved before 0:15 | #11 — Regional medical transport model | Carilion/EMA/VDOT formalize lasting compact; bonus points |
