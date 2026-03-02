@@ -184,6 +184,8 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 
 ### Escalation Triggers (Negative — open if teams fail to respond)
 
+When an escalation trigger fires, **immediately mark the corresponding initial inject as `escalated`** (not resolved, not scorable). Only the escalation inject can now be scored for that arc.
+
 | Trigger Condition | Inject | Severity |
 |-------------------|--------|----------|
 | No dialysis response by 0:15 | #6 — Three patients die; federal wrongful death inquiry opened | 5 |
@@ -196,7 +198,7 @@ Each initial inject requires collaboration of exactly 3 teams. All 15 teams are 
 
 Open these injects as **facilitator reward** when the corresponding initial inject is marked resolved before the escalation trigger fires. Do not open both the escalation and success inject for the same arc.
 
-**Scoring rule:** Every inject is scored independently. Award `points_resolve` for any inject that is resolved, regardless of whether it is an initial inject, escalation trigger, or success follow-on. Record the reasoning in progress.md.
+**Scoring rule:** Every inject is scored independently. Award `points_resolve` for any inject that is resolved, regardless of whether it is an initial inject, escalation trigger, or success follow-on. Record the reasoning in progress.md. Initial injects marked `escalated` are not scored.
 
 | Condition | Inject | What it unlocks |
 |-----------|--------|-----------------|
