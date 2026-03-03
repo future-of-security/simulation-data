@@ -204,11 +204,11 @@ Open these injects as **facilitator reward** when the corresponding initial inje
 
 | Condition | Inject | What it unlocks |
 |-----------|--------|-----------------|
-| Dialysis resolved before 0:15 | #11 — Regional medical transport model | Carilion/EMA/VDOT formalize lasting compact; bonus points |
-| Coal ash stabilized before 0:10 | #12 — Downstream community trust window | DEQ/AEP/Governor sign monitoring compact with community; bonus points |
-| MOUD stabilized before 0:20 | #13 — Recovery community mobilizes as asset | United Way/Faith/Supply Chain formalize peer navigator program; bonus points |
-| Respiratory identified before 0:25 | #14 — Voluntary mine restart protocol | VT/CISA/Sheriff broker monitoring agreement; bonus points |
-| Water advisory resolved before 0:20 | #15 — Public health authority restored | Montgomery Co/WDBJ7/Shentel build permanent early-warning system; bonus points |
+| Dialysis resolved before 0:15 | #11 — Regional medical transport model | Carilion/EMA/VDOT + **Governor** formalize lasting compact; bonus points |
+| Coal ash stabilized before 0:10 | #12 — Downstream community trust window | DEQ/AEP/Governor + **Montgomery Co PH** sign monitoring compact with community; bonus points |
+| MOUD stabilized before 0:20 | #13 — Recovery community mobilizes as asset | United Way/Faith/Supply Chain + **Carilion** formalize peer navigator program; bonus points |
+| Respiratory identified before 0:25 | #14 — Voluntary mine restart protocol | VT/Biosecurity/Sheriff + **DEQ** broker monitoring agreement; bonus points |
+| Water advisory resolved before 0:20 | #15 — Public health authority restored | Montgomery Co/WDBJ7/Shentel + **Governor** build permanent early-warning system; bonus points |
 
 ---
 
