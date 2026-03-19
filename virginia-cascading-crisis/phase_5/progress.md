@@ -456,3 +456,112 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 
 - `jasper_phase5_attempt_2.md`
 - `yosemite_phase5_attempt_2.md`
+
+## Update Cycle 5 (sim_time 0:39-0:43)
+
+**Processed at:** 2026-03-19 13:23 EDT (sim_time 0:47)
+
+### Submissions Processed
+
+#### Arches (Carilion Health System Crisis Command) — attempt 3, submitted 17:17 UTC (sim_time 0:41)
+- **Incident addressed:** Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken:**
+  - A3 Mobile Dialysis Unit Deployment ($300K) — not credited and not charged because Governor authorization is still missing
+- **Collaboration claimed:** None
+- **Budget:** **$11.79M**
+- **Trust:** remains **19**
+- **Score:** remains **38**
+- **Note:** This follow-up shows continued Carilion interest in expanding dialysis capacity, but without the required authorization it does not change the live response state.
+
+#### Shenandoah (Montgomery County Public Health Authority) — attempt 2, submitted 17:15 UTC (sim_time 0:39)
+- **Incident addressed:** Water Advisory Lifted — Public Health Authority Restored
+- **Actions taken:**
+  - A9 Precautionary Do-Not-Use Water Advisory ($0) — already credited in attempt 1, so not charged again
+- **Collaboration claimed:** Yellowstone and Acadia
+  - No new bilateral confirmation established in this attempt
+- **Budget:** **$12.7M**
+- **Trust:** remains **19**
+- **Score:** remains **100**
+- **Note:** Shenandoah's follow-up points toward lifting the advisory and explaining the precautionary decision, but it does not add a new creditable action beyond the already-logged advisory.
+
+#### Denali (VDOT Medical Transport & Supply Routes) — attempt 2, submitted 17:17 UTC (sim_time 0:42)
+- **Incident addressed:** Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken:**
+  - A2 Emergency Patient Transport Network ($150K) — duplicate of attempt 1, so not charged again
+  - A33 Emergency Medical Corridor & Fuel Priority ($75K) — duplicate of attempt 1, so not charged again
+- **Collaboration claimed:** Carilion
+  - No new bilateral confirmation established in this attempt
+- **Budget:** **$6.035M**
+- **Trust:** remains **20**
+- **Score:** remains **38**
+- **Note:** Denali reinforced transport and corridor work already on the books, but this repeat submission does not change the live dialysis response.
+
+#### Olympic (Regional Medical & Food Supply Chain) — attempt 2, submitted 17:19 UTC (sim_time 0:43)
+- **Incident addressed:** Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0) — duplicate of attempt 1, so not charged again
+  - A10 Emergency Bottled Water Distribution ($200K) — valid new action
+- **Collaboration claimed:** SW Virginia Mass Coalition
+  - Not bilaterally confirmed in the processed reports
+- **Budget:** $13.075M - $200K = **$12.875M**
+- **Trust:** 16 + 1 (A10) = **17**
+- **Score:** remains **100**
+- **Note:** Olympic materially advanced emergency water distribution for the coal-ash response, but the arc still needs the formal public advisory and broader state/environmental coordination.
+
+#### Yellowstone (WDBJ7 Health & Environmental Coverage) — attempt 2, submitted 17:18 UTC (sim_time 0:42)
+- **Incident addressed:** Water Advisory Lifted — Public Health Authority Restored
+- **Actions taken:**
+  - A29 Environmental Health Transparency Update ($20K) — already credited in attempt 1, so not charged again
+- **Collaboration claimed:** Shenandoah, Yoho, and Banff
+  - No new bilateral confirmation established in this attempt
+- **Budget:** **$9.745M**
+- **Trust:** remains **20**
+- **Score:** remains **80**
+- **Note:** Yellowstone reinforced the public-communication side of the water response, but this attempt does not add new chargeable work.
+
+### Non-Submitting Team Penalties
+
+- None. All teams had already submitted before this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|--------|--------|--------|
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | stays **partially_resolved** | Olympic added bottled-water distribution, strengthening community protection, but the formal advisory and full state/environmental coordination are still missing |
+
+### Open Incidents Remaining (as of 0:47)
+
+| Incident | State | Key Gap |
+|---|--------|---------|
+| Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Governor public briefing response, formal EMA declaration, stronger VDOT corridor documentation |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | DEQ downstream advisory, Governor/EPA coordination, full cross-agency closure |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Biosecurity written no-escalation statement, negotiated monitoring agreement, DEQ regulatory co-sign |
+| Water Advisory Lifted — Public Health Authority Restored | open | Advisory withdrawal, public explanation, permanent SMS channel, Governor funding endorsement |
+
+### Leaderboard After Cycle 5
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 18 | 100 |
+| 1 | Olympic | Regional Medical & Food Supply Chain | $12.875M | 17 | 100 |
+| 1 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 1 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 5 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 5 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 5 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 5 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 5 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 10 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 11 | Arches | Carilion Health System Crisis Command | $11.79M | 19 | 38 |
+| 11 | Banff | Governor's Health Emergency Coordinator | $4.585M | 23 | 38 |
+| 11 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 14 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 18 | 0 |
+| 14 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `arches_phase5_attempt_3.md`
+- `shenandoah_phase5_attempt_2.md`
+- `denali_phase5_attempt_2.md`
+- `olympic_phase5_attempt_2.md`
+- `yellowstone_phase5_attempt_2.md`
