@@ -652,3 +652,96 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 - `banff_phase5_attempt_2.md`
 - `banff_phase5_attempt_3.md`
 - `yoho_phase5_attempt_2.md`
+
+## Update Cycle 7 (sim_time 0:52-0:53)
+
+**Processed at:** 2026-03-19 13:33 EDT (sim_time 0:57)
+
+### Submissions Processed
+
+#### Arches (Carilion Health System Crisis Command) — attempt 4, submitted 17:28 UTC (sim_time 0:52)
+- **Incident addressed:** Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken:**
+  - A4 Hospital Mutual Aid Activation ($0) — duplicate of earlier Arches attempts, so not charged again
+  - A2 Emergency Patient Transport Network ($150K) — duplicate of earlier Arches attempts, so not charged again
+  - A1 Intelligence Sharing ($0) — valid new action
+- **Collaboration claimed:** Banff, Glacier, and Denali
+  - Banff confirmation is new and applied
+  - Glacier confirmation is new and applied
+  - Denali was already confirmed in earlier processing, so not counted again
+- **Budget:** **$11.79M**
+- **Trust:** 19 + 1 (A1) + 1 (Banff confirmation) + 1 (Glacier confirmation) = **22**
+- **Score:** remains **38**
+- **Note:** Arches broadened the documented dialysis coordination picture, but the federal-inquiry response still lacks the remaining declaration and briefing requirements.
+
+#### Jasper (Public Health Biosecurity Coordinator) — attempt 3, submitted 17:28 UTC (sim_time 0:52)
+- **Incident addressed:** Respiratory Cluster Identified — Mine Restart Protocol Opportunity
+- **Actions taken:**
+  - A23 Biosecurity Incident Assessment ($0) — duplicate of attempt 1, so not charged again
+  - A21 CDC Emergency Consultation Request ($0) — duplicate of attempt 2, so not charged again
+  - Proposed precautionary public health advisory — not approved or credited here
+- **Collaboration claimed:** Acadia
+  - No new bilateral confirmation established in the processed reports
+- **Budget:** **$8.975M**
+- **Trust:** remains **18**
+- **Score:** remains **100**
+- **Note:** Jasper repeated earlier respiratory follow-up work, but this attempt does not add a new credited step toward closing the open respiratory opportunity.
+
+#### Zion (AEP Power Grid & Environmental Systems) — attempt 2, submitted 17:27 UTC (sim_time 0:52)
+- **Incident addressed:** Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0) — duplicate of attempt 1, so not charged again
+  - A7 Coal Ash Emergency Stabilization ($500K) — reported, but not newly credited in this attempt because no transfer or independently verified funding record was documented here
+- **Collaboration claimed:** Acadia and Banff
+  - No new bilateral confirmation established in the processed reports
+- **Budget:** **$0.06M**
+- **Trust:** remains **25**
+- **Score:** remains **50**
+- **Note:** Zion reported additional stabilization coordination, but this follow-up does not yet independently satisfy the remaining utility-support gap in the coal-ash response.
+
+### Non-Submitting Team Penalties
+
+- None. All teams had already submitted before this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|--------|--------|--------|
+| Dialysis Fatalities — Federal Inquiry Opened | stays **partially_resolved** | Arches added a fresh coordination update and newly confirmed links with the Governor and EMA sides, but the remaining declaration and briefing requirements are still open |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | stays **open** | Jasper repeated already-credited assessment/CDC work and still did not provide the required written no-escalation statement |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | stays **partially_resolved** | Zion reported more stabilization work, but this attempt still does not independently close the remaining utility-support requirement |
+
+### Open Incidents Remaining (as of 0:57)
+
+| Incident | State | Key Gap |
+|---|--------|---------|
+| Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Full Governor public statement/briefing package, formal EMA declaration, stronger VDOT corridor documentation |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | Clear AEP backup-power / distribution-staging support |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Biosecurity written no-escalation statement, negotiated monitoring agreement, DEQ regulatory co-sign |
+| Water Advisory Lifted — Public Health Authority Restored | open | Advisory withdrawal, public explanation, permanent SMS channel, Governor funding endorsement |
+
+### Leaderboard After Cycle 7
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 18 | 100 |
+| 1 | Olympic | Regional Medical & Food Supply Chain | $12.875M | 17 | 100 |
+| 1 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 1 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 5 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 5 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 5 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 5 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 5 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 10 | Banff | Governor's Health Emergency Coordinator | $4.585M | 25 | 76 |
+| 11 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 12 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 19 | 50 |
+| 13 | Arches | Carilion Health System Crisis Command | $11.79M | 22 | 38 |
+| 14 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 15 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `arches_phase5_attempt_4.md`
+- `jasper_phase5_attempt_3.md`
+- `zion_phase5_attempt_2.md`
