@@ -256,3 +256,129 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 - `redwood_phase5_attempt_1.md`
 - `yellowstone_phase5_attempt_1.md`
 - `yoho_phase5_attempt_1.md`
+
+## Update Cycle 3 (sim_time 0:19-0:29)
+
+**Processed at:** 2026-03-19 13:10 EDT (sim_time 0:29)
+
+### Submissions Processed
+
+#### Zion (AEP Power Grid & Environmental Systems) — attempt 1, submitted 16:56 UTC (sim_time 0:20)
+- **Incidents addressed:** #2 Coal Ash Pond Structural Failure Risk (already escalated) and #7 Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - Custom temporary containment package — **approved with modification** at **$120K** for site access, crews, and limited short-term stabilization support
+- **Collaboration claimed:** Acadia (DEQ)
+  - Acadia confirms site-access / stabilization planning ✓
+- **Budget:** $0.18M - $120K = **$0.06M**
+- **Trust:** 22 + 1 (A1) + 1 (creative feasible custom action) + 1 (confirmed collaboration) = **25**
+- **Score:** 0 + 50 = **50**
+- **Note:** Helpful for inject #7, but still not a full AEP/DEQ/Supply Chain closure of the coal-ash escalation arc.
+
+#### Glacier (SW Virginia Mass Casualty Coordination) — attempt 1, submitted 16:57 UTC (sim_time 0:21)
+- **Incident addressed:** #6 Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A2 Emergency Patient Transport Network ($150K)
+  - A33 Emergency Medical Corridor & Fuel Priority ($75K)
+- **Collaboration claimed:** Shentel, Carilion, VDOT
+  - None are bilaterally confirmed on the specific Glacier claim set
+- **Budget:** $47.4M - $150K - $75K = **$47.175M**
+- **Trust:** 15 + 1 (A1) + 1 (A2) - 1 (late response after dialysis deadline) = **16**
+- **Score:** remains **0**
+- **Note:** Useful logistics support, but no formal EMA mass-casualty declaration or interstate mutual aid activation was documented.
+
+#### Yosemite (SW Virginia Sheriff's Environmental Crime Unit) — attempt 1, submitted 16:58 UTC (sim_time 0:22)
+- **Incident addressed:** #4 Respiratory Illness Cluster — Unknown Cause
+- **Actions taken:**
+  - A24 Emergency Environmental Enforcement ($0, using reported Governor approval)
+  - A1 Intelligence Sharing ($0)
+- **Collaboration claimed:** Jasper and Sequoia
+  - Sequoia confirms collaboration ✓
+  - Jasper does not confirm
+- **Budget:** **$4.17M**
+- **Trust:** 17 + 1 (A24) + 1 (A1) + 1 (confirmed Sequoia collaboration) = **20**
+- **Score:** 0 + 80 = **80**
+- **Note:** Yosemite completed the missing Sheriff's clause before the 0:25 deadline, resolving inject #4 and opening success inject #14. Escalation inject #8 remains hidden.
+
+#### Arches (Carilion Health System Crisis Command) — attempts 1 and 2, submitted 16:59 UTC and 17:01 UTC (sim_time 0:24 and 0:25)
+- **Incidents addressed:** #1 Rural Dialysis Crisis (already escalated) and #6 Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken across both attempts, deduped:**
+  - A4 Hospital Mutual Aid Activation ($0)
+  - A2 Emergency Patient Transport Network ($150K)
+  - A3 Mobile Dialysis Unit Deployment **not credited / not charged** pending Governor approval
+  - A28 Rural Pharmacy Emergency Supply Depots from attempt 2 **not credited / not charged** to a current open arc in this cycle
+- **Collaboration claimed:** Denali (confirmed), Regional Medical & Food Supply Chain (not applied here)
+  - Denali confirms dialysis transport coordination ✓
+- **Budget:** $11.94M - $150K = **$11.79M**
+- **Trust:** 16 + 1 (A4) + 1 (A2) + 1 (confirmed Denali collaboration) = **19**
+- **Score:** 0 + 38 = **38**
+- **Note:** Arches materially improved the Carilion side of inject #6, but the federal-inquiry arc still lacks the Governor clause, the formal EMA declaration clause, and a fully documented VDOT two-corridor clause.
+
+#### Bryce (Appalachian Faith Network Community Health) — attempt 1, submitted 17:04 UTC (sim_time 0:28)
+- **Incident addressed:** #3 Opioid Surge & MOUD Medication Crisis
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A16 Community Health Navigator Network ($80K)
+  - A26 Vulnerable Population Health Outreach ($60K)
+  - Custom Faith Network Peer Support & Harm Reduction Outreach — **approved with modification** at **$60K**
+  - Custom MOUD Patient Phone Hotline — **denied** ($0)
+- **Collaboration claimed:** Redwood and Olympic
+  - Redwood confirms ✓
+  - Olympic confirms ✓
+- **Budget:** $39.18M - $80K - $60K - $60K = **$38.98M**
+- **Trust:** raw positive changes exceed the per-cycle cap, so trust gain is capped at **+3** → **14**
+- **Score:** 0 + 80 = **80**
+- **Note:** Bryce's late faith-network response resolves inject #3, but because the full arc was not resolved before 0:20, success inject #13 remains hidden.
+
+### Non-Submitting Team Penalties
+
+- None. All 15 Phase 5 teams have now submitted at least one response.
+
+### Inject State Changes
+
+| Inject | Change | Reason |
+|--------|--------|--------|
+| #3 Opioid Surge & MOUD Medication Crisis | partially_resolved -> **resolved** | Bryce's late faith-network response completed the final missing clause; success inject #13 stays hidden because completion was after 0:20 |
+| #4 Respiratory Illness Cluster — Unknown Cause | partially_resolved -> **resolved** | Yosemite completed the Sheriff's clause before the 0:25 deadline |
+| #14 Respiratory Cluster Identified — Mine Restart Protocol Opportunity | hidden -> **open** | Success trigger unlocked because inject #4 was fully resolved before 0:25 |
+| #6 Dialysis Fatalities — Federal Inquiry Opened | stays **partially_resolved** | Glacier and Arches improved transport / mutual-aid coverage, but Governor + formal EMA declaration requirements remain missing |
+| #7 Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | stays **partially_resolved** | Zion added meaningful AEP site support and temporary containment, but downstream advisory and bottled-water logistics are still absent |
+
+### Open Injects Remaining (as of 0:29)
+
+| # | Inject | State | Key Gap |
+|---|--------|-------|---------|
+| 6 | Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Governor public briefing response, formal EMA declaration, stronger VDOT corridor documentation |
+| 7 | Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | DEQ downstream advisory, bottled-water staging, full cross-agency closure |
+| 14 | Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Success follow-on unlocked |
+| 15 | Water Advisory Lifted — Public Health Authority Restored | open | Success follow-on already unlocked |
+
+### Leaderboard After Cycle 3
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 17 | 100 |
+| 1 | Olympic | Regional Medical & Food Supply Chain | $13.075M | 16 | 100 |
+| 1 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 1 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 5 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 5 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 5 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 5 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 5 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 10 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 11 | Arches | Carilion Health System Crisis Command | $11.79M | 19 | 38 |
+| 11 | Banff | Governor's Health Emergency Coordinator | $4.585M | 23 | 38 |
+| 11 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 14 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 18 | 0 |
+| 14 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `arches_phase5_attempt_1.md`
+- `arches_phase5_attempt_2.md`
+- `bryce_phase5_attempt_1.md`
+- `glacier_phase5_attempt_1.md`
+- `yosemite_phase5_attempt_1.md`
+- `zion_phase5_attempt_1.md`

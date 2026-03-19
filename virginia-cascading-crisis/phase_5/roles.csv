@@ -1,16 +1,16 @@
 team,role,sector,budget,trust,score
-Acadia,VA DEQ Emergency Environmental Response,Environmental,$16.2M,16,0
-Arches,Carilion Health System Crisis Command,Healthcare,$11.94M,16,0
-Banff,Governor's Health Emergency Coordinator,State Executive,$4.585M,22,38
-Bryce,Appalachian Faith Network Community Health,Community/Faith,$39.18M,11,0
-Denali,VDOT Medical Transport & Supply Routes,Transportation,$6.035M,19,38
-Glacier,SW Virginia Mass Casualty Coordination,Emergency Mgmt,$47.4M,15,0
+Acadia,VA DEQ Emergency Environmental Response,Environmental,$16.2M,18,0
+Arches,Carilion Health System Crisis Command,Healthcare,$11.79M,19,38
+Banff,Governor's Health Emergency Coordinator,State Executive,$4.585M,23,38
+Bryce,Appalachian Faith Network Community Health,Community/Faith,$38.98M,14,80
+Denali,VDOT Medical Transport & Supply Routes,Transportation,$6.035M,20,38
+Glacier,SW Virginia Mass Casualty Coordination,Emergency Mgmt,$47.175M,16,0
 Jasper,Public Health Biosecurity Coordinator,Federal Cyber,$8.975M,17,100
-Olympic,Regional Medical & Food Supply Chain,Business/Supply,$13.075M,15,100
-Redwood,United Way Health Navigation Services,Humanitarian NGO,$23.255M,27,50
-Sequoia,Virginia Tech Environmental Health Research,Academic/Research,$1.63M,17,100
+Olympic,Regional Medical & Food Supply Chain,Business/Supply,$13.075M,16,100
+Redwood,United Way Health Navigation Services,Humanitarian NGO,$23.255M,28,80
+Sequoia,Virginia Tech Environmental Health Research,Academic/Research,$1.63M,18,100
 Shenandoah,Montgomery County Public Health Authority,Local Government,$12.7M,19,100
 Yellowstone,WDBJ7 Health & Environmental Coverage,Media,$9.745M,20,80
 Yoho,Shentel Emergency Health Communications,Telecommunications,$6.42M,19,80
-Yosemite,SW Virginia Sheriff's Environmental Crime Unit,Law Enforcement,$4.17M,17,0
-Zion,AEP Power Grid & Environmental Systems,Energy/Utilities,$0.18M,22,0
+Yosemite,SW Virginia Sheriff's Environmental Crime Unit,Law Enforcement,$4.17M,20,80
+Zion,AEP Power Grid & Environmental Systems,Energy/Utilities,$0.06M,25,50
