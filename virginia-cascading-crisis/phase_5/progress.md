@@ -565,3 +565,90 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 - `denali_phase5_attempt_2.md`
 - `olympic_phase5_attempt_2.md`
 - `yellowstone_phase5_attempt_2.md`
+
+## Update Cycle 6 (sim_time 0:46-0:49)
+
+**Processed at:** 2026-03-19 13:30 EDT (sim_time 0:54)
+
+### Submissions Processed
+
+#### Acadia (VA DEQ Emergency Environmental Response) — attempt 2, submitted 17:25 UTC (sim_time 0:49)
+- **Incident addressed:** Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory
+- **Actions taken:**
+  - A9 Precautionary Do-Not-Use Water Advisory ($0) — valid new action for Acadia
+- **Collaboration claimed:** None
+- **Budget:** **$16.2M**
+- **Trust:** 18 + 1 (A9) = **19**
+- **Score:** 0 + 50 = **50**
+- **Note:** Acadia closed the environmental-health messaging gap with the correct do-not-use guidance for the coal-ash contamination response.
+
+#### Banff (Governor's Health Emergency Coordinator) — attempts 2 and 3, submitted 17:24 UTC and 17:24 UTC (sim_time 0:48)
+- **Incidents addressed:** Dialysis Fatalities — Federal Inquiry Opened; Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory
+- **Actions taken across both attempts, deduped:**
+  - A12 Public Health Emergency Declaration ($0) — valid new action
+  - EPA notification custom follow-up ($0) — approved as a reasonable Governor liaison action for the coal-ash emergency
+- **Collaboration claimed:** Carilion and AEP in attempt 2
+  - No new bilateral confirmation established in the processed reports
+- **Budget:** **$4.585M**
+- **Trust:** 23 + 1 (A12) + 1 (EPA notification follow-up) = **25**
+- **Score:** 38 + 38 = **76**
+- **Note:** Banff strengthened governor-side coordination on both the dialysis and coal-ash tracks, but neither incident is fully closed yet because the remaining agency requirements are still incomplete.
+
+#### Yoho (Shentel Emergency Health Communications) — attempt 2, submitted 17:22 UTC (sim_time 0:46)
+- **Incident addressed:** Water Advisory Lifted — Public Health Authority Restored
+- **Actions taken:**
+  - A31 Emergency Mass Notification & Public Health Hotline ($50K) — duplicate of attempt 1, so not charged again
+  - A6 Telehealth Emergency Bandwidth Expansion ($0) — does not advance a currently active incident
+- **Collaboration claimed:** Yellowstone
+  - Already confirmed in earlier processing; no new change
+- **Budget:** **$6.42M**
+- **Trust:** remains **19**
+- **Score:** remains **80**
+- **Note:** Yoho reiterated the hotline posture and added bandwidth support, but this follow-up does not add a new credited action for the current open incidents.
+
+### Non-Submitting Team Penalties
+
+- None. All teams had already submitted before this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|--------|--------|--------|
+| Dialysis Fatalities — Federal Inquiry Opened | stays **partially_resolved** | Banff added a public health emergency declaration, but the full Governor package, EMA declaration, and stronger transport documentation are still missing |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | stays **partially_resolved** | Acadia added the formal do-not-use advisory and Banff added EPA notification, but the remaining utility support requirement is still not clearly satisfied |
+
+### Open Incidents Remaining (as of 0:54)
+
+| Incident | State | Key Gap |
+|---|--------|---------|
+| Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Full Governor public statement/briefing package, formal EMA declaration, stronger VDOT corridor documentation |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | Clear AEP backup-power / distribution-staging support |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Biosecurity written no-escalation statement, negotiated monitoring agreement, DEQ regulatory co-sign |
+| Water Advisory Lifted — Public Health Authority Restored | open | Advisory withdrawal, public explanation, permanent SMS channel, Governor funding endorsement |
+
+### Leaderboard After Cycle 6
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 18 | 100 |
+| 1 | Olympic | Regional Medical & Food Supply Chain | $12.875M | 17 | 100 |
+| 1 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 1 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 5 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 5 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 5 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 5 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 5 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 10 | Banff | Governor's Health Emergency Coordinator | $4.585M | 25 | 76 |
+| 11 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 19 | 50 |
+| 12 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 13 | Arches | Carilion Health System Crisis Command | $11.79M | 19 | 38 |
+| 13 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 15 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `acadia_phase5_attempt_2.md`
+- `banff_phase5_attempt_2.md`
+- `banff_phase5_attempt_3.md`
+- `yoho_phase5_attempt_2.md`
