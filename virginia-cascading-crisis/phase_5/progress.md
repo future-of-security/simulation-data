@@ -382,3 +382,77 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 - `glacier_phase5_attempt_1.md`
 - `yosemite_phase5_attempt_1.md`
 - `zion_phase5_attempt_1.md`
+
+## Update Cycle 4 (sim_time 0:37-0:39)
+
+**Processed at:** 2026-03-19 13:18 EDT (sim_time 0:42)
+
+### Submissions Processed
+
+#### Jasper (Public Health Biosecurity Coordinator) — attempt 2, submitted 17:13 UTC (sim_time 0:37)
+- **Incident addressed:** #14 Respiratory Cluster Identified — Mine Restart Protocol Opportunity
+- **Actions taken:**
+  - A23 Biosecurity Incident Assessment ($0) — already credited in attempt 1, so not charged again
+  - A21 CDC Emergency Consultation Request ($0) — valid new coordination step
+- **Collaboration claimed:** None
+- **Budget:** **$8.975M**
+- **Trust:** 17 + 1 (A21) = **18**
+- **Score:** remains **100**
+- **Note:** A21 usefully expands federal consultation, but Jasper still has not issued the written no-escalation statement required to advance inject #14.
+
+#### Yosemite (SW Virginia Sheriff's Environmental Crime Unit) — attempt 2, submitted 17:14 UTC (sim_time 0:38)
+- **Incident addressed:** #14 Respiratory Cluster Identified — Mine Restart Protocol Opportunity
+- **Actions taken:**
+  - A24 Emergency Environmental Enforcement ($0) — duplicate of attempt 1, so not charged again
+  - A1 Intelligence Sharing ($0) — duplicate of attempt 1, so not charged again
+- **Collaboration claimed:** Jasper and Sequoia
+  - Sequoia collaboration was already confirmed in attempt 1
+  - Jasper still does not bilaterally confirm Yosemite's collaboration claim
+- **Budget:** **$4.17M**
+- **Trust:** remains **20**
+- **Score:** remains **80**
+- **Note:** This is a duplicate respiratory follow-up submission and does not change inject state, budget, trust, or score.
+
+### Non-Submitting Team Penalties
+
+- None. All 15 Phase 5 teams had already submitted before this cycle.
+
+### Inject State Changes
+
+| Inject | Change | Reason |
+|--------|--------|--------|
+| #14 Respiratory Cluster Identified — Mine Restart Protocol Opportunity | stays **open** | Jasper added A21 as a useful follow-up step, but the required written no-escalation statement is still missing; Yosemite attempt 2 was a duplicate |
+
+### Open Injects Remaining (as of 0:42)
+
+| # | Inject | State | Key Gap |
+|---|--------|-------|---------|
+| 6 | Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Governor public briefing response, formal EMA declaration, stronger VDOT corridor documentation |
+| 7 | Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | DEQ downstream advisory, bottled-water staging, full cross-agency closure |
+| 14 | Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Biosecurity written no-escalation statement, negotiated monitoring agreement, DEQ regulatory co-sign |
+| 15 | Water Advisory Lifted — Public Health Authority Restored | open | Advisory withdrawal, media trust restoration, permanent SMS channel, Governor funding endorsement |
+
+### Leaderboard After Cycle 4
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 18 | 100 |
+| 1 | Olympic | Regional Medical & Food Supply Chain | $13.075M | 16 | 100 |
+| 1 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 1 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 5 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 5 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 5 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 5 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 5 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 10 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 11 | Arches | Carilion Health System Crisis Command | $11.79M | 19 | 38 |
+| 11 | Banff | Governor's Health Emergency Coordinator | $4.585M | 23 | 38 |
+| 11 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 14 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 18 | 0 |
+| 14 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `jasper_phase5_attempt_2.md`
+- `yosemite_phase5_attempt_2.md`
