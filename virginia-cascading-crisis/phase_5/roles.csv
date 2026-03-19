@@ -1,16 +1,16 @@
 team,role,sector,budget,trust,score
-Acadia,VA DEQ Emergency Environmental Response,Environmental,$16.7M,16,0
-Arches,Carilion Health System Crisis Command,Healthcare,$11.94M,18,0
-Banff,Governor's Health Emergency Coordinator,State Executive,$4.585M,23,0
-Bryce,Appalachian Faith Network Community Health,Community/Faith,$39.18M,13,0
-Denali,VDOT Medical Transport & Supply Routes,Transportation,$6.26M,19,0
-Glacier,SW Virginia Mass Casualty Coordination,Emergency Mgmt,$47.4M,17,0
-Jasper,Public Health Biosecurity Coordinator,Federal Cyber,$8.975M,17,0
-Olympic,Regional Medical & Food Supply Chain,Business/Supply,$13.255M,14,0
-Redwood,United Way Health Navigation Services,Humanitarian NGO,$23.355M,26,0
-Sequoia,Virginia Tech Environmental Health Research,Academic/Research,$1.75M,16,0
-Shenandoah,Montgomery County Public Health Authority,Local Government,$12.7M,16,0
-Yellowstone,WDBJ7 Health & Environmental Coverage,Media,$9.815M,18,0
-Yoho,Shentel Emergency Health Communications,Telecommunications,$6.47M,18,0
-Yosemite,SW Virginia Sheriff's Environmental Crime Unit,Law Enforcement,$4.17M,19,0
-Zion,AEP Power Grid & Environmental Systems,Energy/Utilities,$0.18M,24,0
+Acadia,VA DEQ Emergency Environmental Response,Environmental,$16.7M,15,0
+Arches,Carilion Health System Crisis Command,Healthcare,$11.94M,17,0
+Banff,Governor's Health Emergency Coordinator,State Executive,$4.585M,22,0
+Bryce,Appalachian Faith Network Community Health,Community/Faith,$39.18M,12,0
+Denali,VDOT Medical Transport & Supply Routes,Transportation,$6.26M,18,0
+Glacier,SW Virginia Mass Casualty Coordination,Emergency Mgmt,$47.4M,16,0
+Jasper,Public Health Biosecurity Coordinator,Federal Cyber,$8.975M,17,100
+Olympic,Regional Medical & Food Supply Chain,Business/Supply,$13.255M,13,0
+Redwood,United Way Health Navigation Services,Humanitarian NGO,$23.355M,25,0
+Sequoia,Virginia Tech Environmental Health Research,Academic/Research,$1.63M,17,100
+Shenandoah,Montgomery County Public Health Authority,Local Government,$12.7M,18,100
+Yellowstone,WDBJ7 Health & Environmental Coverage,Media,$9.815M,17,0
+Yoho,Shentel Emergency Health Communications,Telecommunications,$6.47M,17,0
+Yosemite,SW Virginia Sheriff's Environmental Crime Unit,Law Enforcement,$4.17M,18,0
+Zion,AEP Power Grid & Environmental Systems,Energy/Utilities,$0.18M,23,0
