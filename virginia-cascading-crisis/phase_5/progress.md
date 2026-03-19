@@ -745,3 +745,92 @@ Teams still without a Phase 5 submission by the end of Cycle 2 and with visible 
 - `arches_phase5_attempt_4.md`
 - `jasper_phase5_attempt_3.md`
 - `zion_phase5_attempt_2.md`
+
+## Update Cycle 8 (sim_time 0:57-1:03)
+
+**Processed at:** 2026-03-19 13:41 EDT (sim_time 1:05)
+
+### Submissions Processed
+
+#### Arches (Carilion Health System Crisis Command) — attempt 5, submitted 17:38 UTC (sim_time 1:03)
+- **Incident addressed:** Dialysis Fatalities — Federal Inquiry Opened
+- **Actions taken:**
+  - A4 Hospital Mutual Aid Activation ($0) — duplicate of earlier Arches attempts, so not charged again
+  - A2 Emergency Patient Transport Network ($150K) — duplicate of earlier Arches attempts, so not charged again
+  - A1 Intelligence Sharing ($0) — duplicate of attempt 4, so not charged again
+  - Legal response protocol and mobile dialysis request remain proposed only
+- **Collaboration claimed:** Governor, EMA, and VDOT sides
+  - No new bilateral confirmation established in this attempt
+- **Budget:** **$11.79M**
+- **Trust:** remains **22**
+- **Score:** remains **38**
+- **Note:** Arches repeated the dialysis coordination package, but this attempt does not add new credited work beyond what was already logged.
+
+#### Banff (Governor's Health Emergency Coordinator) — attempt 4, submitted 17:33 UTC (sim_time 0:58)
+- **Incident addressed:** Water Advisory Lifted — Public Health Authority Restored
+- **Actions taken:**
+  - Custom state funding commitment for permanent early-warning infrastructure — **approved** at **$250K**
+- **Collaboration claimed:** None
+- **Budget:** $4.585M - $250K = **$4.335M**
+- **Trust:** 25 + 1 (credible Governor funding follow-up) = **26**
+- **Score:** 76 + 31 = **107**
+- **Note:** Banff materially advanced the water-recovery follow-up by committing state funding for long-term early-warning infrastructure, but the broader recovery package is still incomplete.
+
+#### Yosemite (SW Virginia Sheriff's Environmental Crime Unit) — attempt 3, submitted 17:33 UTC (sim_time 0:57)
+- **Incident addressed:** Respiratory Cluster Identified — Mine Restart Protocol Opportunity
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0) — duplicate of attempt 1, so not charged again
+  - Negotiation with mine operators custom action remains proposed only
+- **Collaboration claimed:** Jasper, Sequoia, and Acadia
+  - No new bilateral confirmation established in the processed reports
+- **Budget:** **$4.17M**
+- **Trust:** remains **20**
+- **Score:** remains **80**
+- **Note:** Yosemite revisited the mine-restart track, but without a signed agreement or new regulator confirmation this attempt does not change the open respiratory opportunity.
+
+### Non-Submitting Team Penalties
+
+- None. All teams had already submitted before this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|--------|--------|--------|
+| Dialysis Fatalities — Federal Inquiry Opened | stays **partially_resolved** | Arches repeated already-credited coordination work and did not add new confirmed steps |
+| Water Advisory Lifted — Public Health Authority Restored | stays **open** | Banff added the Governor funding commitment, but the public explanation, media trust-restoration, and permanent SMS-channel components are still incomplete |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | stays **open** | Yosemite repeated information-sharing and proposed negotiation work, but still did not produce a signed agreement or new cross-team confirmation |
+
+### Open Incidents Remaining (as of 1:05)
+
+| Incident | State | Key Gap |
+|---|--------|---------|
+| Dialysis Fatalities — Federal Inquiry Opened | partially_resolved | Full Governor public statement/briefing package, formal EMA declaration, stronger VDOT corridor documentation |
+| Coal Ash Seepage Confirmed — Mandatory Do-Not-Use Advisory | partially_resolved | Clear AEP backup-power / distribution-staging support |
+| Respiratory Cluster Identified — Mine Restart Protocol Opportunity | open | Biosecurity written no-escalation statement, negotiated monitoring agreement, DEQ regulatory co-sign |
+| Water Advisory Lifted — Public Health Authority Restored | open | Advisory withdrawal explanation, media trust restoration, permanent SMS channel commitment |
+
+### Leaderboard After Cycle 8
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Banff | Governor's Health Emergency Coordinator | $4.335M | 26 | 107 |
+| 2 | Jasper | Public Health Biosecurity Coordinator | $8.975M | 18 | 100 |
+| 2 | Olympic | Regional Medical & Food Supply Chain | $12.875M | 17 | 100 |
+| 2 | Sequoia | Virginia Tech Environmental Health Research | $1.63M | 18 | 100 |
+| 2 | Shenandoah | Montgomery County Public Health Authority | $12.7M | 19 | 100 |
+| 6 | Bryce | Appalachian Faith Network Community Health | $38.98M | 14 | 80 |
+| 6 | Redwood | United Way Health Navigation Services | $23.255M | 28 | 80 |
+| 6 | Yellowstone | WDBJ7 Health & Environmental Coverage | $9.745M | 20 | 80 |
+| 6 | Yoho | Shentel Emergency Health Communications | $6.42M | 19 | 80 |
+| 6 | Yosemite | SW Virginia Sheriff's Environmental Crime Unit | $4.17M | 20 | 80 |
+| 11 | Zion | AEP Power Grid & Environmental Systems | $0.06M | 25 | 50 |
+| 12 | Acadia | VA DEQ Emergency Environmental Response | $16.2M | 19 | 50 |
+| 13 | Arches | Carilion Health System Crisis Command | $11.79M | 22 | 38 |
+| 14 | Denali | VDOT Medical Transport & Supply Routes | $6.035M | 20 | 38 |
+| 15 | Glacier | SW Virginia Mass Casualty Coordination | $47.175M | 16 | 0 |
+
+### Files Processed This Cycle
+
+- `arches_phase5_attempt_5.md`
+- `banff_phase5_attempt_4.md`
+- `yosemite_phase5_attempt_3.md`
