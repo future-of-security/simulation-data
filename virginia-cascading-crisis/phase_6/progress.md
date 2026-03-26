@@ -475,3 +475,77 @@ No incident-state changes in this cycle.
 ### Files Processed This Cycle
 
 - `glacier_phase6_attempt_2.md`
+
+## Update Cycle 5 (sim_time 0:37-0:48)
+
+**Processed at:** 2026-03-26 13:21 EDT (sim_time 0:48)
+
+### Submissions Processed
+
+#### Redwood (AEP Grid Modernization & Energy Transition) — attempt 3, submitted 17:16 UTC (sim_time 0:43)
+- **Incident addressed:** EPA Federal Consent Order Issued — State Loses Remediation Control
+- **Actions taken:** no new catalog actions
+- **Custom action ruling:** consent-order acceptance + community-support timeline package — **approved with modification** at **$0**
+  - This is a reasonable AEP-side commitment and directly fills the missing consent-order acceptance / oversight-timeline clause
+- **Budget:** remains **$39.12M**
+- **Trust:** 9 + 1 = **10**
+- **Score:** 50 + 38 = **88**
+- **Note:** Redwood's new attempt converts its earlier support role into the missing AEP-side compliance commitment for the live EPA arc.
+
+#### Jasper (SW Virginia EMA Long-Term Recovery Committee) — attempt 2, submitted 17:21 UTC (sim_time 0:48)
+- **Incidents addressed:** FEMA Disaster Qualification — Cyber-Cascading Precedent; EPA Federal Consent Order Issued — State Loses Remediation Control
+- **Actions taken:**
+  - A34 Multi-County Impact Assessment ($0) — duplicate/no-op on the already resolved federal arc
+  - A36 Cross-County Community Engagement Coordination ($40K) — valid EMA action for the live EPA arc
+- **Custom action rulings:**
+  - Governor Declaration Draft Cell — **denied** as duplicate/no-op on an already resolved arc
+  - Standardized Public Comment Template (Multi-County) — **folded into A36**, no separate budget charge
+- **Budget:** $10M - $40K = **$9.96M**
+- **Trust:** 8 + 2 (A36) = **10**
+- **Score:** 100 + 38 = **138**
+- **Note:** Jasper's new EMA coordination closes the final open clause on the EPA consent-order arc.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|----------|--------|--------|
+| EPA Federal Consent Order Issued — State Loses Remediation Control | partially_resolved -> **resolved** | Redwood completed the missing AEP consent-order / oversight side and Jasper completed the missing EMA public-comment coordination side |
+
+### Escalation Watch (as of 0:48)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **already resolved late** |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **already resolved late** |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **already resolved late** |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **already resolved late** |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **resolved late at 0:48** |
+
+### Leaderboard After Cycle 5
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Jasper | SW Virginia EMA Long-Term Recovery Committee | $9.96M | 10 | 138 |
+| 2 | Acadia | Appalachian Regional Economic Development | $11.7M | 9 | 100 |
+| 2 | Arches | FEMA Region III Disaster Recovery Coordinator | $15M | 9 | 100 |
+| 2 | Denali | Appalachian Faith & Mutual Aid Network | $1.5M | 24 | 100 |
+| 2 | Olympic | VDOT Infrastructure Reconstruction & Hardening | $14.75M | 11 | 100 |
+| 2 | Sequoia | Montgomery County Recovery & Housing Authority | $11.55M | 11 | 100 |
+| 2 | Shenandoah | SW Virginia Sheriff's Community Safety & Reintegration | $7.65M | 10 | 100 |
+| 2 | Yoho | WDBJ7 Recovery Communications & Accountability | $2.93M | 13 | 100 |
+| 9 | Redwood | AEP Grid Modernization & Energy Transition | $39.12M | 10 | 88 |
+| 10 | Yellowstone | United Way Long-Term Recovery & Case Management | $5.6M | 15 | 67 |
+| 10 | Zion | Shentel Digital Infrastructure & Connectivity | $14.3M | 13 | 67 |
+| 12 | Banff | Carilion Health System Recovery & Legal Affairs | $49.3M | 13 | 50 |
+| 12 | Bryce | Virginia Tech Community Resilience Research | $7.73M | 14 | 38 |
+| 12 | Yosemite | VA DEQ Environmental Remediation & Monitoring | $7.12M | 8 | 38 |
+| 15 | Glacier | Governor's Recovery & Reconstruction Authority | $19.92M | 11 | 0 |
+
+### Files Processed This Cycle
+
+- `jasper_phase6_attempt_2.md`
+- `redwood_phase6_attempt_3.md`
