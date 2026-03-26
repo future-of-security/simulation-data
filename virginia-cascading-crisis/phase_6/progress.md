@@ -325,3 +325,113 @@ Teams with visible severity 4-5 incidents who still did not submit in this cycle
 - `yellowstone_phase6_attempt_1.md`
 - `yosemite_phase6_attempt_1.md`
 - `zion_phase6_attempt_1.md`
+
+## Update Cycle 3 (sim_time 0:24-0:33)
+
+**Processed at:** 2026-03-26 13:09 EDT (sim_time 0:33)
+
+### Submissions Processed
+
+#### Olympic (VDOT Infrastructure Reconstruction & Hardening) — attempt 1, submitted 16:59 UTC (sim_time 0:26)
+- **Incident addressed:** Critical Infrastructure — Rebuild or Transform Decision Window
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A20 Infrastructure Vulnerability Assessment ($100K)
+  - A21 Resilient Infrastructure Standards ($0)
+  - A22 Emergency Medical Corridor Permanence ($150K)
+- **Transfers claimed:** two generic "Government -> VDOT" lines totaling $250K
+  - Not applied; no matching sender report exists
+- **Collaboration claimed:** Zion and Yoho
+  - Yoho later confirms VDOT coordination
+  - Zion does not explicitly confirm Olympic
+- **Budget:** $15M - $250K = **$14.75M**
+- **Trust:** 6 + 4 (actions) + 1 (confirmed collaboration) = **11**
+- **Score:** 0 + 100 = **100**
+- **Note:** Olympic completed the VDOT-side infrastructure work late, which helps close the infrastructure arc once Yoho's public-explanation work arrives.
+
+#### Yoho (WDBJ7 Recovery Communications & Accountability) — attempt 1, submitted 17:02 UTC (sim_time 0:29)
+- **Incident addressed:** Critical Infrastructure — Rebuild or Transform Decision Window
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A19 Community Recovery Input Sessions ($40K)
+  - A27 Recovery Transparency Dashboard ($30K)
+- **Transfer claimed:** $70K from WDBJ7 to Shentel/VDOT
+  - Not applied; no paired receiver confirmation
+- **Collaboration claimed:** Zion and Olympic
+  - Both are confirmed by the paired reports
+- **Budget:** $3M - $70K = **$2.93M**
+- **Trust:** 6 + 5 (actions) + 2 (confirmed collaborations) = **13**
+- **Score:** 0 + 100 = **100**
+- **Note:** Yoho completed the public-facing communications side late, which closes the infrastructure arc without unlocking the success follow-on.
+
+#### Shenandoah (SW Virginia Sheriff's Community Safety & Reintegration) — attempt 1, submitted 17:04 UTC (sim_time 0:30)
+- **Incidents addressed:** Economic Displacement — Workforce Crisis in Coal Country; EPA Federal Consent Order Issued — State Loses Remediation Control
+- **Actions taken:**
+  - A13 Workforce Transition Program ($300K)
+  - A29 Mine Site Environmental Security ($0)
+  - A30 Community Safety Transition Plan ($50K)
+- **Collaboration claimed:** Acadia and Sequoia
+  - Both are now confirmed by the earlier paired reports
+- **Budget:** $8M - $350K = **$7.65M**
+- **Trust:** 5 + 3 (actions) + 2 (confirmed collaborations) = **10**
+- **Score:** 0 + 100 = **100**
+- **Note:** Shenandoah's late community-safety work closes the workforce arc and also adds a small supporting step to the live EPA-consent-order path.
+
+#### Denali (Appalachian Faith & Mutual Aid Network) — attempt 2, submitted 17:06 UTC (sim_time 0:33)
+- **Incident addressed:** Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis
+- **Actions taken:** none new from the catalog
+- **Custom action ruling:** Signing On with Other Faith-Based Organizations — **approved** at **$100K**
+  - Feasible for the Faith Network, directly targeted at the missing community-health compact requirement
+- **Collaboration claimed:** Banff and Yellowstone
+  - Already supported by the earlier paired reports
+- **Budget:** $1.6M - $100K = **$1.5M**
+- **Trust:** 23 + 1 (approved custom action) = **24**
+- **Score:** 67 + 33 = **100**
+- **Note:** Denali's late custom action completes the missing Faith Network clause and resolves the healthcare accountability arc late.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|----------|--------|--------|
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | partially_resolved -> **resolved** | Denali's approved late custom faith-network compact action completed the missing clause |
+| Economic Displacement — Workforce Crisis in Coal Country | partially_resolved -> **resolved** | Shenandoah completed the missing community-safety side late |
+| Critical Infrastructure — Rebuild or Transform Decision Window | partially_resolved -> **resolved** | Olympic and Yoho completed the missing VDOT and WDBJ7 sides late |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | remains **partially_resolved** | Shenandoah added site-security support, but AEP consent-order acceptance and EMA public-comment coordination are still missing |
+
+### Escalation Watch (as of 0:33)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **resolved late at 0:33** — lawsuit escalation stayed hidden because material response existed before deadline |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **resolved late at 0:30** — out-migration escalation stayed hidden because material response existed before deadline |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **resolved late at 0:29** — comment-window escalation stayed hidden because material response existed before deadline |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **still open/partial** — AEP consent-order acceptance and EMA comment coordination are still outstanding |
+
+### Leaderboard After Cycle 3
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Acadia | Appalachian Regional Economic Development | $11.7M | 9 | 100 |
+| 1 | Arches | FEMA Region III Disaster Recovery Coordinator | $15M | 9 | 100 |
+| 1 | Denali | Appalachian Faith & Mutual Aid Network | $1.5M | 24 | 100 |
+| 1 | Jasper | SW Virginia EMA Long-Term Recovery Committee | $10M | 8 | 100 |
+| 1 | Olympic | VDOT Infrastructure Reconstruction & Hardening | $14.75M | 11 | 100 |
+| 1 | Sequoia | Montgomery County Recovery & Housing Authority | $11.55M | 11 | 100 |
+| 1 | Shenandoah | SW Virginia Sheriff's Community Safety & Reintegration | $7.65M | 10 | 100 |
+| 1 | Yoho | WDBJ7 Recovery Communications & Accountability | $2.93M | 13 | 100 |
+| 9 | Yellowstone | United Way Long-Term Recovery & Case Management | $5.6M | 15 | 67 |
+| 9 | Zion | Shentel Digital Infrastructure & Connectivity | $14.3M | 13 | 67 |
+| 11 | Banff | Carilion Health System Recovery & Legal Affairs | $49.3M | 13 | 50 |
+| 11 | Redwood | AEP Grid Modernization & Energy Transition | $39.12M | 9 | 50 |
+| 13 | (3 teams) | — | — | — | 0 |
+
+### Files Processed This Cycle
+
+- `denali_phase6_attempt_2.md`
+- `olympic_phase6_attempt_1.md`
+- `shenandoah_phase6_attempt_1.md`
+- `yoho_phase6_attempt_1.md`
