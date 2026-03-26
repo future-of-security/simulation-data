@@ -1,16 +1,16 @@
 team,role,sector,budget,trust,score
-Acadia,Appalachian Regional Economic Development,Economic Dev,$12M,6,0
-Arches,FEMA Region III Disaster Recovery Coordinator,Federal Emergency,$15M,6,0
-Banff,Carilion Health System Recovery & Legal Affairs,Healthcare,$50M,7,0
-Bryce,Virginia Tech Community Resilience Research,Academic/Research,$8M,8,0
-Denali,Appalachian Faith & Mutual Aid Network,Community/Faith,$2M,9,0
-Glacier,Governor's Recovery & Reconstruction Authority,State Executive,$20M,6,0
-Jasper,SW Virginia EMA Long-Term Recovery Committee,Emergency Mgmt,$10M,7,0
+Acadia,Appalachian Regional Economic Development,Economic Dev,$11.7M,8,100
+Arches,FEMA Region III Disaster Recovery Coordinator,Federal Emergency,$15M,5,0
+Banff,Carilion Health System Recovery & Legal Affairs,Healthcare,$49.3M,12,50
+Bryce,Virginia Tech Community Resilience Research,Academic/Research,$8M,7,0
+Denali,Appalachian Faith & Mutual Aid Network,Community/Faith,$1.6M,22,67
+Glacier,Governor's Recovery & Reconstruction Authority,State Executive,$20M,5,0
+Jasper,SW Virginia EMA Long-Term Recovery Committee,Emergency Mgmt,$10M,8,100
 Olympic,VDOT Infrastructure Reconstruction & Hardening,Transportation,$15M,6,0
-Redwood,AEP Grid Modernization & Energy Transition,Energy/Utilities,$40M,5,0
-Sequoia,Montgomery County Recovery & Housing Authority,Local Government,$12M,6,0
-Shenandoah,SW Virginia Sheriff's Community Safety & Reintegration,Law Enforcement,$8M,7,0
-Yellowstone,United Way Long-Term Recovery & Case Management,Humanitarian NGO,$6M,8,0
+Redwood,AEP Grid Modernization & Energy Transition,Energy/Utilities,$40M,4,0
+Sequoia,Montgomery County Recovery & Housing Authority,Local Government,$12M,5,0
+Shenandoah,SW Virginia Sheriff's Community Safety & Reintegration,Law Enforcement,$8M,6,0
+Yellowstone,United Way Long-Term Recovery & Case Management,Humanitarian NGO,$6M,7,0
 Yoho,WDBJ7 Recovery Communications & Accountability,Media,$3M,6,0
-Yosemite,VA DEQ Environmental Remediation & Monitoring,Environmental,$8M,5,0
+Yosemite,VA DEQ Environmental Remediation & Monitoring,Environmental,$8M,4,0
 Zion,Shentel Digital Infrastructure & Connectivity,Telecommunications,$15M,5,0
