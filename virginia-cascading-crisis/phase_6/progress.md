@@ -435,3 +435,43 @@ No additional non-submission penalties were applied in this cycle.
 - `olympic_phase6_attempt_1.md`
 - `shenandoah_phase6_attempt_1.md`
 - `yoho_phase6_attempt_1.md`
+
+## Update Cycle 4 (sim_time 0:33-0:37)
+
+**Processed at:** 2026-03-26 13:13 EDT (sim_time 0:37)
+
+### Submissions Processed
+
+#### Glacier (Governor's Recovery & Reconstruction Authority) — attempt 2, submitted 17:10 UTC (sim_time 0:37)
+- **Incident addressed:** FEMA Disaster Qualification — Cyber-Cascading Precedent
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A2 FEMA Preliminary Damage Assessment Filing ($0)
+  - A3 Federal Disaster Declaration Request ($0)
+  - A35 Regional Disaster Recovery Plan ($80K)
+- **Collaboration claimed:** Arches, Jasper, and Yosemite
+  - These claims do not change current scoring because the federal arc was already resolved in the previous cycle
+- **Budget / Trust / Score:** **no incremental change**
+- **Note:** This attempt is a late follow-up on an already resolved arc. It adds a Governor-side declaration line that is consistent with Glacier's role, but it arrives after the federal arc was already closed and does not open or resolve any new incident.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+No incident-state changes in this cycle.
+
+### Escalation Watch (as of 0:37)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **already resolved late** |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **already resolved late** |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **already resolved late** |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **already resolved late** |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **still open/partial** — AEP consent-order acceptance and EMA public-comment coordination are still outstanding |
+
+### Files Processed This Cycle
+
+- `glacier_phase6_attempt_2.md`
