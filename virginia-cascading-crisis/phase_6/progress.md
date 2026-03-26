@@ -143,3 +143,185 @@ Teams with visible severity 4-5 incidents who did not submit in this cycle recei
 - `banff_phase6_attempt_1.md`
 - `denali_phase6_attempt_1.md`
 - `jasper_phase6_attempt_1.md`
+
+## Update Cycle 2 (sim_time 0:12-0:24)
+
+**Processed at:** 2026-03-26 13:03 EDT (sim_time 0:24)
+
+### Submissions Processed
+
+#### Yellowstone (United Way Long-Term Recovery & Case Management) — attempt 1, submitted 16:47 UTC (sim_time 0:14)
+- **Incident addressed:** Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis
+- **Actions taken:**
+  - A7 Rural Healthcare Sustainability Plan ($200K)
+  - A17 Individual Recovery Case Management ($120K)
+  - A18 Mutual Aid Network Formalization ($80K)
+- **Collaboration claimed:** Banff and Denali
+  - Both are now bilaterally confirmed
+- **Budget:** $6M - $400K = **$5.6M**
+- **Trust:** 7 + 6 (actions) + 2 (confirmed collaborations) = **15**
+- **Score:** 0 + 67 = **67**
+- **Note:** Yellowstone completed the United Way case-management clause before the 0:20 deadline, but the Faith Network still did not document a full community health compact signing.
+
+#### Glacier (Governor's Recovery & Reconstruction Authority) — attempt 1, submitted 16:50 UTC (sim_time 0:16)
+- **Incident addressed:** FEMA Disaster Qualification — Cyber-Cascading Precedent
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A2 FEMA Preliminary Damage Assessment Filing ($0)
+  - A35 Regional Disaster Recovery Plan ($80K)
+- **Collaboration claimed:** Arches, Jasper, and Yosemite
+  - Arches later confirms federal coordination
+  - Yosemite's later report supports the Governor-approval claim on the environmental side
+  - Jasper does not separately confirm collaboration
+- **Budget:** $20M - $80K = **$19.92M**
+- **Trust:** 5 + 4 (actions) + 2 (later-confirmed collaborations) = **11**
+- **Score:** remains **0**
+- **Note:** Glacier materially helped the state coordination picture, but the missing declaration/federal filing package was not fully completed until Arches submitted later.
+
+#### Sequoia (Montgomery County Recovery & Housing Authority) — attempt 1, submitted 16:50 UTC (sim_time 0:16)
+- **Incident addressed:** Economic Displacement — Workforce Crisis in Coal Country
+- **Actions taken:**
+  - A16 Emergency Housing Stabilization ($200K)
+  - A14 Small Business Recovery Grants ($250K)
+  - A6 Long-Term Recovery Committee Charter ($0)
+  - A31 HUD CDBG-DR Application ($0)
+- **Collaboration claimed:** Shenandoah
+  - Not confirmed in this cycle
+- **Budget:** $12M - $450K = **$11.55M**
+- **Trust:** 5 + 5 (actions) = **10**
+- **Score:** 0 + 100 = **100**
+- **Note:** Sequoia completed strong Montgomery County-side housing and recovery-governance work before the 0:25 deadline.
+
+#### Zion (Shentel Digital Infrastructure & Connectivity) — attempt 1, submitted 16:50 UTC (sim_time 0:17)
+- **Incident addressed:** Critical Infrastructure — Rebuild or Transform Decision Window
+- **Actions taken:**
+  - A26 Digital Resilience Infrastructure ($100K)
+  - A25 Rural Broadband Expansion Plan ($250K)
+  - A9 Telehealth Permanence Program ($150K)
+  - A23 Grid Modernization Plan ($200K)
+  - A1 Intelligence Sharing ($0)
+- **Collaboration claimed:** Yoho
+  - Not confirmed in this cycle
+- **Budget:** $15M - $700K = **$14.3M**
+- **Trust:** 5 + 7 (actions) = **12**
+- **Score:** 0 + 67 = **67**
+- **Note:** Zion completed the Shentel-side infrastructure clause before the 0:20 deadline, but VDOT and WDBJ7 are still missing.
+
+#### Redwood (AEP Grid Modernization & Energy Transition) — attempt 1, submitted 16:50 UTC (sim_time 0:17)
+- **Incident addressed:** Clinch River Contamination — Remediation Before Federal Preemption
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A21 Resilient Infrastructure Standards ($0)
+  - A23 Grid Modernization Plan ($200K)
+  - A24 Renewable Energy Workforce Pipeline ($180K)
+- **Transfer claimed:** AEP -> DEQ $500K
+  - Later confirmed by Yosemite
+- **Budget:** $40M - $380K - $500K transfer = **$39.12M**
+- **Trust:** 4 + 5 (actions) = **9**
+- **Score:** 0 + 50 = **50**
+- **Note:** Redwood provided real AEP-side support and funding before the 0:20 deadline, but it did not by itself satisfy the required remediation-plan filing.
+
+#### Bryce (Virginia Tech Community Resilience Research) — attempt 1, submitted 16:55 UTC (sim_time 0:21)
+- **Incident addressed:** Clinch River Contamination — Remediation Before Federal Preemption
+- **Actions taken:**
+  - A1 Intelligence Sharing ($0)
+  - A12 Community Environmental Monitoring Board ($60K)
+  - A20 Infrastructure Vulnerability Assessment ($100K)
+  - A27 Recovery Transparency Dashboard ($30K)
+- **Custom action ruling:** Monitoring Framework & Baseline Report — **approved** at **$80K**
+- **Budget:** $8M - $270K = **$7.73M**
+- **Trust:** 7 + 7 (actions + approved custom action) = **14**
+- **Score:** remains **0**
+- **Note:** Bryce's report arrived after the 0:20 remediation deadline, so its value carries into the live EPA-consent-order arc rather than rescuing the original state-led-remediation window.
+
+#### Arches (FEMA Region III Disaster Recovery Coordinator) — attempt 1, submitted 16:51 UTC (sim_time 0:18)
+- **Incident addressed:** FEMA Disaster Qualification — Cyber-Cascading Precedent
+- **Actions taken:**
+  - A2 FEMA Preliminary Damage Assessment Filing ($0)
+  - A3 Federal Disaster Declaration Request ($0)
+  - A34 Multi-County Impact Assessment ($0, duplicates Jasper's earlier credited filing)
+- **Collaboration claimed:** Glacier
+  - Later confirmed by Glacier
+- **Budget:** **$15M**
+- **Trust:** 5 + 3 (actions) + 1 (confirmed collaboration) = **9**
+- **Score:** 0 + 100 = **100**
+- **Note:** Arches completed the missing federal-filing/declaration work after the 0:15 success window, resolving the federal arc late without unlocking the success follow-on.
+
+#### Redwood (AEP Grid Modernization & Energy Transition) — attempt 2, submitted 16:52 UTC (sim_time 0:19)
+- **Incident addressed:** Clinch River Contamination — Remediation Before Federal Preemption
+- **Actions taken:** identical to attempt 1
+- **Transfer claimed:** identical $500K AEP -> DEQ transfer
+- **Budget / Trust / Score:** **no incremental change**
+- **Note:** Attempt 2 is a duplicate of attempt 1 and was treated as a no-op to avoid double-counting.
+
+#### Yosemite (VA DEQ Environmental Remediation & Monitoring) — attempt 1, submitted 16:57 UTC (sim_time 0:24)
+- **Incident addressed:** Clinch River Contamination — Remediation Before Federal Preemption
+- **Actions taken:**
+  - A10 Clinch River Environmental Remediation Plan ($400K)
+  - A11 Coal Ash Pond Permanent Remediation ($800K)
+  - A29 Mine Site Environmental Security ($0)
+  - A32 Long-Term Health Monitoring Program ($180K)
+- **Transfer received:** AEP -> DEQ $500K
+  - Confirmed by Redwood's report
+- **Collaboration claimed:** Bryce, Redwood, and Glacier
+  - Glacier's earlier report supports the Governor-approval claim needed for A10/A11
+  - Redwood did not explicitly log collaboration
+  - Bryce did not explicitly confirm Yosemite
+- **Budget:** $8M - $1.38M + $500K transfer = **$7.12M**
+- **Trust:** 4 + 3 (actions) + 1 (confirmed Governor-side coordination) = **8**
+- **Score:** remains **0**
+- **Note:** Yosemite's substantive DEQ filing arrived after the 0:20 deadline, so it strengthens the live EPA-consent-order arc rather than preventing preemption.
+
+### Non-Submitting Team Penalties
+
+Teams with visible severity 4-5 incidents who still did not submit in this cycle received **-1 trust**:
+
+- Shenandoah
+
+### Incident State Changes
+
+| Incident | Change | Reason |
+|----------|--------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | partially_resolved -> **resolved** | Arches completed the missing FEMA filing / declaration package at 0:18; the arc closes late, so the success follow-on remains hidden |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | remains **partially_resolved** | Yellowstone completed the United Way case-management side before 0:20, but the Faith Network still did not document the full community health compact |
+| Clinch River Contamination — Remediation Before Federal Preemption | open -> **escalated** | No qualifying state-led remediation plan was filed before 0:20 |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | hidden -> **partially_resolved** | Bryce and Yosemite submitted late monitoring / remediation work that now supports the live post-deadline environmental arc |
+| Economic Displacement — Workforce Crisis in Coal Country | remains **partially_resolved** | Sequoia completed the Montgomery County housing / services side before 0:25, but Shenandoah is still missing |
+| Critical Infrastructure — Rebuild or Transform Decision Window | open -> **partially_resolved** | Zion completed the Shentel-side digital infrastructure clause before 0:20, but VDOT and WDBJ7 are still missing |
+
+### Escalation Watch (as of 0:24)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **resolved late at 0:18** — success follow-on stays hidden |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **materially addressed before deadline** — lawsuit escalation stays hidden, but incident remains open |
+| Clinch River Contamination — Remediation Before Federal Preemption | 0:20 | **EXPIRED** — escalated to EPA consent-order arc |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **1 min remaining** — two of three sides are now in place |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **materially addressed before deadline** — comment-window escalation stays hidden, but incident remains open |
+
+### Leaderboard After Cycle 2
+
+| Rank | Team | Role | Budget | Trust | Score |
+|------|------|------|--------|-------|-------|
+| 1 | Acadia | Appalachian Regional Economic Development | $11.7M | 8 | 100 |
+| 1 | Arches | FEMA Region III Disaster Recovery Coordinator | $15M | 9 | 100 |
+| 1 | Jasper | SW Virginia EMA Long-Term Recovery Committee | $10M | 8 | 100 |
+| 1 | Sequoia | Montgomery County Recovery & Housing Authority | $11.55M | 10 | 100 |
+| 5 | Denali | Appalachian Faith & Mutual Aid Network | $1.6M | 23 | 67 |
+| 5 | Yellowstone | United Way Long-Term Recovery & Case Management | $5.6M | 15 | 67 |
+| 5 | Zion | Shentel Digital Infrastructure & Connectivity | $14.3M | 12 | 67 |
+| 8 | Banff | Carilion Health System Recovery & Legal Affairs | $49.3M | 13 | 50 |
+| 8 | Redwood | AEP Grid Modernization & Energy Transition | $39.12M | 9 | 50 |
+| 10 | (6 teams) | — | — | — | 0 |
+
+### Files Processed This Cycle
+
+- `arches_phase6_attempt_1.md`
+- `bryce_phase6_attempt_1.md`
+- `glacier_phase6_attempt_1.md`
+- `redwood_phase6_attempt_1.md`
+- `redwood_phase6_attempt_2.md`
+- `sequoia_phase6_attempt_1.md`
+- `yellowstone_phase6_attempt_1.md`
+- `yosemite_phase6_attempt_1.md`
+- `zion_phase6_attempt_1.md`
