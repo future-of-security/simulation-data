@@ -549,3 +549,143 @@ No additional non-submission penalties were applied in this cycle.
 
 - `jasper_phase6_attempt_2.md`
 - `redwood_phase6_attempt_3.md`
+
+## Update Cycle 6 (sim_time 0:48-0:50)
+
+**Processed at:** 2026-03-26 13:26 EDT (sim_time 0:50)
+
+### Submissions Processed
+
+#### Yosemite (VA DEQ Environmental Remediation & Monitoring) — attempt 2, submitted 17:23 UTC (sim_time 0:50)
+- **Incident addressed:** Clinch River Contamination — Remediation Before Federal Preemption
+- **Actions taken:**
+  - A10 Clinch River Environmental Remediation Plan ($400K)
+  - A11 Coal Ash Pond Permanent Remediation ($800K)
+  - A29 Mine Site Environmental Security ($0)
+  - A32 Long-Term Health Monitoring Program ($180K)
+- **Transfer claimed:** AEP -> DEQ $500K
+  - This was already confirmed and credited in the earlier Yosemite / Redwood pair
+- **Budget / Trust / Score:** **no incremental change**
+- **Note:** Attempt 2 is a late follow-up restating the same DEQ remediation package that was already credited in attempt 1. It adds clarification that the work now supports EPA-led cleanup, but it does not introduce a new action, transfer, or scoring event.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+No incident-state changes in this cycle.
+
+### Escalation Watch (as of 0:50)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **already resolved late** |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **already resolved late** |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **already resolved late** |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **already resolved late** |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **already resolved late** |
+
+### Files Processed This Cycle
+
+- `yosemite_phase6_attempt_2.md`
+
+## Update Cycle 7 (sim_time 0:50-0:53)
+
+**Processed at:** 2026-03-26 13:29 EDT (sim_time 0:53)
+
+### Submissions Processed
+
+#### Yosemite (VA DEQ Environmental Remediation & Monitoring) — attempt 3, submitted 17:27 UTC (sim_time 0:53)
+- **Incidents addressed:** Clinch River Contamination — Remediation Before Federal Preemption; EPA Federal Consent Order Issued — State Loses Remediation Control
+- **Actions listed:**
+  - `A10` Clinch River Environmental Remediation Plan ($400K)
+  - `A11` Coal Ash Pond Permanent Remediation ($800K)
+  - `A29` Mine Site Environmental Security ($0)
+  - `A32` Long-Term Health Monitoring Program ($180K)
+- **Invalid action reference:** `A0 Intelegence sharing`
+  - Treated as a typo/invalid catalog ID and not credited separately. Yosemite already received prior credit for the underlying intelligence-sharing and remediation coordination reflected in earlier attempts.
+- **Transfer claimed:** AEP -> DEQ $500K
+  - Already confirmed and credited in the earlier Yosemite / Redwood pair
+- **Budget / Trust / Score:** **no incremental change**
+- **Note:** Attempt 3 is another late follow-up restating Yosemite's already credited DEQ remediation package after the EPA-led arc was resolved. It adds no new eligible action, transfer, or collaboration evidence that changes live state.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+No incident-state changes in this cycle.
+
+### Escalation Watch (as of 0:53)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **already resolved late** |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **already resolved late** |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **already resolved late** |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **already resolved late** |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **already resolved late** |
+
+### Files Processed This Cycle
+
+- `yosemite_phase6_attempt_3.md`
+
+## Update Cycle 8 (sim_time 0:53-0:56)
+
+**Processed at:** 2026-03-26 13:33 EDT (sim_time 0:56)
+
+### Submissions Processed
+
+#### Bryce (Virginia Tech Community Resilience Research) — attempt 2, submitted 17:29 UTC (sim_time 0:56)
+- **Incident addressed:** EPA Federal Consent Order Issued — State Loses Remediation Control
+- **Actions listed:**
+  - `A1` Intelligence Sharing ($0)
+  - `A12` Community Environmental Monitoring Board ($60K)
+  - `A20` Infrastructure Vulnerability Assessment ($100K)
+  - `A27` Recovery Transparency Dashboard ($30K)
+- **Custom action restated:** Monitoring Framework & Baseline Report ($80K)
+  - Already approved and credited in Bryce's earlier attempt
+- **Collaboration claims:** DEQ and AEP support references were noted, but they do not add new bilaterally confirmed credit in this cycle
+- **Budget / Trust / Score:** **no incremental change**
+- **Note:** Attempt 2 is a late restatement of Bryce's already credited scientific validation package on the resolved EPA arc.
+
+### Non-Submitting Team Penalties
+
+No additional non-submission penalties were applied in this cycle.
+
+### Incident State Changes
+
+No existing incident-state changes in this cycle.
+
+### New Final-Sprint Injects Opened
+
+To keep all teams active for the last Phase 6 push without reopening already resolved arcs, I opened five new follow-on injects at sim_time `0:56`:
+
+| Incident | Teams |
+|----------|-------|
+| Federal Recovery Allocation Framework — Counties Demand Clarity | Arches, Glacier, Jasper |
+| Rural Health Transformation Bridge — Families Want Proof Before Philanthropy | Banff, Yellowstone, Denali |
+| Clinch River Oversight Compact — Community Trust Still Conditional | Yosemite, Redwood, Bryce |
+| Coalfield Retention Package — Families Need a Reason to Stay | Acadia, Shenandoah, Sequoia |
+| Resilient Rebuild Add-On Package — No Federal Money for Upgrades | Olympic, Zion, Yoho |
+
+### Escalation Watch (as of 0:56)
+
+| Incident | Deadline | Status |
+|----------|----------|--------|
+| FEMA Disaster Qualification — Cyber-Cascading Precedent | 0:15 | **already resolved late** |
+| Dialysis Families Demand Accountability — Healthcare Rebuilding Crisis | 0:20 | **already resolved late** |
+| Economic Displacement — Workforce Crisis in Coal Country | 0:25 | **already resolved late** |
+| Critical Infrastructure — Rebuild or Transform Decision Window | 0:20 | **already resolved late** |
+| EPA Federal Consent Order Issued — State Loses Remediation Control | 0:30 | **already resolved late** |
+| Federal Recovery Allocation Framework — Counties Demand Clarity | 1:00 | **open** |
+| Rural Health Transformation Bridge — Families Want Proof Before Philanthropy | 1:00 | **open** |
+| Clinch River Oversight Compact — Community Trust Still Conditional | 1:00 | **open** |
+| Coalfield Retention Package — Families Need a Reason to Stay | 1:00 | **open** |
+| Resilient Rebuild Add-On Package — No Federal Money for Upgrades | 1:00 | **open** |
+
+### Files Processed This Cycle
+
+- `bryce_phase6_attempt_2.md`
