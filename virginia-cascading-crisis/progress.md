@@ -9,4 +9,4 @@
 | 3 | Economic Security | Completed | [phase_3/progress.md](phase_3/progress.md) |
 | 4 | Political & Societal Security | Completed | [phase_4/progress.md](phase_4/progress.md) |
 | 5 | Health, Environmental & Biosecurity | Pending | — |
-| 6 | Recovery & Resilience | Pending | — |
+| 6 | Mountain Resilience | Pending | [phase_6/progress.md](phase_6/progress.md) |
