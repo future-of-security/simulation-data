@@ -1,12 +1,14 @@
 # Virginia Cascading Crisis — Simulation Progress
 
+Fall 2026. Each phase runs in class and pairs with the lecture before it.
+
 ## Phase Status
 
-| Phase | Title | Status | Progress File |
-|-------|-------|--------|---------------|
-| 1 | Power Grid Failure | Completed | [phase_1/progress.md](phase_1/progress.md) |
-| 2 | Supply Chain & Resource Scarcity | Completed | [phase_2/progress.md](phase_2/progress.md) |
-| 3 | Economic Security | Completed | [phase_3/progress.md](phase_3/progress.md) |
-| 4 | Political & Societal Security | Completed | [phase_4/progress.md](phase_4/progress.md) |
-| 5 | Health, Environmental & Biosecurity | Pending | — |
-| 6 | Mountain Resilience | Pending | [phase_6/progress.md](phase_6/progress.md) |
+| Phase | Title | Class date | Pairs with | Status |
+|-------|-------|-----------|-----------|--------|
+| 1 | System Breach | Sep 10 | Cybersecurity & AI Threats (Sep 1) | Pending |
+| 2 | Rumors Spread | Sep 17 | Data, Privacy & Surveillance (Sep 15) | Pending |
+| 3 | Supply Lines Cut | Sep 24 | Economic Security (Sep 22) | Pending |
+| 4 | Forgotten Country | Oct 1 | Political & Societal Security (Sep 29) | Pending |
+| 5 | Hidden Damage | Oct 15 | Environmental Security (Oct 6) | Pending |
+| 6 | Mountain Resilience | Oct 22 | Disaster Management (Oct 13) | Pending |

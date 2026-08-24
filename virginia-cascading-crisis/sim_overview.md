@@ -8,9 +8,13 @@ As the attack disrupts hospital systems and university operations, misinformatio
 
 ## Parameters
 
-- **Students**: ~60
-- **Teams**: 15 teams named after national parks (4 students each)
-- **Duration**: 60 minutes max per phase
+- **Students**: 39 (fall 2026)
+- **Teams**: 13 teams named after national parks, 3 students each
+- **Duration**: 60 minutes max per phase, inside a 75-minute class
+
+Teams are the same for the simulation and the capstone project: Acadia, Banff,
+Congaree, Denali, Everglades, Glacier, Jasper, Katmai, Olympic, Redwood,
+Shenandoah, Yellowstone, Zion.
 
 ## Setting
 
@@ -69,7 +73,7 @@ Carilion's rural clinics, already understaffed, face critical shortages. Dialysi
 ### Phase 6: Mountain Resilience (Disaster Management)
 Recovery decisions shape the region's future. Federal disaster assistance is contested—does a cyber attack qualify? Communities debate rebuilding vulnerable systems versus investing in resilience. Brain drain accelerates as young people leave. Teams must balance immediate recovery with long-term transformation of a region already facing economic transition.
 
-## Roles (15 Teams - National Parks)
+## Roles (13 Teams - National Parks)
 
 See `sim_roles.csv` for team definitions (name, role, sector, starting budget, starting trust).
 
