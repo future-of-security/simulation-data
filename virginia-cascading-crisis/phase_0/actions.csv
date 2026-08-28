@@ -1,0 +1,11 @@
+action_id,action_name,available_to,cost,delay_mins,requires_approval,trust_impact,description
+A1,Intelligence Sharing,ALL,$0,0,NONE,+1,"Share verified situation updates, emerging risks, and resource status with other teams. Free and always available — coordination earns trust."
+A2,911 Circuit Reroute,Shentel Communications,$40K,5,NONE,+1,"Switch the regional 911 center to the protected backup circuit and verify end-to-end call routing. Restores 911 reliability while the severed trunk is repaired."
+A3,Backup Dispatch Activation,SW Virginia EMA;SW Virginia Sheriff's Coalition,$60K,5,NONE,+1,"Stand up the backup dispatch center and route emergency calls through it while primary circuits are unstable. Keeps calls from dropping."
+A4,Temporary Records Workaround,Carilion Clinic System,$50K,5,NONE,+1,"Deploy the paper/satellite records fallback at Stillwater and confirm the six dialysis protocols by phone with clinical staff. Patient safety is maintained while the link is down."
+A5,Traffic Control Deployment,VDOT SW Region;SW Virginia Sheriff's Coalition,$30K,5,NONE,+1,"Deploy flaggers and temporary signals at the I-81/I-77 interchange and manage approach traffic until the controllers are restored."
+A6,Interchange Power Verification,AEP Appalachian Power,$0,10,NONE,+1,"Confirm whether the darkened signals are a network outage or a grid fault and report findings so VDOT can focus on traffic, not power."
+A7,Community Check-In Call-Back,Appalachian Faith & Community Network,$20K,10,NONE,+1,"Call back households on the hotline list, relay accurate status, and point worried callers to the official statement once one exists."
+A8,Rumor Control Statement,Governor's SW Virginia Liaison;SW Virginia Sheriff's Coalition,$0,0,NONE,+2,"Issue a joint statement confirming the outage is a fiber cut — not an EMP attack — with one verifiable place for updates. Directly counters the rumor."
+A9,Rural Clinic Mobile Relay,Shentel Communications;Carilion Clinic System,$80K,10,NONE,+1,"Deploy a mobile relay unit to Stillwater as temporary bandwidth until the trunk is repaired. Restores telehealth and records access sooner."
+A10,Exercise Hotwash Scheduling,SW Virginia EMA,$0,0,NONE,+1,"Schedule the 15-minute hotwash at the end of the exercise. Every team participates; this is how the simulation improves."

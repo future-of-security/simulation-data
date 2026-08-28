@@ -46,6 +46,7 @@ Shenandoah, Yellowstone, Zion.
 
 | Phase | Topic | Title | In-Simulation Time |
 |-------|-------|-------|-------------------|
+| 0 | Practice (Kickoff) | "Exercise Hokie Stone" | Day 0: A declared regional exercise — learn the loop |
 | 1 | Cybersecurity & AI Threats | "System Breach" | Day 1-2: Attack on VT and Carilion systems |
 | 2 | Data, Privacy, Surveillance, & Misinformation | "Rumors Spread" | Day 3-5: Disinfo in close-knit communities |
 | 3 | Economic Security | "Supply Lines Cut" | Day 6-10: Coal shutdown, food/fuel shortages |
@@ -54,6 +55,13 @@ Shenandoah, Yellowstone, Zion.
 | 6 | Disaster Management | "Mountain Resilience" | Day 26-35: Recovery and long-term decisions |
 
 ## Phase Summaries
+
+### Phase 0: Practice Round (Simulation Kickoff)
+Exercise Hokie Stone — a declared regional drill built around one cause (a severed
+fiber trunk) and four visible effects: degraded 911 circuits, a clinic without its
+records link, dark traffic signals, and a fast-moving rumor. Every real-phase rule
+applies so teams learn the loop — dashboard, roles, report format, budget, trust,
+collaboration, transfers — before stakes rise. Scores are kept but not graded.
 
 ### Phase 1: System Breach (Cybersecurity & AI Threats)
 AI-enhanced malware infiltrates Virginia Tech's research networks, using machine learning to evade detection. The attack spreads to Carilion Clinic's electronic health records and medical devices through shared network connections. Rural clinics lose access to patient records. Teams must contain the spread while maintaining critical healthcare services.
@@ -75,7 +83,7 @@ Recovery decisions shape the region's future. Federal disaster assistance is con
 
 ## Roles (13 Teams - National Parks)
 
-See `sim_roles.csv` for team definitions (name, role, sector, starting budget, starting trust).
+Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/roles.csv`).
 
 ## Global Constraints
 
@@ -153,8 +161,11 @@ See `sim_roles.csv` for team definitions (name, role, sector, starting budget, s
 
 ## Files
 
-- Team roles: `sim_roles.csv`
-- Action catalog: `sim_actions.csv`
-- Phase overviews: `phase_#_overview.md` (1-6)
-- Injects (initial): `phase_#_injects_init.csv` (1-6)
-- Injects (working): `phase_#_injects.csv` (1-6)
+Each phase lives in its own folder (`phase_0/` … `phase_6/`):
+
+- `overview.md` — phase brief (situation, crisis engine analysis, team roles)
+- `roles.csv` / `roles_init.csv` — current / starting budgets, trust, score
+- `actions.csv` — action catalog (costs, approvals, trust impact)
+- `injects.csv` / `injects_init.csv` — current / starting incidents
+- `progress.md` — running facilitator ledger per phase
+- `notifications.csv` — dashboard-facing team updates
