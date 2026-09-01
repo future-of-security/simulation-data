@@ -78,6 +78,7 @@ A single physical cause — a severed fiber trunk — is producing seven paralle
 
 - Same report format as every phase: `REPORT.md`. File at least twice — an in-class draft and a final report this evening.
 - Same budget, trust, and approval rules as `help.html`. Trust moves ±1 to ±2 per action, capped at ±3 per update cycle.
+- **Your budget is smaller than your role's action list, on purpose.** Carilion, Shentel, and the Sheriff's Coalition each want more than they were allocated. Splitting a catalog action with another team halves what you pay, and A9 is available to Carilion *and* Shentel — which is the cheapest lesson in this exercise. Unspent money carries into phase 1.
 - Scores are kept on the board but **not** graded and not posted to Canvas.
 - The hotwash (Yellowstone's action A10) closes the exercise.
 
@@ -89,3 +90,4 @@ By the end of the exercise every team should be able to:
 2. Write a response report that a facilitator can act on (actions, costs, authority, collaborations, transfers).
 3. Budget from `roles.csv`, not self-report, and know what a transfer does and does not do.
 4. Name what a bad report looks like — volume without decisions, claims without authority, incidents you cannot actually see.
+5. Spend against a budget that does not cover everything you want, and say in the report what you gave up to afford what you chose.

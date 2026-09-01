@@ -87,9 +87,26 @@ Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/role
 
 ## Global Constraints
 
-### Actions
-- **Budget limits actions:** Teams are limited by their budget—choose wisely
-- **Action delays:** Some actions take time to be effective (e.g., 1-4 hours; see sim_actions.csv)
+### Budget
+
+Budget is meant to bind. A team acting alone cannot afford everything its role
+could do in a phase, and that is the constraint the exercise is built around.
+
+- **Each phase allocates; it never resets.** At the start of a phase your team
+  receives an allocation for the role it holds that phase, added to whatever it
+  did not spend earlier. Money wasted in phase 1 is missing in phase 5.
+- **The allocation is smaller than your own action catalog** — 0.6x the cost of
+  every catalog action available to your role, plus a flat $25K of discretionary
+  funding for custom actions, rounded to $5K. The heaviest roles in a phase are
+  the ones that feel it.
+- **Splitting is the way out.** Two teams collaborating on the same catalog
+  action against the same incident each pay half; three pay a third. Transfers
+  are the other route — a team can fund an action it cannot take itself.
+- **Roles rotate every phase, so allocations rotate with them.** Over six phases
+  every team holds both expensive and cheap roles. The only durable advantage is
+  not wasting money.
+- **Action delays:** Some actions take time to be effective (e.g., 1-4 hours;
+  see the phase's `actions.csv`)
 
 ### Information
 - **Base intel:** Teams see injects relevant to their role
@@ -126,7 +143,7 @@ Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/role
 | Inject partially resolved | +50 | Mitigated but not fully solved |
 | Vulnerable population protected | +25 | Per 100 people assisted |
 | Critical service restored | +150 | Per major system brought online |
-| Budget remaining | +10 | Per $1M remaining at end |
+| Budget remaining | +5 | Per $10K remaining at end |
 | Trust maintained/gained | +50 | Per point above starting trust |
 | Cross-team coordination bonus | +75 | Per successful joint action |
 
