@@ -8,13 +8,13 @@ As the attack disrupts hospital systems and university operations, misinformatio
 
 ## Parameters
 
-- **Students**: 39 (fall 2026)
-- **Teams**: 13 teams named after national parks, 3 students each
+- **Students**: 38 (fall 2026)
+- **Teams**: 12 teams named after national parks --- ten of three students, two of four
 - **Duration**: 60 minutes max per phase, inside a 75-minute class
 
 Teams are the same for the simulation and the capstone project: Acadia, Banff,
-Congaree, Denali, Everglades, Glacier, Jasper, Katmai, Olympic, Redwood,
-Shenandoah, Yellowstone, Zion.
+Denali, Everglades, Glacier, Katmai, Olympic, Redwood, Shenandoah, Teton,
+Yellowstone, Zion.
 
 ## Setting
 
@@ -81,7 +81,7 @@ Carilion's rural clinics, already understaffed, face critical shortages. Dialysi
 ### Phase 6: Mountain Resilience (Disaster Management)
 Recovery decisions shape the region's future. Federal disaster assistance is contested—does a cyber attack qualify? Communities debate rebuilding vulnerable systems versus investing in resilience. Brain drain accelerates as young people leave. Teams must balance immediate recovery with long-term transformation of a region already facing economic transition.
 
-## Roles (13 Teams - National Parks)
+## Roles (12 Teams - National Parks)
 
 Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/roles.csv`).
 
@@ -105,7 +105,7 @@ Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/role
 | Road closures / detours | VDOT SW Region |
 | Environmental emergency | VA DEQ SW Regional Office + Governor's SW Virginia Liaison |
 | Emergency broadcast | Governor's SW Virginia Liaison or SW Virginia EMA |
-| Evacuation orders | SW Virginia EMA + Montgomery County Government |
+| Evacuation orders | SW Virginia EMA + SW Virginia Sheriff's Coalition |
 | Telecom emergency rerouting | Shentel Communications |
 
 ### Trust & Reputation
