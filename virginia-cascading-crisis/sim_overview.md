@@ -58,8 +58,10 @@ Yellowstone, Zion.
 
 ### Phase 0: Practice Round (Simulation Kickoff)
 Exercise Hokie Stone — a declared regional drill built around one cause (a severed
-fiber trunk) and four visible effects: degraded 911 circuits, a clinic without its
-records link, dark traffic signals, and a fast-moving rumor. Every real-phase rule
+fiber trunk) and seven visible effects — degraded 911 circuits, a clinic without its
+records link, dark traffic signals, a campus alert system that cannot confirm
+delivery, four cash-only stores, hydraulic fluid in the trench, and a fast-moving
+rumor — plus a state demand for one consolidated answer. Every real-phase rule
 applies so teams learn the loop — dashboard, roles, report format, budget, trust,
 collaboration, transfers — before stakes rise. Scores are kept but not graded.
 

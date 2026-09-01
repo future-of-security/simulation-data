@@ -12,7 +12,7 @@ The Southwest Virginia Emergency Management Agency has declared **Exercise Hokie
 
 Combine during the exercise: the dashboard is your only live picture; the response report is the only thing a facilitator reads; and an incident nobody claims is an incident that escalates.
 
-At 7:52 AM a contractor's backhoe severs the primary Shentel fiber trunk under I-81 near Radford. The regional 911 center drops to a single degraded path, Stillwater Medical Center in Radford loses telehealth and remote-records access, traffic signals go dark at the I-81/I-77 interchange in Wytheville, VT Alerts stops confirming delivery to a third of the Blacksburg campus, four Food City stores go cash-only with their pharmacy counters unable to verify prescriptions, hydraulic fluid from the backhoe itself starts pooling forty feet from a storm drain, and within minutes a rumor that this is an EMP attack starts moving through churches and sheriff's-department social feeds.
+At 7:52 AM a contractor's backhoe severs the primary Shentel fiber trunk under I-81 near Radford. The regional 911 center drops to a single degraded path, Stillwater Medical Center in Radford loses telehealth and remote-records access, traffic signals go dark at the I-81/I-77 interchange in Wytheville, VT Alerts stops confirming delivery to a third of the Blacksburg campus, four Food City stores go cash-only with their pharmacy counters unable to verify prescriptions, hydraulic fluid from the backhoe itself starts pooling forty feet from a storm drain, and within minutes a rumor that this is an EMP attack starts moving through churches and sheriff's-department social feeds. Twenty minutes later Richmond asks for one consolidated regional number and a written yes-or-no on cyber before the Governor's 9:00 press availability, and the Governor's office has no feed of its own to build either from.
 
 Nothing about this is complicated. That is the point: a simple, single-cause incident is the cheapest way to learn the mechanics you will need when the real crisis starts.
 
@@ -21,7 +21,7 @@ Nothing about this is complicated. That is the point: a simple, single-cause inc
 ## Crisis Engine Analysis
 
 ### What just changed unexpectedly?
-A single physical cause — a severed fiber trunk — is producing seven parallel effects across dispatch, healthcare, transportation, campus operations, retail payment and pharmacy, the excavation site itself, and public information. The exercise is deliberately one cause, many effects, so teams can learn to trace a cascade without drowning in one.
+A single physical cause — a severed fiber trunk — is producing seven parallel effects across dispatch, healthcare, transportation, campus operations, retail payment and pharmacy, the excavation site itself, and public information. The exercise is deliberately one cause, many effects, so teams can learn to trace a cascade without drowning in one. The eighth incident is not an effect at all: the state wants one answer, and it can only be assembled out of what the other eleven teams report.
 
 ### Which system is now stressed?
 - [x] Infrastructure: 911 circuits, clinic records link, traffic signal controllers, VT Alerts and a research data center
@@ -38,11 +38,11 @@ A single physical cause — a severed fiber trunk — is producing seven paralle
 - [ ] Cross-border populations: not yet (emerges in later phases)
 
 ### What decision must be made within limited time?
-**Restore the public path first, or protect the backup?** The 911 reroute and the clinic link both want Shentel's technicians; the interchange wants VDOT and AEP to agree on whether it is power or network; the rumor wants an authoritative statement nobody has drafted, and that statement cannot honestly say "not an attack" until CISA has ruled the cyber question out in writing. Underneath all of it the splice itself is blocked: DEQ holds the right-of-way until the hydraulic release is contained, so the team with the smallest inject on the board is gating everyone else's repair. The exercise is designed to be fully resolvable in the window — if teams coordinate instead of each solving their own corner.
+**Restore the public path first, or protect the backup?** The 911 reroute and the clinic link both want Shentel's technicians; the interchange wants VDOT and AEP to agree on whether it is power or network; the rumor wants an authoritative statement nobody has drafted, and that statement cannot honestly say "not an attack" until CISA has ruled the cyber question out in writing. Underneath all of it the splice itself is blocked: DEQ holds the right-of-way until the hydraulic release is contained, so the team with the smallest inject on the board is gating everyone else's repair. Money is the second squeeze: Carilion, Shentel, and the Sheriff's Coalition each hold less than their own action list costs, and the one pot that can close the gap — the Governor's — covers two of the three shortfalls, not all three. The exercise is designed to be fully resolvable in the window — if teams coordinate instead of each solving their own corner.
 
 ### What future risk is created by this decision?
 - **If each team solves only its visible inject:** the rumor outruns the statement, and trust erodes everywhere.
-- **If teams coordinate** (Shentel + EMA + Sheriff on 911; Shentel + Carilion on the clinic; VDOT + AEP on the interchange; DEQ + VDOT + AEP on the corridor, which unblocks the splice; CISA + VT + Shentel on the cause; Food City + Carilion on prescriptions; Governor + Faith + Sheriff on the rumor, once CISA's all-clear exists to cite): every inject resolves and everyone ends the exercise having practiced collaboration.
+- **If teams coordinate** (Shentel + EMA + Sheriff on 911; Shentel + Carilion on the clinic; VDOT + AEP on the interchange; DEQ + VDOT + AEP on the corridor, which unblocks the splice; CISA + VT + Shentel on the cause; Food City + Carilion on prescriptions; Governor + Faith + Sheriff on the rumor, and Governor + CISA + EMA on the number Richmond wants, both of them only once CISA's all-clear exists to cite): every inject resolves and everyone ends the exercise having practiced collaboration.
 
 ### Who makes the decision, and who is left out?
 - **Decision makers:** Olympic (Shentel), Yellowstone (EMA), Banff (Sheriff), Glacier (Carilion), Shenandoah (VDOT), Everglades (AEP), Acadia (Governor), Zion (Faith), Denali (Virginia Tech), Teton (CISA), Katmai (DEQ), Redwood (Food City)
@@ -57,14 +57,14 @@ A single physical cause — a severed fiber trunk — is producing seven paralle
 
 | Team | Role | Focus In The Exercise |
 |------|------|------------------------|
-| Acadia | Governor's SW Virginia Liaison | Speak for the region; the authoritative voice for the rumor inject |
+| Acadia | Governor's SW Virginia Liaison | Speak for the region: the authoritative voice on the rumor, the one consolidated answer Richmond wants, and the only budget that can underwrite another team's action |
 | Banff | SW Virginia Sheriff's Coalition | Public order and safely rerouting 911 calls; co-signs the statement |
 | Denali | Virginia Tech Crisis Response | Campus and research continuity; liaison to CISA on the cause |
-| Everglades | AEP Appalachian Power | Confirm the interchange signals are network, not grid fault |
-| Glacier | Carilion Clinic System | Keep patient care whole while the records link is down |
-| Katmai | VA DEQ SW Regional Office | Environmental side of a fiber cut (utility corridors); report any risk |
+| Everglades | AEP Appalachian Power | Confirm the interchange signals are network, not grid fault; share the corridor clearance with DEQ and VDOT |
+| Glacier | Carilion Clinic System | Keep patient care whole while the records link is down — dialysis protocols and the pharmacy counters both |
+| Katmai | VA DEQ SW Regional Office | Contain the release and clear the shared corridor; the splice cannot start until you do |
 | Olympic | Shentel Communications | Own the severed trunk: 911 reroute and the clinic relay both sit here |
-| Redwood | Food City / Regional Supply Chain | Verify supply base unaffected; practice reporting a non-event |
+| Redwood | Food City / Regional Supply Chain | Card auth and prescription verification are down; report an access failure as the smaller thing it is |
 | Shenandoah | VDOT SW Region | Traffic control at the interchange; coordinate with AEP and Sheriff |
 | Teton | CISA Regional Coordinator | Verify there is no cyber component; confirm it is a mundane fiber cut |
 | Yellowstone | SW Virginia EMA | Run the exercise; activate backup dispatch; set up the hotwash; hold county-government continuity |
@@ -78,7 +78,7 @@ A single physical cause — a severed fiber trunk — is producing seven paralle
 
 - Same report format as every phase: `REPORT.md`. File at least twice — an in-class draft and a final report this evening.
 - Same budget, trust, and approval rules as `help.html`. Trust moves ±1 to ±2 per action, capped at ±3 per update cycle.
-- **Your budget is smaller than your role's action list, on purpose.** Carilion, Shentel, and the Sheriff's Coalition each want more than they were allocated. Splitting a catalog action with another team halves what you pay, and A9 is available to Carilion *and* Shentel — which is the cheapest lesson in this exercise. Unspent money carries into phase 1.
+- **Your budget is smaller than your role's action list, on purpose.** Carilion is $40K short, Shentel $25K, the Sheriff's Coalition $10K. Three ways out, all of them already in the catalog: split a shared action and each side pays half (A9 Carilion + Shentel, A13 DEQ + VDOT + AEP, A14 Food City + Carilion); let the partner who is *not* short buy it alone; or ask Acadia to underwrite it with A15, which holds $50K against $75K of shortfall — so the Governor has to choose, in writing. Unspent money carries into phase 1.
 - Scores are kept on the board but **not** graded and not posted to Canvas.
 - The hotwash (Yellowstone's action A10) closes the exercise.
 
