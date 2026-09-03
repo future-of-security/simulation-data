@@ -5,11 +5,12 @@
 **Phase:** [#]
 
 Submit as often as you want while the phase is running; everything you submit
-counts. Everything through Remaining Budget can be written during class.
-Outcomes/Needs/Risks and Reflection look back on the phase as a whole, so **if
-your team has anything to say in them, only the last report you file before the
-deadline that night can carry it** — a mid-phase draft doesn't count. Disputes
-you can file at any point; the sooner the better.
+counts. Everything through Remaining Budget can be written during class, and a
+dispute can be filed at any point — the sooner the better. The final two
+sections, Outcomes/Needs/Risks and Reflection, look back on the phase as a
+whole, so **if your team has anything to say in them, only the last report you
+file before the deadline that night can carry it**; a mid-phase draft doesn't
+count.
 
 Your report is graded by an AI (served from `llm.arc.vt.edu`) against the phase
 rubric. It reads what you wrote — not how much. Before submitting:
@@ -67,6 +68,14 @@ One line per proposal. Format: `Proposed action | Est. cost | Expected effect | 
 
 **Justification:** [What resources or authority does your role actually have that makes this reasonable?]
 
+## Disputes
+
+*Optional. Flag anything from an earlier update cycle that seems unreasonable — how your actions were evaluated, scoring, trust changes, inject outcomes, or custom action rulings.*
+
+One line per item. Format: `Which update cycle (roughly what time) | What happened | Why you disagree`
+
+-
+
 ## Remaining Budget
 
 $[amount]
@@ -101,11 +110,3 @@ What we would change if this were our simulation:
 - [e.g. trust decays when a team goes a whole phase without communicating]
 
 This is the record you draw on for the Integration Lab and for the simulation design section of your manual. Write it now, not from memory in October. It is also what the reflection criterion is scored from, so a blank here is a blank score whatever you said in the room.
-
-## Disputes
-
-*Optional. Flag anything from an earlier update cycle that seems unreasonable — how your actions were evaluated, scoring, trust changes, inject outcomes, or custom action rulings.*
-
-One line per item. Format: `Which update cycle (roughly what time) | What happened | Why you disagree`
-
--
