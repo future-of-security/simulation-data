@@ -4,8 +4,38 @@
       "id": "virginia-cascading-crisis",
       "title": "Virginia Cascading Crisis",
       "path": "virginia-cascading-crisis",
-      "active_phase": 1,
-      "total_phases": 7
+      "active_phase": 0,
+      "phases": [
+        {
+          "num": 0,
+          "title": "Exercise Hokie Stone",
+          "practice": true
+        },
+        {
+          "num": 1,
+          "title": "Cybersecurity & AI Threats"
+        },
+        {
+          "num": 2,
+          "title": "Data, Privacy, Surveillance, & Misinformation"
+        },
+        {
+          "num": 3,
+          "title": "Economic Security"
+        },
+        {
+          "num": 4,
+          "title": "Political & Societal Security"
+        },
+        {
+          "num": 5,
+          "title": "Health, Environmental, & Biosecurity"
+        },
+        {
+          "num": 6,
+          "title": "Disaster Management"
+        }
+      ]
     }
   ]
 }
