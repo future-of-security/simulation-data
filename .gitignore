@@ -1,3 +1,9 @@
-**/responses/*.md
+# Student submissions never belong in this repo: it is public, and the
+# dashboard reads it over raw.githubusercontent.com. The agent fetches them
+# into its own data/responses/ instead. This stays as a backstop for a stray
+# copy, and ignores the whole directory rather than one extension — the old
+# per-phase rules covered *.md in some phases, everything in others, and
+# phase 6 had no rule at all.
+**/responses/
 **/agent_state/
 **/.canvas_fetch_index.json
