@@ -143,11 +143,10 @@ could do in a phase, and that is the constraint the exercise is built around.
 |--------|--------|-------------|
 | Inject resolved | +100 | Fully resolved an incident |
 | Inject partially resolved | +50 | Mitigated but not fully solved |
-| Vulnerable population protected | +25 | Per 100 people assisted |
-| Critical service restored | +150 | Per major system brought online |
-| Budget remaining | +5 | Per $10K remaining at end |
-| Trust maintained/gained | +50 | Per point above starting trust |
-| Cross-team coordination bonus | +75 | Per successful joint action |
+| Vulnerable population protected | +25 | Per 100 people, where the log shows a concrete protective action |
+| Critical service restored | +150 | Per major system brought online by your team's documented actions |
+| Budget remaining | +5 | Per full $10K remaining at end |
+| Cross-team coordination bonus | +75 | Per partner team, for coordination both sides documented and executed |
 
 *Note: No penalty points—teams earn points for successes, not punished for failures.*
 
@@ -183,7 +182,7 @@ could do in a phase, and that is the constraint the exercise is built around.
 Each phase lives in its own folder (`phase_0/` … `phase_6/`):
 
 - `overview.md` — phase brief (situation, crisis engine analysis, team roles)
-- `roles.csv` / `roles_init.csv` — current / starting budgets, trust, score
+- `roles.csv` — current budgets, trust, score
 - `actions.csv` — action catalog (costs, approvals, trust impact)
 - `injects.csv` — current incidents; the starting board is the first
   snapshot in `archive/`, and every state before that is in git history
