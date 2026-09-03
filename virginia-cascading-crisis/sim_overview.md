@@ -185,6 +185,7 @@ Each phase lives in its own folder (`phase_0/` … `phase_6/`):
 - `overview.md` — phase brief (situation, crisis engine analysis, team roles)
 - `roles.csv` / `roles_init.csv` — current / starting budgets, trust, score
 - `actions.csv` — action catalog (costs, approvals, trust impact)
-- `injects.csv` / `injects_init.csv` — current / starting incidents
+- `injects.csv` — current incidents; the starting board is the first
+  snapshot in `archive/`, and every state before that is in git history
 - `progress.md` — running facilitator ledger per phase
 - `notifications.csv` — dashboard-facing team updates
