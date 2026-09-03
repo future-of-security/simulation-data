@@ -5,10 +5,11 @@
 **Phase:** [#]
 
 Submit as often as you want while the phase is running; everything you submit
-counts. Everything through Remaining Budget can be written during class. The
-final two sections look back on the phase as a whole, so **if your team has
-anything to say in them, only the last report you file before the deadline
-that night can carry it** — a mid-phase draft doesn't count.
+counts. Everything through Remaining Budget can be written during class.
+Outcomes/Needs/Risks and Reflection look back on the phase as a whole, so **if
+your team has anything to say in them, only the last report you file before the
+deadline that night can carry it** — a mid-phase draft doesn't count. Disputes
+you can file at any point; the sooner the better.
 
 Your report is graded by an AI (served from `llm.arc.vt.edu`) against the phase
 rubric. It reads what you wrote — not how much. Before submitting:
