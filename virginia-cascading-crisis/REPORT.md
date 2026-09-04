@@ -34,6 +34,10 @@ What I needed to know but could not see:
 
 -
 
+## Remaining Budget
+
+$
+
 ## Proposed Custom Actions
 
 *Optional.*
@@ -51,10 +55,6 @@ What I needed to know but could not see:
 `Which update cycle | What happened | Why you disagree`
 
 -
-
-## Remaining Budget
-
-$
 
 ## Outcomes, Needs, Risks
 
