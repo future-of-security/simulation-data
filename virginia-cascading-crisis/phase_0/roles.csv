@@ -1,13 +1,13 @@
-team,role,sector,budget,trust,score
-Acadia,Governor's SW Virginia Liaison,State Executive,$55K,8,0
-Banff,SW Virginia Sheriff's Coalition,Law Enforcement,$80K,7,0
-Denali,Virginia Tech Crisis Response,Academic/Research,$45K,7,0
-Everglades,AEP Appalachian Power,Energy/Utilities,$40K,6,0
-Glacier,Carilion Clinic System,Healthcare,$120K,8,0
-Katmai,VA DEQ SW Regional Office,Environmental,$40K,6,0
-Olympic,Shentel Communications,Telecommunications,$95K,7,0
-Redwood,Food City / Regional Supply Chain,Business/Supply,$45K,7,0
-Shenandoah,VDOT SW Region,Transportation,$60K,7,0
-Teton,CISA Regional Coordinator,Federal Cyber,$25K,6,0
-Yellowstone,SW Virginia EMA,Emergency Mgmt,$60K,8,0
-Zion,Appalachian Faith & Community Network,Community/Faith,$35K,8,0
+team,role,sector,budget,trust,score,responsibility
+Acadia,Governor's SW Virginia Liaison,State Executive,$55K,8,0,"Speak for the region: the authoritative voice on the rumor, the one consolidated answer Richmond wants, and the only budget that can underwrite another team's action"
+Banff,SW Virginia Sheriff's Coalition,Law Enforcement,$80K,7,0,Public order and safely rerouting 911 calls; co-signs the statement
+Denali,Virginia Tech Crisis Response,Academic/Research,$45K,7,0,Campus and research continuity; liaison to CISA on the cause
+Everglades,AEP Appalachian Power,Energy/Utilities,$40K,6,0,"Confirm the interchange signals are network, not grid fault; share the corridor clearance with DEQ and VDOT"
+Glacier,Carilion Clinic System,Healthcare,$120K,8,0,Keep patient care whole while the records link is down — dialysis protocols and the pharmacy counters both
+Katmai,VA DEQ SW Regional Office,Environmental,$40K,6,0,Contain the release and clear the shared corridor; the splice cannot start until you do
+Olympic,Shentel Communications,Telecommunications,$95K,7,0,Own the severed trunk: 911 reroute and the clinic relay both sit here
+Redwood,Food City / Regional Supply Chain,Business/Supply,$45K,7,0,Card auth and prescription verification are down; report an access failure as the smaller thing it is
+Shenandoah,VDOT SW Region,Transportation,$60K,7,0,Traffic control at the interchange; coordinate with AEP and Sheriff
+Teton,CISA Regional Coordinator,Federal Cyber,$25K,6,0,Verify there is no cyber component; confirm it is a mundane fiber cut
+Yellowstone,SW Virginia EMA,Emergency Mgmt,$60K,8,0,Run the exercise; activate backup dispatch; set up the hotwash; hold county-government continuity
+Zion,Appalachian Faith & Community Network,Community/Faith,$35K,8,0,Reach the worried households; the trusted voice the rumor moves through
