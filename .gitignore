@@ -7,3 +7,10 @@
 **/responses/
 **/agent_state/
 **/.canvas_fetch_index.json
+
+# Neither does the grading key. `standards/phase_N.csv` says what state of the
+# world closes each incident; the dashboard reads this repo over
+# raw.githubusercontent.com, so a copy here is the answers, published. It lives
+# in the agent's own private repo, tracked. This is the backstop, not the rule.
+**/standards*.csv
+standards/
