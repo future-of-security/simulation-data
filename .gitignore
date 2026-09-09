@@ -14,3 +14,10 @@
 # in the agent's own private repo, tracked. This is the backstop, not the rule.
 **/standards*.csv
 standards/
+
+# Nor the decision tree. `tree.md` names every hidden branch and what opens it
+# — resolved here, escalated there — which is the same answer told as a story.
+# phase_0/tree.md was committed by hand before this rule existed and has been
+# public since; everything after it lives in the agent's repo under `trees/`.
+**/tree.md
+trees/
