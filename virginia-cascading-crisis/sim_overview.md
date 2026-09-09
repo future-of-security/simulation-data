@@ -94,9 +94,10 @@ Team roles are assigned per phase in each phase's `roles.csv` (see `phase_0/role
 Budget is meant to bind. A team acting alone cannot afford everything its role
 could do in a phase, and that is the constraint the exercise is built around.
 
-- **Each phase allocates; it never resets.** At the start of a phase your team
-  receives an allocation for the role it holds that phase, added to whatever it
-  did not spend earlier. Money wasted in phase 1 is missing in phase 5.
+- **Each phase allocates, and the allocation is all you get.** At the start of
+  a phase your team receives an allocation for the role it holds that phase.
+  What you do not spend does not carry: every phase is its own economy, and the
+  money left over at the end of one is scored and then gone.
 - **The allocation is smaller than your own action catalog** — 0.6x the cost of
   every catalog action available to your role, plus a flat $25K of discretionary
   funding for custom actions, rounded to $5K. The heaviest roles in a phase are
@@ -105,8 +106,13 @@ could do in a phase, and that is the constraint the exercise is built around.
   action against the same incident each pay half; three pay a third. Transfers
   are the other route — a team can fund an action it cannot take itself.
 - **Roles rotate every phase, so allocations rotate with them.** Over six phases
-  every team holds both expensive and cheap roles. The only durable advantage is
-  not wasting money.
+  every team holds both expensive and cheap roles, and each phase's budget is
+  sized to the role you hold that phase. No team banks an advantage out of the
+  phase it drew a cheap role in.
+- **Trust is the thing that carries.** Money resets; reputation does not. The
+  trust your team ends a phase with is the trust it starts the next one with,
+  whatever role it holds by then — because a reputation belongs to the people
+  who earned it, not to the office they happened to be sitting in.
 - **Action delays:** Some actions take time to be effective (e.g., 1-4 hours;
   see the phase's `actions.csv`)
 
@@ -128,7 +134,9 @@ could do in a phase, and that is the constraint the exercise is built around.
 | Telecom emergency rerouting | Shentel Communications |
 
 ### Trust & Reputation
-- **Starting trust:** Each team starts with trust score shown in role table (1-10)
+- **Starting trust:** Each team starts with the trust score shown in the role
+  table (1-10), and after phase 1 that is whatever it ended the previous phase
+  with — trust carries between phases even though roles rotate
 - **Trust effects:**
   | Trust Level | Effect |
   |-------------|--------|
