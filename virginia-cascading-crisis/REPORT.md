@@ -10,7 +10,7 @@ page.
 
 ## What My Role Could See
 
-Incidents visible to my role:
+Incidents I took on, by their dashboard titles:
 
 -
 
