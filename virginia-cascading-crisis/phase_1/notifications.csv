@@ -11,3 +11,4 @@ sim_time,team,type,message
 0:20,Glacier,escalation,No response before the 0:20 deadline; escalated.
 0:20,Olympic,escalation,No response before the 0:20 deadline; escalated.
 0:20,Yellowstone,escalation,No response before the 0:20 deadline; escalated.
+0:23,Everglades,update,"Report targets the correct incident and records A1/A6, but carries no findings: the analysis is described as still pending, no characterization is written down…"

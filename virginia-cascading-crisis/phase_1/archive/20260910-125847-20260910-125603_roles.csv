@@ -2,7 +2,7 @@ team,role,sector,budget,trust,score,responsibility
 Acadia,SW Virginia EMA,Emergency Mgmt,$70K,6,0,"Run the regional response to a cyber incident nobody can see: continuity for county government, and the call on whether this is an emergency before anyone has proof"
 Banff,VITA Commonwealth CIO,State IT,$95K,6,0,"Own the state's own exposure: the shared services the region runs on, and the decision to cut them off from the region to save them"
 Denali,Carilion Rural Clinic Network,Healthcare Delivery,$100K,5,45,Six rural clinics with no records link and patients in the waiting room; downtime protocols are yours to call and yours to staff
-Everglades,Virginia Tech Division of IT,Academic/Research,$90K,5,30,"Patient zero: the research network the malware entered, the shared connection it crossed on, and the researchers who will not accept an offline data center"
+Everglades,Virginia Tech Division of IT,Academic/Research,$90K,6,0,"Patient zero: the research network the malware entered, the shared connection it crossed on, and the researchers who will not accept an offline data center"
 Glacier,FBI Richmond Cyber Task Force,Federal Law Enforcement,$50K,6,0,"Attribution and evidence: what is preserved for a case, and what gets wiped in the hurry to recover"
 Katmai,Food City Pharmacy Systems,Business/Supply,$75K,6,0,Prescription verification is down across the chain; what a pharmacist may dispense without it is your policy to set
 Olympic,Governor's SW Virginia Liaison,State Executive,$55K,6,0,"Speak for the region: one consolidated answer for Richmond, and the only budget that can underwrite another team's action"
