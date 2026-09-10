@@ -96,8 +96,9 @@ could do in a phase, and that is the constraint the exercise is built around.
 
 - **Each phase allocates, and the allocation is all you get.** At the start of
   a phase your team receives an allocation for the role it holds that phase.
-  What you do not spend does not carry: every phase is its own economy, and the
-  money left over at the end of one is scored and then gone.
+  What you do not spend does not carry: every phase is its own economy, and
+  money left over at the end of one is gone. Nothing rewards hoarding it —
+  points come from what your actions did.
 - **The allocation is smaller than your own action catalog** — 0.6x the cost of
   every catalog action available to your role, plus a flat $25K of discretionary
   funding for custom actions, rounded to $5K. The heaviest roles in a phase are
@@ -151,10 +152,6 @@ could do in a phase, and that is the constraint the exercise is built around.
 |--------|--------|-------------|
 | Inject resolved | +100 | Fully resolved an incident |
 | Inject partially resolved | +50 | Mitigated but not fully solved |
-| Vulnerable population protected | +25 | Per 100 people, where the log shows a concrete protective action |
-| Critical service restored | +150 | Per major system brought online by your team's documented actions |
-| Budget remaining | +5 | Per full $10K remaining at end |
-| Cross-team coordination bonus | +75 | Per partner team, for coordination both sides documented and executed |
 
 *Note: No penalty points—teams earn points for successes, not punished for failures.*
 
