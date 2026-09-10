@@ -9,7 +9,7 @@ As the attack disrupts hospital systems and university operations, misinformatio
 ## Parameters
 
 - **Students**: 38 (fall 2026)
-- **Teams**: 12 teams named after national parks --- ten of three students, two of four
+- **Teams**: 12 teams named after national parks, of three or four students each
 - **Duration**: 60 minutes max per phase, inside a 75-minute class
 
 Teams are the same for the simulation and the capstone project: Acadia, Banff,
