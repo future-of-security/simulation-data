@@ -30,3 +30,6 @@ sim_time,team,type,message
 0:36,Everglades,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
 0:36,Redwood,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
 0:36,Zion,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
+0:37,Denali,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
+0:37,Katmai,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
+0:37,Teton,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
