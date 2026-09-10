@@ -148,12 +148,28 @@ could do in a phase, and that is the constraint the exercise is built around.
 
 ### Scoring
 
-| Metric | Points | Description |
-|--------|--------|-------------|
-| Inject resolved | +100 | Fully resolved an incident |
-| Inject partially resolved | +50 | Mitigated but not fully solved |
+Every incident carries its own point value. A team earns a fixed share of it,
+decided by one of five words for what its actions did:
 
-*Note: No penalty points—teams earn points for successes, not punished for failures.*
+| Outcome | Share of the incident's points |
+|---------|-------------------------------|
+| Fully resolved — the incident is done | 100% |
+| Strong partial — directly addressed, most of it solved | 50% |
+| Moderate partial — helped, root cause still standing | 30% |
+| Indirect — a side effect of something else | 15% |
+| None — touched it, changed nothing | 0% |
+
+There is nothing between those five, and which one applies is decided by what a
+team's report shows it did against that incident's own standard for being
+closed.
+
+**Points are not divided between the teams on an incident.** Each team is
+scored on what it did, on its own. Collaboration never costs points; what it
+saves is money — a shared action is split, and both sides gain +1 trust for
+documenting it.
+
+*No penalty points: teams earn for successes and are not punished for
+failures.*
 
 ## Cascading Mechanics
 
