@@ -33,3 +33,88 @@ sim_time,team,type,message
 0:37,Denali,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
 0:37,Katmai,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
 0:37,Teton,escalation,Prescription Verification Down Chain-Wide — No response before the 0:35 deadline; escalated.
+2:17,Acadia,update,"The report is a catalog-action list with a correct budget (70K - 20K - 50K = 0) and in-role authority claims, but it reports no outcomes, so incident 8 (failov…"
+2:17,Acadia,update,"Actions are in-role and the budget is consistent, but the report asserts actions without describing the states they produced, so even after the 10-minute delay…"
+2:17,Acadia,update,"The report commits the full $70K budget (A15 at $50K, A22 at $20K after Teton's $5K) and describes all four actions as taken, but every outcome is asserted rat…"
+2:17,Acadia,update,"The report acts fully in role and is budget-consistent, but it documents approvals and starts rather than landed effects, and it never addresses the state shar…"
+2:17,Acadia,update,"Phase-end reflection only: actions taken are never reported, so none of the three visible incidents is advanced or closed."
+2:17,Banff,update,The report's heading names county continuity but the executed action addresses the shared-services scanning; the proposed notification action was only proposed…
+2:17,Banff,update,The report does not address the Governor's 10:00 availability at all; A9 was taken against the shared-services exposure while the report's own heading names th…
+2:17,Denali,update,"A3 is in-role and correctly targeted at the correctness failure, but the report stops at asserting the action and does not document the downtime protocol stand…"
+2:17,Denali,update,The team funded the two most relevant in-role actions for the clinics but stopped at authorization; resolution requires a decided and staffed operating mode at…
+2:17,Denali,update,One A1 sharing action against incident 16; the rest of the report is a collaboration note with the partner's work only starting.
+2:17,Everglades,update,The team took the right step but stopped at intent: the report states they will not be confident until the CISA signature analysis is complete and gives no res…
+2:17,Everglades,update,"The report starts the only path to characterisation but stops at intent; the incident is scored as the start of the work, not its completion."
+2:17,Everglades,update,"The submission is a near-empty template: one action ID and a budget line with no outcome or evidence of completion, so it is graded as the start of the work ra…"
+2:17,Everglades,update,Only incident 9 is engaged and only through a one-line custom action; no catalog Action IDs appear.
+2:17,Everglades,update,"Report is thin: one catalog action filed against incident 6 with no account of the resulting world state, and the claimed charge is internally inconsistent."
+2:17,Everglades,update,"The report stops at the action list with no outcome reporting, so the cluster-compromise response is scored as started work only; the inconsistent remaining-bu…"
+2:17,Glacier,update,"The report is a cost and intent list with no outcomes: it names incident 1 but its substantive action (A7) is the evidence-preservation step of incident 9, and…"
+2:17,Glacier,update,"The report names the Research Data Center incident but documents only generic zero-cost sharing actions with no described effect, content, or outcome; the clos…"
+2:17,Katmai,update,"The report names the rural clinics as its incident but documents no effect there; its only concrete action is free intelligence sharing, and the dispensing-pro…"
+2:17,Katmai,update,"The report stopped before Outcomes/Needs/Risks, and the line description is a plan rather than a result; A10 (the written manual dispensing protocol) was the a…"
+2:17,Olympic,update,"The report is a bare action line with template scaffolding: no sites, no verification, no resulting state, and an action ID outside the Liaison's catalog, so i…"
+2:17,Olympic,update,"The submission is an unfilled template: one action line for a county continuity failover, a claimed $50K payment by Banff, and nothing stating what happened or…"
+2:17,Olympic,update,"The submission names A14 and a joint agreement to activate it, but documents no message content, no target incident, and no landed effect, so it works none of…"
+2:17,Olympic,update,"A13 is in role and costless, but the report stops at intent and an authorization note; the report's own text says the role cannot verify what a 'verified' dire…"
+2:17,Teton,update,"The report works only incident 7 and does not address the other three incidents the briefing lists as visible to this role (5, 10, 16), including the escalated…"
+2:17,Teton,update,"Filing came at 0:35:08, just after the 0:35 deadline on the prescription incident, which had already escalated per the board update."
+2:17,Teton,update,"This attempt uses only the free A1 sharing action; no priced outreach (A12) or messenger activation (A22) was taken, and the report closes with an expectation…"
+2:17,Yellowstone,update,"The report identifies the right incident and the exact closing catalog action but stops at funding details; it files a check without reporting what it found, s…"
+2:17,Yellowstone,update,"The report describes an agreement/decision to take A4, not a completed quarantine, and never reports the landing, so the effect is not scored as reached."
+2:17,Yellowstone,update,"The submission is essentially a plan: the correct catalog action is named for the wrong-record incident but the report never describes its landing, so it is gr…"
+2:17,Zion,update,"The report starts the right work — signature analysis of an uncharacterised implant and an IoC push — but describes no result from any of it, so everything her…"
+2:17,Zion,update,"A7 is priced at the catalog $40K with the trust-6 modifier and the team's claimed 50% share, giving $20K, consistent with its stated remaining budget."
+2:17,Zion,update,"The report addresses only the 10:00 availability incident and even there logs actions without reporting any outcome; all catalog actions listed are zero-cost,…"
+2:17,Zion,update,"The team's only landed action on incident 12 is the free A1 exchange; the $10K custom containment operation is a proposal and is not charged, and the near-miss…"
+2:17,Zion,update,"Correct, in-role actions on the cluster compromise and evidence preservation, but the report is a record of work started without results — no characterisation,…"
+2:17,Zion,update,"A7 charged at full catalog price with no claimed split; the proposed custom triage was not executed, and the report records no completed preservation, chain of…"
+2:17,Zion,update,"The report frames everything around the research cluster incident and reports no findings from the analysis, so the characterization the whole phase is sized o…"
+2:17,Zion,update,All catalog actions are $0 so nothing is charged; the proposed custom action is not an executed action.
+2:17,Zion,update,"The report is a late response to incident 1 after its 0:20 deadline escalation and after incident 12 had opened, yet it reports no containment; incident 12, th…"
+2:17,Zion,update,"The report lists the right zero-cost actions but reports none of their results; no incident reaches its closed state, and the county notice central to the scan…"
+2:17,Zion,update,"Report addresses incident 1 only; the analysis is started but no characterisation or containment is documented, so the incident's closed state is not reached."
+2:17,Zion,update,"Both filed actions were free and in role, but the report ends at intent: no indicators, recipients, or effects are described, and no answer was filed for the 1…"
+2:17,Acadia,update,"Dependent-Care Patients Unreachable — The trusted-messenger network has been activated as a channel, but no dependent-care patient is documented as reached with a named path to today's care."
+2:17,Katmai,update,"Dependent-Care Patients Unreachable — The trusted-messenger network has been activated as a channel, but no dependent-care patient is documented as reached with a named path to today's care."
+2:17,Redwood,update,"Dependent-Care Patients Unreachable — The trusted-messenger network has been activated as a channel, but no dependent-care patient is documented as reached with a named path to today's care."
+2:17,Shenandoah,update,"Dependent-Care Patients Unreachable — The trusted-messenger network has been activated as a channel, but no dependent-care patient is documented as reached with a named path to today's care."
+2:17,Teton,update,"Dependent-Care Patients Unreachable — The trusted-messenger network has been activated as a channel, but no dependent-care patient is documented as reached with a named path to today's care."
+2:17,Acadia,update,County Government Continuity At Risk — County functions were failed over to the continuity environment; whether the environment has carried live load is not documented.
+2:17,Banff,update,County Government Continuity At Risk — County functions were failed over to the continuity environment; whether the environment has carried live load is not documented.
+2:17,Olympic,update,County Government Continuity At Risk — County functions were failed over to the continuity environment; whether the environment has carried live load is not documented.
+2:17,Denali,update,Grundy Closes — Ninety-Minute Diversion — The Grundy dependent-care patient list profile and the ninety-minute diversion distance have been shared with the community and transport network so ride ident…
+2:17,Redwood,update,Grundy Closes — Ninety-Minute Diversion — The Grundy dependent-care patient list profile and the ninety-minute diversion distance have been shared with the community and transport network so ride ident…
+2:17,Teton,update,Grundy Closes — Ninety-Minute Diversion — The Grundy dependent-care patient list profile and the ninety-minute diversion distance have been shared with the community and transport network so ride ident…
+2:17,Everglades,update,"Compromise Reaches the Research Data Center — A research data center shutdown was initiated; whether the infected compute is down or isolated, whether the surviving nodes are confirmed clean, and whether a…"
+2:17,Glacier,update,"Compromise Reaches the Research Data Center — A research data center shutdown was initiated; whether the infected compute is down or isolated, whether the surviving nodes are confirmed clean, and whether a…"
+2:17,Zion,update,"Compromise Reaches the Research Data Center — A research data center shutdown was initiated; whether the infected compute is down or isolated, whether the surviving nodes are confirmed clean, and whether a…"
+2:17,Acadia,update,"County Government Continuity At Risk — No county function is documented as operating from the continuity environment; the shared services remain exposed to a VITA cut, and the only recorded action i…"
+2:17,Banff,update,"County Government Continuity At Risk — No county function is documented as operating from the continuity environment; the shared services remain exposed to a VITA cut, and the only recorded action i…"
+2:17,Olympic,update,"County Government Continuity At Risk — No county function is documented as operating from the continuity environment; the shared services remain exposed to a VITA cut, and the only recorded action i…"
+2:17,Banff,update,"Richmond Wants One Answer Before 10:00 — A patient-safety statement is being coordinated with public health, but the consolidated answer for the 10:00 availability remains unfiled and nothing verified…"
+2:17,Olympic,update,"Richmond Wants One Answer Before 10:00 — A patient-safety statement is being coordinated with public health, but the consolidated answer for the 10:00 availability remains unfiled and nothing verified…"
+2:17,Teton,update,"Richmond Wants One Answer Before 10:00 — A patient-safety statement is being coordinated with public health, but the consolidated answer for the 10:00 availability remains unfiled and nothing verified…"
+2:17,Zion,update,"Richmond Wants One Answer Before 10:00 — A patient-safety statement is being coordinated with public health, but the consolidated answer for the 10:00 availability remains unfiled and nothing verified…"
+2:17,Acadia,update,"Dependent-Care Patients Unreachable — Dependent-care outreach was launched through faith and volunteer-fire channels, but no patient reaches, transport arrangements, or delivery paths have been con…"
+2:17,Katmai,update,"Dependent-Care Patients Unreachable — Dependent-care outreach was launched through faith and volunteer-fire channels, but no patient reaches, transport arrangements, or delivery paths have been con…"
+2:17,Redwood,update,"Dependent-Care Patients Unreachable — Dependent-care outreach was launched through faith and volunteer-fire channels, but no patient reaches, transport arrangements, or delivery paths have been con…"
+2:17,Shenandoah,update,"Dependent-Care Patients Unreachable — Dependent-care outreach was launched through faith and volunteer-fire channels, but no patient reaches, transport arrangements, or delivery paths have been con…"
+2:17,Teton,update,"Dependent-Care Patients Unreachable — Dependent-care outreach was launched through faith and volunteer-fire channels, but no patient reaches, transport arrangements, or delivery paths have been con…"
+2:17,Denali,update,"Grundy Closes — Ninety-Minute Diversion — Grundy's dependent-care patients were flagged to the staffing side and are being contacted, but no named open destination or confirmed ride is documented, and…"
+2:17,Redwood,update,"Grundy Closes — Ninety-Minute Diversion — Grundy's dependent-care patients were flagged to the staffing side and are being contacted, but no named open destination or confirmed ride is documented, and…"
+2:17,Teton,update,"Grundy Closes — Ninety-Minute Diversion — Grundy's dependent-care patients were flagged to the staffing side and are being contacted, but no named open destination or confirmed ride is documented, and…"
+2:17,Katmai,update,A Medication Was Prepared Against the Wrong Record — The record system is still serving mismatched records and the near-miss documentation in the safety process is not confirmed; the wrong-record flow remains uns…
+2:17,Shenandoah,update,A Medication Was Prepared Against the Wrong Record — The record system is still serving mismatched records and the near-miss documentation in the safety process is not confirmed; the wrong-record flow remains uns…
+2:17,Yellowstone,update,A Medication Was Prepared Against the Wrong Record — The record system is still serving mismatched records and the near-miss documentation in the safety process is not confirmed; the wrong-record flow remains uns…
+2:17,Banff,update,"Richmond Wants One Answer Before 10:00 — A federal cyber emergency declaration has been requested and information is being pushed through regional channels, but no consolidated answer on patient-data…"
+2:17,Olympic,update,"Richmond Wants One Answer Before 10:00 — A federal cyber emergency declaration has been requested and information is being pushed through regional channels, but no consolidated answer on patient-data…"
+2:17,Teton,update,"Richmond Wants One Answer Before 10:00 — A federal cyber emergency declaration has been requested and information is being pushed through regional channels, but no consolidated answer on patient-data…"
+2:17,Zion,update,"Richmond Wants One Answer Before 10:00 — A federal cyber emergency declaration has been requested and information is being pushed through regional channels, but no consolidated answer on patient-data…"
+2:17,Everglades,update,"Compromise Reaches the Research Data Center — Verified indicators on the compromised research data-center nodes were shared with the FBI task force; no node has been isolated or shut down, no surviving nod…"
+2:17,Glacier,update,"Compromise Reaches the Research Data Center — Verified indicators on the compromised research data-center nodes were shared with the FBI task force; no node has been isolated or shut down, no surviving nod…"
+2:17,Zion,update,"Compromise Reaches the Research Data Center — Verified indicators on the compromised research data-center nodes were shared with the FBI task force; no node has been isolated or shut down, no surviving nod…"
+2:17,Everglades,escalation,Evidence and Recovery Want the Same Machines — No response before the 0:40 deadline; escalated.
+2:17,Glacier,escalation,Evidence and Recovery Want the Same Machines — No response before the 0:40 deadline; escalated.
+2:17,Yellowstone,escalation,Evidence and Recovery Want the Same Machines — No response before the 0:40 deadline; escalated.
+2:17,Zion,escalation,Evidence and Recovery Want the Same Machines — No response before the 0:40 deadline; escalated.
