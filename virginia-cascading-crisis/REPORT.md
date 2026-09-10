@@ -4,18 +4,6 @@
 **Role:**
 **Phase:**
 
-**During the phase: one report per incident.** If your team acted on two
-incidents, file two reports — each is read on its own, and a report about one
-thing is scored more precisely than a report about four.
-
-**That evening: one report for the phase.** It carries the two sections only it
-can carry, looks back on everything your team did, and names the incidents you
-worked where this template asks for one.
-
-Delete any section you have nothing to report in. What each section is for,
-worked examples, and how this is graded: **Filling In the Report** on the help
-page.
-
 ## What My Role Could See
 
 The incident this report is about, by its dashboard title:
