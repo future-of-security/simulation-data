@@ -17,3 +17,16 @@ sim_time,team,type,message
 0:25,Redwood,escalation,No response before the 0:25 deadline; escalated.
 0:25,Shenandoah,escalation,No response before the 0:25 deadline; escalated.
 0:31,ALL,warning,"Fill the Team: line at the top of your report with your codename. Reports arriving without it are read against the whole board instead of your role's view, which costs you on role engagement and can misprice your actions."
+0:36,Acadia,update,"The submission is a single bare action line: the emergency alert activation is agreed, but no message content, verified number, or account of what the public w…"
+0:36,Everglades,update,"The submission is mostly empty template; the only substantive claim is a $0 custom backup on the contested hosts, which leaves incident 9's core conflict stand…"
+0:36,Everglades,update,"Evidence and Recovery Want the Same Machines — A backup of the hospital data on the contested hosts is reported, but the hosts are still not imaged with chain of custody and nobody has ruled on the evidence…"
+0:36,Glacier,update,"Evidence and Recovery Want the Same Machines — A backup of the hospital data on the contested hosts is reported, but the hosts are still not imaged with chain of custody and nobody has ruled on the evidence…"
+0:36,Yellowstone,update,"Evidence and Recovery Want the Same Machines — A backup of the hospital data on the contested hosts is reported, but the hosts are still not imaged with chain of custody and nobody has ruled on the evidence…"
+0:36,Zion,update,"Evidence and Recovery Want the Same Machines — A backup of the hospital data on the contested hosts is reported, but the hosts are still not imaged with chain of custody and nobody has ruled on the evidence…"
+0:36,Shenandoah,escalation,Networked Medical Devices Logging Changes Nobody Made — No response before the 0:30 deadline; escalated.
+0:36,Yellowstone,escalation,Networked Medical Devices Logging Changes Nobody Made — No response before the 0:30 deadline; escalated.
+0:36,Acadia,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
+0:36,Banff,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
+0:36,Everglades,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
+0:36,Redwood,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
+0:36,Zion,escalation,Scanning From Regional Addresses Against State Shared Services — No response before the 0:30 deadline; escalated.
