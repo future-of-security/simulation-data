@@ -16,3 +16,4 @@ sim_time,team,type,message
 0:25,Katmai,escalation,No response before the 0:25 deadline; escalated.
 0:25,Redwood,escalation,No response before the 0:25 deadline; escalated.
 0:25,Shenandoah,escalation,No response before the 0:25 deadline; escalated.
+0:31,ALL,warning,"Fill the Team: line at the top of your report with your codename. Reports arriving without it are read against the whole board instead of your role's view, which costs you on role engagement and can misprice your actions."
