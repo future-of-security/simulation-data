@@ -159,3 +159,5 @@ sim_time,team,type,message
 14:36,Olympic,escalation,10:00 — Richmond Went Out Without a Verified Number — No response before the 3:38 deadline; escalated.
 14:36,Shenandoah,escalation,10:00 — Richmond Went Out Without a Verified Number — No response before the 3:38 deadline; escalated.
 14:41,Shenandoah,update,"A12 against incident 7 was already credited to this team in an earlier attempt (shenandoah_phase1_attempt_4.md), so the phase should pay for it once and this a…"
+14:47,Olympic,update,The report says it is about the EHR incident but its only action is a county continuity failover it never describes a result for; with trust at 0 the pricing r…
+14:47,Olympic,update,"This appears to be a re-filing of the county failover already credited to Olympic attempt 2 (custom, same incident 8), so the phase likely pays and awards once…"
