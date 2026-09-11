@@ -158,3 +158,4 @@ sim_time,team,type,message
 14:36,Banff,escalation,10:00 — Richmond Went Out Without a Verified Number — No response before the 3:38 deadline; escalated.
 14:36,Olympic,escalation,10:00 — Richmond Went Out Without a Verified Number — No response before the 3:38 deadline; escalated.
 14:36,Shenandoah,escalation,10:00 — Richmond Went Out Without a Verified Number — No response before the 3:38 deadline; escalated.
+14:41,Shenandoah,update,"A12 against incident 7 was already credited to this team in an earlier attempt (shenandoah_phase1_attempt_4.md), so the phase should pay for it once and this a…"
