@@ -161,3 +161,8 @@ sim_time,team,type,message
 14:41,Shenandoah,update,"A12 against incident 7 was already credited to this team in an earlier attempt (shenandoah_phase1_attempt_4.md), so the phase should pay for it once and this a…"
 14:47,Olympic,update,The report says it is about the EHR incident but its only action is a county continuity failover it never describes a result for; with trust at 0 the pricing r…
 14:47,Olympic,update,"This appears to be a re-filing of the county failover already credited to Olympic attempt 2 (custom, same incident 8), so the phase likely pays and awards once…"
+15:02,Olympic,update,Collaboration confirmed by your partner; the split holds and trust rises.
+15:02,Olympic,update,"Underwriting the failover was within your charter, but executing a county continuity move was not, and no county function was shown operating; priced as partial at the procurement release rate."
+15:02,Olympic,update,The A3 split with Yellowstone and Glacier is confirmed; your 18K share is correct and the collaboration stands.
+15:02,Redwood,update,"No partner filing confirms the A2 split with Everglades; the arrangement does not hold, so the remaining $35K of the $70K price is charged to you."
+15:02,Yellowstone,update,"The A3 split with Olympic and Glacier is confirmed; your true share is 54K, and the 1K you overpaid is returned."
