@@ -97,3 +97,14 @@ sim_time,team,type,message
 0:33,Everglades,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
 0:33,Shenandoah,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
 0:33,Zion,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
+0:38,Acadia,update,"Only a custom $0 action is filed, against the incident the report names; with $12.5K left the role could not fund its own notification action, and no notificat…"
+0:38,Banff,update,A8 against the breach-story incident was already carried and charged (22500) by attempt_2 of this phase and is reflected in the board's 0:29 update to that inc…
+0:38,Glacier,update,"The report works one incident, the role's own, with two in-role catalog actions, but it documents no product: no text of the correction and no channel it ran o…"
+0:38,Glacier,update,"A single catalog action in role, priced at zero, but reported as intent rather than as a produced result, so the incident's closing condition stays standing."
+0:38,Katmai,update,"A3 was entered at half price on a claimed partner transfer, so 40K x 1.0 x 0.5 is charged here; its 15-minute effect had not landed at filing and the report ne…"
+0:38,Shenandoah,update,A21 and A1 against incident 5 were already credited to this team in shenandoah_phase2_attempt_2.md at the same moderate_partial level; this filing repeats them…
+0:38,Shenandoah,update,"Trust 5 reads as x1.0, but A14 is a zero-cost action so the charge is zero either way."
+0:38,Zion,update,"A11 against incident 4 was already carried and credited on an earlier attempt this cycle, so the action is recorded with a claimed split of 0 and charged nothi…"
+0:38,Acadia,escalation,The Newsroom Has The Breach Story And No Confirmation — No response before the 0:35 deadline; escalated.
+0:38,Banff,escalation,The Newsroom Has The Breach Story And No Confirmation — No response before the 0:35 deadline; escalated.
+0:38,Katmai,escalation,The Newsroom Has The Breach Story And No Confirmation — No response before the 0:35 deadline; escalated.
