@@ -84,3 +84,16 @@ sim_time,team,type,message
 0:29,Redwood,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
 0:29,Shenandoah,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
 0:29,Zion,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
+0:33,Acadia,update,"Trust at charge was 5, so the standard modifier applies and the action is charged at full price with no split claimed."
+0:33,Banff,update,"The report names one action, in role, and its own catalog id; it is graded on the world it describes, and it describes a correction still to come rather than o…"
+0:33,Everglades,update,"A1 is free, so the trust-band modifier read at the charge (trust 4, x1.25) leaves charged at 0."
+0:33,Teton,update,"One action filed, free and in role, but with no account of what it produced, and the only costed item is another role's action; graded on the world, the file's…"
+0:33,Yellowstone,update,"A1 was named again here but is already credited to this team in attempt 1 and carries no charge, so it is not re-priced."
+0:33,Zion,update,Trust 5 at charge gives a 1.0 modifier.
+0:33,Denali,escalation,Fraud Sites Are Collecting 'Breach Compensation' Details — No response before the 0:30 deadline; escalated.
+0:33,Yellowstone,escalation,Fraud Sites Are Collecting 'Breach Compensation' Details — No response before the 0:30 deadline; escalated.
+0:33,Zion,escalation,Fraud Sites Are Collecting 'Breach Compensation' Details — No response before the 0:30 deadline; escalated.
+0:33,Denali,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
+0:33,Everglades,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
+0:33,Shenandoah,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
+0:33,Zion,escalation,"Accounts Impersonating The Sheriff, The District And The Schools — No response before the 0:30 deadline; escalated."
