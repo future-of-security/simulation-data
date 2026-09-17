@@ -46,3 +46,41 @@ sim_time,team,type,message
 0:21,Yellowstone,update,"A File Of 31,400 Patient Rows Is Public — A staffed records-access line is open at the library branches and public terminals so a resident can ask whether their record is in the posted file; whether th…"
 0:25,Everglades,update,"Olympic never filed this split, so no agreement is on record; A20 costs 30000 and your half does not cover it, so you are charged the remaining 15000."
 0:25,Yellowstone,update,"Your A22 filing names no partner and no counterpart filed against A22, so the half split does not hold and you cover the action's remaining 20000 yourself."
+0:29,Acadia,update,A12 is the incident's named near miss and nothing in the report carries it past that: no authenticity finding and no notification to the named patients (A2 is…
+0:29,Banff,update,A8 is in-role for the Regional News Consortium and priced with the trust 5-7 modifier at the half split the report claims; the trust 1-2 failure clause does no…
+0:29,Banff,update,"The free intelligence-sharing action is the only priced entry; it starts work on the corroboration the incident needs but reports no product, so it scores as h…"
+0:29,Denali,update,Trust 6 gave the neutral ×1.0 modifier.
+0:29,Denali,update,"One free catalog action (A1) is claimed with no incident-specific content and no described effect, and the report's budget section is internally inconsistent (…"
+0:29,Glacier,update,"A4 is filed a second time by the same team this phase; it carries no cost either way, but the phase should charge it once, to the attempt that first carried it."
+0:29,Olympic,update,"A6 carries a 10-minute delay and the report never says what the briefing produced, so this is a start on the work rather than a reported landing."
+0:29,Olympic,update,"Trust 6 at charge, so no modifier."
+0:29,Redwood,update,Trust 6 gives the 1.0 modifier on all charges; A3 is charged at a claimed half share because the report itself shows $60k remaining against $80k.
+0:29,Shenandoah,update,"No catalog action ID appears in this report; the sole action is an improvised zero-cost public statement with a 5-minute delay, filed as proposed rather than a…"
+0:29,Teton,update,"Trust sits at 6, so A6 carries no failure risk and the full-modifier charge applies."
+0:29,Zion,update,"Both actions are in role and the A5 delay is acknowledged, but the report never says what either action produced, and the one citable state the incident names…"
+0:29,Zion,update,"One incident, worked in role, both catalog actions free."
+0:29,Acadia,update,"The Newsroom Has The Breach Story And No Confirmation — A newsroom verification desk is being paid for and split with another consortium member, but no claim has been checked, nothing unconfirmed has been published,…"
+0:29,Banff,update,"The Newsroom Has The Breach Story And No Confirmation — A newsroom verification desk is being paid for and split with another consortium member, but no claim has been checked, nothing unconfirmed has been published,…"
+0:29,Katmai,update,"The Newsroom Has The Breach Story And No Confirmation — A newsroom verification desk is being paid for and split with another consortium member, but no claim has been checked, nothing unconfirmed has been published,…"
+0:29,Banff,update,"The University Holds The Facts And Nobody Believes It — Nothing has been published: the university's account of what happened on its network is not public, and no second institution the region trusts has put its nam…"
+0:29,Glacier,update,"The University Holds The Facts And Nobody Believes It — Nothing has been published: the university's account of what happened on its network is not public, and no second institution the region trusts has put its nam…"
+0:29,Redwood,update,"The University Holds The Facts And Nobody Believes It — Nothing has been published: the university's account of what happened on its network is not public, and no second institution the region trusts has put its nam…"
+0:29,Denali,update,Fraud Sites Are Collecting 'Breach Compensation' Details — A takedown request has been filed against the fraudulent 'breach compensation' sites and a credit-freeze and fraud clinic is claimed at the library terminals;…
+0:29,Yellowstone,update,Fraud Sites Are Collecting 'Breach Compensation' Details — A takedown request has been filed against the fraudulent 'breach compensation' sites and a credit-freeze and fraud clinic is claimed at the library terminals;…
+0:29,Zion,update,Fraud Sites Are Collecting 'Breach Compensation' Details — A takedown request has been filed against the fraudulent 'breach compensation' sites and a credit-freeze and fraud clinic is claimed at the library terminals;…
+0:29,Banff,update,"The University Holds The Facts And Nobody Believes It — The university's account has been pushed out and shared, but no second institution the region believes has corroborated it, so the region still has no shared v…"
+0:29,Glacier,update,"The University Holds The Facts And Nobody Believes It — The university's account has been pushed out and shared, but no second institution the region believes has corroborated it, so the region still has no shared v…"
+0:29,Redwood,update,"The University Holds The Facts And Nobody Believes It — The university's account has been pushed out and shared, but no second institution the region believes has corroborated it, so the region still has no shared v…"
+0:29,Acadia,escalation,"A File Of 31,400 Patient Rows Is Public — No response before the 0:25 deadline; escalated."
+0:29,Denali,escalation,"A File Of 31,400 Patient Rows Is Public — No response before the 0:25 deadline; escalated."
+0:29,Katmai,escalation,"A File Of 31,400 Patient Rows Is Public — No response before the 0:25 deadline; escalated."
+0:29,Teton,escalation,"A File Of 31,400 Patient Rows Is Public — No response before the 0:25 deadline; escalated."
+0:29,Yellowstone,escalation,"A File Of 31,400 Patient Rows Is Public — No response before the 0:25 deadline; escalated."
+0:29,Everglades,escalation,A Synthetic Video Of The Liaison Is Circulating — No response before the 0:20 deadline; escalated.
+0:29,Glacier,escalation,A Synthetic Video Of The Liaison Is Circulating — No response before the 0:20 deadline; escalated.
+0:29,Katmai,escalation,A Synthetic Video Of The Liaison Is Circulating — No response before the 0:20 deadline; escalated.
+0:29,Redwood,escalation,A Synthetic Video Of The Liaison Is Circulating — No response before the 0:20 deadline; escalated.
+0:29,Zion,escalation,A Synthetic Video Of The Liaison Is Circulating — No response before the 0:20 deadline; escalated.
+0:29,Redwood,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
+0:29,Shenandoah,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
+0:29,Zion,escalation,"A Researcher Is Named, Doxxed And Threatened — No response before the 0:25 deadline; escalated."
