@@ -6,7 +6,7 @@
 
 ## What My Role Could See
 
-The incident this report is about, by its dashboard title:
+The incident this report is about, by its dashboard id (for example `I201`):
 
 -
 
