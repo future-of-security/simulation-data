@@ -6,7 +6,7 @@
    "phase": 2,
    "sim_time": "0:00",
    "incident": "A File Of 31,400 Patient Rows Is Public",
-   "description": "Since 06:40 a paste site has carried a file headed carilion_swva_patients_2026: names, dates of birth, addresses, the last four of a Social Security number, a clinic code. Nobody has established whether it is genuine, whether it is the whole of what was taken, or whether it is even from this breach. Every other decision this phase is sized off that answer, and 31,400 people cannot find out whether they are in it. [UPDATE 0:21] An exposure assessment of the posted file has been commissioned; no determination of the file's authenticity or of how many records it holds has been published, and the 31,400 people named in it have [UPDATE 0:21] A staffed records-access line is open at the library branches and public terminals so a resident can ask whether their record is in the posted file; whether the file is genuine and how many records it [UPDATE 0:29] No response before the 0:25 deadline; escalated.",
+   "description": "Since 06:40 a paste site has carried a file headed carilion_swva_patients_2026: names, dates of birth, addresses, the last four of a Social Security number, a clinic code. Nobody has established whether it is genuine, whether it is the whole of what was taken, or whether it is even from this breach. Every other decision this phase is sized off that answer, and 31,400 people cannot find out whether they are in it.",
    "location": "Region-wide",
    "severity": 5,
    "visible_to": [
@@ -27,7 +27,7 @@
    "phase": 2,
    "sim_time": "0:00",
    "incident": "A Synthetic Video Of The Liaison Is Circulating",
-   "description": "A clip of the Governor's SW Virginia Liaison saying the outage was 'an internal decision to protect data' is on every regional feed. She never said it. It is good, and two county officials have already shared it believing it. Until someone establishes that it is synthetic and says so in a form a county can cite, every official statement this phase is read against it. [UPDATE 0:18] A community listening session on the clip is being stood up with the faith network and the division; no determination that the video is synthetic has been issued, so county officials still have nothin [UPDATE 0:29] No response before the 0:20 deadline; escalated.",
+   "description": "A clip of the Governor's SW Virginia Liaison saying the outage was 'an internal decision to protect data' is on every regional feed. She never said it. It is good, and two county officials have already shared it believing it. Until someone establishes that it is synthetic and says so in a form a county can cite, every official statement this phase is read against it.",
    "location": "Region-wide",
    "severity": 4,
    "visible_to": [
@@ -48,7 +48,7 @@
    "phase": 2,
    "sim_time": "0:05",
    "incident": "A Researcher Is Named, Doxxed And Threatened",
-   "description": "Hundreds of accounts name a Virginia Tech researcher as the person who 'let it in'. Her home address is posted. The sheriff's office has taken two calls about her this morning. What the university and the police say next is the only part of this phase nobody gets to revise later. [UPDATE 0:11] A protective response for the named researcher has been initiated and the accusation itself has not been repeated in any public statement; no public statement has been published and no non-social-medi [UPDATE 0:29] No response before the 0:25 deadline; escalated.",
+   "description": "Hundreds of accounts name a Virginia Tech researcher as the person who 'let it in'. Her home address is posted. The sheriff's office has taken two calls about her this morning. What the university and the police say next is the only part of this phase nobody gets to revise later.",
    "location": "Blacksburg",
    "severity": 4,
    "visible_to": [
@@ -67,7 +67,7 @@
    "phase": 2,
    "sim_time": "0:05",
    "incident": "Fraud Sites Are Collecting 'Breach Compensation' Details",
-   "description": "At least four sites are collecting exactly the fields the posted file contains, in exchange for a promised payment. They are reaching households through the library terminals — the only internet in three hollows — and the first wire transfers have already gone out. [UPDATE 0:29] A takedown request has been filed against the fraudulent 'breach compensation' sites and a credit-freeze and fraud clinic is claimed at the library terminals; no site is confirmed down, no affected te [UPDATE 0:33] No response before the 0:30 deadline; escalated.",
+   "description": "At least four sites are collecting exactly the fields the posted file contains, in exchange for a promised payment. They are reaching households through the library terminals — the only internet in three hollows — and the first wire transfers have already gone out.",
    "location": "Coalfield counties",
    "severity": 4,
    "visible_to": [
@@ -86,7 +86,7 @@
    "phase": 2,
    "sim_time": "0:05",
    "incident": "Accounts Impersonating The Sheriff, The District And The Schools",
-   "description": "Three accounts are posting instructions under the names of the health district, the sheriff's office and the school division. The instructions contradict each other and one of them tells people to bring their records to a building that is closed. Nothing distinguishes them from the real accounts except that the real ones have said less. [UPDATE 0:18] Takedown requests against the three impersonating accounts have been initiated; no confirmation that the accounts are down and no public list distinguishing real accounts from impersonators has been p [UPDATE 0:33] No response before the 0:30 deadline; escalated.",
+   "description": "Three accounts are posting instructions under the names of the health district, the sheriff's office and the school division. The instructions contradict each other and one of them tells people to bring their records to a building that is closed. Nothing distinguishes them from the real accounts except that the real ones have said less.",
    "location": "Region-wide",
    "severity": 3,
    "visible_to": [
@@ -106,7 +106,7 @@
    "phase": 2,
    "sim_time": "0:10",
    "incident": "Yesterday's Sentence: 'No Patient Data Was Affected'",
-   "description": "The Liaison said it, on the record, before anything had been verified. It is now the most-quoted sentence in the region and the thing every correction has to climb over. Correcting it means conceding it in public; not correcting it means the region's next true statement is read as the same kind of thing. [UPDATE 0:14] The region's newsroom has moved to retract the earlier report it carried, but the sentence 'No patient data was affected' still stands uncorrected in the form that ends this: naming what was said befo [UPDATE 1:09] Not resolved by the 0:40 deadline; escalated.",
+   "description": "The Liaison said it, on the record, before anything had been verified. It is now the most-quoted sentence in the region and the thing every correction has to climb over. Correcting it means conceding it in public; not correcting it means the region's next true statement is read as the same kind of thing.",
    "location": "Richmond / Region-wide",
    "severity": 4,
    "visible_to": [
@@ -126,7 +126,7 @@
    "phase": 2,
    "sim_time": "0:10",
    "incident": "Patients Are Staying Away From Care",
-   "description": "The clinics that reopened are seeing a third fewer patients than a normal Wednesday, and the ones not coming are the dialysis, MAT and prenatal schedules — the people with the least slack. What they have read is that the clinics leak. [UPDATE 1:09] The expanded health message is bought but not yet shown to have changed the floor: clinic counts are still about a third below a normal Wednesday and the dialysis, MAT and prenatal schedules are the ones still missing. A general 'it is safe to come' line does not speak to the fear that the clinics leak, so it is the reassurance that has already failed to bring people back; until a message says plainly, in household words, what is safe and what is not, those schedules keep shrinking.",
+   "description": "The clinics that reopened are seeing a third fewer patients than a normal Wednesday, and the ones not coming are the dialysis, MAT and prenatal schedules — the people with the least slack. What they have read is that the clinics leak.",
    "location": "Coalfield counties",
    "severity": 4,
    "visible_to": [
@@ -145,7 +145,7 @@
    "phase": 2,
    "sim_time": "0:10",
    "incident": "The Newsroom Has The Breach Story And No Confirmation",
-   "description": "The region's newsroom can run the file story now with what it has, hold it while it verifies, or publish what it cannot confirm. Three worse versions are already circulating. Whatever it does becomes the version the rest of the state picks up. [UPDATE 0:29] A newsroom verification desk is being paid for and split with another consortium member, but no claim has been checked, nothing unconfirmed has been published, and the three worse circulating versions [UPDATE 0:38] No response before the 0:35 deadline; escalated.",
+   "description": "The region's newsroom can run the file story now with what it has, hold it while it verifies, or publish what it cannot confirm. Three worse versions are already circulating. Whatever it does becomes the version the rest of the state picks up.",
    "location": "Roanoke / Region-wide",
    "severity": 3,
    "visible_to": [
@@ -164,7 +164,7 @@
    "phase": 2,
    "sim_time": "0:15",
    "incident": "Fifteen Thousand Families Have Read That School Is Closed",
-   "description": "A fabricated notice under the school division's letterhead says schools are closed tomorrow for 'data security'. It is not true. Half the division's families have seen it, buses are being asked about, and the division's own channel has not said anything since Monday. [UPDATE 0:21] Fifteen thousand families still hold a fabricated closure notice as the last word from the division; a notification is planned but no verified message about closures, clinics or records has reached th [UPDATE 0:21] An emergency broadcast activation for the school-closure correction is claimed by the sheriff's public information role; there is no record of any message going out, and the division's families still [UPDATE 1:09] Fifteen thousand families still hold the fabricated closure notice as the last word from the division: a correction is promised on the division's own website and the emergency broadcast activation claimed for it has no record of going out, so nothing has landed on a channel that reaches the hollows where the fake arrived. Until one message carrying what is true about closures, clinics and records reaches those phones, the fabricated notice stands. [UPDATE 1:09] Public terminals carry guidance on what a genuine division notice looks like, but no verified message about the closures, the clinics or the records has gone out on any channel the fabrication reached; the 15,000 families still hold the fake closure notice as the division's last word, and without a verified correction reaching phones and the hollows the buses and clinics keep answering to a closure that is not happening.",
+   "description": "A fabricated notice under the school division's letterhead says schools are closed tomorrow for 'data security'. It is not true. Half the division's families have seen it, buses are being asked about, and the division's own channel has not said anything since Monday.",
    "location": "Region-wide",
    "severity": 3,
    "visible_to": [
@@ -184,7 +184,7 @@
    "phase": 2,
    "sim_time": "0:15",
    "incident": "The University Holds The Facts And Nobody Believes It",
-   "description": "Virginia Tech can say what actually happened on its network — the shared research link, the cluster, the timeline. It is also the institution being blamed by name, which means its account will be read as a defence. Whether it publishes, and who publishes with it, decides whether the region ever gets a shared version of yesterday. [UPDATE 0:29] Nothing has been published: the university's account of what happened on its network is not public, and no second institution the region trusts has put its name to it, so the region still has no share [UPDATE 0:29] The university's account has been pushed out and shared, but no second institution the region believes has corroborated it, so the region still has no shared version of yesterday. [UPDATE 1:09] The university's account is public but still stands alone: no second institution the region believes has put its name to it, so the region still has no shared version of yesterday, and any institution that speaks next does so into that vacuum.",
+   "description": "Virginia Tech can say what actually happened on its network — the shared research link, the cluster, the timeline. It is also the institution being blamed by name, which means its account will be read as a defence. Whether it publishes, and who publishes with it, decides whether the region ever gets a shared version of yesterday.",
    "location": "Blacksburg / Region-wide",
    "severity": 3,
    "visible_to": [
@@ -243,7 +243,7 @@
    "phase": 2,
    "sim_time": "0:29",
    "incident": "A Second File, With Billing And Insurance IDs, Lands On The Same Paste Site",
-   "description": "The first file was verified — and verified honestly. But it was only the first cut, and the assessment stopped at confirmed instead of how far it went. A second file with billing and insurance IDs for the same 31,400 plus 15,600 more is now on the site. The notification being written for 31,400 is wrong by half, and the fraud sites have richer data than the clinics have confirmed. [UPDATE 1:09] The second file of billing and insurance IDs sits on the same paste site with nothing bounding how far the exposure runs: the notification still in draft is written for 31,400 when the two files together describe 47,000, and no ceiling or third-file check has been produced. Aimed work on that ceiling and on a reworked message covering the extra fields, including the fraud guidance the richer data now demands, is what moves this; without it the 15,600 extra people stay unnamed and the scam sites keep holding fields the health system has not confirmed.",
+   "description": "The first file was verified — and verified honestly. But it was only the first cut, and the assessment stopped at confirmed instead of how far it went. A second file with billing and insurance IDs for the same 31,400 plus 15,600 more is now on the site. The notification being written for 31,400 is wrong by half, and the fraud sites have richer data than the clinics have confirmed.",
    "location": "Region-wide",
    "severity": 5,
    "visible_to": [
@@ -281,7 +281,7 @@
    "phase": 2,
    "sim_time": "0:33",
    "incident": "The Fraud Wave Has Its Own Life",
-   "description": "No takedown, no clinic. The sites are now collecting the fields in the file and the first transfers went out yesterday. With the names in hand, the scammers are calling households and using the library terminals as their channel. The AG's office is chasing an enforcement letter nobody has ever seen, and the County's libraries are the channel the fraud runs on. [UPDATE 1:09] A second platform-queue route against the fake 'breach compensation' sites now sits alongside the AG takedown request, and no site has been confirmed down; the transfers that left yesterday are still uncancelled, no household has a routed path to freeze a file, and the library terminals — the only channel the fraud is calling through — still carry no freeze-and-report guidance. Until the terminals carry it, the next call finds the same household with nothing to act on. [UPDATE 1:09] The fraudulent 'breach compensation' sites are still reaching households through the county's public terminals, and the terminals still carry no warning against them; nothing has been posted or taken live on the library network, the credit-freeze and fraud clinic remains claimed but not staffed, and the households that already wired money still have no documented route to freeze a file and report. The channel stays open and the same fields keep being collected until a real notice replaces the scam page on those terminals. [UPDATE 1:09] A second takedown request for the fraudulent 'breach compensation' sites has been filed and is 20 minutes from taking effect; nothing is confirmed down, the library terminals still carry the scammers' channel rather than the real guidance, and the households who already wired money still have no posted route to freeze a file or report, so the wave keeps collecting.",
+   "description": "No takedown, no clinic. The sites are now collecting the fields in the file and the first transfers went out yesterday. With the names in hand, the scammers are calling households and using the library terminals as their channel. The AG's office is chasing an enforcement letter nobody has ever seen, and the County's libraries are the channel the fraud runs on.",
    "location": "Coalfield counties",
    "severity": 5,
    "visible_to": [
