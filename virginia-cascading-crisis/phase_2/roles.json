@@ -1,0 +1,114 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "Carilion Clinic Privacy Office",
+   "sector": "Healthcare Privacy",
+   "budget": -19000,
+   "trust": 8,
+   "score": 183.75,
+   "responsibility": "Breach notification and what a patient is owed: who was in the file that surfaced, what they are told, and when — before a stranger tells them first"
+  },
+  {
+   "team": "Banff",
+   "role": "Regional News Consortium",
+   "sector": "Media",
+   "budget": 5000,
+   "trust": 3,
+   "score": 127.5,
+   "responsibility": "The region's newsroom: what gets published, what gets held, and whether a correction ever catches the story it corrects"
+  },
+  {
+   "team": "Denali",
+   "role": "VA Attorney General Consumer Protection",
+   "sector": "State Legal",
+   "budget": -10000,
+   "trust": 3,
+   "score": 37.5,
+   "responsibility": "Identity theft and fraud in the wake of a breach: the credit freezes, the scam wave, and the enforcement letter nobody wants to be first to send"
+  },
+  {
+   "team": "Everglades",
+   "role": "SW Virginia School Division Communications",
+   "sector": "Education",
+   "budget": -7000,
+   "trust": 5,
+   "score": 127.5,
+   "responsibility": "Fifteen thousand families with children in the affected clinics' catchment, and a deepfake about a school closure already on their phones"
+  },
+  {
+   "team": "Glacier",
+   "role": "Governor's SW Virginia Liaison",
+   "sector": "State Executive",
+   "budget": 55000,
+   "trust": 5,
+   "score": 135,
+   "responsibility": "Speak for the region, own what it said before, and hold the only budget that can underwrite another team's action"
+  },
+  {
+   "team": "Katmai",
+   "role": "CISA Mis- and Disinformation Team",
+   "sector": "Federal Cyber",
+   "budget": 10000,
+   "trust": 3,
+   "score": 157.5,
+   "responsibility": "What is authentic and what is synthetic, said in a form a county can act on — and the limit of what a federal agency may say about a citizen's speech"
+  },
+  {
+   "team": "Olympic",
+   "role": "Appalachian Faith & Community Network",
+   "sector": "Community/Faith",
+   "budget": 17500,
+   "trust": 5,
+   "score": 67.5,
+   "responsibility": "The channel that still works when nobody believes the official one: congregations, volunteer fire departments, the people who knock on doors"
+  },
+  {
+   "team": "Redwood",
+   "role": "Virginia Tech University Relations",
+   "sector": "Academic",
+   "budget": 5000,
+   "trust": 4,
+   "score": 105,
+   "responsibility": "The university is being blamed for the attack by name; its researchers are being doxxed, and its own account is the one nobody will believe"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "SW Virginia Sheriff's Public Information",
+   "sector": "Law Enforcement",
+   "budget": 5000,
+   "trust": 5,
+   "score": 172.5,
+   "responsibility": "What law enforcement says to a frightened public, and what it does about a threat made against a named researcher"
+  },
+  {
+   "team": "Teton",
+   "role": "VDH Risk Communication",
+   "sector": "Public Health",
+   "budget": 12500,
+   "trust": 5,
+   "score": 75,
+   "responsibility": "Keep people coming to care they still need while a rumor says the clinics leak: the health message that has to survive being disbelieved"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "County Broadband & Library Network",
+   "sector": "Digital Access",
+   "budget": -52500,
+   "trust": 3,
+   "score": 157.5,
+   "responsibility": "The public terminals and the only broadband in three hollows — where people without a phone read the news, and where a scam page catches them"
+  },
+  {
+   "team": "Zion",
+   "role": "Platform Trust and Safety Liaison",
+   "sector": "Platform",
+   "budget": 15000,
+   "trust": 3,
+   "score": 187.5,
+   "responsibility": "The company's regional contact: what gets labelled, what gets taken down, how long it takes, and what the company will not do"
+  }
+ ],
+ "phase": 2
+}

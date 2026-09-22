@@ -1,0 +1,285 @@
+{
+ "key": "actions",
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share what you have verified — a confirmed fake, a scam domain, a number that turned out wrong — with every other team. Free, always available, and in a phase about what people believe, the cheapest thing that works."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Breach Notification to Named Patients",
+   "available_to": [
+    "Carilion Clinic Privacy Office"
+   ],
+   "cost": 85000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Write to every patient whose record is in the file that surfaced: what was taken, what it means, what to do today. Legally owed, expensive to do properly, and the only version of this news that does not arrive from a stranger."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Authenticity Determination",
+   "available_to": [
+    "CISA Mis- and Disinformation Team",
+    "Virginia Tech University Relations"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Establish whether a circulating video or document is synthetic, and write the finding so a county official can cite it. Fifteen minutes, and nothing else in this phase can be said with confidence until it is done."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Joint Public Correction",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "VDH Risk Communication"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "Governor's SW Virginia Liaison",
+   "trust_impact": 2,
+   "description": "One correction, issued jointly, naming what was said before and what is now known. The correction that admits the earlier error travels further than the one that quietly replaces it."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Platform Escalation and Labelling",
+   "available_to": [
+    "Platform Trust and Safety Liaison",
+    "CISA Mis- and Disinformation Team"
+   ],
+   "cost": 0,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Route a verified fake to the platform's regional queue for labelling or removal. The delay is the point: what spreads in twenty minutes is not undone by a label in twenty."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Trusted Messenger Briefing",
+   "available_to": [
+    "Appalachian Faith & Community Network",
+    "VDH Risk Communication"
+   ],
+   "cost": 35000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Brief the congregations, volunteer fire departments and community centres with the verified version, in the words they use, so the correction arrives from someone the household already trusts."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Credit Freeze and Fraud Clinic",
+   "available_to": [
+    "VA Attorney General Consumer Protection",
+    "County Broadband & Library Network"
+   ],
+   "cost": 60000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Staffed sessions at the libraries and public terminals: freeze a credit file, check an account, recognise the scam page. For the households whose only internet is the one being used to defraud them."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Newsroom Verification Desk",
+   "available_to": [
+    "Regional News Consortium",
+    "CISA Mis- and Disinformation Team"
+   ],
+   "cost": 45000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Stand up a verification desk that checks a claim before the region's newsroom runs it, and publishes what it could not confirm. Slower than the rumor, and the only thing that outlasts it."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "School Family Notification",
+   "available_to": [
+    "SW Virginia School Division Communications"
+   ],
+   "cost": 40000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Reach every family in the division with one message on one channel: what is true about the closures, the clinics and the records, and where the next update will come from."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Researcher Protection and Threat Response",
+   "available_to": [
+    "SW Virginia Sheriff's Public Information",
+    "Virginia Tech University Relations"
+   ],
+   "cost": 55000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A named researcher is being doxxed and threatened. Protective response, a public statement that does not repeat the accusation, and a route for the next threat that does not go through social media."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Scam Domain Takedown Request",
+   "available_to": [
+    "Platform Trust and Safety Liaison",
+    "VA Attorney General Consumer Protection"
+   ],
+   "cost": 30000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "File the takedown for the fraudulent sites collecting 'breach compensation' details. The request is routine; the twenty minutes it takes is what the fraud is built around."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Public Data Exposure Assessment",
+   "available_to": [
+    "Carilion Clinic Privacy Office",
+    "CISA Mis- and Disinformation Team"
+   ],
+   "cost": 50000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Establish what is actually in the posted file — how many records, which fields, whether it is what it claims to be. A breach overstated costs trust; a breach understated costs more."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Library Terminal Safety Push",
+   "available_to": [
+    "County Broadband & Library Network"
+   ],
+   "cost": 25000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Put the verified guidance on every public terminal and in every branch: which sites are fraudulent, what a real notification looks like, who to ask in person."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Emergency Broadcast Activation",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "SW Virginia Sheriff's Public Information"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "Governor's SW Virginia Liaison or SW Virginia Sheriff's Public Information",
+   "trust_impact": 1,
+   "description": "Push one instruction over the alert system to households with no internet. It reaches everyone at once, and it cannot be corrected quietly."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "Health Message That Survives Disbelief",
+   "available_to": [
+    "VDH Risk Communication",
+    "Carilion Clinic Privacy Office"
+   ],
+   "cost": 45000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Get patients who still need care to keep coming: what is safe, what is not affected, who to ask — written for people who have been told the clinics leak."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Newsroom Retraction and Follow-up",
+   "available_to": [
+    "Regional News Consortium"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Retract what the region's newsroom got wrong, on the page that carried it, with the correction above the fold rather than at the end."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "University Account of the Attack",
+   "available_to": [
+    "Virginia Tech University Relations",
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 0,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "The university's own account of what happened on its network, published under its name. It is the most disbelieved source in the region and the only one that holds the facts."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "State Emergency Procurement Release",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 50000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open the state emergency procurement vehicle and underwrite up to $50K of another team's action. The only way a team with the authority and no budget acts this phase."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Consolidated Regional Information Report",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Collect what every team has verified into one regional picture, and file it. One account, with what is still unknown named as unknown."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Community Listening Session",
+   "available_to": [
+    "Appalachian Faith & Community Network",
+    "SW Virginia School Division Communications"
+   ],
+   "cost": 30000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Sit in a hall and hear what people actually believe, then answer it. Slow, unscalable, and the only method that finds the rumor nobody in an office has heard yet."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Takedown of Impersonating Accounts",
+   "available_to": [
+    "Platform Trust and Safety Liaison",
+    "SW Virginia Sheriff's Public Information"
+   ],
+   "cost": 0,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Accounts posing as the health district, the sheriff and the school division are posting instructions. Get them down, and say publicly which accounts are real."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Records Access Line for Patients",
+   "available_to": [
+    "Carilion Clinic Privacy Office",
+    "County Broadband & Library Network"
+   ],
+   "cost": 40000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A staffed line where a patient can ask the one question the letter cannot answer: was I in it. Without it, every answer a patient gets comes from the rumor."
+  }
+ ],
+ "phase": 2
+}

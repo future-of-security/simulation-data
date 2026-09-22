@@ -1,0 +1,114 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "SW Virginia EMA",
+   "sector": "Emergency Mgmt",
+   "budget": 0,
+   "trust": 5,
+   "score": 75,
+   "responsibility": "Run the regional response to a cyber incident nobody can see: continuity for county government, and the call on whether this is an emergency before anyone has proof"
+  },
+  {
+   "team": "Banff",
+   "role": "VITA Commonwealth CIO",
+   "sector": "State IT",
+   "budget": 30000,
+   "trust": 5,
+   "score": 37.5,
+   "responsibility": "Own the state's own exposure: the shared services the region runs on, and the decision to cut them off from the region to save them"
+  },
+  {
+   "team": "Denali",
+   "role": "Carilion Rural Clinic Network",
+   "sector": "Healthcare Delivery",
+   "budget": 0,
+   "trust": 4,
+   "score": 131.25,
+   "responsibility": "Six rural clinics with no records link and patients in the waiting room; downtime protocols are yours to call and yours to staff"
+  },
+  {
+   "team": "Everglades",
+   "role": "Virginia Tech Division of IT",
+   "sector": "Academic/Research",
+   "budget": -130000,
+   "trust": 1,
+   "score": 142.5,
+   "responsibility": "Patient zero: the research network the malware entered, the shared connection it crossed on, and the researchers who will not accept an offline data center"
+  },
+  {
+   "team": "Glacier",
+   "role": "FBI Richmond Cyber Task Force",
+   "sector": "Federal Law Enforcement",
+   "budget": 30000,
+   "trust": 5,
+   "score": 30,
+   "responsibility": "Attribution and evidence: what is preserved for a case, and what gets wiped in the hurry to recover"
+  },
+  {
+   "team": "Katmai",
+   "role": "Food City Pharmacy Systems",
+   "sector": "Business/Supply",
+   "budget": 30000,
+   "trust": 4,
+   "score": 45,
+   "responsibility": "Prescription verification is down across the chain; what a pharmacist may dispense without it is your policy to set"
+  },
+  {
+   "team": "Olympic",
+   "role": "Governor's SW Virginia Liaison",
+   "sector": "State Executive",
+   "budget": -63000,
+   "trust": 0,
+   "score": 142.5,
+   "responsibility": "Speak for the region: one consolidated answer for Richmond, and the only budget that can underwrite another team's action"
+  },
+  {
+   "team": "Redwood",
+   "role": "Shentel Communications",
+   "sector": "Telecommunications",
+   "budget": -70000,
+   "trust": 4,
+   "score": 120,
+   "responsibility": "The network the spread travels on: segmentation, the clinic links, and whether cutting a segment saves a hospital or strands it"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "VA Department of Health SW District",
+   "sector": "Public Health",
+   "budget": 35000,
+   "trust": 3,
+   "score": 187.5,
+   "responsibility": "Care continuity across the district: which facilities divert, which stay open, and what the public is told about patient safety"
+  },
+  {
+   "team": "Teton",
+   "role": "Appalachian Faith & Community Network",
+   "sector": "Community/Faith",
+   "budget": 25000,
+   "trust": 5,
+   "score": 75,
+   "responsibility": "Reach the patients the systems cannot: dialysis, oxygen, refrigerated medication, and the households nobody's database still has"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "Carilion Clinic Information Security",
+   "sector": "Healthcare IT",
+   "budget": -89000,
+   "trust": 3,
+   "score": 127.5,
+   "responsibility": "Contain the intrusion inside a hospital that cannot stop admitting: EHR, the medical devices on the same network, and the isolation calls"
+  },
+  {
+   "team": "Zion",
+   "role": "CISA Regional Coordinator",
+   "sector": "Federal Cyber",
+   "budget": -10000,
+   "trust": 4,
+   "score": 202.5,
+   "responsibility": "Federal cyber support and the technical truth: what this malware is, how it evades detection, and what the region is allowed to be told"
+  }
+ ],
+ "phase": 1
+}

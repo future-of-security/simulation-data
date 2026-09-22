@@ -1,0 +1,114 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "Governor's SW Virginia Liaison",
+   "sector": "State Executive",
+   "budget": 55000,
+   "trust": 8,
+   "score": 0,
+   "responsibility": "Speak for the region: the authoritative voice on the rumor, the one consolidated answer Richmond wants, and the only budget that can underwrite another team's action"
+  },
+  {
+   "team": "Banff",
+   "role": "SW Virginia Sheriff's Coalition",
+   "sector": "Law Enforcement",
+   "budget": 80000,
+   "trust": 7,
+   "score": 0,
+   "responsibility": "Public order and safely rerouting 911 calls; co-signs the statement"
+  },
+  {
+   "team": "Denali",
+   "role": "Virginia Tech Crisis Response",
+   "sector": "Academic/Research",
+   "budget": 45000,
+   "trust": 7,
+   "score": 0,
+   "responsibility": "Campus and research continuity; liaison to CISA on the cause"
+  },
+  {
+   "team": "Everglades",
+   "role": "AEP Appalachian Power",
+   "sector": "Energy/Utilities",
+   "budget": 40000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Confirm the interchange signals are network, not grid fault; share the corridor clearance with DEQ and VDOT"
+  },
+  {
+   "team": "Glacier",
+   "role": "Carilion Clinic System",
+   "sector": "Healthcare",
+   "budget": 120000,
+   "trust": 8,
+   "score": 0,
+   "responsibility": "Keep patient care whole while the records link is down — dialysis protocols and the pharmacy counters both"
+  },
+  {
+   "team": "Katmai",
+   "role": "VA DEQ SW Regional Office",
+   "sector": "Environmental",
+   "budget": 40000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Contain the release and clear the shared corridor; the splice cannot start until you do"
+  },
+  {
+   "team": "Olympic",
+   "role": "Shentel Communications",
+   "sector": "Telecommunications",
+   "budget": 95000,
+   "trust": 7,
+   "score": 0,
+   "responsibility": "Own the severed trunk: 911 reroute and the clinic relay both sit here"
+  },
+  {
+   "team": "Redwood",
+   "role": "Food City / Regional Supply Chain",
+   "sector": "Business/Supply",
+   "budget": 45000,
+   "trust": 7,
+   "score": 0,
+   "responsibility": "Card auth and prescription verification are down; report an access failure as the smaller thing it is"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "VDOT SW Region",
+   "sector": "Transportation",
+   "budget": 60000,
+   "trust": 7,
+   "score": 0,
+   "responsibility": "Traffic control at the interchange; coordinate with AEP and Sheriff"
+  },
+  {
+   "team": "Teton",
+   "role": "CISA Regional Coordinator",
+   "sector": "Federal Cyber",
+   "budget": 25000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Verify there is no cyber component; confirm it is a mundane fiber cut"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "SW Virginia EMA",
+   "sector": "Emergency Mgmt",
+   "budget": 60000,
+   "trust": 8,
+   "score": 0,
+   "responsibility": "Run the exercise; activate backup dispatch; set up the hotwash; hold county-government continuity"
+  },
+  {
+   "team": "Zion",
+   "role": "Appalachian Faith & Community Network",
+   "sector": "Community/Faith",
+   "budget": 35000,
+   "trust": 8,
+   "score": 0,
+   "responsibility": "Reach the worried households; the trusted voice the rumor moves through"
+  }
+ ],
+ "phase": 0
+}

@@ -1,0 +1,286 @@
+{
+ "key": "actions",
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share verified indicators, affected systems, and status with other teams. Free and always available — in a cyber phase it is also the only way anyone learns what is spreading before it reaches them."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Network Segmentation Cut",
+   "available_to": [
+    "Shentel Communications",
+    "Virginia Tech Division of IT"
+   ],
+   "cost": 70000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Sever the shared connection between the university research network and the clinical VLANs, and verify no lateral path remains. Stops the spread; also cuts the research traffic and any clinic still riding that path."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "EHR Isolation and Downtime Protocol",
+   "available_to": [
+    "Carilion Clinic Information Security",
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 90000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Take the electronic health record offline in the affected facilities and stand the documented downtime protocol up in its place. Care continues on paper; the record stops being a route for the malware."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Medical Device Quarantine",
+   "available_to": [
+    "Carilion Clinic Information Security",
+    "VA Department of Health SW District"
+   ],
+   "cost": 60000,
+   "delay_mins": 10,
+   "requires_approval": "Carilion Clinic Information Security",
+   "trust_impact": 1,
+   "description": "Pull infusion pumps, imaging and monitoring off the network onto isolated operation, device by device, with a clinician at each one. Nothing is unplugged from a patient; everything is unplugged from the network."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Paper Downtime Staffing Surge",
+   "available_to": [
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 55000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Bring in the extra clinical and clerical staff a paper clinic needs — scribes, runners, a second triage line — so six rural sites keep seeing patients at a fraction of normal throughput instead of closing."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Malware Signature Analysis",
+   "available_to": [
+    "CISA Regional Coordinator",
+    "Virginia Tech Division of IT"
+   ],
+   "cost": 0,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Pull memory and network telemetry from an infected host and characterise what this is: how it evades detection, what it looks for, and whether it is still changing. Nothing else is knowable until this is done."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Forensic Image and Evidence Preservation",
+   "available_to": [
+    "FBI Richmond Cyber Task Force",
+    "CISA Regional Coordinator"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Image the compromised hosts before they are rebuilt, with chain of custody intact. A case survives; the systems imaged stay down for the duration, which is time a clinic does not have."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Threat Intelligence Broadcast",
+   "available_to": [
+    "CISA Regional Coordinator",
+    "VITA Commonwealth CIO"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Push the indicators of compromise to every regional partner and to the state's shared services, so the organisations not yet hit can look for it themselves."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "State Shared Services Firewall",
+   "available_to": [
+    "VITA Commonwealth CIO"
+   ],
+   "cost": 65000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Cut the region's connections to the Commonwealth's shared services. The state's systems stop being reachable from an infected region — and so do the services the region's county governments run on."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Pharmacy Manual Dispensing Protocol",
+   "available_to": [
+    "Food City Pharmacy Systems",
+    "VA Department of Health SW District"
+   ],
+   "cost": 35000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Authorise dispensing against a written protocol and a signed log while prescription verification is down: what may be filled, what may not, and how many days' supply a pharmacist may release without a check."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Prescription Verification Fallback Line",
+   "available_to": [
+    "Food City Pharmacy Systems",
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 45000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Stand up a staffed voice line between the pharmacy counters and the clinics so a prescription can be confirmed by a human when the system that would confirm it is offline."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Dependent-Care Patient Outreach",
+   "available_to": [
+    "Appalachian Faith & Community Network",
+    "VA Department of Health SW District"
+   ],
+   "cost": 30000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Reach the patients whose care cannot wait for a records system — dialysis, oxygen, refrigerated medication — by phone, by church list, and door to door where there is no signal."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Patient Safety Public Statement",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "VA Department of Health SW District"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Say plainly what is affected, what care is still safe to seek, and what is not yet known. A joint statement from the state and public health; the number in it has to come from a team that verified it."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Emergency Broadcast Activation",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "SW Virginia EMA"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "Governor's SW Virginia Liaison or SW Virginia EMA",
+   "trust_impact": 1,
+   "description": "Push instructions over the emergency alert system to households with no internet and no cell service. It reaches everyone; it also cannot be taken back or corrected quietly."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "County Government Continuity Failover",
+   "available_to": [
+    "SW Virginia EMA",
+    "VITA Commonwealth CIO"
+   ],
+   "cost": 50000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Move county government functions — permits, benefits, dispatch records — onto the continuity environment so a county does not stop operating while its shared services are cut."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Federal Cyber Emergency Declaration Request",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "CISA Regional Coordinator"
+   ],
+   "cost": 0,
+   "delay_mins": 15,
+   "requires_approval": "Governor's SW Virginia Liaison + CISA Regional Coordinator",
+   "trust_impact": 1,
+   "description": "Request a federal cyber emergency declaration and the national response that comes with it. It brings resources the region does not have, and it makes the region's incident a national story."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "Research Data Center Shutdown",
+   "available_to": [
+    "Virginia Tech Division of IT"
+   ],
+   "cost": 40000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Take the research data center down cold. The malware loses the host it entered on; ongoing research computation loses whatever was not checkpointed, and the faculty who own it were not asked."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "State Emergency Procurement Release",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 50000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open the state emergency procurement vehicle and underwrite up to $50K of another team's action. The only way a team with the authority and no budget acts this phase."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Consolidated Regional Cyber Status Report",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Collect status from every team holding an incident, reconcile it into one regional picture, and file it. Richmond gets one number and one answer instead of twelve."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Clinic Link Restoration on a Clean Path",
+   "available_to": [
+    "Shentel Communications",
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 85000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Rebuild the rural clinic links on a separately routed, freshly keyed path, verified clean before any clinic is reconnected. Records come back; anything still infected comes back with them if the verification was rushed."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Attribution Briefing to Regional Partners",
+   "available_to": [
+    "FBI Richmond Cyber Task Force",
+    "CISA Regional Coordinator"
+   ],
+   "cost": 0,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Tell the region what is known about who is behind this and what they are after, at the level the investigation can bear. What partners can act on, without what a defence attorney could use."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Trusted Messenger Network Activation",
+   "available_to": [
+    "Appalachian Faith & Community Network",
+    "SW Virginia EMA"
+   ],
+   "cost": 25000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Stand up the congregations, volunteer fire departments and community centres as the channel official information travels through, in a phase where the official channels are the ones nobody trusts."
+  }
+ ],
+ "phase": 1
+}

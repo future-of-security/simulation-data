@@ -1,0 +1,206 @@
+{
+ "key": "actions",
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share verified situation updates, emerging risks, and resource status with other teams. Free and always available — coordination earns trust."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "911 Circuit Reroute",
+   "available_to": [
+    "Shentel Communications"
+   ],
+   "cost": 40000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Switch the regional 911 center to the protected backup circuit and verify end-to-end call routing. Restores 911 reliability while the severed trunk is repaired."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Backup Dispatch Activation",
+   "available_to": [
+    "SW Virginia EMA",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "cost": 60000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Stand up the backup dispatch center and route emergency calls through it while primary circuits are unstable. Keeps calls from dropping."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Temporary Records Workaround",
+   "available_to": [
+    "Carilion Clinic System"
+   ],
+   "cost": 50000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Deploy the paper/satellite records fallback at Stillwater and confirm the six dialysis protocols by phone with clinical staff. Patient safety is maintained while the link is down."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Traffic Control Deployment",
+   "available_to": [
+    "VDOT SW Region",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "cost": 30000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Deploy flaggers and temporary signals at the I-81/I-77 interchange and manage approach traffic until the controllers are restored."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Interchange Power Verification",
+   "available_to": [
+    "AEP Appalachian Power"
+   ],
+   "cost": 0,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Confirm whether the darkened signals are a network outage or a grid fault and report findings so VDOT can focus on traffic, not power."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Community Check-In Call-Back",
+   "available_to": [
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 20000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Call back households on the hotline list, relay accurate status, and point worried callers to the official statement once one exists."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Rumor Control Statement",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Issue a joint statement confirming the outage is a fiber cut — not an EMP attack — with one verifiable place for updates. Directly counters the rumor."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "Rural Clinic Mobile Relay",
+   "available_to": [
+    "Shentel Communications",
+    "Carilion Clinic System"
+   ],
+   "cost": 80000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Deploy a mobile relay unit to Stillwater as temporary bandwidth until the trunk is repaired. Restores telehealth and records access sooner."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Exercise Hotwash Scheduling",
+   "available_to": [
+    "SW Virginia EMA"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Schedule the 15-minute hotwash at the end of the exercise. Every team participates; this is how the simulation improves."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Cyber Attribution Check",
+   "available_to": [
+    "CISA Regional Coordinator",
+    "Shentel Communications"
+   ],
+   "cost": 0,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Pull carrier and campus telemetry, correlate the failover against the backhoe strike, and publish a written all-clear (or escalation) that every other team can cite in its own statement."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Campus Continuity Failover",
+   "available_to": [
+    "Virginia Tech Crisis Response"
+   ],
+   "cost": 35000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Move VT Alerts and the research data center to the secondary carrier path and confirm emergency notification actually reaches campus, not just that it was sent."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Corridor Containment and Clearance",
+   "available_to": [
+    "VA DEQ SW Regional Office",
+    "VDOT SW Region",
+    "AEP Appalachian Power"
+   ],
+   "cost": 25000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Contain the hydraulic release before it reaches the storm drain, inspect the shared utility corridor, and release the right-of-way so the fiber splice can begin. Holding it longer than necessary delays every other team."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Store Systems Fallback",
+   "available_to": [
+    "Food City / Regional Supply Chain",
+    "Carilion Clinic System"
+   ],
+   "cost": 30000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Switch stores to offline card authorization, verify prescriptions by phone with Carilion clinical staff, and post accurate wait information at the door instead of letting the line invent its own explanation."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "State Emergency Procurement Release",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 50000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open the state emergency procurement vehicle and underwrite up to $50K of catalog actions that other teams cannot afford this exercise. The state is billed, not the team that acts. Name the recipients and the reason in your report — the money is finite and three teams need it."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Consolidated Regional Status Report",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Collect status from every team that holds an incident, reconcile it into one regional impact figure plus a yes/no on cyber, and file it before the 9:00 availability. The Governor's office has no independent feed; anything in it that no team verified becomes tomorrow's correction."
+  }
+ ],
+ "phase": 0
+}
