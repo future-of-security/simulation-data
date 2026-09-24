@@ -16,7 +16,7 @@
     "Virginia Secretary of Commerce and Trade"
    ],
    "time_limit": 30,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -77,7 +77,7 @@
     "United Mine Workers, District 28"
    ],
    "time_limit": 30,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -197,7 +197,7 @@
     "Feeding Southwest Virginia"
    ],
    "time_limit": 30,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -217,7 +217,7 @@
     "Virginia Employment Commission, Southwest Region"
    ],
    "time_limit": 25,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -238,7 +238,7 @@
     "SW Virginia Independent Pharmacy Network"
    ],
    "time_limit": 30,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -266,7 +266,7 @@
   {
    "id": "I314",
    "phase": 3,
-   "sim_time": "0:33",
+   "sim_time": "0:30",
    "incident": "No Mine Restarts, And Friday's Pay Never Landed",
    "description": "The deadline passed with the monitoring dark and no restart agreed; eight hundred miners went through Friday unpaid and the operators have named no date. The households are a week into borrowing, the eviction notices and the shut-off notices arrive on the same schedule, and the county's food lines are absorbing the difference. A payroll cash bridge through the region's banks is the only thing that puts this week's pay in a household's hand, and it is eighty thousand dollars lent into a stopped economy.",
    "location": "Buchanan and Dickenson counties",
@@ -278,7 +278,7 @@
     "Coalfield Counties Administrators"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 150,
    "opens_after": "I301",
    "opens_when": "escalated"

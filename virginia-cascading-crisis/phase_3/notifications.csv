@@ -173,3 +173,33 @@ sim_time,team,type,message
 0:27,Shenandoah,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
 0:27,Redwood,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
 0:27,Yellowstone,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
+0:33,Banff,report,Both actions this attempt files were already taken and credited earlier in the phase (A3 on I301 at attempt 5…
+0:33,Everglades,report,This submission could not be processed: the report is missing Collaboration and Transfers.
+0:33,Glacier,report,This submission could not be processed: the report is missing Collaboration and Transfers.
+0:33,Katmai,report,"Katmai can see I308 but is not its primary, so its ceiling is strong_partial; the report records only intelligence sharing and a cash transfer and describes…"
+0:33,Teton,report,This submission could not be processed: the report is missing Collaboration and Transfers.
+0:33,Banff,escalation,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now escalated. Open the incident for what changed."
+0:33,Katmai,escalation,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now escalated. Open the incident for what changed."
+0:33,Redwood,escalation,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now escalated. Open the incident for what changed."
+0:33,Teton,escalation,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now escalated. Open the incident for what changed."
+0:33,Everglades,escalation,The Households That Ran Out First Are An Hour From The Nearest Open Store — now escalated. Open the incident for what changed.
+0:33,Katmai,escalation,The Households That Ran Out First Are An Hour From The Nearest Open Store — now escalated. Open the incident for what changed.
+0:33,Redwood,escalation,The Households That Ran Out First Are An Hour From The Nearest Open Store — now escalated. Open the incident for what changed.
+0:33,Shenandoah,escalation,The Households That Ran Out First Are An Hour From The Nearest Open Store — now escalated. Open the incident for what changed.
+0:33,Everglades,escalation,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now escalated. Open the incident for what changed."
+0:33,Redwood,escalation,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now escalated. Open the incident for what changed."
+0:33,Teton,escalation,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now escalated. Open the incident for what changed."
+0:33,Zion,escalation,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now escalated. Open the incident for what changed."
+0:33,Acadia,escalation,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now escalated. Open the incident for what changed."
+0:33,Banff,escalation,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now escalated. Open the incident for what changed."
+0:33,Denali,escalation,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now escalated. Open the incident for what changed."
+0:33,Katmai,escalation,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now escalated. Open the incident for what changed."
+0:33,Acadia,escalation,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now escalated. Open the incident for what changed.
+0:33,Olympic,escalation,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now escalated. Open the incident for what changed.
+0:33,Shenandoah,escalation,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now escalated. Open the incident for what changed.
+0:33,Yellowstone,escalation,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now escalated. Open the incident for what changed.
+0:33,Zion,escalation,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now escalated. Open the incident for what changed.
+0:33,Acadia,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
+0:33,Banff,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
+0:33,Katmai,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
+0:33,Redwood,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"

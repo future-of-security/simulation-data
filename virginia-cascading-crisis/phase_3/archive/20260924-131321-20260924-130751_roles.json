@@ -15,7 +15,7 @@
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
    "budget": 20000,
-   "trust": 6,
+   "trust": 5,
    "score": 182.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
@@ -50,9 +50,9 @@
    "team": "Katmai",
    "role": "United Mine Workers, District 28",
    "sector": "Labor",
-   "budget": 65000,
-   "trust": 5,
-   "score": 67.5,
+   "budget": 80000,
+   "trust": 6,
+   "score": 37.5,
    "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
   },
   {
