@@ -88,7 +88,7 @@ Underneath all of it: **the fraud that followed the stolen data is now a reason 
 - Every rule from earlier phases is in force. One report per incident during the phase, one report for the phase that evening.
 - **Name the incident by its dashboard ID** — `I301`, not its title. The report template changed this week; the response builder fills the ID in for you.
 - **Budgets do not carry.** This phase allocates for the role you now hold; what you did not spend in phase 2 is gone.
-- **Trust carries.** You start this phase at the trust you ended phase 2 with. It is the one thing the region remembers about you.
+- **Trust starts at 6 for every team.** New role, new counterparts: nobody in this sector has worked with you before.
 
 ## Learning Objectives
 
