@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "Coalfield Counties Administrators",
    "sector": "Local Government",
-   "budget": 77500,
-   "trust": 5,
-   "score": 75.0,
+   "budget": 110000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Small Business Development Center, SW Virginia",
    "sector": "Small Business",
-   "budget": 60000,
-   "trust": 4,
-   "score": 67.5,
+   "budget": 90000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
   }
  ]

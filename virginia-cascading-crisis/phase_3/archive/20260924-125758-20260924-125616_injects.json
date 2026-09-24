@@ -97,7 +97,7 @@
     "Feeding Southwest Virginia"
    ],
    "time_limit": 25,
-   "state": "partially_resolved",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -137,7 +137,7 @@
     "Coalfield Counties Administrators"
    ],
    "time_limit": 35,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -197,7 +197,7 @@
     "Feeding Southwest Virginia"
    ],
    "time_limit": 30,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
