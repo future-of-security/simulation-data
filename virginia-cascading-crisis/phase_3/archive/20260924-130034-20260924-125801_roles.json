@@ -5,18 +5,18 @@
    "team": "Acadia",
    "role": "SW Virginia Community Bankers & Credit Unions",
    "sector": "Finance",
-   "budget": 40000,
-   "trust": 7,
-   "score": 105.0,
+   "budget": 120000,
+   "trust": 5,
+   "score": 37.5,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
   {
    "team": "Banff",
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
-   "budget": 50000,
+   "budget": 90000,
    "trust": 5,
-   "score": 137.5,
+   "score": 100.0,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
   {
@@ -42,8 +42,8 @@
    "role": "I-81 Freight & Rail Coordination",
    "sector": "Freight & Logistics",
    "budget": 50000,
-   "trust": 5,
-   "score": 37.5,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
   },
   {
@@ -77,9 +77,9 @@
    "team": "Shenandoah",
    "role": "Food City Regional Distribution Center",
    "sector": "Food Distribution",
-   "budget": 30000,
+   "budget": 70000,
    "trust": 5,
-   "score": 67.5,
+   "score": 30.0,
    "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
   },
   {
@@ -105,8 +105,8 @@
    "role": "Small Business Development Center, SW Virginia",
    "sector": "Small Business",
    "budget": 60000,
-   "trust": 5,
-   "score": 97.5,
+   "trust": 4,
+   "score": 67.5,
    "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
   }
  ]
