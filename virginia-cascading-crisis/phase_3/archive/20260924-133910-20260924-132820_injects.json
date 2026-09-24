@@ -358,7 +358,7 @@
     "Southwest Virginia Fuel Distributors"
    ],
    "time_limit": 20,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "I303",
    "opens_when": "escalated"

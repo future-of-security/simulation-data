@@ -250,3 +250,44 @@ sim_time,team,type,message
 0:47,Acadia,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
 0:47,Redwood,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
 0:47,Katmai,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
+0:54,Acadia,report,"One incident and one in-role action, filed plainly, but the effect is asserted rather than shown."
+0:54,Acadia,report,"Single action, filed in role against I312 with the partner named, but no outcome accounting; trust moves up one level on the strength of an in-role filing."
+0:54,Acadia,report,A16 against I307 was already carried by acadia_phase3_attempt_10.md (charged 30000) in this phase…
+0:54,Acadia,report,No catalog action was taken or charged: the submission names I314 and files no executed action…
+0:54,Acadia,report,"No catalog or custom action was taken in this submission, so nothing is charged and nothing is credited."
+0:54,Acadia,report,"A5 priced at trust 5 (modifier 1.0), claimed split 1.0, charged 30000."
+0:54,Acadia,report,"The report names I307 and reasons carefully about it, but the Actions Taken and Collaboration sections are absent and every custom action is a proposal at $0…"
+0:54,Acadia,report,"One incident named (I302) and none of it worked: all six bank-counter measures are filed as proposals at $0, with no completed effect reported…"
+0:54,Banff,report,"A18 sits squarely inside this role's available actions and is the near miss I311's standard names, so it cannot reach the closing state…"
+0:54,Denali,report,The report's dashboard-id field names I311 but every sentence of substance and both actions address the four-thousand-claim fraud queue…
+0:54,Denali,report,"The report names only I302, and a plan is not an execution: A4 is filed as a proposal with the Actions Taken section missing and no account of the counter…"
+0:54,Denali,report,"No catalog action and no executed improvised action — the only action offered is a proposal for the district's hardship fund, which this role does not own…"
+0:54,Everglades,report,"Filing is in-role for Feeding Southwest Virginia and names a partner and a split, but it asserts both actions without saying what they produced…"
+0:54,Everglades,report,"A6 is a re-filing of an action already carried and charged in everglades_phase3_attempt_3 (27,500 there) and re-filed in attempt_6…"
+0:54,Everglades,report,"One incident worked (I304), primary role, and the report supplies the published run schedule the board named as missing…"
+0:54,Everglades,report,"The report names I303 (written as '1303') and re-states A6, which is a duplicate of the action already charged to attempt_3 and so carries no second charge…"
+0:54,Everglades,report,"A1 was already carried on earlier attempts (attempts 3, 4, 6 and 8) and is $0, so it is credited once; the $3k schedule is the only new charge this attempt."
+0:54,Everglades,report,"The report names I305 and files only the free intelligence share A1, then lists proposals it never executed…"
+0:54,Everglades,report,A short in-role resubmission covering I303 and the hollows incident; both actions are plausibly filed but neither reaches the closing state and neither says…
+0:54,Everglades,report,"Thin but honest report: one free, in-role action against the state funding incident, filed with reasoning and no claim of resolution…"
+0:54,Everglades,report,"One action, A1, is free, so no charge arises; A1 against I308 appears in other Everglades attempts this cycle at zero cost, so there is nothing to pay twice."
+0:54,Everglades,report,"Trust 7 at submission gives a 1.0 modifier, so the improvised $3K schedule is charged in full and A1 charges nothing…"
+0:54,Glacier,report,A7 against this incident is a re-appearance of an action already credited to three earlier Glacier attempts…
+0:54,Glacier,report,"No priced action was taken, so nothing is charged against the $20K budget."
+0:54,Katmai,report,"A3 carries a 20-minute delay and the report never says what it produced, so this is a start on I301's closing state, not the state itself…"
+0:54,Shenandoah,report,"Free A1 against I312, already credited in an earlier attempt of this cycle, so nothing new is charged here."
+0:54,Teton,report,Teton holds the region's discretionary money and pointed A15 at the miners' payroll near miss on I301…
+0:54,Teton,report,A7 and A22 are both $0 and both against I306; both already appear in this team's credited attempts…
+0:54,Teton,report,The report files a catalog override request plus a free intelligence relay and names I309 as its target…
+0:54,Yellowstone,report,Graded against I305 only; the report raises no other incident.
+0:54,Yellowstone,report,"Submission documents deliberation and a plan for I305 but no executed action, so it scores nothing on the incident…"
+0:54,Yellowstone,report,A single in-role catalog action filed against I312 with no account of its effect and a $0 cost claim that does not match A13's $20K price…
+0:54,Zion,report,"This filing is a closing reflection with no Actions Taken section, no catalog Action IDs, no costs and no charges: the bridge loans…"
+0:54,Acadia,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:54,Redwood,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:54,Teton,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:54,Zion,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:54,Glacier,escalation,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Redwood,escalation,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Shenandoah,escalation,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Yellowstone,escalation,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — escalated. Open the incident for what happens now and what would have closed it.
