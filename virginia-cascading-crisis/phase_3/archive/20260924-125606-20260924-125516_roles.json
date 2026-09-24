@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
-   "budget": 90000,
-   "trust": 5,
-   "score": 100.0,
+   "budget": 135000,
+   "trust": 6,
+   "score": 37.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
   {
@@ -78,8 +78,8 @@
    "role": "Food City Regional Distribution Center",
    "sector": "Food Distribution",
    "budget": 70000,
-   "trust": 5,
-   "score": 30.0,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
   },
   {

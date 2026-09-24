@@ -35,3 +35,15 @@ sim_time,team,type,message
 0:15,Glacier,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
 0:15,Redwood,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
 0:15,Yellowstone,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
+0:16,Banff,report,"Banff's own charter incident, I301, is not addressed in this report: no mine is producing, no examiner log or restart schedule is reported…"
+0:16,Banff,report,"One action filed against I306, charged at the $45K catalog price times the claimed one-third share."
+0:16,Shenandoah,report,"The report names I312 but labels the team's role with I312's title rather than its own charter (Food City Regional Distribution Center), and files one action…"
+0:16,Banff,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:16,Glacier,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:16,Teton,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:16,Yellowstone,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:16,Acadia,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:16,Olympic,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:16,Shenandoah,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:16,Yellowstone,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:16,Zion,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
