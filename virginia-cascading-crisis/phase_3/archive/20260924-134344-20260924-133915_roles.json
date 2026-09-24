@@ -24,8 +24,8 @@
    "role": "Virginia Employment Commission, Southwest Region",
    "sector": "Workforce",
    "budget": -102500,
-   "trust": 6,
-   "score": 176.25,
+   "trust": 5,
+   "score": 131.25,
    "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
   },
   {
@@ -41,27 +41,27 @@
    "team": "Glacier",
    "role": "I-81 Freight & Rail Coordination",
    "sector": "Freight & Logistics",
-   "budget": -36250,
+   "budget": 20000,
    "trust": 3,
-   "score": 295.0,
+   "score": 220.0,
    "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
   },
   {
    "team": "Katmai",
    "role": "United Mine Workers, District 28",
    "sector": "Labor",
-   "budget": 15000,
+   "budget": 50000,
    "trust": 6,
-   "score": 195.0,
+   "score": 150.0,
    "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
   },
   {
    "team": "Olympic",
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
-   "budget": -28750,
-   "trust": 6,
-   "score": 135.0,
+   "budget": 40000,
+   "trust": 4,
+   "score": 67.5,
    "responsibility": "Fill prescriptions that cannot be verified, for patients who cannot wait, without becoming the fraud everyone is watching for"
   },
   {
@@ -69,8 +69,8 @@
    "role": "Coalfield Counties Administrators",
    "sector": "Local Government",
    "budget": 22500,
-   "trust": 3,
-   "score": 183.75,
+   "trust": 4,
+   "score": 108.75,
    "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
   },
   {
@@ -79,7 +79,7 @@
    "sector": "Food Distribution",
    "budget": 25000,
    "trust": 5,
-   "score": 172.5,
+   "score": 135.0,
    "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
   },
   {
@@ -87,7 +87,7 @@
    "role": "Virginia Secretary of Commerce and Trade",
    "sector": "State Economic Policy",
    "budget": 50000,
-   "trust": 5,
+   "trust": 6,
    "score": 240.0,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },

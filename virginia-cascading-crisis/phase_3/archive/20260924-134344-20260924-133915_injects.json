@@ -137,7 +137,7 @@
     "Coalfield Counties Administrators"
    ],
    "time_limit": 35,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -278,7 +278,7 @@
     "Coalfield Counties Administrators"
    ],
    "time_limit": 25,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 150,
    "opens_after": "I301",
    "opens_when": "escalated"
@@ -318,7 +318,7 @@
     "United Mine Workers, District 28"
    ],
    "time_limit": 20,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 150,
    "opens_after": "I302",
    "opens_when": "escalated"

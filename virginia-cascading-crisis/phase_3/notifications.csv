@@ -293,3 +293,36 @@ sim_time,team,type,message
 0:54,Yellowstone,escalation,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — escalated. Open the incident for what happens now and what would have closed it.
 0:54,Acadia,update,Collaboration confirmed by your partner; the split holds and trust rises.
 0:54,Katmai,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:58,Acadia,report,"The submission carries forecast, needs and risks rather than an action record — no catalog or improvised action is filed…"
+0:58,Denali,report,"Only free A1 information sharing is filed this cycle, so the counter-verification path it enables is started but not reported as landed…"
+0:58,Denali,report,"The report's only catalog action is A1 — three intelligence shares (Banff, Katmai, Acadia) filed as one action against I316 per the once-per-incident rule…"
+0:58,Glacier,report,Two actions are asserted and neither is followed by an account of what happened; the report's own submission says the paper-and-staples incident 'has…
+0:58,Glacier,report,"Only A1 is filed and it carries a $0 catalog price, so nothing is charged even at the trust-3 modifier of 1.25…"
+0:58,Katmai,report,"One incident (I301) is named and one in-role action (A3) asserted, but the report never says what happened underground…"
+0:58,Katmai,report,"A17 is the named DOES NOT CLOSE IT path for I314 and Katmai is not that incident's primary, so the award is capped at help while the closing state stands…"
+0:58,Katmai,report,A17 is priced at catalog with a trust-6 modifier of 1.0 and no claimed split.
+0:58,Olympic,report,"The report names I312 and one payroll-bridge action, which is that incident's named near miss rather than its closing state, so the card-payment failure stands."
+0:58,Olympic,report,"One action, A10, priced at the trust-4 modifier of 1.25 for a charged 50000."
+0:58,Olympic,report,"Olympic names I309, its own incident, but dispensed nothing: the only filed action is the free A1 and the closing state — a documented 72-hour supply on the…"
+0:58,Olympic,report,"The submission carries only the forward-looking and reflection sections; the outcomes, actions-taken and budget sections were deleted…"
+0:58,Redwood,report,A single in-role action filed for I308 with no account of its effect; the submission is graded on the state it describes…
+0:58,Redwood,report,"Support role on I314 (primary is SW Virginia Community Bankers & Credit Unions), so the outcome is capped below fully_resolved…"
+0:58,Redwood,report,"A14 was already credited to this team in attempt 5, so the phase should not pay for it twice; here it is filed against I318, which it does not touch."
+0:58,Redwood,report,"The report carries no action and touches no incident, so nothing is charged and no award is earned…"
+0:58,Redwood,report,"This is a reflection-only filing with no Action ID, no incident named by id or title, and no account of any action's effect…"
+0:58,Shenandoah,report,"The report works only I304, on which this team supports the primary (Feeding Southwest Virginia)…"
+0:58,Shenandoah,report,"Shenandoah's sixth filing is reflection-only: it names A20 in the takeaway, states an expectation that offline EBT/WIC will help stores keep selling…"
+0:58,Shenandoah,report,"A8 was already carried and charged on shenandoah_phase3_attempt_2.md, so it is not recharged here despite being restated."
+0:58,Teton,report,"The submission is a reflection template only: no actions were filed against any incident, so there is nothing to price and nothing to credit."
+0:58,Acadia,incident,"Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door — now in progress. Open the incident for what changed."
+0:58,Denali,incident,"Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door — now in progress. Open the incident for what changed."
+0:58,Katmai,incident,"Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door — now in progress. Open the incident for what changed."
+0:58,Redwood,incident,"Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door — now in progress. Open the incident for what changed."
+0:58,Acadia,incident,"No Mine Restarts, And Friday's Pay Never Landed — now in progress. Open the incident for what changed."
+0:58,Banff,incident,"No Mine Restarts, And Friday's Pay Never Landed — now in progress. Open the incident for what changed."
+0:58,Katmai,incident,"No Mine Restarts, And Friday's Pay Never Landed — now in progress. Open the incident for what changed."
+0:58,Redwood,incident,"No Mine Restarts, And Friday's Pay Never Landed — now in progress. Open the incident for what changed."
+0:58,Acadia,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
+0:58,Redwood,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
+0:58,Teton,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
+0:58,Zion,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
