@@ -37,7 +37,7 @@
     "SW Virginia Independent Pharmacy Network"
    ],
    "time_limit": 35,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -306,7 +306,7 @@
   {
    "id": "I316",
    "phase": 3,
-   "sim_time": "0:47",
+   "sim_time": "0:35",
    "incident": "Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door",
    "description": "The deadline passed with no staffed line and no identity check at the counter; four thousand claims are open against a normal week of three hundred, and payments have gone to claimants nobody verified, filed on the identifiers from the posted file. The commission can still stand up the in-person line and stop the money at the counter, or it can mass-approve and chase the fraud afterwards in a region that has spent a week deciding not to believe its officials.",
    "location": "Wise and Buchanan counties",
@@ -318,7 +318,7 @@
     "United Mine Workers, District 28"
    ],
    "time_limit": 20,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 150,
    "opens_after": "I302",
    "opens_when": "escalated"
@@ -358,7 +358,7 @@
     "Southwest Virginia Fuel Distributors"
    ],
    "time_limit": 20,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I303",
    "opens_when": "escalated"

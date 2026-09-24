@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "SW Virginia Community Bankers & Credit Unions",
    "sector": "Finance",
-   "budget": 10000,
-   "trust": 5,
-   "score": 135.0,
+   "budget": 40000,
+   "trust": 7,
+   "score": 105.0,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
   {
@@ -15,7 +15,7 @@
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
    "budget": -10000,
-   "trust": 5,
+   "trust": 7,
    "score": 182.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
@@ -43,7 +43,7 @@
    "sector": "Freight & Logistics",
    "budget": 20000,
    "trust": 5,
-   "score": 220.0,
+   "score": 182.5,
    "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
   },
   {
@@ -52,7 +52,7 @@
    "sector": "Labor",
    "budget": 80000,
    "trust": 5,
-   "score": 105.0,
+   "score": 67.5,
    "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
   },
   {
@@ -60,8 +60,8 @@
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
    "budget": 40000,
-   "trust": 4,
-   "score": 67.5,
+   "trust": 5,
+   "score": 37.5,
    "responsibility": "Fill prescriptions that cannot be verified, for patients who cannot wait, without becoming the fraud everyone is watching for"
   },
   {
@@ -69,8 +69,8 @@
    "role": "Coalfield Counties Administrators",
    "sector": "Local Government",
    "budget": 22500,
-   "trust": 4,
-   "score": 108.75,
+   "trust": 6,
+   "score": 93.75,
    "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
   },
   {
@@ -79,7 +79,7 @@
    "sector": "Food Distribution",
    "budget": 25000,
    "trust": 5,
-   "score": 105.0,
+   "score": 67.5,
    "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
   },
   {
@@ -88,7 +88,7 @@
    "sector": "State Economic Policy",
    "budget": 50000,
    "trust": 6,
-   "score": 240.0,
+   "score": 195.0,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
   {
@@ -96,7 +96,7 @@
    "role": "Southwest Virginia Fuel Distributors",
    "sector": "Fuel Supply",
    "budget": 42500,
-   "trust": 5,
+   "trust": 6,
    "score": 45.0,
    "responsibility": "Keep diesel and gasoline reaching stations, generators and ambulances when payment systems and panic both work against you"
   },

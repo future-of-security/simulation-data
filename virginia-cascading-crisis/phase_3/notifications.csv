@@ -215,3 +215,38 @@ sim_time,team,type,message
 0:38,Katmai,update,"Handing district funds to another team to fix I308 is outside District 28's charter and its listed actions; the union speaks for miners and pays them through A17, so the transfer is void and costs nothing."
 0:38,Redwood,update,"No counterparty filed the matching half of A6, so the claimed split does not hold; the action's full $55K stands against you and you are charged the uncovered $27.5K."
 0:38,Shenandoah,update,"No partner filed the same split on A8, so your claimed arrangement with Glacier is not confirmed and you are charged the remaining $5000 of the $45K price."
+0:47,Acadia,report,"Support-grade report on I307: the role is not the incident's primary, so it is capped below full resolution…"
+0:47,Acadia,report,This submission could not be processed: the report is missing Actions Taken; Collaboration and Transfers.
+0:47,Acadia,report,"A1 is free, so the charge is zero regardless; it is the same action this team has already had credited several times this phase and it was filed here again…"
+0:47,Banff,report,Two free actions are recorded at zero cost and nothing is charged.
+0:47,Denali,report,This submission could not be processed: the report is missing Actions Taken.
+0:47,Everglades,report,Attempt 6 puts forward only actions already on the board: A1 (credited in attempts 3 and 4) and A6 (charged and credited in attempt 3).
+0:47,Everglades,report,This submission could not be processed: the report is missing Remaining Budget.
+0:47,Everglades,report,"The report restates a previously credited A6 and adds one free A1, so no new charge is made for A6 against I304; the A1 entry stands alone."
+0:47,Glacier,report,"A1 is a zero-cost, in-role action but it is asserted without any account of what was shared or produced…"
+0:47,Glacier,report,Glacier is the primary on I318 but filed only a free A1 with no described result and a claimed Shenandoah sequence that is asserted rather than documented…
+0:47,Katmai,report,A1 against I311 was already filed by this team in an earlier attempt this phase and carries no charge here…
+0:47,Olympic,report,"The report names I312 and files one priced action (A1, free), framing a partner's emergency cash payroll as the resolution…"
+0:47,Redwood,report,"A1 is free, so nothing was charged this cycle; it is filed against I309 with no documented content, which is why the incident earns nothing."
+0:47,Redwood,report,"One action, free and in-role, but aimed at an incident this role does not lead and cannot close, with no account of what it produced…"
+0:47,Shenandoah,report,"The report names I304 only, so that is the single incident assessed; I304's primary is Feeding Southwest Virginia…"
+0:47,Teton,report,"A22 is the exact state the standard names as NOT closing I310 (consolidated picture, funds nothing) and A1 is a free generic action…"
+0:47,Yellowstone,report,"A1 is free and available to all, so nothing is charged; it is the only action filed and it leaves the corridor exactly as it found it."
+0:47,Zion,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
+0:47,Acadia,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:47,Redwood,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:47,Teton,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:47,Zion,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:47,Glacier,incident,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — now in progress. Open the incident for what changed.
+0:47,Redwood,incident,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — now in progress. Open the incident for what changed.
+0:47,Shenandoah,incident,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — now in progress. Open the incident for what changed.
+0:47,Yellowstone,incident,The Warehouse Never Got An Order And The Six Stores Are Still Waiting — now in progress. Open the incident for what changed.
+0:47,Acadia,escalation,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now escalated. Open the incident for what changed."
+0:47,Banff,escalation,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now escalated. Open the incident for what changed."
+0:47,Denali,escalation,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now escalated. Open the incident for what changed."
+0:47,Katmai,escalation,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now escalated. Open the incident for what changed."
+0:47,Olympic,escalation,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now escalated. Open the incident for what changed."
+0:47,Denali,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
+0:47,Acadia,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
+0:47,Redwood,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
+0:47,Katmai,escalation,"New incident: Four Thousand Claims, A Third Of Them Stolen, And Money Already Out The Door"
