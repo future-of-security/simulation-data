@@ -2,3 +2,6 @@ sim_time,team,type,message
 0:10,Acadia,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
 0:10,Teton,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
 0:10,Yellowstone,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
+0:12,Acadia,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
+0:12,Banff,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
+0:12,Denali,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."

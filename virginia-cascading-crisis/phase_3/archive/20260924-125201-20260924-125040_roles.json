@@ -16,7 +16,7 @@
    "sector": "Mining",
    "budget": 135000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
   {
@@ -25,7 +25,7 @@
    "sector": "Workforce",
    "budget": 85000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
   },
   {
