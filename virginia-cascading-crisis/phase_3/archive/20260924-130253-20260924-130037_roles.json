@@ -59,9 +59,9 @@
    "team": "Olympic",
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
-   "budget": 40000,
-   "trust": 5,
-   "score": 37.5,
+   "budget": 65000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Fill prescriptions that cannot be verified, for patients who cannot wait, without becoming the fraud everyone is watching for"
   },
   {
@@ -86,9 +86,9 @@
    "team": "Teton",
    "role": "Virginia Secretary of Commerce and Trade",
    "sector": "State Economic Policy",
-   "budget": 50000,
-   "trust": 7,
-   "score": 157.5,
+   "budget": 75000,
+   "trust": 5,
+   "score": 63.75,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
   {

@@ -87,3 +87,23 @@ sim_time,team,type,message
 0:20,Glacier,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
 0:20,Redwood,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
 0:20,Shenandoah,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
+0:22,Acadia,report,"A2 was already credited to this team under attempts 3 and 4 (charged 40000 each), and A13 under attempt 1…"
+0:22,Everglades,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
+0:22,Katmai,report,This submission could not be processed: the report is missing Situation Judgment.
+0:22,Olympic,report,This submission could not be processed: the report is missing Actions Taken.
+0:22,Olympic,report,"I309 is this role's to close, but the report documents only the near miss: A11 is filed at $25K in full with no cost share and no reported outcome…"
+0:22,Teton,report,"Two zero-cost actions, both in role and both charged at zero; the corridor order is I306's named near miss and the picture is I310's…"
+0:22,Teton,report,"Trust 5 puts A11 at the 1.0 modifier, so $25K catalog charges $25K in full; A1 is free and A11 is not already credited, though A15 was charged in attempt_1."
+0:22,Yellowstone,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
+0:22,Katmai,incident,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now in progress. Open the incident for what changed.
+0:22,Olympic,incident,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now in progress. Open the incident for what changed.
+0:22,Redwood,incident,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now in progress. Open the incident for what changed.
+0:22,Teton,incident,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now in progress. Open the incident for what changed.
+0:22,Banff,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:22,Glacier,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:22,Teton,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:22,Yellowstone,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:22,Everglades,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
+0:22,Katmai,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
+0:22,Redwood,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
+0:22,Teton,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
