@@ -363,5 +363,6 @@
    "opens_after": "I303",
    "opens_when": "escalated"
   }
- ]
+ ],
+ "phase": 3
 }

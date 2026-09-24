@@ -7,7 +7,7 @@
    "sector": "Finance",
    "budget": 140000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
   {
@@ -88,7 +88,7 @@
    "sector": "State Economic Policy",
    "budget": 110000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
   {
@@ -97,7 +97,7 @@
    "sector": "Fuel Supply",
    "budget": 75000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Keep diesel and gasoline reaching stations, generators and ambulances when payment systems and panic both work against you"
   },
   {
@@ -109,5 +109,6 @@
    "score": 0,
    "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
   }
- ]
+ ],
+ "phase": 3
 }
