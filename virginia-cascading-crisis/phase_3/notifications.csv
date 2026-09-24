@@ -107,3 +107,40 @@ sim_time,team,type,message
 0:22,Katmai,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
 0:22,Redwood,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
 0:22,Teton,escalation,Three Counties Whose Tax Base Stopped Have To Decide What They Still Pay For — now escalated. Open the incident for what changed.
+0:26,Banff,report,"Charge read at Banff's trust of 5 (A3 listed at $60K, modifier 1.0) with the claimed half split to Katmai, so $30K stands against Banff."
+0:26,Everglades,report,Both entries are in-role for Feeding Southwest Virginia.
+0:26,Everglades,report,A1 and A23 are both taken against I304 and are in role for Feeding Southwest Virginia; the A23 charge reflects the 50/50 split claimed with Teton.
+0:26,Glacier,report,"A7 carries a $0 catalog price so nothing accumulates on the charge side, but the inject reading stands on what the report shows the world reaching…"
+0:26,Redwood,report,A one-action report: A6 is priced at half share ($27.5k) against the $55k catalog cost with trust 5 as a 1.0 modifier.
+0:26,Teton,report,The report is a single free A1 filing against I310 with a named partner and no account of what it produced.
+0:26,Zion,report,A1 is filed again after already being credited in attempts 1-3 and carries no charge…
+0:26,Zion,report,"A1 and A20 are both priced here, but A1 is a $0 entry and this team's earlier attempts already carried A1, so no further charge or credit should attach to it."
+0:26,Banff,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:26,Katmai,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:26,Redwood,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:26,Teton,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:26,Everglades,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
+0:26,Glacier,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
+0:26,Redwood,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
+0:26,Shenandoah,incident,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now in progress. Open the incident for what changed.
+0:26,Everglades,incident,The Households That Ran Out First Are An Hour From The Nearest Open Store — now in progress. Open the incident for what changed.
+0:26,Katmai,incident,The Households That Ran Out First Are An Hour From The Nearest Open Store — now in progress. Open the incident for what changed.
+0:26,Redwood,incident,The Households That Ran Out First Are An Hour From The Nearest Open Store — now in progress. Open the incident for what changed.
+0:26,Shenandoah,incident,The Households That Ran Out First Are An Hour From The Nearest Open Store — now in progress. Open the incident for what changed.
+0:26,Banff,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:26,Glacier,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:26,Teton,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:26,Yellowstone,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:26,Everglades,incident,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now in progress. Open the incident for what changed."
+0:26,Redwood,incident,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now in progress. Open the incident for what changed."
+0:26,Teton,incident,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now in progress. Open the incident for what changed."
+0:26,Zion,incident,"Fifty Thousand Dollars, One Purpose, And An Office Nobody Believed Last Week — now in progress. Open the incident for what changed."
+0:26,Acadia,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:26,Redwood,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:26,Teton,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:26,Zion,incident,Small Employers Are Two Payrolls From Closing — now in progress. Open the incident for what changed.
+0:26,Acadia,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:26,Olympic,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:26,Shenandoah,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:26,Yellowstone,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:26,Zion,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.

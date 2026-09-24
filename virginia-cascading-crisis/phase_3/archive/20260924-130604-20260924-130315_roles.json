@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
-   "budget": 20000,
+   "budget": 50000,
    "trust": 5,
-   "score": 182.5,
+   "score": 137.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
   {
@@ -32,9 +32,9 @@
    "team": "Everglades",
    "role": "Feeding Southwest Virginia",
    "sector": "Food Assistance",
-   "budget": 37500,
-   "trust": 7,
-   "score": 112.5,
+   "budget": 90000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Feed the households that ran out first, from a warehouse that waits on the same trucks everyone else is waiting for"
   },
   {
@@ -43,7 +43,7 @@
    "sector": "Freight & Logistics",
    "budget": 50000,
    "trust": 5,
-   "score": 75.0,
+   "score": 37.5,
    "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
   },
   {
@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "Coalfield Counties Administrators",
    "sector": "Local Government",
-   "budget": 50000,
+   "budget": 77500,
    "trust": 5,
-   "score": 93.75,
+   "score": 75.0,
    "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
   },
   {
@@ -87,8 +87,8 @@
    "role": "Virginia Secretary of Commerce and Trade",
    "sector": "State Economic Policy",
    "budget": 50000,
-   "trust": 6,
-   "score": 195.0,
+   "trust": 7,
+   "score": 157.5,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Small Business Development Center, SW Virginia",
    "sector": "Small Business",
-   "budget": 10000,
-   "trust": 6,
-   "score": 157.5,
+   "budget": 60000,
+   "trust": 5,
+   "score": 97.5,
    "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
   }
  ]
