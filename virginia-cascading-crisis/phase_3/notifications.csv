@@ -203,3 +203,4 @@ sim_time,team,type,message
 0:33,Banff,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
 0:33,Katmai,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
 0:33,Redwood,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
+0:33,ALL,update,"Keep every section heading in your report, even when you have nothing to put under it — write ""None"". A report with a section removed can't be processed."
