@@ -1,0 +1,257 @@
+{
+ "key": "injects",
+ "injects": [
+  {
+   "id": "I301",
+   "phase": 3,
+   "sim_time": "0:00",
+   "incident": "Cash Has Run Out In Three Towns And The Card Rails Are Still Down",
+   "description": "The card networks have not come back since the breach, and the identity holds the banks stood up against the leaked files are now catching wages as well as fraud. Three towns' ATMs are empty, the stations say cash only, the small grocers have nothing to give change from, and county staff paid this morning cannot draw on the money they were paid. The region's cash sits in two branch vaults on one armoured route, and every household is asking the same question: who can still buy food today.",
+   "location": "Wise, Big Stone Gap and Tazewell / Region-wide",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia Community Bankers & Credit Unions",
+    "Southwest Virginia Fuel Distributors",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "time_limit": 30,
+   "state": "open",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I302",
+   "phase": 3,
+   "sim_time": "0:00",
+   "incident": "Eight Hundred Miners Are Not Being Paid And No One Has Said When",
+   "description": "The mines shut the morning the safety monitoring went dark and have not reopened. The operators will not name a restart date they cannot stand behind and the union will not put its name to one, direct deposit is flagged for most of the crews, and eight hundred households are into a second week with no pay date. The district hotline is the only account the members believe, and a week of official statements that did not hold is why nothing said by an institution is being taken at face value.",
+   "location": "Wise, Buchanan and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28"
+   ],
+   "time_limit": 30,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I303",
+   "phase": 3,
+   "sim_time": "0:00",
+   "incident": "One Leaked File Is Now Deciding Who Gets Paid",
+   "description": "The employment commission's system, built for a quiet week, is clearing eleven thousand new claims, including claims filed with exactly the names, dates of birth and last fours that the patient file and the second billing-and-insurance file carry, while miners whose accounts are flagged wait for verification they cannot complete. The banks are holding the same people's payroll, the pharmacy benefit managers have put an automatic hold on member IDs from the region so refills are refused at the counter, and the counties' own staff are caught in all three. The first fraudulent payments went out this morning and the first real miner was told to wait.",
+   "location": "Region-wide (Wise, Buchanan, Dickenson, Tazewell)",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Employment Commission, Southwest Region",
+    "SW Virginia Community Bankers & Credit Unions",
+    "SW Virginia Independent Pharmacy Network",
+    "Coalfield Counties Administrators"
+   ],
+   "time_limit": 30,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I304",
+   "phase": 3,
+   "sim_time": "0:00",
+   "incident": "The Shelters Are Empty And Everything People Cannot Do Without Is On One Corridor",
+   "description": "The food bank's warehouse holds two days of staples and the regional distribution centre is running on paper pick lists and backup power, and both are waiting on the same corridor, the same crews and the same fuel. The terminals still cannot take SNAP or WIC, so the poorest households are trying to buy with cash they do not have, and the nearest open store to three hollows is forty minutes away. No priority order has been issued for I-81 or the rail lines, and every carrier left out of one will say so.",
+   "location": "I-81 and the coalfield hollows",
+   "severity": 4,
+   "visible_to": [
+    "Feeding Southwest Virginia",
+    "Food City Regional Distribution Center",
+    "I-81 Freight & Rail Coordination",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "time_limit": 30,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I305",
+   "phase": 3,
+   "sim_time": "0:25",
+   "incident": "The Cash Circuit Reaches Three Towns And Not The Hollows",
+   "description": "Cash and honoured paper are moving in Wise, Big Stone Gap and Tazewell and the stations there will sell. The circuit runs through two branches, one armoured route and the fuel the distributors have already committed to hospital generators and ambulances, and it stops at the town limits: the hollows' grocers, the fire-hall pantries and the church stores are still turning people away. Every mile added to it is fuel taken off the critical sites.",
+   "location": "Coalfield hollows / Region-wide",
+   "severity": 4,
+   "visible_to": [
+    "SW Virginia Community Bankers & Credit Unions",
+    "Coalfield Counties Administrators",
+    "Southwest Virginia Fuel Distributors",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I301",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I306",
+   "phase": 3,
+   "sim_time": "0:25",
+   "incident": "The Hold Was Lifted For The Mine And Nobody Else",
+   "description": "The operators verified their own crews, the bank released the identity hold on that payroll, and the mine's people were paid, which the region has taken as the problem being fixed. Everyone else flagged against the leaked files is still held: school staff, the small employers who kept paying wages, the households in the second file, and the patients whose refills the benefit managers will not clear. Thursday is another payday.",
+   "location": "Coalfield counties / Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "SW Virginia Community Bankers & Credit Unions",
+    "Virginia Employment Commission, Southwest Region",
+    "SW Virginia Independent Pharmacy Network",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I301",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I307",
+   "phase": 3,
+   "sim_time": "0:25",
+   "incident": "Three Counties Are Paying Wages In Paper Nobody Will Take",
+   "description": "The cash never moved. The counties are paying staff in scrip and IOUs, the small employers are paying in promises, and the local banks will not honour either across a counter. No emergency declaration was made, the state's discretionary money is unspent, and the region's workers are finding out what their wages are worth at the register.",
+   "location": "Wise, Buchanan and Dickenson counties",
+   "severity": 5,
+   "visible_to": [
+    "Coalfield Counties Administrators",
+    "Virginia Secretary of Commerce and Trade",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I301",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I308",
+   "phase": 3,
+   "sim_time": "0:20",
+   "incident": "One Mine Restarts Under Manual Checks And Two Stay Shut",
+   "description": "The operators and the union stood up certified examiners on manual gas checks and paper tracking, and the restart is real: one mine, one crew, one shift, under a protocol nobody has run before. Two mines are still shut, their crews are still not paid, and the restart holds only as long as the people underground believe the checks are being done properly.",
+   "location": "Buchanan and Dickenson counties",
+   "severity": 3,
+   "visible_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I302",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I309",
+   "phase": 3,
+   "sim_time": "0:20",
+   "incident": "The Union Hotline Is Now The Only Version Of The Restart",
+   "description": "No pay date, no restart, no joint account. The district's hotline is carrying the only account the members believe, and what it is telling them is that the operators said one thing and did another. A restart announced from here is read as one more version, eight hundred paychecks are still undated, and the crews are deciding what to believe before they decide whether to go back underground.",
+   "location": "Coalfield counties",
+   "severity": 4,
+   "visible_to": [
+    "United Mine Workers, District 28",
+    "Appalachian Coal Operators",
+    "Virginia Employment Commission, Southwest Region"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I302",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I310",
+   "phase": 3,
+   "sim_time": "0:20",
+   "incident": "The Holds Are Lifted And The Fraudulent Money Has Already Been Spent",
+   "description": "The three systems that were holding the region's people off the leaked file have been straightened out: claims are being paid to the people who filed them, wages are drawable, and refills are going out on the pharmacist's judgement. What the release exposed is the money that left first, the fraudulent claims paid before the first real miner, and the region's one pot of discretionary money is still unspent.",
+   "location": "Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "Virginia Secretary of Commerce and Trade",
+    "Virginia Employment Commission, Southwest Region",
+    "SW Virginia Community Bankers & Credit Unions"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I303",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I311",
+   "phase": 3,
+   "sim_time": "0:20",
+   "incident": "The Refills Ran Out Before The Fraud Did",
+   "description": "The automatic holds are still on: member IDs from the region will not clear, and pharmacists have been refusing refills for days on end. Insulin and heart medication are the ones people cannot skip, the households in the leaked files are the ones doing without, and the region's suspicion of fraud is now costing people their doses. Nobody has told the patients what to do instead.",
+   "location": "Region-wide (Wise, Grundy, Lebanon)",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Virginia Employment Commission, Southwest Region",
+    "SW Virginia Community Bankers & Credit Unions"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I303",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I312",
+   "phase": 3,
+   "sim_time": "0:25",
+   "incident": "The Food Moved And Somebody's Store Is Last",
+   "description": "The priority order is out and the paper pick lists are running; loads are moving and the stores on the list have staples on the shelf. A published allocation means somebody is at the bottom of it, particular stores and particular hollows, and the carriers left out of the order have started saying so on the radio. The stores at the end of the list have not been told they are at the end of it.",
+   "location": "I-81 corridor / Coalfield counties",
+   "severity": 3,
+   "visible_to": [
+    "Food City Regional Distribution Center",
+    "Feeding Southwest Virginia",
+    "I-81 Freight & Rail Coordination",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I304",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I313",
+   "phase": 3,
+   "sim_time": "0:25",
+   "incident": "The Hollows Have Been Out Of Food Since Tuesday",
+   "description": "No priority order, no mobile distribution, and the terminals still will not take SNAP or WIC. The fire halls and churches have carried the hollows on donations since Tuesday and are out of what people need; the food bank's warehouse is empty; and the one load that is coming was bought outside the region and is last in line on the same corridor as everything else.",
+   "location": "Coalfield hollows",
+   "severity": 4,
+   "visible_to": [
+    "Feeding Southwest Virginia",
+    "Coalfield Counties Administrators",
+    "I-81 Freight & Rail Coordination",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I304",
+   "opens_when": "escalated"
+  }
+ ],
+ "phase": 3
+}

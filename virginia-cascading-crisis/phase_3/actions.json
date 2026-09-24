@@ -1,0 +1,297 @@
+{
+ "key": "actions",
+ "phase": 3,
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share what you have verified — which stores are out, which stations have fuel, which claims are fraudulent — with every other team. Free, always available, and in a phase about scarcity, the cheapest thing that stops two teams buying the same fix."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Emergency Payroll Cash Bridge",
+   "available_to": [
+    "SW Virginia Community Bankers & Credit Unions",
+    "Appalachian Coal Operators"
+   ],
+   "cost": 80000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Pay idled miners in cash or by paper check through the region's banks while direct deposit is flagged. Expensive, slow to stand up, and the only way a paycheck reaches a household this week."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Manual Mine Safety Monitoring for Restart",
+   "available_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28"
+   ],
+   "cost": 60000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Put certified examiners underground on manual gas checks and paper tracking so one mine can restart under the safety rules without its dark monitoring link. Needs the union at the table; a restart the miners do not trust is not a restart."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Surge Claims Line With Identity Check",
+   "available_to": [
+    "Virginia Employment Commission, Southwest Region"
+   ],
+   "cost": 70000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Staff a phone and walk-in claims line in Wise and Buchanan that checks identity in person. Real miners get paid days sooner; fraudulent claims filed with stolen identities stop at the counter."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Fraud Hold on Claims Matching the Leaked File",
+   "available_to": [
+    "Virginia Employment Commission, Southwest Region",
+    "SW Virginia Community Bankers & Credit Unions"
+   ],
+   "cost": 30000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Flag every new claim and account change whose identity appears in the leaked patient files, and hold it for a human check. Fast and cheap — and it will also hold real people, who are in the file too."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Mobile Food Distribution to the Hollows",
+   "available_to": [
+    "Feeding Southwest Virginia",
+    "Coalfield Counties Administrators"
+   ],
+   "cost": 55000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Run food-bank trucks to fire halls and churches in the hollows where the nearest open store is forty minutes away. Reaches the households that ran out first; costs fuel the region is short of."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Corridor Priority Order",
+   "available_to": [
+    "I-81 Freight & Rail Coordination",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "cost": 0,
+   "delay_mins": 10,
+   "requires_approval": "Virginia Secretary of Commerce and Trade",
+   "trust_impact": 1,
+   "description": "Declare what moves first on I-81 and the rail lines — fuel, food, medicine, then everything else. Free to issue, binding only if the state stands behind it, and every carrier left out will say so."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Paper Picking and Store Allocation Plan",
+   "available_to": [
+    "Food City Regional Distribution Center"
+   ],
+   "cost": 45000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Run the distribution center on paper pick lists and phone orders with extra shifts, and decide which stores are resupplied first. Gets product moving; someone's store is last."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "Purchase Limits on Staples",
+   "available_to": [
+    "Food City Regional Distribution Center"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Limit milk, bread, water, formula and fuel cans per customer across the chain. Stops the shelves emptying in an hour; nobody thanks you for it."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "72-Hour Emergency Prescription Supply",
+   "available_to": [
+    "SW Virginia Independent Pharmacy Network"
+   ],
+   "cost": 40000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Dispense a three-day supply of maintenance medication without the claim clearing, on the pharmacist's judgement and at the pharmacy's risk. Keeps insulin and heart medication flowing; exposed if the patient is not who they say."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Claims Override Request to the Benefit Managers",
+   "available_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "cost": 25000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Press the pharmacy benefit managers to lift the automatic hold on member IDs from the region and adjudicate by hand. Slow, and it only works if someone the insurers answer to is asking."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Fuel Allocation to Critical Sites",
+   "available_to": [
+    "Southwest Virginia Fuel Distributors",
+    "Coalfield Counties Administrators"
+   ],
+   "cost": 65000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Commit tanker loads to hospital generators, ambulances, water plants and the food distribution center before retail stations. Keeps the essential running; the stations run dry faster."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Cash and Paper Sales Protocol",
+   "available_to": [
+    "Southwest Virginia Fuel Distributors",
+    "SW Virginia Community Bankers & Credit Unions"
+   ],
+   "cost": 20000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Get stations and small stores selling for cash and paper IOUs honoured by local banks while card payment is down, with change and cash delivered to where it has run out."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Coalfield Economic Emergency Declaration",
+   "available_to": [
+    "Coalfield Counties Administrators"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Declare a local economic emergency in Wise, Buchanan and Dickenson: suspends some purchasing rules, unlocks county reserves, and puts the state on notice. Free; it also tells every lender and employer how bad it is."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "State Economic Disruption Fund Release",
+   "available_to": [
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "cost": 50000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Release state disruption money to one purpose this phase — payroll, food, fuel or small business — with conditions attached. The only large discretionary money here; whatever it does not fund, nothing funds."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Small Business Bridge Loans",
+   "available_to": [
+    "Small Business Development Center, SW Virginia",
+    "SW Virginia Community Bankers & Credit Unions"
+   ],
+   "cost": 60000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Zero-interest ninety-day bridge loans to employers under fifty staff who kept paying wages. Keeps people employed; slow to reach anyone and it has to be paid back into a region with less money in it."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "Union Hardship Fund and Member Hotline",
+   "available_to": [
+    "United Mine Workers, District 28"
+   ],
+   "cost": 35000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open the district's hardship fund for rent and utilities and staff a line that tells members what is known about pay and restart. Keeps families housed and gives the only account miners will believe."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "Joint Miners' Briefing: What, When, and Pay",
+   "available_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Operators and the union say the same thing, in the same room, at the same time: why the mines are shut, what has to happen to reopen them, and when pay arrives. Free, and worth more than it costs only if both actually agree."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Reassign Rail Cars From Coal to Supplies",
+   "available_to": [
+    "I-81 Freight & Rail Coordination",
+    "Appalachian Coal Operators"
+   ],
+   "cost": 45000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Take the idle coal hoppers and crews and move fuel and food on the region's rail lines instead. Uses capacity that is sitting still; the operators want those cars back the day the mines restart."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Offline EBT and WIC Acceptance",
+   "available_to": [
+    "Food City Regional Distribution Center",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "cost": 30000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Accept SNAP and WIC benefits on paper vouchers while the card terminals are down, in the chain and in small grocers, and reconcile later. The poorest households can buy food again; the reconciliation is somebody's problem next month."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Price-Gouging Watch and Public Hotline",
+   "available_to": [
+    "Virginia Secretary of Commerce and Trade",
+    "Coalfield Counties Administrators",
+    "Small Business Development Center, SW Virginia"
+   ],
+   "cost": 20000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Publish the prices that count as gouging on fuel, water and formula, and a number to report them. Deters the worst; enforcement is slower than the rumour that a station is charging nine dollars."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Consolidated Regional Economic Picture",
+   "available_to": [
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "One page, updated every hour: what is open, what is out, who is being paid, where the fuel is. Free; the region acts on it only if what the teams report into it is true."
+  },
+  {
+   "action_id": "A23",
+   "action_name": "Out-of-Region Emergency Food Procurement",
+   "available_to": [
+    "Feeding Southwest Virginia",
+    "Virginia Secretary of Commerce and Trade"
+   ],
+   "cost": 50000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Buy staples from suppliers outside the region and truck them in to the food bank's warehouse. More food than the region has; it arrives last, on trucks competing for the same corridor."
+  }
+ ]
+}
