@@ -1140,3 +1140,4 @@
 {"at": "2026-09-24T13:43:45-04:00", "kind": "team_scored", "sim": "0:58", "team": "Teton", "detail": "The submission is a reflection template only: no actions were filed against any incident, so there is nothing to price and nothing to credit.", "cycle": "20260924-133915", "source": "teton_phase3_attempt_8.md", "data": {"budget_charged": 0.0, "trust_delta": -1.0, "score_awarded": 0.0, "actions": 0}}
 {"at": "2026-09-24T13:43:45-04:00", "kind": "processing_finished", "sim": "0:58", "detail": "21 submission(s) settled, 4 incident update(s)", "cycle": "20260924-133915"}
 {"at": "2026-09-24T13:43:57-04:00", "kind": "phase_ended", "detail": "countdown stopped; unconfirmed splits settle next"}
+{"at": "2026-09-24T13:44:14-04:00", "kind": "reconcile_started", "detail": "settling what needed a second report", "data": {"confirmed_claims": 0, "judge_signals": 0, "custom_actions_waiting": 7, "rereadable": false}}

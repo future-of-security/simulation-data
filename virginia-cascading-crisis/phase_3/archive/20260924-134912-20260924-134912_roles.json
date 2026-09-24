@@ -14,8 +14,8 @@
    "team": "Banff",
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
-   "budget": 20000,
-   "trust": 6,
+   "budget": -10000,
+   "trust": 5,
    "score": 182.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
@@ -59,8 +59,8 @@
    "team": "Olympic",
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
-   "budget": -50000,
-   "trust": 7,
+   "budget": -28750,
+   "trust": 6,
    "score": 135.0,
    "responsibility": "Fill prescriptions that cannot be verified, for patients who cannot wait, without becoming the fraud everyone is watching for"
   },
@@ -86,8 +86,8 @@
    "team": "Teton",
    "role": "Virginia Secretary of Commerce and Trade",
    "sector": "State Economic Policy",
-   "budget": 10000,
-   "trust": 6,
+   "budget": 50000,
+   "trust": 5,
    "score": 240.0,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
@@ -105,7 +105,7 @@
    "role": "Small Business Development Center, SW Virginia",
    "sector": "Small Business",
    "budget": 10000,
-   "trust": 6,
+   "trust": 5,
    "score": 157.5,
    "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
   }

@@ -326,3 +326,11 @@ sim_time,team,type,message
 0:58,Redwood,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
 0:58,Teton,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
 0:58,Zion,escalation,Small Employers Are Two Payrolls From Closing — escalated. Open the incident for what happens now and what would have closed it.
+end,Acadia,update,Instructor ruling on A2 on I312: Olympic's report records the same $40K-each split; it holds and trust rises.
+end,Banff,update,"Instructor ruling on A19 on I306: you declared a one-third share but were charged the full $45K; $30K is refunded, and the collaboration earns trust."
+end,Everglades,update,Instructor ruling on A23 on I304: Teton's report confirms the coordination; the split holds and trust rises.
+end,Glacier,update,Instructor ruling on A19 on I306: Banff's report records its one-third share; your two-thirds split holds and trust rises.
+end,Olympic,update,"Instructor ruling on A2 on I312: you recorded a $40K share with Acadia and were charged $18.75K; you cover the other $21.25K, and the collaboration earns trust."
+end,Teton,update,"Instructor ruling on A15 on I301: only your role can take A15, so no partner could share it; you cover the remaining $15K."
+end,Teton,update,"Instructor ruling on A23 on I304: you documented the split with Everglades, so you pay your $25K half, and the collaboration earns trust."
+end,Zion,update,Instructor ruling on A16 on I307: Acadia's report confirms the same half-and-half split; it holds and trust rises.
