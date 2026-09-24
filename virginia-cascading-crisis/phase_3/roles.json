@@ -1,0 +1,114 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "SW Virginia Community Bankers & Credit Unions",
+   "sector": "Finance",
+   "budget": 140000,
+   "trust": 8,
+   "score": 0,
+   "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
+  },
+  {
+   "team": "Banff",
+   "role": "Appalachian Coal Operators",
+   "sector": "Mining",
+   "budget": 135000,
+   "trust": 3,
+   "score": 0,
+   "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
+  },
+  {
+   "team": "Denali",
+   "role": "Virginia Employment Commission, Southwest Region",
+   "sector": "Workforce",
+   "budget": 85000,
+   "trust": 3,
+   "score": 0,
+   "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
+  },
+  {
+   "team": "Everglades",
+   "role": "Feeding Southwest Virginia",
+   "sector": "Food Assistance",
+   "budget": 90000,
+   "trust": 5,
+   "score": 0,
+   "responsibility": "Feed the households that ran out first, from a warehouse that waits on the same trucks everyone else is waiting for"
+  },
+  {
+   "team": "Glacier",
+   "role": "I-81 Freight & Rail Coordination",
+   "sector": "Freight & Logistics",
+   "budget": 50000,
+   "trust": 5,
+   "score": 0,
+   "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
+  },
+  {
+   "team": "Katmai",
+   "role": "United Mine Workers, District 28",
+   "sector": "Labor",
+   "budget": 80000,
+   "trust": 3,
+   "score": 0,
+   "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
+  },
+  {
+   "team": "Olympic",
+   "role": "SW Virginia Independent Pharmacy Network",
+   "sector": "Pharmacy",
+   "budget": 65000,
+   "trust": 5,
+   "score": 0,
+   "responsibility": "Fill prescriptions that cannot be verified, for patients who cannot wait, without becoming the fraud everyone is watching for"
+  },
+  {
+   "team": "Redwood",
+   "role": "Coalfield Counties Administrators",
+   "sector": "Local Government",
+   "budget": 110000,
+   "trust": 4,
+   "score": 0,
+   "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "Food City Regional Distribution Center",
+   "sector": "Food Distribution",
+   "budget": 70000,
+   "trust": 5,
+   "score": 0,
+   "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
+  },
+  {
+   "team": "Teton",
+   "role": "Virginia Secretary of Commerce and Trade",
+   "sector": "State Economic Policy",
+   "budget": 110000,
+   "trust": 5,
+   "score": 0,
+   "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "Southwest Virginia Fuel Distributors",
+   "sector": "Fuel Supply",
+   "budget": 75000,
+   "trust": 3,
+   "score": 0,
+   "responsibility": "Keep diesel and gasoline reaching stations, generators and ambulances when payment systems and panic both work against you"
+  },
+  {
+   "team": "Zion",
+   "role": "Small Business Development Center, SW Virginia",
+   "sector": "Small Business",
+   "budget": 90000,
+   "trust": 3,
+   "score": 0,
+   "responsibility": "Keep the region's small employers solvent through a week with no card payments and few customers"
+  }
+ ],
+ "phase": 3
+}
