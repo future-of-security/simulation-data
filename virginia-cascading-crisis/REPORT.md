@@ -3,12 +3,9 @@
 **Team:**
 **Role:**
 **Phase:**
+**Incident:**
 
-## What My Role Could See
-
-The incident this report is about, by its dashboard id (for example `I201`):
-
--
+## What My Role Could Not See
 
 What I needed to know but could not see:
 
@@ -20,7 +17,7 @@ What I needed to know but could not see:
 
 ## Actions Taken
 
-`Action ID | Name | Cost | Why this is within my role's authority`
+`Action ID | Name | Cost | Why this is within my role's authority | What it produced`
 
 -
 
