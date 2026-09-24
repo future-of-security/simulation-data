@@ -5,3 +5,33 @@ sim_time,team,type,message
 0:12,Acadia,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
 0:12,Banff,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
 0:12,Denali,report,"This submission could not be processed: the report is missing Outcomes, Needs, Risks; Reflection and Design Takeaway."
+0:15,Acadia,report,A13 is the right action for I312 and the report files it cleanly with cost and remaining budget…
+0:15,Banff,report,"A single in-role action, correctly id'd as A18, but it is precisely the near miss I311 names: a briefing moves no money and staffs no line."
+0:15,Denali,report,"The report's own header names I311 as the incident it is about, but both actions it files are aimed at the claims queue — the A1 line says so in words ('we…"
+0:15,Denali,report,"A5 is the leaked-file fraud hold the incident names as the action that does not close it, so the award stays below a resolution however it was funded…"
+0:15,Everglades,report,This submission could not be processed: the report is missing What My Role Could See; Situation Judgment; Actions Taken; Collaboration and Transfers…
+0:15,Katmai,report,"One action on one incident, in role and correctly filed against I311, but it is that incident's named near miss rather than its closing state…"
+0:15,Teton,report,"One action filed, in role, at a claimed 70/30 cost split with Katmai; the payroll bridge is the standard's own near miss for I301…"
+0:15,Yellowstone,report,"The action is in role — A12 needs no outside approval — and the cost split is stated consistently with the $32,500 remaining."
+0:15,Acadia,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:15,Olympic,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:15,Shenandoah,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:15,Yellowstone,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:15,Zion,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:15,Acadia,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:15,Banff,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:15,Denali,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:15,Katmai,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:15,Acadia,incident,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now in progress. Open the incident for what changed."
+0:15,Banff,incident,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now in progress. Open the incident for what changed."
+0:15,Denali,incident,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now in progress. Open the incident for what changed."
+0:15,Katmai,incident,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now in progress. Open the incident for what changed."
+0:15,Olympic,incident,"Four Thousand Claims, A Normal Week Of Three Hundred, And The Second File In The Fraudsters' Hands — now in progress. Open the incident for what changed."
+0:15,Banff,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:15,Katmai,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:15,Redwood,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:15,Teton,incident,"Three Mines Idle, No Monitoring, And A Restart Nobody Has Ruled On — now in progress. Open the incident for what changed."
+0:15,Everglades,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
+0:15,Glacier,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
+0:15,Redwood,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.
+0:15,Yellowstone,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now in progress. Open the incident for what changed.

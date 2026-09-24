@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "SW Virginia Community Bankers & Credit Unions",
    "sector": "Finance",
-   "budget": 120000,
-   "trust": 5,
-   "score": 37.5,
+   "budget": 140000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
   {
@@ -16,16 +16,16 @@
    "sector": "Mining",
    "budget": 135000,
    "trust": 6,
-   "score": 37.5,
+   "score": 0.0,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
   {
    "team": "Denali",
    "role": "Virginia Employment Commission, Southwest Region",
    "sector": "Workforce",
-   "budget": 70000,
-   "trust": 5,
-   "score": 37.5,
+   "budget": 85000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
   },
   {
@@ -34,7 +34,7 @@
    "sector": "Food Assistance",
    "budget": 90000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "Feed the households that ran out first, from a warehouse that waits on the same trucks everyone else is waiting for"
   },
   {
@@ -52,7 +52,7 @@
    "sector": "Labor",
    "budget": 80000,
    "trust": 6,
-   "score": 37.5,
+   "score": 0,
    "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
   },
   {
@@ -86,18 +86,18 @@
    "team": "Teton",
    "role": "Virginia Secretary of Commerce and Trade",
    "sector": "State Economic Policy",
-   "budget": 75000,
-   "trust": 5,
-   "score": 63.75,
+   "budget": 110000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Hold the only large discretionary money in the room, and decide which part of the region's economy it saves first"
   },
   {
    "team": "Yellowstone",
    "role": "Southwest Virginia Fuel Distributors",
    "sector": "Fuel Supply",
-   "budget": 42500,
-   "trust": 5,
-   "score": 45.0,
+   "budget": 75000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Keep diesel and gasoline reaching stations, generators and ambulances when payment systems and panic both work against you"
   },
   {
