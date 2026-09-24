@@ -204,3 +204,14 @@ sim_time,team,type,message
 0:33,Katmai,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
 0:33,Redwood,escalation,"New incident: No Mine Restarts, And Friday's Pay Never Landed"
 0:33,ALL,update,"Keep every section heading in your report, even when you have nothing to put under it — write ""None"". A report with a section removed can't be processed."
+0:38,Acadia,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:38,Banff,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:38,Redwood,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:38,Shenandoah,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:38,Yellowstone,update,Collaboration confirmed by your partner; the split holds and trust rises.
+0:38,Banff,update,"Your half share on A3 was never matched by a partner's filing, so the split does not hold and you are charged the remaining $30000 of the action's $60000 price."
+0:38,Denali,update,"Denali filed only half of A5 and named no partner, and no counterparty filed a matching share, so the split does not hold and you are charged the remaining 15000 of the 30000 price."
+0:38,Everglades,update,"Redwood never filed against A6, so no split was ever agreed; you cover the remaining $27.5K of the $55K action yourself and the claimed collaboration does not stand."
+0:38,Katmai,update,"Handing district funds to another team to fix I308 is outside District 28's charter and its listed actions; the union speaks for miners and pays them through A17, so the transfer is void and costs nothing."
+0:38,Redwood,update,"No counterparty filed the matching half of A6, so the claimed split does not hold; the action's full $55K stands against you and you are charged the uncovered $27.5K."
+0:38,Shenandoah,update,"No partner filed the same split on A8, so your claimed arrangement with Glacier is not confirmed and you are charged the remaining $5000 of the $45K price."

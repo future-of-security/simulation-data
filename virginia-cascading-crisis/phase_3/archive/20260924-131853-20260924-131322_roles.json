@@ -6,7 +6,7 @@
    "role": "SW Virginia Community Bankers & Credit Unions",
    "sector": "Finance",
    "budget": 40000,
-   "trust": 7,
+   "trust": 6,
    "score": 105.0,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
@@ -14,8 +14,8 @@
    "team": "Banff",
    "role": "Appalachian Coal Operators",
    "sector": "Mining",
-   "budget": -10000,
-   "trust": 7,
+   "budget": 20000,
+   "trust": 6,
    "score": 182.5,
    "responsibility": "Decide whether and when the mines reopen, with safety monitoring blind and eight hundred paychecks riding on the answer"
   },
@@ -23,8 +23,8 @@
    "team": "Denali",
    "role": "Virginia Employment Commission, Southwest Region",
    "sector": "Workforce",
-   "budget": -15000,
-   "trust": 4,
+   "budget": 0,
+   "trust": 5,
    "score": 93.75,
    "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
   },
@@ -32,7 +32,7 @@
    "team": "Everglades",
    "role": "Feeding Southwest Virginia",
    "sector": "Food Assistance",
-   "budget": 10000,
+   "budget": 37500,
    "trust": 7,
    "score": 112.5,
    "responsibility": "Feed the households that ran out first, from a warehouse that waits on the same trucks everyone else is waiting for"
@@ -50,7 +50,7 @@
    "team": "Katmai",
    "role": "United Mine Workers, District 28",
    "sector": "Labor",
-   "budget": 80000,
+   "budget": 65000,
    "trust": 5,
    "score": 67.5,
    "responsibility": "Speak for miners who are not working, not being paid, and not being told when either changes"
@@ -68,8 +68,8 @@
    "team": "Redwood",
    "role": "Coalfield Counties Administrators",
    "sector": "Local Government",
-   "budget": 22500,
-   "trust": 6,
+   "budget": 50000,
+   "trust": 5,
    "score": 93.75,
    "responsibility": "Run three counties whose tax base just stopped, and decide what a county pays for before the state decides for it"
   },
@@ -77,7 +77,7 @@
    "team": "Shenandoah",
    "role": "Food City Regional Distribution Center",
    "sector": "Food Distribution",
-   "budget": 25000,
+   "budget": 30000,
    "trust": 5,
    "score": 67.5,
    "responsibility": "Ship from a warehouse running on paper and backup power: which stores get what, and what gets rationed"
@@ -96,7 +96,7 @@
    "role": "Southwest Virginia Fuel Distributors",
    "sector": "Fuel Supply",
    "budget": 42500,
-   "trust": 6,
+   "trust": 5,
    "score": 45.0,
    "responsibility": "Keep diesel and gasoline reaching stations, generators and ambulances when payment systems and panic both work against you"
   },
