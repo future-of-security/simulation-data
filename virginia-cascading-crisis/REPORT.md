@@ -7,8 +7,6 @@
 
 ## What My Role Could Not See
 
-What I needed to know but could not see:
-
 -
 
 ## Situation Judgment
