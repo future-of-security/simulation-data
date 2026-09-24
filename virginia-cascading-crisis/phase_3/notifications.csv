@@ -144,3 +144,32 @@ sim_time,team,type,message
 0:26,Shenandoah,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
 0:26,Yellowstone,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
 0:26,Zion,incident,Card Payments Are Down And The Coalfields Want Cash Or Scrip — now in progress. Open the incident for what changed.
+0:27,Acadia,report,"The submission names I311 and files one free action, A1, with no documented result, so nothing moves on the claims line or the hardship fund this cycle…"
+0:27,Denali,report,"Denali files against I311, the union's primary incident, so this reading is capped at strong_partial and lands at moderate_partial…"
+0:27,Glacier,report,Glacier reads I305 correctly — critical tanker loads against retail — but only declares a priority…
+0:27,Glacier,report,"One action against I306, in-role and paid correctly, with a documented Banff collaboration…"
+0:27,Redwood,report,This submission could not be processed: the report is missing Collaboration and Transfers.
+0:27,Acadia,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:27,Banff,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:27,Denali,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:27,Katmai,incident,"Eight Hundred Miners Not Paid, Not Working, And Not Being Told Either — now in progress. Open the incident for what changed."
+0:27,Everglades,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now partially resolved. Open the incident for what changed.
+0:27,Glacier,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now partially resolved. Open the incident for what changed.
+0:27,Redwood,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now partially resolved. Open the incident for what changed.
+0:27,Yellowstone,incident,A Third Of The Stations Are Dry And The Tankers Also Serve The Ambulances — now partially resolved. Open the incident for what changed.
+0:27,Banff,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:27,Glacier,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:27,Teton,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:27,Yellowstone,incident,"Fuel, Food And Medicine Are Queuing For I-81 While The Coal Hoppers Sit Still — now partially resolved. Open the incident for what changed."
+0:27,Everglades,escalation,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now escalated. Open the incident for what changed.
+0:27,Glacier,escalation,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now escalated. Open the incident for what changed.
+0:27,Redwood,escalation,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now escalated. Open the incident for what changed.
+0:27,Shenandoah,escalation,The Abingdon Warehouse Is On Paper And Six Coalfield Stores Are Out Of Staples — now escalated. Open the incident for what changed.
+0:27,Katmai,escalation,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now escalated. Open the incident for what changed.
+0:27,Olympic,escalation,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now escalated. Open the incident for what changed.
+0:27,Redwood,escalation,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now escalated. Open the incident for what changed.
+0:27,Teton,escalation,The Pharmacy Queue Is Insulin And Methadone And Nobody Can Verify A Prescription — now escalated. Open the incident for what changed.
+0:27,Glacier,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
+0:27,Shenandoah,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
+0:27,Redwood,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting
+0:27,Yellowstone,escalation,New incident: The Warehouse Never Got An Order And The Six Stores Are Still Waiting

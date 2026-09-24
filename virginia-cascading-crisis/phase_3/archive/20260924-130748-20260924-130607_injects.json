@@ -57,7 +57,7 @@
     "Coalfield Counties Administrators"
    ],
    "time_limit": 25,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -177,7 +177,7 @@
     "Virginia Secretary of Commerce and Trade"
    ],
    "time_limit": 25,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -346,7 +346,7 @@
   {
    "id": "I318",
    "phase": 3,
-   "sim_time": "0:27",
+   "sim_time": "0:25",
    "incident": "The Warehouse Never Got An Order And The Six Stores Are Still Waiting",
    "description": "The deadline passed with no allocation and no paper pick plan. The Abingdon center is still filling whichever order is shouted loudest, trucks are queuing on the corridor in the order they arrived, and the six coalfield stores have been out of staples since morning. The corridor coordinator can take the idle hoppers and move food and fuel by rail on a published sequence, or the region keeps feeding whichever truck got there first.",
    "location": "Abingdon / I-81 corridor",
@@ -358,7 +358,7 @@
     "Southwest Virginia Fuel Distributors"
    ],
    "time_limit": 20,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 125,
    "opens_after": "I303",
    "opens_when": "escalated"

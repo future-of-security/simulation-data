@@ -6,7 +6,7 @@
    "role": "SW Virginia Community Bankers & Credit Unions",
    "sector": "Finance",
    "budget": 40000,
-   "trust": 6,
+   "trust": 7,
    "score": 105.0,
    "responsibility": "Keep money moving where the card networks cannot: cash, payroll, and the bridge loans a shuttered employer will need by Friday"
   },
@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "Virginia Employment Commission, Southwest Region",
    "sector": "Workforce",
-   "budget": 0,
+   "budget": 70000,
    "trust": 5,
-   "score": 93.75,
+   "score": 37.5,
    "responsibility": "Pay the claims that are real, stop the ones filed with stolen identities, and do both on a system built for a quiet week"
   },
   {
@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "I-81 Freight & Rail Coordination",
    "sector": "Freight & Logistics",
-   "budget": 20000,
+   "budget": 50000,
    "trust": 5,
-   "score": 182.5,
+   "score": 75.0,
    "responsibility": "Decide what moves first on the corridor — fuel, food, medicine, coal — when there is not room for all of it"
   },
   {
