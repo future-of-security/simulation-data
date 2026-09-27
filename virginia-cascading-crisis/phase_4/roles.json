@@ -1,0 +1,114 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "Virginia National Guard, Southwest Task Force",
+   "sector": "Military",
+   "budget": 120000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
+  },
+  {
+   "team": "Banff",
+   "role": "Wise County Board of Supervisors",
+   "sector": "Local Government",
+   "budget": 80000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "The county that says it will set its own distribution rules, and what it does with the authority it claims"
+  },
+  {
+   "team": "Denali",
+   "role": "SW Virginia EMA",
+   "sector": "Emergency Management",
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
+  },
+  {
+   "team": "Everglades",
+   "role": "SW Virginia Sheriff's Coalition",
+   "sector": "Law Enforcement",
+   "budget": 100000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
+  },
+  {
+   "team": "Glacier",
+   "role": "Coalfield Citizens' Coalition",
+   "sector": "Civic Movement",
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
+  },
+  {
+   "team": "Katmai",
+   "role": "Governor's SW Virginia Liaison",
+   "sector": "State Executive",
+   "budget": 65000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
+  },
+  {
+   "team": "Olympic",
+   "role": "WDBJ7 News",
+   "sector": "Media",
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
+  },
+  {
+   "team": "Redwood",
+   "role": "Appalachian Faith & Community Network",
+   "sector": "Community/Faith",
+   "budget": 105000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Trusted messengers in the hollows, safe places to meet, and people on the ground between the crowd and the line"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "ACLU of Virginia, Southwest Office",
+   "sector": "Civil Liberties",
+   "budget": 65000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Observers at the protest, the line between enforcement and suppression, and the court if it is crossed"
+  },
+  {
+   "team": "Teton",
+   "role": "VDOT SW Region",
+   "sector": "Transportation",
+   "budget": 95000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "United Way of Southwest Virginia",
+   "sector": "Humanitarian/Mediation",
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
+  },
+  {
+   "team": "Zion",
+   "role": "Carilion Clinic System",
+   "sector": "Healthcare",
+   "budget": 90000,
+   "trust": 6,
+   "score": 0,
+   "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
+  }
+ ],
+ "phase": 4
+}
