@@ -1,0 +1,348 @@
+{
+ "key": "actions",
+ "phase": 4,
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share what you have verified \u2014 who is on the road, which clip is fake, which rumour is moving \u2014 with every other team. Free, always available, and the cheapest thing that stops two teams answering the same crowd with different stories."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Negotiated Convoy Lane on US-23",
+   "available_to": [
+    "VDOT SW Region",
+    "Coalfield Citizens' Coalition",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "VDOT SW Region",
+   "trust_impact": 1,
+   "description": "One lane opened through the blockade for food, fuel and medical convoys at set hours, agreed with the people holding the road and marked by VDOT. Keeps supplies moving without clearing anyone; only holds while the protesters agree to it."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Clear the Road by Enforcement",
+   "available_to": [
+    "SW Virginia Sheriff's Coalition",
+    "Virginia National Guard, Southwest Task Force"
+   ],
+   "cost": 50000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": -2,
+   "description": "Deputies, with Guard support if it is requested, remove the blockade and reopen US-23. Fast and certain for the road; arrests on camera and a crowd that leaves angrier and comes back somewhere else."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Signed Detour and Road Closure Plan",
+   "available_to": [
+    "VDOT SW Region"
+   ],
+   "cost": 30000,
+   "delay_mins": 10,
+   "requires_approval": "VDOT SW Region",
+   "trust_impact": 0,
+   "description": "Close the blocked segment, sign detours through Norton and Coeburn, and publish them. Moves traffic around the protest rather than through it; adds an hour to every supply run into the coalfields."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "National Guard Activation Request",
+   "available_to": [
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": -1,
+   "description": "The Liaison asks the Governor to send the Guard to the coalfields. Free to request and the only way troops come; what they are sent to do has to be decided, and a request made public is its own message."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Guard Security for Distribution Sites",
+   "available_to": [
+    "Virginia National Guard, Southwest Task Force"
+   ],
+   "cost": 60000,
+   "delay_mins": 20,
+   "requires_approval": "Governor's SW Virginia Liaison",
+   "trust_impact": 0,
+   "description": "Guard members posted at food and fuel distribution sites, unarmed or armed as the order says, so the sites can open. Protects the queue; turns every photo of the queue into a photo of soldiers."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Guard Convoy Escort",
+   "available_to": [
+    "Virginia National Guard, Southwest Task Force",
+    "VDOT SW Region"
+   ],
+   "cost": 45000,
+   "delay_mins": 15,
+   "requires_approval": "Governor's SW Virginia Liaison",
+   "trust_impact": -1,
+   "description": "Guard vehicles escort supply convoys on the detour or through the negotiated lane. Gets trucks through; read by the protesters as the state arriving with force."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "State\u2013County Emergency Compact",
+   "available_to": [
+    "Governor's SW Virginia Liaison",
+    "Wise County Board of Supervisors"
+   ],
+   "cost": 35000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "A signed agreement on who decides distribution in Wise County: the county's rules where they are published and fair, the state's where they are not, and a joint table for disputes. Ends the public fight over authority, if both sides sign."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "County Distribution Ordinance",
+   "available_to": [
+    "Wise County Board of Supervisors"
+   ],
+   "cost": 15000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Wise County adopts its own emergency distribution rules \u2014 who gets served first, how much, and at which sites. Local authority exercised in the open; defiance of the state if nobody agreed to it."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Public Town Hall with Ground Rules",
+   "available_to": [
+    "Wise County Board of Supervisors",
+    "United Way of Southwest Virginia",
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 20000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A moderated county forum with published ground rules, a speakers' list and security outside the room. The grievance gets a hearing; a forum without rules is where the next fight starts."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Joint Information Center Updates",
+   "available_to": [
+    "SW Virginia EMA",
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 25000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "One regional update on a fixed schedule \u2014 state, county, EMA and the utilities saying the same thing at the same hour. The single fastest cure for contradictory statements; only works if everyone uses it."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Published Allocation Record",
+   "available_to": [
+    "SW Virginia EMA",
+    "Wise County Board of Supervisors"
+   ],
+   "cost": 20000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Publish, by county, what food, fuel and money went where last week and why. The direct answer to 'the state saved Roanoke and not us' \u2014 if the numbers do not say that."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Emergency Broadcast",
+   "available_to": [
+    "SW Virginia EMA",
+    "Governor's SW Virginia Liaison"
+   ],
+   "cost": 10000,
+   "delay_mins": 5,
+   "requires_approval": "Governor's SW Virginia Liaison or SW Virginia EMA",
+   "trust_impact": 0,
+   "description": "An alert over radio, TV and phones to everyone in the region. Reaches people the feeds do not; a broadcast that turns out wrong is the next rumour."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Rapid Verification Desk",
+   "available_to": [
+    "WDBJ7 News"
+   ],
+   "cost": 30000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A newsroom desk that checks clips and claims within the hour and publishes what is known, what is not, and how it was checked. Beats a rumour only if it is faster than the rumour."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "Deepfake Authentication and Takedown Request",
+   "available_to": [
+    "WDBJ7 News",
+    "SW Virginia EMA"
+   ],
+   "cost": 25000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Forensic check of the clip and a documented request to the platforms to label or remove it. A finding a county official can cite; the platforms decide what they do with the request."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Broadcast Community Forum",
+   "available_to": [
+    "WDBJ7 News",
+    "Coalfield Citizens' Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 25000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "An hour of airtime with coalition speakers, officials and clergy on the same stage, moderated. The protest gets its case heard somewhere other than the road; a bad hour on air is worse than none."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "Coalition Demands and Spokespeople",
+   "available_to": [
+    "Coalfield Citizens' Coalition"
+   ],
+   "cost": 5000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "The coalition names its demands in writing and the people authorised to negotiate them. Gives officials someone to talk to; a movement that speaks with one voice can also be held to what it said."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "Stand Down Armed Volunteers",
+   "available_to": [
+    "Coalfield Citizens' Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Coalition leaders and pastors ask the armed 'protection' groups to leave the sites and the road. The one ask only the community can make; if it fails, it fails in public."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Legal Observers at Protest Sites",
+   "available_to": [
+    "ACLU of Virginia, Southwest Office"
+   ],
+   "cost": 15000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Trained observers in visible vests at the blockade and the distribution sites, recording enforcement. Lowers the temperature on both sides; a documented abuse becomes evidence."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Rights Guidance and Emergency Litigation",
+   "available_to": [
+    "ACLU of Virginia, Southwest Office"
+   ],
+   "cost": 40000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Published know-your-rights guidance, and a motion in court if enforcement or a county ordinance crosses the line. Protects the right to protest and to equal service; a court fight in the middle of an emergency is slow and loud."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Mediation Table",
+   "available_to": [
+    "United Way of Southwest Virginia",
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 20000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Trained mediators bring the coalition, the county and the state to one table with an agreed agenda. The route to a lane or an end to the blockade that nobody is forced into."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Grievance Intake with Public Tracker",
+   "available_to": [
+    "United Way of Southwest Virginia"
+   ],
+   "cost": 25000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 2,
+   "description": "Take every complaint about who was served and who was not, and publish what happened to each. Turns anger into cases that can be answered; a tracker nobody updates is proof of the grievance."
+  },
+  {
+   "action_id": "A23",
+   "action_name": "Trusted Messenger Network",
+   "available_to": [
+    "Appalachian Faith & Community Network",
+    "United Way of Southwest Virginia"
+   ],
+   "cost": 15000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Pastors, fire chiefs and store owners carry the same verified update door to door in the hollows. Reaches people who believe no feed; slow and only as good as the update they carry."
+  },
+  {
+   "action_id": "A24",
+   "action_name": "Clinic Staff Protection Protocol",
+   "available_to": [
+    "Carilion Clinic System",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "cost": 35000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Paired rural visits, a deputy on call for threatened staff, and a hotline for any clinician who is followed or confronted. Keeps the clinics open; nurses go out slower and fewer."
+  },
+  {
+   "action_id": "A25",
+   "action_name": "Mental Health Crisis Surge",
+   "available_to": [
+    "Carilion Clinic System",
+    "Appalachian Faith & Community Network"
+   ],
+   "cost": 45000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Crisis counsellors in the clinics, the churches and the distribution sites, and a line that answers. Meets the fear before it turns into the next confrontation; takes staff the clinics barely have."
+  },
+  {
+   "action_id": "A26",
+   "action_name": "Hospital Mutual Aid",
+   "available_to": [
+    "Carilion Clinic System"
+   ],
+   "cost": 30000,
+   "delay_mins": 20,
+   "requires_approval": "Carilion Clinic System",
+   "trust_impact": 0,
+   "description": "Staff from Roanoke cover the coalfield clinics that are short. Keeps doors open; arrives as proof, to some, that the city is sending help only now."
+  },
+  {
+   "action_id": "A27",
+   "action_name": "Equal Service Audit",
+   "available_to": [
+    "ACLU of Virginia, Southwest Office"
+   ],
+   "cost": 10000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Check the distribution sites' records against who was turned away and why, and publish what the audit finds. Answers the favouritism claim with evidence either way; an audit that finds favouritism has to be acted on."
+  }
+ ]
+}
