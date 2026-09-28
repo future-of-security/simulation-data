@@ -6,7 +6,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing",
-   "description": "Since six this morning a crowd has held US-23 at the Norton interchange, the coalfields' only truck route, and the relief that was already late — an Abingdon warehouse that never got an order and six coalfield stores out of staples, a third of the stations dry, the dialysis and pharmacy runs — is now queuing on both sides (I303, I305, I318). A lane can be opened at set hours under VDOT signage and agreed with the people holding the road: supplies move, nobody is cleared, and it holds only while they still agree to it. A signed detour and closure plan puts the region an hour around through Norton and Coeburn and leaves US-23 shut. Someone has to decide which of those happens today.",
+   "description": "Since six this morning a crowd has held US-23 at the Norton interchange, the coalfields' only truck route. Everything that was already late last week — the order the Abingdon warehouse never got, the six stores out of staples, fuel for the third of stations that are dry, the dialysis and pharmacy runs — is now queuing on both sides. The people on the road say it stays shut until the state answers for last week, and some drivers have waited since dawn. Whatever moves on this road today will be read as a statement about who the region is for.",
    "location": "Norton interchange, US-23",
    "severity": 5,
    "visible_to": [
@@ -25,7 +25,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead",
-   "description": "Armed men calling themselves protection are standing inside the food and fuel distribution sites, and the county that voted last night to set its own distribution rules whatever Richmond says has asked the state for soldiers rather than deputies (I404). Posting Guard members at the sites under a written order that fixes whether they carry arms opens the queues and turns every photograph of a food line into a photograph of soldiers. Putting Guard vehicles on the supply convoys gets the freight through and leaves the cages, and the queue inside them, exactly as they are.",
+   "description": "Armed men calling themselves protection are standing inside the food and fuel distribution sites, and Wise County — which voted last night to set its own distribution rules (I404) — has asked the state for soldiers rather than deputies. Volunteers running the queues say they have been told who should be served first. Families are still lining up. Anything in uniform that arrives at these sites will be photographed, and the photographs will outlast the week.",
    "location": "Distribution sites, Wise County",
    "severity": 4,
    "visible_to": [
@@ -44,7 +44,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs",
-   "description": "Nurses doing rural visits are being followed from the hollows since the pharmacy queue turned into insulin, methadone and nobody able to verify a prescription (I309), and two coalfield clinics have cut their runs rather than send staff out alone. Paired visits, a deputy on call and a hotline for anyone followed keeps the visits happening, slower and fewer. Pulling staff in from Roanoke covers the shortfall and arrives, in a region that believes the state saved Roanoke and Bristol first, as proof of it.",
+   "description": "Carilion nurses on rural visits are being followed out of the hollows and shouted at, accused of taking orders from Roanoke. Two coalfield clinics have cut their runs rather than send staff out alone. The patients on those runs — insulin, wound care, the elderly who cannot drive — are the ones who waited longest last week, and the nurses who are left are asking whether anyone will be with them on the road.",
    "location": "Coalfield counties",
    "severity": 4,
    "visible_to": [
@@ -63,7 +63,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching",
-   "description": "The Board voted last night to set Wise County's own emergency distribution rules whatever Richmond says — who is served first, how much, at which sites — with Buchanan and Dickenson watching to see whether the county that defied the state gets served and the county that waited does not. Publishing the rules and running the county's sites under them is local authority exercised in the open, and it is defiance of the state if nobody agreed to it. A moderated county forum with ground rules and a speakers' list gives the grievance a hearing and serves nobody a bag of food.",
+   "description": "The Board voted last night to set Wise County's own emergency distribution rules whatever Richmond says — who is served first, how much, at which sites. Buchanan and Dickenson are watching to see whether the county that defied the state gets served and the county that waited does not. The vote was loud; the rules themselves have not been written down anywhere a resident can read them, and the first sites open this morning.",
    "location": "Wise County",
    "severity": 4,
    "visible_to": [
@@ -82,7 +82,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "Four Agencies Are Saying Four Things And The Region Believes None Of Them",
-   "description": "State, county, EMA and the utilities are each publishing their own account at their own hour, and after a week in which the only large discretionary money was held by an office nobody believed (I310) and four thousand claims sat against a fraud file (I316), the coalfields have stopped reading any of it. One update on a fixed schedule, with everyone on it saying the same thing at the same hour, is the fastest cure and only works if the others show up. A single emergency broadcast reaches phones and radios the feeds never touch, and a broadcast that turns out wrong is the next rumour.",
+   "description": "State, county, EMA and the utilities are each publishing their own account at their own hour. After last week — money held by an office nobody believed and four thousand claims stuck behind a fraud file — the coalfields have stopped reading any of it. This morning two agencies gave two different reopening times for the same road within an hour of each other, and both were shared as proof that nobody is in charge.",
    "location": "Region-wide",
    "severity": 3,
    "visible_to": [
@@ -101,7 +101,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera",
-   "description": "The crowd at the Norton interchange is the only thing between the coalfields and their trucks, and the Coalition can remove it in ten minutes with Guard support if the Liaison asks (I401). Deputies clear the road and the food, fuel and dialysis runs move today, with arrests on camera and a crowd that leaves angrier and comes back somewhere else. Agreeing a lane with the people holding the road keeps the supplies moving, keeps the road closed, and holds exactly as long as the protest agrees to it. Legal observers will be watching either way.",
+   "description": "The deputies at the Norton interchange could have the road open by noon, with Guard support if the Liaison asks for it (I401). The trucks behind the crowd carry food, fuel and dialysis supplies. The crowd includes people the deputies went to school with, and phones are already up. Whether the road opens today, how, and in front of whom, is the Sheriff's Coalition's call to make or to refuse.",
    "location": "Norton interchange",
    "severity": 5,
    "visible_to": [
@@ -120,7 +120,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise",
-   "description": "The armed men inside the distribution sites are from the hollows and say they are the community's protection, and the coalition and the pastors are the only people whose public request would move them. Every hour they stay is an hour the county can point at the road and ask for soldiers instead (I402). The coalition can ask them to stand down and risk the ask failing in public, or it can publish its demands and name the people authorised to negotiate, which gives every official a party to talk to and leaves the men in the cages.",
+   "description": "The armed men inside the distribution sites are from the hollows and say they are the community's protection — and they say they speak for the Coalition. The Coalition has not said otherwise. Every hour they stay is an hour the county can point at and ask for soldiers (I402), and the Coalition's own case on the road is being judged by men it has not claimed or disowned.",
    "location": "Coalfield counties",
    "severity": 5,
    "visible_to": [
@@ -139,7 +139,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The State Claims Authority In Three Counties That Claimed It Last Night",
-   "description": "Three counties have stopped waiting for Richmond and one of them has written its own distribution rules (I404). The Governor's office holds the thing that ends the fight over authority: a compact saying who decides distribution in Wise County — the county's rules where they are published and fair, the state's where they are not, and a joint table for disputes. Signing costs the state the appearance of control and gives three counties a reason to publish anything. Sending a Guard activation request puts soldiers in the coalfields to do whatever they are told, which is a deployment and not an agreement about who eats.",
+   "description": "Three counties have stopped waiting for Richmond, and one of them has written its own distribution rules (I404). The Governor's office can insist on its authority, share it, or step back, and each choice will be read by two other counties as permission or warning. The Liaison's office is also the office in the clip everyone is watching (I409), and anything it says about who decides will be heard through that.",
    "location": "Richmond / Wise County",
    "severity": 3,
    "visible_to": [
@@ -157,8 +157,8 @@
    "id": "I409",
    "phase": 4,
    "sim_time": "0:00",
-   "incident": "The Clip Is At Two Million Views And No One Has Said Whether It Is Him",
-   "description": "An unverified clip of the Governor's Liaison saying the coalfields can wait is at two million views and has become the coalfields' account of why the state saved Roanoke and Bristol first (I310). A forensic check and a documented takedown request gives every county official a finding to cite, and the platforms decide what they do with it. A verification desk that checks clips and claims within the hour beats a rumour only if it is faster than the rumour, and this one is three hours old.",
+   "incident": "The Clip Is At Two Million Views And No One Has Said Whether It Is Her",
+   "description": "An unverified clip of the Governor's Liaison saying the coalfields can wait until the cities are running is at two million views, and it has become the coalfields' account of why they were served last. It is three hours old. Some county officials are already quoting it; others are asking the newsroom whether it is real. Nobody with any standing has said yet whether it is.",
    "location": "Region-wide / online",
    "severity": 4,
    "visible_to": [
@@ -177,7 +177,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "Every Complaint About Who Was Served Has Nowhere To Go",
-   "description": "The grievance that the state served Roanoke and Bristol first has been a rumour for three days and now has names, addresses and an hour of queue behind it, and there is no counter taking it. Intake with a published tracker turns anger into cases that can be answered, and a tracker nobody updates is proof of the grievance. A mediated table brings the coalition, the county and the state into one room with an agreed agenda and answers nobody's complaint about the bag of food they did not get.",
+   "description": "The grievance that the state served Roanoke and Bristol first has been a rumour for three days. This morning it has names, addresses and an hour of queue behind it: people turned away last week, households skipped on delivery lists, a church that was promised a truck. There is no counter taking any of it, and each unanswered complaint is being retold on the road at Norton.",
    "location": "Region-wide",
    "severity": 3,
    "visible_to": [
@@ -196,7 +196,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The Hollows Believe Their Pastor And No Feed Reaches Them",
-   "description": "Cell and internet are thin in the hollows and three days of contradictory statements from four agencies (I405) have left the church, the fire chief and the store owner as the only sources anyone there trusts. Pastors and fire chiefs carrying one verified update door to door reaches households no feed has ever reached, and is only as good as the update they carry. An hour of broadcast airtime with coalition speakers, officials and clergy on one stage gets the protest's case heard somewhere other than the road, in front of the people already watching.",
+   "description": "Cell and internet are thin in the hollows, and three days of contradictory statements from four agencies (I405) have left the church, the fire chief and the store owner as the only sources anyone there trusts. Pastors are being asked what is true about the road, the clip and the food — and they are asking the same question of everyone else.",
    "location": "Coalfield hollows",
    "severity": 3,
    "visible_to": [
@@ -215,7 +215,7 @@
    "phase": 4,
    "sim_time": "0:00",
    "incident": "The County's Rules Turn People Away And Nobody Is Writing Down Who",
-   "description": "Wise County's emergency distribution rules are turning households away at sites that deputies are also keeping quiet, so what was a rumour about favouritism is now a published rule somebody can point at (I404). Trained observers in visible vests at the blockade and the sites put enforcement and refusals on an independent record today and change nothing about who is served. An equal-service audit against the sites' own records answers the favouritism claim with evidence either way and spends the hour you have.",
+   "description": "Wise County's new distribution rules are turning households away at sites where deputies are also keeping order, and what was a rumour about favouritism is now a rule somebody can point at (I404). People turned away are being told different reasons at different sites. Nobody independent is present at the sites or the blockade, and by tonight the only account of what happened will be whoever tells it loudest.",
    "location": "Wise County",
    "severity": 3,
    "visible_to": [
@@ -462,7 +462,7 @@
    "phase": 4,
    "sim_time": "0:30",
    "incident": "The Road Held Through Its Deadline And The Detour Is Now The Only Road",
-   "description": "US-23 was still held when the lane deadline passed, the detour is in practice the region's only route, and the dialysis runs are going an hour the long way through Coeburn while a third of the stations are dry (I305). Deputies can open the road under a published order with the enforcement documented, which moves everything today and makes the arrest footage the region's next story. A lane agreed at set hours moves the medical and fuel runs and leaves the road itself held for another day.",
+   "description": "US-23 was still held when the lane deadline passed, the detour is in practice the region's only route, and the dialysis runs are going an hour the long way through Coeburn while a third of the stations are dry. Deputies can open the road under a published order with the enforcement documented, which moves everything today and makes the arrest footage the region's next story. A lane agreed at set hours moves the medical and fuel runs and leaves the road itself held for another day.",
    "location": "Norton interchange / US-23",
    "severity": 5,
    "visible_to": [
@@ -480,8 +480,8 @@
    "id": "I426",
    "phase": 4,
    "sim_time": "0:20",
-   "incident": "The Road Was Cleared And The Crowd Has Re-formed At Coeburn",
-   "description": "Enforcement cleared the Norton interchange and the crowd re-formed at the Coeburn fuel stops within the hour, and the cameras that were on the first clearance are now on the second site — with the fuel, food and dialysis runs routed an extra hour while a third of the stations are dry (I305). A signed detour and closure plan moves traffic around the second site on published signs, and traffic tolerates it only for as long as the road is closed. A second enforcement clears somewhere else and moves the crowd again.",
+   "incident": "Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn",
+   "description": "Nobody moved on the Norton interchange by noon, and the crowd has spread to the Coeburn fuel stops. The fuel, food and dialysis runs are now blocked at two points instead of one, with a third of the stations already dry. Drivers are turning back rather than wait, and the cameras have followed the crowd to the second site.",
    "location": "Coeburn / US-23 corridor",
    "severity": 4,
    "visible_to": [
@@ -519,7 +519,7 @@
    "phase": 4,
    "sim_time": "0:25",
    "incident": "A Nurse Was Followed Home And Two Clinics Have Stopped Visiting Entirely",
-   "description": "The pairing never happened, a nurse was followed to her door, and the two remaining coalfield clinics have stopped rural visiting — so the households an hour from the nearest open store (I304), the ones the pharmacies cannot verify scripts for (I309), are now an hour from a clinician too. Paired visits, a deputy on call and a documented hotline put the runs back on the road in the same hour. Bringing staff in from Roanoke keeps the clinic doors open and sends city staff out alone on the same roads.",
+   "description": "The pairing never happened, a nurse was followed to her door, and the two remaining coalfield clinics have stopped rural visiting — so the households an hour from the nearest open store, the ones the pharmacies cannot verify scripts for, are now an hour from a clinician too. Paired visits, a deputy on call and a documented hotline put the runs back on the road in the same hour. Bringing staff in from Roanoke keeps the clinic doors open and sends city staff out alone on the same roads.",
    "location": "Coalfield counties",
    "severity": 5,
    "visible_to": [
