@@ -32,7 +32,7 @@
    "team": "Everglades",
    "role": "SW Virginia Sheriff's Coalition",
    "sector": "Law Enforcement",
-   "budget": 60000,
+   "budget": 86667,
    "trust": 6,
    "score": 45.0,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
@@ -68,8 +68,8 @@
    "team": "Redwood",
    "role": "Appalachian Faith & Community Network",
    "sector": "Community/Faith",
-   "budget": 95000,
-   "trust": 4,
+   "budget": 100000,
+   "trust": 5,
    "score": 75.0,
    "responsibility": "Trusted messengers in the hollows, safe places to meet, and people on the ground between the crowd and the line"
   },
@@ -95,7 +95,7 @@
    "team": "Yellowstone",
    "role": "United Way of Southwest Virginia",
    "sector": "Humanitarian/Mediation",
-   "budget": 55000,
+   "budget": 65000,
    "trust": 7,
    "score": 37.5,
    "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
@@ -104,8 +104,8 @@
    "team": "Zion",
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
-   "budget": 25000,
-   "trust": 5,
+   "budget": 57500,
+   "trust": 7,
    "score": 143.75,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
