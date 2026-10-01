@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
-   "budget": 60000,
-   "trust": 7,
-   "score": 125.0,
+   "budget": 120000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
   },
   {
@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "Appalachian Faith & Community Network",
    "sector": "Community/Faith",
-   "budget": 100000,
-   "trust": 5,
-   "score": 75.0,
+   "budget": 105000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Trusted messengers in the hollows, safe places to meet, and people on the ground between the crowd and the line"
   },
   {
@@ -95,18 +95,18 @@
    "team": "Yellowstone",
    "role": "United Way of Southwest Virginia",
    "sector": "Humanitarian/Mediation",
-   "budget": 65000,
-   "trust": 7,
-   "score": 37.5,
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
   },
   {
    "team": "Zion",
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
-   "budget": 57500,
-   "trust": 7,
-   "score": 143.75,
+   "budget": 75000,
+   "trust": 5,
+   "score": 18.75,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
  ]

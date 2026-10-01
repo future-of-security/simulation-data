@@ -34,7 +34,7 @@
     "ACLU of Virginia, Southwest Office"
    ],
    "time_limit": 30,
-   "state": "resolved",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -53,7 +53,7 @@
     "Appalachian Faith & Community Network"
    ],
    "time_limit": 25,
-   "state": "resolved",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -72,7 +72,7 @@
     "United Way of Southwest Virginia"
    ],
    "time_limit": 25,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -129,7 +129,7 @@
     "Virginia National Guard, Southwest Task Force"
    ],
    "time_limit": 30,
-   "state": "partially_resolved",
+   "state": "open",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -251,7 +251,7 @@
   {
    "id": "I414",
    "phase": 4,
-   "sim_time": "0:07",
+   "sim_time": "0:25",
    "incident": "The Sites Are Open Behind Soldiers And The County Wants Them Gone By Friday",
    "description": "The queues are moving behind a written order and the county that asked for troops now wants them off its sites before the weekend, because the photographs are exactly what it feared. A staged handover to the county's own deputies keeps the sites open and leaves the same cages to the same volunteers. Holding the posts keeps the queues moving and makes the Guard the permanent face of food distribution in Wise County.",
    "location": "Distribution sites, Wise County",
@@ -262,7 +262,7 @@
     "Governor's SW Virginia Liaison"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 100,
    "opens_after": "I402",
    "opens_when": "resolved"
@@ -270,7 +270,7 @@
   {
    "id": "I415",
    "phase": 4,
-   "sim_time": "0:07",
+   "sim_time": "0:15",
    "incident": "The Runs Are Back On The Road And The Threat Has Moved To The Sites",
    "description": "Paired visits and an on-call deputy have rural care moving again; the same households now queue at distribution sites where armed men are standing inside the cages (I407), and the clinics that send staff to those sites are sending them into the one place on the route nobody has made safe. Moving clinical outreach out of the cages and into the churches and fire halls keeps staff safe and leaves the sickest households to walk further. Staffing the sites keeps care where the people are and puts clinicians in the same photograph as the volunteers.",
    "location": "Coalfield counties",
@@ -281,7 +281,7 @@
     "Appalachian Faith & Community Network"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 125,
    "opens_after": "I403",
    "opens_when": "resolved"

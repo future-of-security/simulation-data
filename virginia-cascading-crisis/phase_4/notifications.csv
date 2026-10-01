@@ -2,3 +2,30 @@ sim_time,team,type,message
 0:06,Zion,report,"Filed against I402 — the National Guard task force's incident — while Carilion's own primary incident, I403…"
 0:06,Zion,report,"Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead — next time: Say which single thing Carilion actually put into the distribution sites, to whom and when, rather than what it could"
 0:06,Zion,report,"The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs — next time: Name what the aid actually delivered and to which coalfield clinics, and what the staff on those rural routes reported back."
+0:07,Acadia,report,"Single-incident report: one catalog action, A6, charged at the trust-6 rate with no split, against I402."
+0:07,Redwood,report,"Single-incident report on I407, assessed as support: A18 is on AF&CN's action list and points at the armed presence…"
+0:07,Zion,report,I403 is Carilion's own incident and A24 is the action its role holds; the report describes the paired visits…
+0:07,Yellowstone,report,Yellowstone addresses only I404 and files a single A10 town hall at a claimed 50% share ($20K x 1.0 x 0.5 = $10K)…
+0:07,Acadia,incident,Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead — now resolved. Open the incident for what changed.
+0:07,Shenandoah,incident,Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead — now resolved. Open the incident for what changed.
+0:07,Zion,incident,Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead — now resolved. Open the incident for what changed.
+0:07,Acadia,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now partially resolved. Open the incident for what changed.
+0:07,Glacier,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now partially resolved. Open the incident for what changed.
+0:07,Redwood,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now partially resolved. Open the incident for what changed.
+0:07,Everglades,incident,The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs — now resolved. Open the incident for what changed.
+0:07,Redwood,incident,The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs — now resolved. Open the incident for what changed.
+0:07,Zion,incident,The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs — now resolved. Open the incident for what changed.
+0:07,Banff,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:07,Denali,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:07,Yellowstone,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:07,Acadia,report,"Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead — resolved. A suggestion: Quote the Liaison's approval and the order's own terms, so the posting stands on paper and not only as a"
+0:07,Redwood,report,"The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — next time: Say what the armed groups did after the ask, and where and to whom it was made public."
+0:07,Zion,report,The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs — resolved. A suggestion: Say what the paired runs actually delivered once A24 took effect — which hollows were visited and how many patients were seen.
+0:07,Yellowstone,report,"Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — next time: Say what the forum changed on the ground: who attended, what the county committed to in the room, and where residents can read the result."
+0:07,Yellowstone,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+0:07,Acadia,escalation,New incident: The Sites Are Open Behind Soldiers And The County Wants Them Gone By Friday
+0:07,Banff,escalation,New incident: The Sites Are Open Behind Soldiers And The County Wants Them Gone By Friday
+0:07,Katmai,escalation,New incident: The Sites Are Open Behind Soldiers And The County Wants Them Gone By Friday
+0:07,Zion,escalation,New incident: The Runs Are Back On The Road And The Threat Has Moved To The Sites
+0:07,Everglades,escalation,New incident: The Runs Are Back On The Road And The Threat Has Moved To The Sites
+0:07,Redwood,escalation,New incident: The Runs Are Back On The Road And The Threat Has Moved To The Sites
