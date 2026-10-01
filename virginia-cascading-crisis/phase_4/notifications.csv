@@ -346,3 +346,9 @@ sim_time,team,type,message
 1:15,Olympic,report,"I406 — next time: File the action you took with its id, cost and what it produced; a forecast of the road and a note about scoring cannot be checked against anything."
 1:15,Glacier,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
 1:15,Olympic,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:15,Banff,update,Collaboration confirmed by your partner; the split holds and trust rises.
+1:15,Everglades,update,Collaboration confirmed by your partner; the split holds and trust rises.
+1:15,Glacier,update,Collaboration confirmed by your partner; the split holds and trust rises.
+1:15,Katmai,update,Collaboration confirmed by your partner; the split holds and trust rises.
+1:15,Olympic,update,Collaboration confirmed by your partner; the split holds and trust rises.
+1:15,Zion,update,Collaboration confirmed by your partner; the split holds and trust rises.
