@@ -58,3 +58,24 @@ sim_time,team,type,message
 0:14,Teton,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the marked corridor is carrying now and at which hours, and who agreed to hold it open."
 0:14,Glacier,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say whether the lane is running yet and what it has carried — the report states the agreement, not the traffic crossing it."
 0:14,Redwood,report,"The Hollows Believe Their Pastor And No Feed Reaches Them — next time: Say what the counsellors actually did in the hollows — which churches, how many households reached — so next time the effect is on the page, not just the line item."
+0:16,Everglades,report,"I403 was already resolved by Zion before this report was submitted, so nothing on it was graded or charged."
+0:16,Glacier,report,"One incident, I407, in the team's own primary role; A18 filed at a claimed half share with Redwood (credited $5,000 at trust 7, modifier 1.0)…"
+0:16,Glacier,report,"Glacier's report is a single in-role filing of A2 against I401 with a one-third cost split, names no other incident…"
+0:16,Zion,report,"Carilion is a supporting role on I411, whose primary is Appalachian Faith & Community Network, so this cannot close the incident and was graded as support."
+0:16,Banff,report,"One action filed, against I410 only, using an action open to the county board; Banff is a supporting role on I410 so its ceiling is strong_partial however…"
+0:16,Acadia,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now resolved. Open the incident for what changed.
+0:16,Glacier,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now resolved. Open the incident for what changed.
+0:16,Redwood,incident,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — now resolved. Open the incident for what changed.
+0:16,Redwood,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:16,Yellowstone,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:16,Zion,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:16,Banff,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:16,Everglades,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:16,Yellowstone,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:16,Glacier,report,The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise — resolved. A suggestion: Say what came back from the armed groups after the ask — who agreed and when — so the status of the sites is not left hangi
+0:16,Glacier,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the lane produced on the day — which runs moved, at what hours, and what is still waiting — not the arrangement reached."
+0:16,Zion,report,"The Hollows Believe Their Pastor And No Feed Reaches Them — next time: Say which hollows the counsellors and the line actually reached, and how the households off the church rolls hear it."
+0:16,Banff,report,Every Complaint About Who Was Served Has Nowhere To Go — next time: Say what the published record will actually show — which counties got what last week — and where a household turned away can read it.
+0:16,Glacier,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages
+0:16,Redwood,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages
+0:16,Everglades,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages

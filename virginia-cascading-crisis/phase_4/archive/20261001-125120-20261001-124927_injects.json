@@ -129,7 +129,7 @@
     "Virginia National Guard, Southwest Task Force"
    ],
    "time_limit": 30,
-   "state": "resolved",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -186,7 +186,7 @@
     "SW Virginia Sheriff's Coalition"
    ],
    "time_limit": 30,
-   "state": "partially_resolved",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -346,7 +346,7 @@
   {
    "id": "I419",
    "phase": 4,
-   "sim_time": "0:16",
+   "sim_time": "0:20",
    "incident": "The Armed Men Left And Nobody Is Inside The Cages",
    "description": "The volunteers stood down on the coalition's request and the sites have nobody between the queue and the load, at the hour when the county's own rules are deciding who is served and deputies are the only people on site. The coalition's own named, unarmed marshals keep the queue orderly and put the community's people inside cages the state has already photographed. Leaving the sites to the county keeps the coalition out of the distribution fight and leaves its households' grievance with nobody's hands on it.",
    "location": "Coalfield distribution sites",
@@ -357,7 +357,7 @@
     "SW Virginia Sheriff's Coalition"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 125,
    "opens_after": "I407",
    "opens_when": "resolved"

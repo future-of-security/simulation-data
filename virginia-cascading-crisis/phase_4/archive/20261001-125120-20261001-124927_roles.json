@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "Wise County Board of Supervisors",
    "sector": "Local Government",
-   "budget": 60000,
-   "trust": 7,
-   "score": 50.0,
+   "budget": 80000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "The county that says it will set its own distribution rules, and what it does with the authority it claims"
   },
   {
@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "Coalfield Citizens' Coalition",
    "sector": "Civic Movement",
-   "budget": 56800,
+   "budget": 61800,
    "trust": 7,
-   "score": 225.0,
+   "score": 75.0,
    "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
-   "budget": 2500,
-   "trust": 7,
-   "score": 173.75,
+   "budget": 25000,
+   "trust": 5,
+   "score": 143.75,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
  ]
