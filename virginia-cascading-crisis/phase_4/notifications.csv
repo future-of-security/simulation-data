@@ -292,3 +292,20 @@ sim_time,team,type,message
 1:04,Zion,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
 1:04,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
 1:04,Redwood,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:08,Acadia,report,"Acadia files one improvised $0 action against I412 and no catalog action; its Situation Judgment talks about the armed volunteers of I402, but nothing filed moves that incident…"
+1:08,Yellowstone,report,I420 is the Liaison's to close and Yellowstone is a supporting role here; the one filed action is a free intelligence share whose described output is a stated intention…
+1:08,Everglades,report,"Supporting role on I426 (primary VDOT SW Region), and no claim is made about I406 other than that A2 did not hold at Norton."
+1:08,Banff,report,"Filed against I414 with a clear deputy-relief plan for the sites, but the filed action ID (A9, County Distribution Ordinance) names rule-making while the report's own words describe a security…"
+1:08,Banff,report,"Single-incident report on I420; A12 is charged at full catalog price here, since the report names no cost of its own and the phase's own accounting handles any duplicate use."
+1:08,Acadia,incident,I412 — now partially resolved. Open the incident for what changed.
+1:08,Shenandoah,incident,I412 — now partially resolved. Open the incident for what changed.
+1:08,Teton,incident,I412 — now partially resolved. Open the incident for what changed.
+1:08,Banff,incident,I420 — now in progress. Open the incident for what changed.
+1:08,Katmai,incident,I420 — now in progress. Open the incident for what changed.
+1:08,Yellowstone,incident,I420 — now in progress. Open the incident for what changed.
+1:08,Acadia,report,"I412 — next time: Say who cleared the teams onto the sites and whether the Liaison's release happened, so the ledger reads as a filing rather than a plan."
+1:08,Yellowstone,report,"I420 — next time: Say what was actually shared with the Liaison and the county, and what either side said back, not just that a line stays open."
+1:08,Everglades,report,"I426 — next time: Say what the extended lane actually moved — how many dialysis, fuel and food loads cleared Coeburn, at which hours."
+1:08,Banff,report,"I414 — next time: File the action you mean: your words describe a deputy swap at the sites, not the rule-making ordinance you filed — and say what the queue sees the morning after."
+1:08,Banff,report,I420 — next time: Say what the record will actually show for Buchanan and Dickenson — the figures for their sites this week — not only that a record is going up.
+1:08,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."

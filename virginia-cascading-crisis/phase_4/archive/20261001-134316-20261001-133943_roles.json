@@ -6,17 +6,17 @@
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
    "budget": 15000,
-   "trust": 7,
-   "score": 400.0,
+   "trust": 6,
+   "score": 350.0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
   },
   {
    "team": "Banff",
    "role": "Wise County Board of Supervisors",
    "sector": "Local Government",
-   "budget": 11500,
-   "trust": 7,
-   "score": 267.5,
+   "budget": 14500,
+   "trust": 6,
+   "score": 187.5,
    "responsibility": "The county that says it will set its own distribution rules, and what it does with the authority it claims"
   },
   {
@@ -34,7 +34,7 @@
    "sector": "Law Enforcement",
    "budget": 7500,
    "trust": 9,
-   "score": 387.5,
+   "score": 350.0,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
   },
   {
@@ -97,7 +97,7 @@
    "sector": "Humanitarian/Mediation",
    "budget": 15000,
    "trust": 5,
-   "score": 217.5,
+   "score": 187.5,
    "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
   },
   {
