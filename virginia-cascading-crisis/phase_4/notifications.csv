@@ -270,3 +270,25 @@ sim_time,team,type,message
 0:55,Denali,report,"I405 — next time: Say what the update actually carried, who is feeding it, and when the next edition goes out — 'produced awareness' is not something a reader can check."
 0:55,Denali,report,"I404 — next time: Say what the townhall and PSA actually produced — who turned up, what the county said it would do with the rules, and when."
 1:00,Acadia,report,"I414 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
+1:04,Zion,report,"This attempt is a reflection-shaped report: four action ids (A24, A26, A25, A1) appear only as expectations under 'What we expect to happen', with no incident named and no result described…"
+1:04,Everglades,report,"Assessed on I403 only; A24 and A1 are both filed against I403 and nothing in the report addresses the site incidents this role can also see (I415, I419)."
+1:04,Redwood,report,"Attempt 5 is a reflection with the Actions Taken section absent and no action ids or costs, so nothing is charged and no incident moves on its account…"
+1:04,Acadia,report,"Single action filed, A1 against I412, cost $0 so nothing is charged; A1 is open to all roles, so it is in role, but I412's primary is the ACLU office and the Guard is support…"
+1:04,Teton,report,"Teton is the primary on I426 and files A4 at it, the action that reaches that incident's closing state, with the Coeburn bypass pulled and an outer bypass signed…"
+1:04,Everglades,incident,I415 — now partially resolved. Open the incident for what changed.
+1:04,Redwood,incident,I415 — now partially resolved. Open the incident for what changed.
+1:04,Zion,incident,I415 — now partially resolved. Open the incident for what changed.
+1:04,Everglades,incident,I426 — now resolved. Open the incident for what changed.
+1:04,Olympic,incident,I426 — now resolved. Open the incident for what changed.
+1:04,Teton,incident,I426 — now resolved. Open the incident for what changed.
+1:04,Zion,report,"I415 — next time: Say what the protected visits and the counsellors actually changed on the ground — which runs went back out, how many households were seen, and where care now reaches people."
+1:04,Everglades,report,"I403 — next time: Name the highest-risk runs and hollows the pairs reached first and what the hotline actually logged, so coverage can be checked against the runs that were cut."
+1:04,Redwood,report,"I407 — next time: Put the ask on an action line with its cost and who answered it, so the effect can be read as work done rather than referred to."
+1:04,Redwood,report,"I411 — next time: Name the carrier, the route and the update in the report itself, so the hollows' side of this reads as delivered rather than as an unused option."
+1:04,Redwood,report,"I415 — next time: Say which team you asked, what you asked them for and what they answered, so a request reads as a step taken rather than a gap recorded."
+1:04,Redwood,report,"I419 — next time: File who went into the cages after the stand-down and under whose authority, instead of what the broadcast was meant to achieve."
+1:04,Acadia,report,"I412 — next time: Say what the shared verification actually established about the clip and the roadblock, and what each recipient did with it once they had it."
+1:04,Teton,report,"I426 — resolved. A suggestion: Give the outer bypass's endpoints and the hour the signs changed, so the reroute can be read without inference."
+1:04,Zion,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:04,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:04,Redwood,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
