@@ -34,7 +34,7 @@
    "sector": "Law Enforcement",
    "budget": 7500,
    "trust": 9,
-   "score": 425.0,
+   "score": 387.5,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
   },
   {
@@ -52,7 +52,7 @@
    "sector": "State Executive",
    "budget": 11250,
    "trust": 3,
-   "score": 247.5,
+   "score": 217.5,
    "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
   },
   {
@@ -60,8 +60,8 @@
    "role": "WDBJ7 News",
    "sector": "Media",
    "budget": 24170,
-   "trust": 5,
-   "score": 167.5,
+   "trust": 7,
+   "score": 60.0,
    "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
   },
   {
@@ -78,7 +78,7 @@
    "role": "ACLU of Virginia, Southwest Office",
    "sector": "Civil Liberties",
    "budget": -15000,
-   "trust": 4,
+   "trust": 6,
    "score": 157.5,
    "responsibility": "Observers at the protest, the line between enforcement and suppression, and the court if it is crossed"
   },
