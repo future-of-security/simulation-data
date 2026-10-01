@@ -6,8 +6,8 @@
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
    "budget": 15000,
-   "trust": 6,
-   "score": 350.0,
+   "trust": 5,
+   "score": 300.0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
   },
   {
@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "SW Virginia EMA",
    "sector": "Emergency Management",
-   "budget": 41500,
+   "budget": 50000,
    "trust": 6,
-   "score": 152.5,
+   "score": 115.0,
    "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
   },
   {
@@ -34,7 +34,7 @@
    "sector": "Law Enforcement",
    "budget": 7500,
    "trust": 9,
-   "score": 350.0,
+   "score": 312.5,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
   },
   {
@@ -50,9 +50,9 @@
    "team": "Katmai",
    "role": "Governor's SW Virginia Liaison",
    "sector": "State Executive",
-   "budget": 11250,
+   "budget": 42500,
    "trust": 3,
-   "score": 217.5,
+   "score": 167.5,
    "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
   },
   {
@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "Appalachian Faith & Community Network",
    "sector": "Community/Faith",
-   "budget": 41875,
+   "budget": 66875,
    "trust": 5,
-   "score": 142.5,
+   "score": 105.0,
    "responsibility": "Trusted messengers in the hollows, safe places to meet, and people on the ground between the crowd and the line"
   },
   {

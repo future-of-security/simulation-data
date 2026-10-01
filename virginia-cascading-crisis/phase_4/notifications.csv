@@ -218,3 +218,25 @@ sim_time,team,type,message
 0:44,Teton,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
 0:44,Everglades,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
 0:44,Olympic,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
+0:48,Acadia,report,"One incident is attached: I412, where Acadia is a supporting role, so the award is capped below a close however the ledger lands."
+0:48,Everglades,report,"One action filed, against I419, at $0 on a team at trust 9, so nothing is charged; the id and the described act do not match…"
+0:48,Katmai,report,"One action filed, in role, at the right incident, but the Liaison is not I405's primary and the report never says what the update desk actually put out."
+0:48,Redwood,report,"Graded only on I419, the incident the report names; the broadcast forum it files is the public-airing lever and does not put community hands on the distribution queues."
+0:48,Denali,report,"Denali files A13 against I405, which is that incident's named near miss rather than its closing state, plus a $0 A1 share…"
+0:48,Acadia,incident,I412 — now partially resolved. Open the incident for what changed.
+0:48,Shenandoah,incident,I412 — now partially resolved. Open the incident for what changed.
+0:48,Teton,incident,I412 — now partially resolved. Open the incident for what changed.
+0:48,Everglades,incident,I419 — now in progress. Open the incident for what changed.
+0:48,Glacier,incident,I419 — now in progress. Open the incident for what changed.
+0:48,Redwood,incident,I419 — now in progress. Open the incident for what changed.
+0:48,Denali,incident,I405 — now partially resolved. Open the incident for what changed.
+0:48,Katmai,incident,I405 — now partially resolved. Open the incident for what changed.
+0:48,Olympic,incident,I405 — now partially resolved. Open the incident for what changed.
+0:48,Denali,incident,I405 — now in progress. Open the incident for what changed.
+0:48,Katmai,incident,I405 — now in progress. Open the incident for what changed.
+0:48,Olympic,incident,I405 — now in progress. Open the incident for what changed.
+0:48,Acadia,report,I412 — next time: Say whether deputies actually admitted the observers at each site and where the first ledger was posted — a refusal at the gate is itself a finding.
+0:48,Everglades,report,"I419 — next time: Say what the statement actually did once it went out — who heard it, where it aired, and what changed at the queue — instead of what it will show later."
+0:48,Katmai,report,"I405 — next time: Say what the update desk actually carried, on what schedule it next runs, and which agencies showed up to it."
+0:48,Redwood,report,"I419 — next time: Say who was actually put on the air and what they committed to on the ground, rather than only that more information was given to the public."
+0:48,Denali,report,"I405 — next time: Say what the broadcast actually went out saying, at what hour, and whether the other agencies ran the same wording from their own channels."
