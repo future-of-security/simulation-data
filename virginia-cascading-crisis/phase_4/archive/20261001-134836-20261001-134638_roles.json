@@ -6,7 +6,7 @@
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
    "budget": 15000,
-   "trust": 5,
+   "trust": 7,
    "score": 400.0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
   },
@@ -87,7 +87,7 @@
    "role": "VDOT SW Region",
    "sector": "Transportation",
    "budget": 21700,
-   "trust": 7,
+   "trust": 8,
    "score": 337.5,
    "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
   },

@@ -328,3 +328,13 @@ sim_time,team,type,message
 1:11,Olympic,report,"I406 — next time: Say what the verification pipeline actually confirmed - which convoy schedules, which clearance claims - instead of that it is running."
 1:11,Olympic,report,"I409 — next time: Say whether the segment actually aired, what it showed, and how the check was done - a described plan is not a published finding."
 1:11,Shenandoah,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:13,Teton,report,"The submission is a judgment-and-reflection report with the Actions Taken section absent and no action id, cost or share anywhere in it…"
+1:13,Acadia,report,"This submission carries no Actions Taken section and no catalog or custom action ids: it states expectations about I407, I412 and I414 without filing anything that could produce them…"
+1:13,Teton,report,I401 — next time: Say what the lane actually carried this hour — which convoys crossed and when — instead of what it will keep attempting.
+1:13,Teton,report,"I406 — next time: If the road's position is to be legible to anyone, file the action taken and the authority it was taken under, not the argument about whether it counted."
+1:13,Teton,report,"I412 — next time: When you ask another role for something, say what you did to make it possible — access, escort or a written request — so the ask is not just a wish."
+1:13,Acadia,report,I407 — next time: Say what you actually asked and what you found about whether the Coalition claims or disowns the men in the cages.
+1:13,Acadia,report,I412 — next time: File the action you are relying on and say what it logged or will log — a stated expectation is not yet work.
+1:13,Teton,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:13,Acadia,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:13,Acadia,report,"I414 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
