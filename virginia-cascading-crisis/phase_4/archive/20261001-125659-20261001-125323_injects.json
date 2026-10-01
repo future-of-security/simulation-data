@@ -1,0 +1,556 @@
+{
+ "key": "injects",
+ "injects": [
+  {
+   "id": "I401",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing",
+   "description": "Since six this morning a crowd has held US-23 at the Norton interchange, the coalfields' only truck route. Everything that was already late last week — the order the Abingdon warehouse never got, the six stores out of staples, fuel for the third of stations that are dry, the dialysis and pharmacy runs — is now queuing on both sides. The people on the road say it stays shut until the state answers for last week, and some drivers have waited since dawn. Whatever moves on this road today will be read as a statement about who the region is for.",
+   "location": "Norton interchange, US-23",
+   "severity": 5,
+   "visible_to": [
+    "VDOT SW Region",
+    "Coalfield Citizens' Coalition",
+    "ACLU of Virginia, Southwest Office"
+   ],
+   "time_limit": 30,
+   "state": "partially_resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I402",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "Two Hundred Armed Volunteers Are Inside The Distribution Cages And The County Has Asked For Soldiers Instead",
+   "description": "Armed men calling themselves protection are standing inside the food and fuel distribution sites, and Wise County — which voted last night to set its own distribution rules (I404) — has asked the state for soldiers rather than deputies. Volunteers running the queues say they have been told who should be served first. Families are still lining up. Anything in uniform that arrives at these sites will be photographed, and the photographs will outlast the week.",
+   "location": "Distribution sites, Wise County",
+   "severity": 4,
+   "visible_to": [
+    "Virginia National Guard, Southwest Task Force",
+    "Carilion Clinic System",
+    "ACLU of Virginia, Southwest Office"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I403",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The Nurses Are Being Followed On Rural Visits And Two Clinics Have Cut Their Runs",
+   "description": "Carilion nurses on rural visits are being followed out of the hollows and shouted at, accused of taking orders from Roanoke. Two coalfield clinics have cut their runs rather than send staff out alone. The patients on those runs — insulin, wound care, the elderly who cannot drive — are the ones who waited longest last week, and the nurses who are left are asking whether anyone will be with them on the road.",
+   "location": "Coalfield counties",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Clinic System",
+    "SW Virginia Sheriff's Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "time_limit": 25,
+   "state": "resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I404",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching",
+   "description": "The Board voted last night to set Wise County's own emergency distribution rules whatever Richmond says — who is served first, how much, at which sites. Buchanan and Dickenson are watching to see whether the county that defied the state gets served and the county that waited does not. The vote was loud; the rules themselves have not been written down anywhere a resident can read them, and the first sites open this morning.",
+   "location": "Wise County",
+   "severity": 4,
+   "visible_to": [
+    "Wise County Board of Supervisors",
+    "SW Virginia EMA",
+    "United Way of Southwest Virginia"
+   ],
+   "time_limit": 25,
+   "state": "in_progress",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I405",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "Four Agencies Are Saying Four Things And The Region Believes None Of Them",
+   "description": "State, county, EMA and the utilities are each publishing their own account at their own hour. After last week — money held by an office nobody believed and four thousand claims stuck behind a fraud file — the coalfields have stopped reading any of it. This morning two agencies gave two different reopening times for the same road within an hour of each other, and both were shared as proof that nobody is in charge.",
+   "location": "Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "SW Virginia EMA",
+    "Governor's SW Virginia Liaison",
+    "WDBJ7 News"
+   ],
+   "time_limit": 35,
+   "state": "open",
+   "points_resolve": 100,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I406",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera",
+   "description": "The deputies at the Norton interchange could have the road open by noon, with Guard support if the Liaison asks for it (I401). The trucks behind the crowd carry food, fuel and dialysis supplies. The crowd includes people the deputies went to school with, and phones are already up. Whether the road opens today, how, and in front of whom, is the Sheriff's Coalition's call to make or to refuse.",
+   "location": "Norton interchange",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia Sheriff's Coalition",
+    "VDOT SW Region",
+    "WDBJ7 News"
+   ],
+   "time_limit": 20,
+   "state": "in_progress",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I407",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The Men At The Cages Say They Are The Coalition's And The Coalition Has Not Said Otherwise",
+   "description": "The armed men inside the distribution sites are from the hollows and say they are the community's protection — and they say they speak for the Coalition. The Coalition has not said otherwise. Every hour they stay is an hour the county can point at and ask for soldiers (I402), and the Coalition's own case on the road is being judged by men it has not claimed or disowned.",
+   "location": "Coalfield counties",
+   "severity": 5,
+   "visible_to": [
+    "Coalfield Citizens' Coalition",
+    "Appalachian Faith & Community Network",
+    "Virginia National Guard, Southwest Task Force"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I408",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The State Claims Authority In Three Counties That Claimed It Last Night",
+   "description": "Three counties have stopped waiting for Richmond, and one of them has written its own distribution rules (I404). The Governor's office can insist on its authority, share it, or step back, and each choice will be read by two other counties as permission or warning. The Liaison's office is also the office in the clip everyone is watching (I409), and anything it says about who decides will be heard through that.",
+   "location": "Richmond / Wise County",
+   "severity": 3,
+   "visible_to": [
+    "Governor's SW Virginia Liaison",
+    "Wise County Board of Supervisors",
+    "SW Virginia EMA"
+   ],
+   "time_limit": 35,
+   "state": "partially_resolved",
+   "points_resolve": 100,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I409",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The Clip Is At Two Million Views And No One Has Said Whether It Is Her",
+   "description": "An unverified clip of the Governor's Liaison saying the coalfields can wait until the cities are running is at two million views, and it has become the coalfields' account of why they were served last. It is three hours old. Some county officials are already quoting it; others are asking the newsroom whether it is real. Nobody with any standing has said yet whether it is.",
+   "location": "Region-wide / online",
+   "severity": 4,
+   "visible_to": [
+    "WDBJ7 News",
+    "Governor's SW Virginia Liaison",
+    "Coalfield Citizens' Coalition"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I410",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "Every Complaint About Who Was Served Has Nowhere To Go",
+   "description": "The grievance that the state served Roanoke and Bristol first has been a rumour for three days. This morning it has names, addresses and an hour of queue behind it: people turned away last week, households skipped on delivery lists, a church that was promised a truck. There is no counter taking any of it, and each unanswered complaint is being retold on the road at Norton.",
+   "location": "Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "United Way of Southwest Virginia",
+    "Wise County Board of Supervisors",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "time_limit": 30,
+   "state": "partially_resolved",
+   "points_resolve": 100,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I411",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The Hollows Believe Their Pastor And No Feed Reaches Them",
+   "description": "Cell and internet are thin in the hollows, and three days of contradictory statements from four agencies (I405) have left the church, the fire chief and the store owner as the only sources anyone there trusts. Pastors are being asked what is true about the road, the clip and the food — and they are asking the same question of everyone else.",
+   "location": "Coalfield hollows",
+   "severity": 3,
+   "visible_to": [
+    "Appalachian Faith & Community Network",
+    "Carilion Clinic System",
+    "United Way of Southwest Virginia"
+   ],
+   "time_limit": 40,
+   "state": "in_progress",
+   "points_resolve": 100,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I412",
+   "phase": 4,
+   "sim_time": "0:00",
+   "incident": "The County's Rules Turn People Away And Nobody Is Writing Down Who",
+   "description": "Wise County's new distribution rules are turning households away at sites where deputies are also keeping order, and what was a rumour about favouritism is now a rule somebody can point at (I404). People turned away are being told different reasons at different sites. Nobody independent is present at the sites or the blockade, and by tonight the only account of what happened will be whoever tells it loudest.",
+   "location": "Wise County",
+   "severity": 3,
+   "visible_to": [
+    "ACLU of Virginia, Southwest Office",
+    "VDOT SW Region",
+    "Virginia National Guard, Southwest Task Force"
+   ],
+   "time_limit": 35,
+   "state": "open",
+   "points_resolve": 100,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I413",
+   "phase": 4,
+   "sim_time": "0:20",
+   "incident": "The Lane Is Working And The People Holding US-23 Want It Made Permanent",
+   "description": "The convoy lane is running at the published hours and the dialysis, fuel and food runs are crossing it; the coalition now wants the lane made permanent and widened, the state wants US-23 fully open, and the people who agreed to the lane are the same people who would have to accept either. Widening it moves more of the region's traffic and hands control of the road to a group the state has not recognised. Fixing it at the published hours keeps the agreement intact and leaves every other car in the coalfields on the detour.",
+   "location": "Norton interchange",
+   "severity": 4,
+   "visible_to": [
+    "VDOT SW Region",
+    "Coalfield Citizens' Coalition",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I401",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I414",
+   "phase": 4,
+   "sim_time": "0:07",
+   "incident": "The Sites Are Open Behind Soldiers And The County Wants Them Gone By Friday",
+   "description": "The queues are moving behind a written order and the county that asked for troops now wants them off its sites before the weekend, because the photographs are exactly what it feared. A staged handover to the county's own deputies keeps the sites open and leaves the same cages to the same volunteers. Holding the posts keeps the queues moving and makes the Guard the permanent face of food distribution in Wise County.",
+   "location": "Distribution sites, Wise County",
+   "severity": 3,
+   "visible_to": [
+    "Virginia National Guard, Southwest Task Force",
+    "Wise County Board of Supervisors",
+    "Governor's SW Virginia Liaison"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 100,
+   "opens_after": "I402",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I415",
+   "phase": 4,
+   "sim_time": "0:07",
+   "incident": "The Runs Are Back On The Road And The Threat Has Moved To The Sites",
+   "description": "Paired visits and an on-call deputy have rural care moving again; the same households now queue at distribution sites where armed men are standing inside the cages (I407), and the clinics that send staff to those sites are sending them into the one place on the route nobody has made safe. Moving clinical outreach out of the cages and into the churches and fire halls keeps staff safe and leaves the sickest households to walk further. Staffing the sites keeps care where the people are and puts clinicians in the same photograph as the volunteers.",
+   "location": "Coalfield counties",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Clinic System",
+    "SW Virginia Sheriff's Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I403",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I416",
+   "phase": 4,
+   "sim_time": "0:20",
+   "incident": "Wise County's Rules Worked And Two Counties Want The Same Ordinance Today",
+   "description": "The county's published rules are being used at its sites and the queue is orderly, and Buchanan and Dickenson want the same ordinance on the same day — which makes Wise County the region's rule-maker and the state's problem, and puts three counties' distribution under rules nobody agreed to together. A joint table that harmonises the three keeps the county in charge and takes a day it may not have. Adopting the same ordinance county by county is instant and hands the state its proof that the region has stopped waiting for Richmond.",
+   "location": "Wise, Buchanan and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Wise County Board of Supervisors",
+    "Governor's SW Virginia Liaison",
+    "SW Virginia EMA"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I404",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I417",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "One Voice Works And Three Counties Want Their Own Part Of It",
+   "description": "The fixed schedule is holding and the same sentence goes out at the same hour, and the counties that publish their own distribution rules want their part of the update to say so — which is the difference between one region speaking and three counties using a state feed for their own announcement. Keeping the schedule whole holds the only thing the coalfields have started to believe. Giving each county its slot is honest about who decides and hands three local fights the state's microphone.",
+   "location": "Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "SW Virginia EMA",
+    "Wise County Board of Supervisors",
+    "Governor's SW Virginia Liaison"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I405",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I418",
+   "phase": 4,
+   "sim_time": "0:15",
+   "incident": "US-23 Is Open And The Crowd Is At The Distribution Sites",
+   "description": "The road is clear and the supply runs are moving; the crowd did not disperse, it walked to the distribution sites, where two hundred armed volunteers are already inside the cages and the county's own rules decide who is served. Deputies at the sites keep the queues orderly and put the same enforcement that cleared the road into the food line. Handing the queues to the community's own marshals keeps deputies off the cameras and leaves armed men deciding who eats.",
+   "location": "Coalfield distribution sites",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia Sheriff's Coalition",
+    "Coalfield Citizens' Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I406",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I419",
+   "phase": 4,
+   "sim_time": "0:16",
+   "incident": "The Armed Men Left And Nobody Is Inside The Cages",
+   "description": "The volunteers stood down on the coalition's request and the sites have nobody between the queue and the load, at the hour when the county's own rules are deciding who is served and deputies are the only people on site. The coalition's own named, unarmed marshals keep the queue orderly and put the community's people inside cages the state has already photographed. Leaving the sites to the county keeps the coalition out of the distribution fight and leaves its households' grievance with nobody's hands on it.",
+   "location": "Coalfield distribution sites",
+   "severity": 4,
+   "visible_to": [
+    "Coalfield Citizens' Coalition",
+    "Appalachian Faith & Community Network",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I407",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I420",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "The Compact Is Signed And Two Counties Say It Gives Them Nothing",
+   "description": "The compact is signed and operating, and Buchanan and Dickenson — which watched Wise County claim its own rules — say an agreement between Richmond and Wise gives them a table they are not at. Extending the compact's table to all three settles who decides everywhere and makes the state responsible for three counties' distribution. Holding it to Wise keeps the agreement the state can actually deliver and leaves the two counties to write the same ordinance Wise just wrote.",
+   "location": "Richmond / Coalfield counties",
+   "severity": 3,
+   "visible_to": [
+    "Governor's SW Virginia Liaison",
+    "Wise County Board of Supervisors",
+    "United Way of Southwest Virginia"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I408",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I421",
+   "phase": 4,
+   "sim_time": "0:20",
+   "incident": "The Clip Is Labelled And A Second One Is Already Up",
+   "description": "The forensic finding is out, the platforms labelled the first clip, and a second clip — the Liaison again, a different sentence — is up and moving on the same feeds. Checking the second one the same way keeps the desk's record intact and spends the hour the newsroom does not have. Publishing what is known about the pattern, who is making them and why, gets ahead of the third clip and publishes a story the newsroom cannot yet prove.",
+   "location": "Region-wide / online",
+   "severity": 3,
+   "visible_to": [
+    "WDBJ7 News",
+    "SW Virginia EMA",
+    "Governor's SW Virginia Liaison"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I409",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I422",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "The Tracker Has Two Thousand Entries And Half Of Them Are The Same Family",
+   "description": "The tracker is answering complaints and the count has climbed past two thousand entries from a region of three hundred thousand, because the household that missed the fuel delivery, the pharmacy run and the food site filed three times and the counties cannot tell one problem from three. Deduplicating and publishing by household gives the region a number it can argue with and loses the record of who complained about what. Publishing everything as filed keeps every complaint visible and turns the tracker into evidence that the grievance is not being answered.",
+   "location": "Region-wide",
+   "severity": 3,
+   "visible_to": [
+    "United Way of Southwest Virginia",
+    "Wise County Board of Supervisors",
+    "SW Virginia EMA"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I410",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I423",
+   "phase": 4,
+   "sim_time": "0:20",
+   "incident": "The Pastors Reached The Hollows And The Update They Carried Changed Overnight",
+   "description": "The messengers delivered and the hollows are working from an update that has since changed — the counties set their own distribution rules overnight (I404) and the sites are serving different households this afternoon. Carrying the new version on the same routes keeps the network trusted and puts the correction in the same hands that carried the wrong one. Waiting for the schedule and the rules to settle keeps the church out of a fight it did not start and leaves the hollows acting on yesterday's rules.",
+   "location": "Coalfield hollows",
+   "severity": 3,
+   "visible_to": [
+    "Appalachian Faith & Community Network",
+    "Carilion Clinic System",
+    "United Way of Southwest Virginia"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I411",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I424",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "The Observers Are On The Record And The County Says The Line Was Crossed",
+   "description": "The observers' log exists, it records who was turned away and how enforcement was applied, and the county says the observers were inside a secured site and their presence is why a queue stopped. Publishing the log answers the favouritism claim with an independent record and makes the observers the story. Withdrawing them from the sites keeps the access the county can still revoke and leaves every refusal at that door unwitnessed.",
+   "location": "Wise County",
+   "severity": 3,
+   "visible_to": [
+    "ACLU of Virginia, Southwest Office",
+    "Wise County Board of Supervisors",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I412",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I425",
+   "phase": 4,
+   "sim_time": "0:30",
+   "incident": "The Road Held Through Its Deadline And The Detour Is Now The Only Road",
+   "description": "US-23 was still held when the lane deadline passed, the detour is in practice the region's only route, and the dialysis runs are going an hour the long way through Coeburn while a third of the stations are dry. Deputies can open the road under a published order with the enforcement documented, which moves everything today and makes the arrest footage the region's next story. A lane agreed at set hours moves the medical and fuel runs and leaves the road itself held for another day.",
+   "location": "Norton interchange / US-23",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia Sheriff's Coalition",
+    "VDOT SW Region",
+    "Coalfield Citizens' Coalition"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I401",
+   "opens_when": "unresolved"
+  },
+  {
+   "id": "I426",
+   "phase": 4,
+   "sim_time": "0:20",
+   "incident": "Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn",
+   "description": "Nobody moved on the Norton interchange by noon, and the crowd has spread to the Coeburn fuel stops. The fuel, food and dialysis runs are now blocked at two points instead of one, with a third of the stations already dry. Drivers are turning back rather than wait, and the cameras have followed the crowd to the second site.",
+   "location": "Coeburn / US-23 corridor",
+   "severity": 4,
+   "visible_to": [
+    "VDOT SW Region",
+    "SW Virginia Sheriff's Coalition",
+    "WDBJ7 News"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I406",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I427",
+   "phase": 4,
+   "sim_time": "0:30",
+   "incident": "The Volunteers Are Still Inside The Cages And A Deputy Has Been Photographed With Them",
+   "description": "The coalition never asked, the armed men are still inside the cages, and a deputy has now been photographed standing with them at a site where the county's own rules decide who is served. The pastors' and the coalition's public request is still the only thing that has ever moved these men, and it costs nothing but the risk of failing in public. The Guard posting at the sites puts soldiers inside the cages and leaves the volunteers in the same photograph.",
+   "location": "Coalfield distribution sites",
+   "severity": 5,
+   "visible_to": [
+    "Appalachian Faith & Community Network",
+    "Coalfield Citizens' Coalition",
+    "SW Virginia Sheriff's Coalition"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I407",
+   "opens_when": "unresolved"
+  },
+  {
+   "id": "I428",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "A Nurse Was Followed Home And Two Clinics Have Stopped Visiting Entirely",
+   "description": "The pairing never happened, a nurse was followed to her door, and the two remaining coalfield clinics have stopped rural visiting — so the households an hour from the nearest open store, the ones the pharmacies cannot verify scripts for, are now an hour from a clinician too. Paired visits, a deputy on call and a documented hotline put the runs back on the road in the same hour. Bringing staff in from Roanoke keeps the clinic doors open and sends city staff out alone on the same roads.",
+   "location": "Coalfield counties",
+   "severity": 5,
+   "visible_to": [
+    "Carilion Clinic System",
+    "SW Virginia Sheriff's Coalition",
+    "Appalachian Faith & Community Network"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I403",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I429",
+   "phase": 4,
+   "sim_time": "0:25",
+   "incident": "Three Counties Are Writing Their Own Rules And The State Says It Will Fund None Of Them",
+   "description": "The deadline passed with Wise County acting alone and Buchanan and Dickenson copying the ordinance, so three counties are distributing under three sets of rules the state has not agreed to and the state has said it will fund none of them. A compact signed now gives three counties a published basis for their rules and the state a table for the disputes. A broadcast telling the coalfields what the state will and will not fund binds nobody to anything and adds a fourth account to a region that has stopped reading.",
+   "location": "Wise, Buchanan and Dickenson counties / Richmond",
+   "severity": 4,
+   "visible_to": [
+    "Governor's SW Virginia Liaison",
+    "Wise County Board of Supervisors",
+    "SW Virginia EMA"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I404",
+   "opens_when": "escalated"
+  }
+ ]
+}

@@ -91,3 +91,20 @@ sim_time,team,type,message
 0:18,Katmai,incident,The State Claims Authority In Three Counties That Claimed It Last Night — now partially resolved. Open the incident for what changed.
 0:18,Banff,report,"Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — next time: Say what the forum produced — who turned up, what rule was agreed, when it takes effect and at which sites — not that it will be set up soo"
 0:18,Banff,report,"The State Claims Authority In Three Counties That Claimed It Last Night — next time: Give the compact's actual terms and effective date, and say which side signed what and when."
+0:21,Everglades,report,"I410 belongs to United Way, so this report from the Sheriff's Coalition is support and cannot be graded above strong_partial…"
+0:21,Shenandoah,report,Two incidents are graded because the report's own A19 line claims the site coverage as well as the blockade…
+0:21,Denali,report,"Denali filed one in-role action, a joint information center update described as public notice for a county townhall…"
+0:21,Banff,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:21,Everglades,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:21,Yellowstone,incident,Every Complaint About Who Was Served Has Nowhere To Go — now partially resolved. Open the incident for what changed.
+0:21,Glacier,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:21,Shenandoah,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:21,Teton,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:21,Banff,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:21,Denali,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:21,Yellowstone,incident,Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — now in progress. Open the incident for what changed.
+0:21,Everglades,report,"Every Complaint About Who Was Served Has Nowhere To Go — next time: Say what the complaint log takes in, who answers each household and when it opens; a proposal with no start date reads to the queue as another promise."
+0:21,Shenandoah,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the observers actually recorded at the line — who was stopped, by whom, and what it changed — not only that they were deployed."
+0:21,Denali,report,"Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — next time: Say which incident the action was taken against, and what the update actually put in front of residents — the message, when it ran, and who"
+0:21,Denali,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+0:21,Shenandoah,report,"I402 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."

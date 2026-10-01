@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "SW Virginia EMA",
    "sector": "Emergency Management",
-   "budget": 50000,
-   "trust": 5,
-   "score": 37.5,
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
   },
   {
@@ -34,7 +34,7 @@
    "sector": "Law Enforcement",
    "budget": 60000,
    "trust": 6,
-   "score": 75.0,
+   "score": 45.0,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
   },
   {
@@ -77,9 +77,9 @@
    "team": "Shenandoah",
    "role": "ACLU of Virginia, Southwest Office",
    "sector": "Civil Liberties",
-   "budget": 10000,
-   "trust": 5,
-   "score": 75.0,
+   "budget": 65000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "Observers at the protest, the line between enforcement and suppression, and the court if it is crossed"
   },
   {
