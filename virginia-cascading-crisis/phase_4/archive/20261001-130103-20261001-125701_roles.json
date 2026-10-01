@@ -52,7 +52,7 @@
    "sector": "State Executive",
    "budget": 65000,
    "trust": 6,
-   "score": 0.0,
+   "score": 0,
    "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
   },
   {
@@ -86,9 +86,9 @@
    "team": "Teton",
    "role": "VDOT SW Region",
    "sector": "Transportation",
-   "budget": 51700,
+   "budget": 81700,
    "trust": 7,
-   "score": 112.5,
+   "score": 67.5,
    "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
   },
   {

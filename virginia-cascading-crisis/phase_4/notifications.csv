@@ -108,3 +108,16 @@ sim_time,team,type,message
 0:21,Denali,report,"Wise County Has Voted To Set Its Own Distribution Rules And Three Counties Are Watching — next time: Say which incident the action was taken against, and what the update actually put in front of residents — the message, when it ran, and who"
 0:21,Denali,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
 0:21,Shenandoah,report,"I402 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
+0:25,Acadia,report,"I407 was already resolved by Glacier before this report was submitted, so nothing on it was graded or charged."
+0:25,Katmai,report,"I407 was already resolved by Glacier before this report was submitted, so nothing on it was graded or charged."
+0:25,Teton,report,"One incident filed against I406, and the single action taken is the outcome that leaves I406 standing…"
+0:25,Teton,report,"The filed A2 is the move that leaves US-23 shut to general traffic, so it lands on I406's near miss rather than its close…"
+0:25,Teton,report,"One incident (I401) with two filed actions; A4 is the documented near miss for this incident and A2, the action this role used on attempt_1…"
+0:25,Banff,report,"Banff files one action, A12, on I410, where the Board is a supporting role rather than the primary…"
+0:25,Glacier,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:25,Shenandoah,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:25,Teton,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:25,Teton,report,"The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — next time: Say who agreed to hold the lane open — the coalition and the Sheriff's side — and what they did next, not just that VDOT marked it."
+0:25,Teton,report,"The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — next time: Say whether the Sheriff's Coalition accepted or refused the noon clearance, and what your corridor changes for that decision."
+0:25,Teton,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the signed bypass is actually carrying and at what hours it is signed, and name which teams confirmed receipt of the intelligence share."
+0:25,Banff,report,"Every Complaint About Who Was Served Has Nowhere To Go — next time: Say what the county-by-county numbers actually showed and where a resident can find them, and what a household turned away last week should do next."
