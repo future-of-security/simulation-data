@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "Coalfield Citizens' Coalition",
    "sector": "Civic Movement",
-   "budget": 39300,
+   "budget": 44300,
    "trust": 6,
-   "score": 300.0,
+   "score": 262.5,
    "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
   },
   {
@@ -59,9 +59,9 @@
    "team": "Olympic",
    "role": "WDBJ7 News",
    "sector": "Media",
-   "budget": 24170,
+   "budget": 32500,
    "trust": 7,
-   "score": 60.0,
+   "score": 30.0,
    "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
   },
   {
@@ -95,9 +95,9 @@
    "team": "Yellowstone",
    "role": "United Way of Southwest Virginia",
    "sector": "Humanitarian/Mediation",
-   "budget": 15000,
-   "trust": 5,
-   "score": 187.5,
+   "budget": 30000,
+   "trust": 6,
+   "score": 137.5,
    "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
   },
   {
