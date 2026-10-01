@@ -5,7 +5,7 @@
    "team": "Acadia",
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
-   "budget": -55000,
+   "budget": 15000,
    "trust": 7,
    "score": 400.0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
@@ -14,8 +14,8 @@
    "team": "Banff",
    "role": "Wise County Board of Supervisors",
    "sector": "Local Government",
-   "budget": -7500,
-   "trust": 9,
+   "budget": 11500,
+   "trust": 8,
    "score": 267.5,
    "responsibility": "The county that says it will set its own distribution rules, and what it does with the authority it claims"
   },
@@ -23,7 +23,7 @@
    "team": "Denali",
    "role": "SW Virginia EMA",
    "sector": "Emergency Management",
-   "budget": 15000,
+   "budget": 16500,
    "trust": 6,
    "score": 202.5,
    "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
@@ -32,7 +32,7 @@
    "team": "Everglades",
    "role": "SW Virginia Sheriff's Coalition",
    "sector": "Law Enforcement",
-   "budget": -35000,
+   "budget": 7500,
    "trust": 9,
    "score": 462.5,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
@@ -41,8 +41,8 @@
    "team": "Glacier",
    "role": "Coalfield Citizens' Coalition",
    "sector": "Civic Movement",
-   "budget": 12500,
-   "trust": 6,
+   "budget": 39300,
+   "trust": 5,
    "score": 300.0,
    "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
   },
@@ -50,7 +50,7 @@
    "team": "Katmai",
    "role": "Governor's SW Virginia Liaison",
    "sector": "State Executive",
-   "budget": 6250,
+   "budget": 11250,
    "trust": 3,
    "score": 247.5,
    "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
@@ -59,7 +59,7 @@
    "team": "Olympic",
    "role": "WDBJ7 News",
    "sector": "Media",
-   "budget": -17500,
+   "budget": 24170,
    "trust": 3,
    "score": 167.5,
    "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
@@ -104,7 +104,7 @@
    "team": "Zion",
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
-   "budget": -12500,
+   "budget": 2500,
    "trust": 7,
    "score": 211.25,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
