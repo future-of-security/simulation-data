@@ -79,3 +79,5 @@ sim_time,team,type,message
 0:16,Glacier,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages
 0:16,Redwood,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages
 0:16,Everglades,escalation,New incident: The Armed Men Left And Nobody Is Inside The Cages
+0:16,Everglades,report,"I403 was already resolved by Zion before this report was submitted, so nothing on it was graded or charged."
+0:16,Shenandoah,report,"I402 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
