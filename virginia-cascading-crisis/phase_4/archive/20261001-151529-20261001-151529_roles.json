@@ -23,7 +23,7 @@
    "team": "Denali",
    "role": "SW Virginia EMA",
    "sector": "Emergency Management",
-   "budget": 40000,
+   "budget": 15000,
    "trust": 6,
    "score": 202.5,
    "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
@@ -32,7 +32,7 @@
    "team": "Everglades",
    "role": "SW Virginia Sheriff's Coalition",
    "sector": "Law Enforcement",
-   "budget": 0,
+   "budget": -35000,
    "trust": 9,
    "score": 462.5,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
@@ -59,7 +59,7 @@
    "team": "Olympic",
    "role": "WDBJ7 News",
    "sector": "Media",
-   "budget": 7500,
+   "budget": -17500,
    "trust": 3,
    "score": 167.5,
    "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
@@ -77,7 +77,7 @@
    "team": "Shenandoah",
    "role": "ACLU of Virginia, Southwest Office",
    "sector": "Civil Liberties",
-   "budget": 0,
+   "budget": -15000,
    "trust": 6,
    "score": 157.5,
    "responsibility": "Observers at the protest, the line between enforcement and suppression, and the court if it is crossed"
