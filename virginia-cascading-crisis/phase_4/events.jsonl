@@ -981,3 +981,12 @@
 {"at": "2026-10-01T13:50:13-04:00", "kind": "claim_settled", "sim": "1:15", "team": "Katmai", "detail": "with ?:", "data": {"action_id": "A8"}}
 {"at": "2026-10-01T13:50:13-04:00", "kind": "claim_settled", "sim": "1:15", "team": "Glacier", "detail": "with ?:", "data": {"action_id": "A16"}}
 {"at": "2026-10-01T13:50:13-04:00", "kind": "claim_settled", "sim": "1:15", "team": "Zion", "detail": "with ?:", "data": {"action_id": "A24"}}
+{"at": "2026-10-01T13:50:17-04:00", "kind": "processing_started", "sim": "1:15", "detail": "1 submission(s): everglades_phase4_attempt_12.md", "cycle": "20261001-135017"}
+{"at": "2026-10-01T13:50:17-04:00", "kind": "assessment_started", "sim": "1:15", "detail": "1 report(s) × 1 reader(s)", "data": {"reports": "everglades_phase4_attempt_12.md", "panel": "arc-deepseek-flash-thinking-high", "parallel": 1}}
+{"at": "2026-10-01T13:50:17-04:00", "kind": "pass_started", "sim": "1:15", "detail": "assessor started", "data": {"worker": "assessor", "model": "arc-deepseek-flash-thinking-high", "stage": "everglades_phase4_attempt_12"}}
+{"at": "2026-10-01T13:52:46-04:00", "kind": "pass_repaired", "sim": "1:15", "detail": "assessor fixed after a rejection", "data": {"worker": "assessor", "rejected": "assessor: assessment.json action 1 (A2): charged 0 but 40000 × 0.8 × 0.3333 = 10665.6", "fixed": true}}
+{"at": "2026-10-01T13:52:46-04:00", "kind": "pass_finished", "sim": "1:15", "detail": "assessor clean in 2m29s", "data": {"worker": "assessor", "ok": true, "seconds": 149.2, "model": "arc-deepseek-flash-thinking-high"}}
+{"at": "2026-10-01T13:52:46-04:00", "kind": "assessment_finished", "sim": "1:17", "team": "Everglades", "detail": "read", "source": "everglades_phase4_attempt_12.md", "data": {"ok": true, "duration": "2m29s", "juror": "deepseek-flash-high"}}
+{"at": "2026-10-01T13:52:48-04:00", "kind": "notification_sent", "sim": "1:17", "team": "Everglades", "detail": "A2 was charged on attempt 1 at the same one-third share, and this report files it again for I426 with the one-third split it claims.", "data": {"type": "report"}}
+{"at": "2026-10-01T13:52:48-04:00", "kind": "notification_sent", "sim": "1:17", "inject": "I426", "team": "Everglades", "detail": "I426 — next time: Say what the Coeburn lane actually carried, in which hours, and whether anyone on the road agreed to it.", "data": {"type": "report"}}
+{"at": "2026-10-01T13:52:48-04:00", "kind": "publish_started", "sim": "1:17", "detail": "committing the board and feed to the data repo", "cycle": "20261001-135017"}
