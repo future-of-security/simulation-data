@@ -5,18 +5,18 @@
    "team": "Acadia",
    "role": "Virginia National Guard, Southwest Task Force",
    "sector": "Military",
-   "budget": 15000,
-   "trust": 5,
-   "score": 300.0,
+   "budget": 60000,
+   "trust": 7,
+   "score": 125.0,
    "responsibility": "Troops the Governor can send to open a road or guard a site — and the picture a uniform on a county road makes"
   },
   {
    "team": "Banff",
    "role": "Wise County Board of Supervisors",
    "sector": "Local Government",
-   "budget": 14500,
-   "trust": 6,
-   "score": 187.5,
+   "budget": 32500,
+   "trust": 5,
+   "score": 137.5,
    "responsibility": "The county that says it will set its own distribution rules, and what it does with the authority it claims"
   },
   {
@@ -24,44 +24,44 @@
    "role": "SW Virginia EMA",
    "sector": "Emergency Management",
    "budget": 50000,
-   "trust": 6,
-   "score": 115.0,
+   "trust": 5,
+   "score": 37.5,
    "responsibility": "The joint information center, the public update cadence, and the published record of who got what"
   },
   {
    "team": "Everglades",
    "role": "SW Virginia Sheriff's Coalition",
    "sector": "Law Enforcement",
-   "budget": 7500,
-   "trust": 9,
-   "score": 312.5,
+   "budget": 60000,
+   "trust": 6,
+   "score": 75.0,
    "responsibility": "Keeping US-23 and the distribution sites safe without the arrest footage that makes everything worse"
   },
   {
    "team": "Glacier",
    "role": "Coalfield Citizens' Coalition",
    "sector": "Civic Movement",
-   "budget": 44300,
-   "trust": 6,
-   "score": 262.5,
+   "budget": 56800,
+   "trust": 7,
+   "score": 225.0,
    "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
   },
   {
    "team": "Katmai",
    "role": "Governor's SW Virginia Liaison",
    "sector": "State Executive",
-   "budget": 42500,
-   "trust": 3,
-   "score": 167.5,
+   "budget": 65000,
+   "trust": 6,
+   "score": 0.0,
    "responsibility": "The state's word in the coalfields: a compact with the counties, a Guard request, and an apology or not"
   },
   {
    "team": "Olympic",
    "role": "WDBJ7 News",
    "sector": "Media",
-   "budget": 32500,
-   "trust": 7,
-   "score": 30.0,
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "What the region believes happened today: verification, the deepfake clip, and the forum on air"
   },
   {
@@ -77,9 +77,9 @@
    "team": "Shenandoah",
    "role": "ACLU of Virginia, Southwest Office",
    "sector": "Civil Liberties",
-   "budget": -15000,
-   "trust": 6,
-   "score": 157.5,
+   "budget": 10000,
+   "trust": 5,
+   "score": 75.0,
    "responsibility": "Observers at the protest, the line between enforcement and suppression, and the court if it is crossed"
   },
   {
@@ -88,16 +88,16 @@
    "sector": "Transportation",
    "budget": 51700,
    "trust": 7,
-   "score": 142.5,
+   "score": 112.5,
    "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
   },
   {
    "team": "Yellowstone",
    "role": "United Way of Southwest Virginia",
    "sector": "Humanitarian/Mediation",
-   "budget": 30000,
-   "trust": 6,
-   "score": 137.5,
+   "budget": 55000,
+   "trust": 7,
+   "score": 37.5,
    "responsibility": "Mediation, grievance intake with a public tracker, and volunteers at the sites where tempers run highest"
   },
   {
@@ -105,8 +105,8 @@
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
    "budget": 2500,
-   "trust": 6,
-   "score": 211.25,
+   "trust": 7,
+   "score": 173.75,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
  ]

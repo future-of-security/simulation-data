@@ -110,7 +110,7 @@
     "WDBJ7 News"
    ],
    "time_limit": 20,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -148,7 +148,7 @@
     "SW Virginia EMA"
    ],
    "time_limit": 35,
-   "state": "resolved",
+   "state": "partially_resolved",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -167,7 +167,7 @@
     "Coalfield Citizens' Coalition"
    ],
    "time_limit": 25,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -205,7 +205,7 @@
     "United Way of Southwest Virginia"
    ],
    "time_limit": 40,
-   "state": "escalated",
+   "state": "in_progress",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -224,7 +224,7 @@
     "Virginia National Guard, Southwest Task Force"
    ],
    "time_limit": 35,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""
@@ -262,7 +262,7 @@
     "Governor's SW Virginia Liaison"
    ],
    "time_limit": 25,
-   "state": "partially_resolved",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "I402",
    "opens_when": "resolved"
@@ -281,7 +281,7 @@
     "Appalachian Faith & Community Network"
    ],
    "time_limit": 25,
-   "state": "partially_resolved",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I403",
    "opens_when": "resolved"
@@ -365,7 +365,7 @@
   {
    "id": "I420",
    "phase": 4,
-   "sim_time": "0:44",
+   "sim_time": "0:25",
    "incident": "The Compact Is Signed And Two Counties Say It Gives Them Nothing",
    "description": "The compact is signed and operating, and Buchanan and Dickenson — which watched Wise County claim its own rules — say an agreement between Richmond and Wise gives them a table they are not at. Extending the compact's table to all three settles who decides everywhere and makes the state responsible for three counties' distribution. Holding it to Wise keeps the agreement the state can actually deliver and leaves the two counties to write the same ordinance Wise just wrote.",
    "location": "Richmond / Coalfield counties",
@@ -376,7 +376,7 @@
     "United Way of Southwest Virginia"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 100,
    "opens_after": "I408",
    "opens_when": "resolved"
@@ -479,7 +479,7 @@
   {
    "id": "I426",
    "phase": 4,
-   "sim_time": "0:44",
+   "sim_time": "0:20",
    "incident": "Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn",
    "description": "Nobody moved on the Norton interchange by noon, and the crowd has spread to the Coeburn fuel stops. The fuel, food and dialysis runs are now blocked at two points instead of one, with a third of the stations already dry. Drivers are turning back rather than wait, and the cameras have followed the crowd to the second site.",
    "location": "Coeburn / US-23 corridor",
@@ -490,7 +490,7 @@
     "WDBJ7 News"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "hidden",
    "points_resolve": 125,
    "opens_after": "I406",
    "opens_when": "escalated"

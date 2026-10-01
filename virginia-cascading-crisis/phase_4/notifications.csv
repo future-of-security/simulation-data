@@ -121,3 +121,100 @@ sim_time,team,type,message
 0:25,Teton,report,"The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — next time: Say whether the Sheriff's Coalition accepted or refused the noon clearance, and what your corridor changes for that decision."
 0:25,Teton,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the signed bypass is actually carrying and at what hours it is signed, and name which teams confirmed receipt of the intelligence share."
 0:25,Banff,report,"Every Complaint About Who Was Served Has Nowhere To Go — next time: Say what the county-by-county numbers actually showed and where a resident can find them, and what a household turned away last week should do next."
+0:44,Everglades,report,"A single-incident report on I403, which the board already carries as resolved; A24 is charged at half of $35K against the split Zion is said to have confirmed…"
+0:44,Everglades,report,"One incident only: A24, A1 and an improvised hotline hand-off are all filed against I403, and nothing is filed against I415, which is open, visible to this role, and untouched."
+0:44,Shenandoah,report,"Both filed actions are read as taken against I402, so A19 is charged once at the trust-5 rate; the same deployment also bears on I412…"
+0:44,Katmai,report,"The report files no action at all and names an incident, i407, that is not on this role's board; read against its nearest match (I408)…"
+0:44,Acadia,report,"Acadia filed no action this cycle: its one proposal is an unfiled $0 custom escort, which in substance reads closest to A7 Guard Convoy Escort — the escort near miss that moves freight and leaves…"
+0:44,Yellowstone,report,"Yellowstone (United Way of Southwest Virginia) filed one action against I410 only — A22, charged at full price with no split claimed…"
+0:44,Glacier,report,"Graded against I409 only; I401, I407 and I419 are visible to this role but no filed action addresses them, and this report's A1/A16 reach I409 alone."
+0:44,Acadia,report,"One incident filed (I414), worked with a single improvised $0 action; no catalog action is charged and the A6 charge from attempt 1 is not repeated."
+0:44,Olympic,report,"Trust 6 at submission gives a x1.0 modifier; the $75K budget they report ($30K + $12.5K, $32.5K left) matches that."
+0:44,Banff,report,"Banff files a single action, A10 on I404, at a claimed half share to Yellowstone, and A10 was already charged on this incident in attempt 2…"
+0:44,Katmai,report,"Katmai is a supporting role on I409 (primary: WDBJ7 News) and filed a single action, A13 at $10k with half the cost claimed from Denali, so $5k is charged under the trust 6 modifier."
+0:44,Denali,report,Both A1 lines sit under the I408 header: the free share aimed at the authority question is charged once against I408…
+0:44,Yellowstone,report,"One incident, one filed action: A10 on I404, which is the incident's named near miss (a moderated forum, not published distribution rules), so it stays at a partial and, as a supporting role…"
+0:44,Shenandoah,report,"Shenandoah filed a single in-role action, A27, against I412, which is the audit named in that incident's near-miss half — help that heads away from the state that closes it…"
+0:44,Acadia,report,"Acadia filed only the free A1 intelligence share against I412, an incident whose primary is another role and which remains open…"
+0:44,Zion,report,"I415 is the only incident touched; the filed action is the free intelligence share, which carries no cost again here even though A1 was credited in earlier attempts."
+0:44,Everglades,report,"This report works I415 only and files nothing against I406, this team's own primary incident, which the board still shows closed to general traffic at the Norton interchange."
+0:44,Banff,report,"Banff files only I414, and the words on its filed line describe relieving the Guard posts with county deputies rather than an ordinance, so the handover is what is graded."
+0:44,Katmai,report,A8 is charged at Katmai's claimed half — $35k catalog at trust 6 (x1.0) x 0.5 = $17.5k — with Banff's half left for the reconciler.
+0:44,Acadia,report,"Acadia files a single action, A7 convoy escort, under incident I407, while stating that its effect falls on the road and the cargo…"
+0:44,Acadia,report,"I414 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
+0:44,Teton,report,"One free intelligence action against I412, in role; Teton supports there and could not close it, and the filed action heads toward no closing state, so it scores as help."
+0:44,Everglades,report,Only I410 is filed against; both filed items are a plan (A1) and an unfunded proposal (the custom log)…
+0:44,Glacier,report,"Glacier's A2 against I401 was already charged on attempt_1, but this report files it again at $40K without saying it is the same action already paid for…"
+0:44,Banff,incident,I408 — now partially resolved. Open the incident for what changed.
+0:44,Denali,incident,I408 — now partially resolved. Open the incident for what changed.
+0:44,Katmai,incident,I408 — now partially resolved. Open the incident for what changed.
+0:44,Banff,incident,I410 — now resolved. Open the incident for what changed.
+0:44,Everglades,incident,I410 — now resolved. Open the incident for what changed.
+0:44,Yellowstone,incident,I410 — now resolved. Open the incident for what changed.
+0:44,Glacier,incident,I409 — now in progress. Open the incident for what changed.
+0:44,Katmai,incident,I409 — now in progress. Open the incident for what changed.
+0:44,Olympic,incident,I409 — now in progress. Open the incident for what changed.
+0:44,Acadia,incident,I414 — now resolved. Open the incident for what changed.
+0:44,Banff,incident,I414 — now resolved. Open the incident for what changed.
+0:44,Katmai,incident,I414 — now resolved. Open the incident for what changed.
+0:44,Acadia,incident,I412 — now in progress. Open the incident for what changed.
+0:44,Shenandoah,incident,I412 — now in progress. Open the incident for what changed.
+0:44,Teton,incident,I412 — now in progress. Open the incident for what changed.
+0:44,Everglades,incident,I415 — now in progress. Open the incident for what changed.
+0:44,Redwood,incident,I415 — now in progress. Open the incident for what changed.
+0:44,Zion,incident,I415 — now in progress. Open the incident for what changed.
+0:44,Everglades,incident,I415 — now partially resolved. Open the incident for what changed.
+0:44,Redwood,incident,I415 — now partially resolved. Open the incident for what changed.
+0:44,Zion,incident,I415 — now partially resolved. Open the incident for what changed.
+0:44,Acadia,incident,I414 — now partially resolved. Open the incident for what changed.
+0:44,Banff,incident,I414 — now partially resolved. Open the incident for what changed.
+0:44,Katmai,incident,I414 — now partially resolved. Open the incident for what changed.
+0:44,Banff,incident,I408 — now resolved. Open the incident for what changed.
+0:44,Denali,incident,I408 — now resolved. Open the incident for what changed.
+0:44,Katmai,incident,I408 — now resolved. Open the incident for what changed.
+0:44,Banff,incident,I410 — now partially resolved. Open the incident for what changed.
+0:44,Everglades,incident,I410 — now partially resolved. Open the incident for what changed.
+0:44,Yellowstone,incident,I410 — now partially resolved. Open the incident for what changed.
+0:44,Everglades,escalation,I406 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Olympic,escalation,I406 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Teton,escalation,I406 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Redwood,escalation,I411 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Yellowstone,escalation,I411 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Zion,escalation,I411 — escalated. Open the incident for what happens now and what would have closed it.
+0:44,Everglades,report,I403 — next time: Say what the action produced on the road that day - which runs went out and what staff reported back - rather than what the protocol will do.
+0:44,Everglades,report,"I403 — next time: Say which runs and hollows the paired visits actually covered and how fast a clinician reached the on-call deputy, not just that a hotline exists."
+0:44,Shenandoah,report,"I402 — next time: Say what the observers and the Guard posting actually change at the cages, and how the Guard deployment was verified rather than passed on."
+0:44,Shenandoah,report,"I412 — next time: File the observer deployment against the incident it answers, and say what the record the observers keep will show and where it will be read."
+0:44,Katmai,report,"I408 — next time: File the action you took under its own id against the board's incident name, and say what the approval changed and who signed it."
+0:44,Acadia,report,"I407 — next time: Say what the on-record disavowal actually produced — who said it, and whether the men at the cages moved — not just that an escort was proposed."
+0:44,Yellowstone,report,"I410 — resolved. A suggestion: Add what the action itself produced: where the intake is open, who is staffing it, and what the first logged complaints say."
+0:44,Glacier,report,"I409 — next time: Say what the check actually came back with and what the forum put on air — who spoke, what they said, and what is still unknown."
+0:44,Acadia,report,"I414 — resolved. A suggestion: Name the exact handover day and who signs the order, and say what the county has agreed to take on."
+0:44,Olympic,report,"I409 — next time: Say what the desk actually found, and who outside the newsroom has been told the finding so a county official can carry it."
+0:44,Banff,report,I404 — next time: Spell out what the forum settled and who applies the order — the action line reads as both a plan for a town hall and a result already achieved.
+0:44,Katmai,report,"I409 — next time: Say what the broadcast actually reached and when, and where the claim about the clip came from."
+0:44,Denali,report,"I408 — next time: Say what the shared information actually was and which two officials it moved, so the compact's progress can be traced."
+0:44,Denali,report,"I405 — next time: Say when the funded broadcast goes out and where it reaches, so it does not read as one more account beside the agencies' own feeds."
+0:44,Yellowstone,report,I404 — next time: Say what the forum actually produced — what the Board committed to and who owns it — rather than restating the incident and the gap.
+0:44,Shenandoah,report,"I412 — next time: Say what the audit turned up — which sites, which records, what the first checks showed — rather than only what it will let you see."
+0:44,Acadia,report,I412 — next time: Say who received the shared intelligence and what it changed — an item circulated with no recipient and no result cannot be checked by anyone.
+0:44,Zion,report,"I415 — next time: Say what the share actually carried and what came back: which routes and sites you warned about, and what the other teams confirmed."
+0:44,Everglades,report,I415 — next time: Say what the shared site observations actually told Carilion — where armed men were standing and which runs changed — rather than what you will share.
+0:44,Banff,report,I414 — next time: Match the action to what it does: the line filed as a distribution ordinance reads as a deputy handover — say plainly which one the county took.
+0:44,Katmai,report,"I408 — resolved. A suggestion: Say which county officials agreed and what residents can now read, so the next report carries something a neighbouring county can act on."
+0:44,Acadia,report,"I407 — next time: Say which incident the escort is meant to move and what was different at the sites by the end of the day, not only that the trucks ran."
+0:44,Teton,report,"I412 — next time: Say what the counts actually showed — which sites, how many vehicles turned around, over which hours — so the figures can be cited rather than described in general."
+0:44,Everglades,report,"I410 — next time: Say whether the Liaison or the community groups agreed to host the log, and what a household hears back once it files."
+0:44,Glacier,report,I401 — next time: Say what the lane actually carried once it ran — how many dialysis and pharmacy vehicles crossed and at what hours — instead of that it was agreed.
+0:44,Everglades,report,"I406 escalated. What your last report on it did not show: The Coalition, as primary on I406, files A2 only — the negotiated convoy lane that the incident's near-miss half names — so food…"
+0:44,Redwood,report,"I411 escalated. What your last report on it did not show: A25 is in role and puts crisis counsellors into the churches the hollows already trust, but the incident is an information vacuum — no verified update is moving door to door…"
+0:44,Teton,report,"I406 escalated. What your last report on it did not show: Teton is a supporting role on I406 and filed A2, a lane negotiated with the people holding the road so the food…"
+0:44,Zion,report,"I411 escalated. What your last report on it did not show: Zion's mental-health surge puts counsellors and a crisis line into the coalfield churches, which helps the hollows…"
+0:44,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+0:44,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+0:44,Katmai,escalation,New incident: The Compact Is Signed And Two Counties Say It Gives Them Nothing
+0:44,Banff,escalation,New incident: The Compact Is Signed And Two Counties Say It Gives Them Nothing
+0:44,Yellowstone,escalation,New incident: The Compact Is Signed And Two Counties Say It Gives Them Nothing
+0:44,Teton,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
+0:44,Everglades,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
+0:44,Olympic,escalation,New incident: Nobody Opened US-23 By Noon And The Crowd Has Spread To Coeburn
