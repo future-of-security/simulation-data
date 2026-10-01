@@ -256,3 +256,16 @@ sim_time,team,type,message
 0:52,Olympic,report,"I405 — next time: Say what the hour on air actually produced — what each agency committed to and when the next update goes out, not just that the forum was held."
 0:52,Katmai,report,"I407 — next time: Put the action you took on its own line — its id, an incident you can actually see, and what it produced; an approval described only in prose leaves nothing to grade."
 0:52,Yellowstone,report,"I411 — next time: Say which hollows the messengers walked and what residents were told there, so the reach can be checked."
+0:55,Teton,report,"One action filed against I406 — the free A1 intelligence share, charged at 0."
+0:55,Everglades,report,"I406 is this role's own primary incident, so a close would have been available, but A2 is the near miss the incident names and the report itself concedes the road is still closed and the blockade…"
+0:55,Banff,report,"Charged as a new use at $35K x 1.0 x 0.5 = $17,500: A8 was already charged 17,500 and scored at attempt 3, but this submission never says it is the same, already-paid action…"
+0:55,Denali,report,"One incident (I405) and one action (A11), correctly scoped to Denali's own primary role, but the described output is a one-off awareness push rather than a shared update cadence…"
+0:55,Denali,report,"Supporting role on I404, not the primary, so the ceiling is strong_partial and the filed work sits below it: publicising a townhall and a PSA is the airing the standard calls the near miss…"
+0:55,Denali,incident,I405 — now partially resolved. Open the incident for what changed.
+0:55,Katmai,incident,I405 — now partially resolved. Open the incident for what changed.
+0:55,Olympic,incident,I405 — now partially resolved. Open the incident for what changed.
+0:55,Teton,report,I406 — next time: Say what the Sheriff and the news desk did with the schedules you sent — whether convoys actually moved in the windows — not only that the dispatch went out.
+0:55,Everglades,report,"I406 — next time: Say who spoke for the crowd and on what terms, and what the lane actually carried and when — the account of the blockade rests on the team's word alone."
+0:55,Banff,report,I408 — next time: Name the site and the moment the arrangement actually changes who is served; 'published start date is tomorrow' leaves a reader with no mechanism.
+0:55,Denali,report,"I405 — next time: Say what the update actually carried, who is feeding it, and when the next edition goes out — 'produced awareness' is not something a reader can check."
+0:55,Denali,report,"I404 — next time: Say what the townhall and PSA actually produced — who turned up, what the county said it would do with the rules, and when."
