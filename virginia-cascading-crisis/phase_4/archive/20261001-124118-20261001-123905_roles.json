@@ -104,10 +104,11 @@
    "team": "Zion",
    "role": "Carilion Clinic System",
    "sector": "Healthcare",
-   "budget": 75000,
-   "trust": 5,
-   "score": 18.75,
+   "budget": 90000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
- ]
+ ],
+ "phase": 4
 }
