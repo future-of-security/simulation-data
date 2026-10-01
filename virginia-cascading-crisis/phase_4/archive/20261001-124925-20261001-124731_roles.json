@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "Coalfield Citizens' Coalition",
    "sector": "Civic Movement",
-   "budget": 61800,
-   "trust": 7,
-   "score": 75.0,
+   "budget": 75000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "The people on US-23: what they want, who speaks for them, and what would get them to open a lane"
   },
   {
@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "Appalachian Faith & Community Network",
    "sector": "Community/Faith",
-   "budget": 66875,
-   "trust": 5,
-   "score": 105.0,
+   "budget": 95000,
+   "trust": 4,
+   "score": 75.0,
    "responsibility": "Trusted messengers in the hollows, safe places to meet, and people on the ground between the crowd and the line"
   },
   {
@@ -86,9 +86,9 @@
    "team": "Teton",
    "role": "VDOT SW Region",
    "sector": "Transportation",
-   "budget": 81700,
-   "trust": 7,
-   "score": 67.5,
+   "budget": 95000,
+   "trust": 6,
+   "score": 0,
    "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
   },
   {

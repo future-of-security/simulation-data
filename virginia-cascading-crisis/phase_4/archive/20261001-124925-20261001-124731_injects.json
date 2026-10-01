@@ -15,7 +15,7 @@
     "ACLU of Virginia, Southwest Office"
    ],
    "time_limit": 30,
-   "state": "partially_resolved",
+   "state": "open",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -205,7 +205,7 @@
     "United Way of Southwest Virginia"
    ],
    "time_limit": 40,
-   "state": "in_progress",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "",
    "opens_when": ""

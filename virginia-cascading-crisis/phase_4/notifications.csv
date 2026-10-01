@@ -41,3 +41,20 @@ sim_time,team,type,message
 0:12,Yellowstone,update,"Banff filed no share against A10, so no agreement was documented by both sides; the half-split you claimed does not hold and you pay the remaining 10000 of the 20000 price."
 0:12,Zion,update,"Your half share on A24 was never matched by any partner filing, so the split does not hold; you are charged the remaining 17500 and pay the action's full price."
 0:12,Zion,update,"Zion: no split holds on A26 — the partner you named never filed it and cannot hold the action, so you are charged the $15K remainder of the $30K price."
+0:14,Acadia,report,"I402 was already resolved by Acadia before this report was submitted, so nothing on it was graded or charged."
+0:14,Teton,report,"Teton filed against I406, where its convoy lane is the near miss that leaves the road closed, while the same A2 lane is the mechanism I401 is waiting on…"
+0:14,Glacier,report,A2 is in this role's catalog and the VDOT approval it needs is claimed through Teton; with the team's trust at 6 there is no price modifier.
+0:14,Redwood,report,"Redwood filed a single action, A25, against I411 and is the primary role on it, but its own words describe church people distributing to hollows residents…"
+0:14,Everglades,incident,The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — now in progress. Open the incident for what changed.
+0:14,Olympic,incident,The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — now in progress. Open the incident for what changed.
+0:14,Teton,incident,The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — now in progress. Open the incident for what changed.
+0:14,Glacier,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:14,Shenandoah,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:14,Teton,incident,US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — now partially resolved. Open the incident for what changed.
+0:14,Redwood,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:14,Yellowstone,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:14,Zion,incident,The Hollows Believe Their Pastor And No Feed Reaches Them — now in progress. Open the incident for what changed.
+0:14,Teton,report,"The Sheriff Can Have US-23 Open By Noon And It Will Be On Camera — next time: Say whose agreement the lane rests on and what it is actually moving, and name the road's state apart from the lane."
+0:14,Teton,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say what the marked corridor is carrying now and at which hours, and who agreed to hold it open."
+0:14,Glacier,report,"US-23 Is Held At The Norton Interchange And The Dialysis Runs Are Queuing — next time: Say whether the lane is running yet and what it has carried — the report states the agreement, not the traffic crossing it."
+0:14,Redwood,report,"The Hollows Believe Their Pastor And No Feed Reaches Them — next time: Say what the counsellors actually did in the hollows — which churches, how many households reached — so next time the effect is on the page, not just the line item."
