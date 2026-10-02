@@ -86,7 +86,7 @@
    "team": "Teton",
    "role": "VDOT SW Region",
    "sector": "Transportation",
-   "budget": 21700,
+   "budget": 8333,
    "trust": 8,
    "score": 337.5,
    "responsibility": "Detours, a convoy lane through Wise County, and which road is closed to whom"
@@ -109,5 +109,6 @@
    "score": 211.25,
    "responsibility": "Staff being threatened on rural visits, a mental-health surge, and whether the clinics stay open"
   }
- ]
+ ],
+ "phase": 4
 }
