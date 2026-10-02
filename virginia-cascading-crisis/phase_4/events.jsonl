@@ -1057,3 +1057,4 @@
 {"at": "2026-10-01T15:15:10-04:00", "kind": "pass_finished", "sim": "2:37", "detail": "dispute clean in 2m27s", "data": {"worker": "dispute", "ok": true, "seconds": 147.5, "model": "arc-deepseek-flash-thinking-high"}}
 {"at": "2026-10-01T15:15:11-04:00", "kind": "team_scored", "sim": "2:40", "team": "Redwood", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": -5625.0, "trust_delta": 0.0, "score_awarded": 0.0}}
 {"at": "2026-10-01T15:15:11-04:00", "kind": "reconcile_finished", "sim": "2:40", "detail": "1 team(s) corrected", "data": {}}
+{"at": "2026-10-02T01:21:40-04:00", "kind": "phase_ended", "detail": "countdown stopped; unconfirmed splits settle next"}
