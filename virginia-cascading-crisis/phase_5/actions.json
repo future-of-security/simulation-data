@@ -1,0 +1,403 @@
+{
+ "key": "actions",
+ "phase": 5,
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share what you have verified — a test result, a case count, a sensor reading, what a facility has told you — with every other team. Free and always available; the cheapest way to stop two agencies giving the public two different numbers."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Field Water Sampling",
+   "available_to": [
+    "VA DEQ SW Regional Office",
+    "Wise County Public Service Authority",
+    "Virginia Tech Water Quality Lab",
+    "EPA Region 3 Emergency Response"
+   ],
+   "cost": 15000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Collect water samples at the points you name and run them for the contaminants you name. Gives a measured result for those points at that time; it says nothing about points you did not sample."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Air Quality Monitoring",
+   "available_to": [
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response",
+    "VA Department of Health SW District"
+   ],
+   "cost": 25000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Place portable air monitors at the sites you name and report particulate and gas readings. Shows what is in the air now, not what people breathed last week."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Satellite Imagery Review",
+   "available_to": [
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Pull recent satellite imagery of one site and compare it with images from before the attack. Shows change on the surface — a plume, a slumped bank, standing water — but not what the water contains."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Public Health Advisory",
+   "available_to": [
+    "VA Department of Health SW District",
+    "VDH Risk Communication"
+   ],
+   "cost": 5000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Issue a written advisory about one risk: who is affected, what to do, and what is still unknown. Fast and cheap; only as good as the channels that carry it and the trust in whoever signs it."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Boil-Water or Do-Not-Drink Notice",
+   "available_to": [
+    "Wise County Public Service Authority"
+   ],
+   "cost": 10000,
+   "delay_mins": 5,
+   "requires_approval": "VA Department of Health SW District",
+   "trust_impact": -1,
+   "description": "Tell the customers of one water system to boil their water, or not to drink it at all, until testing clears it. Protects people at once; every day it stays in force costs the utility trust and the households money."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Bottled Water Distribution",
+   "available_to": [
+    "Wise County Public Service Authority",
+    "EPA Region 3 Emergency Response",
+    "AEP Appalachian Power",
+    "Appalachian Coal Operators"
+   ],
+   "cost": 30000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Deliver bottled water to the area you name for as long as you can fund it. Keeps people drinking safely; does nothing about the source."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Epidemiological Case Investigation",
+   "available_to": [
+    "VA Department of Health SW District"
+   ],
+   "cost": 25000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Interview the sick, map where they live and work, and look for what they share. The only way to find a cause, and it takes longer than the public will wait."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "Clinical Testing and Specimen Referral",
+   "available_to": [
+    "Carilion Rural Clinic Network",
+    "VA Department of Health SW District"
+   ],
+   "cost": 15000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Test patients for the conditions you name and send specimens to the state lab. Turns symptoms into diagnoses; results come back later than the next decision is due."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Clinic Surge Staffing",
+   "available_to": [
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 35000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Extend hours and bring in borrowed staff at one clinic or center. More patients are seen there; the staff come from somewhere else that now has fewer."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Patient Transport Runs",
+   "available_to": [
+    "Carilion Rural Clinic Network",
+    "SW Virginia EMS Council"
+   ],
+   "cost": 25000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Scheduled vans or ambulances carrying patients to care in another town. Gets people to treatment; every run takes a vehicle and a driver out of the area for hours."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Mobile Clinic Deployment",
+   "available_to": [
+    "Carilion Rural Clinic Network",
+    "VA Department of Health SW District"
+   ],
+   "cost": 30000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Send a staffed mobile unit to one community for screening and basic care. Reaches people who cannot travel; sees only the people who come to it."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Naloxone Distribution",
+   "available_to": [
+    "SW Virginia EMS Council",
+    "SW Virginia Independent Pharmacy Network",
+    "VA Department of Health SW District"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Hand out naloxone kits and short instructions through pharmacies, crews and community sites. Prevents deaths from the overdoses that happen; does nothing about why they are rising."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "EMS Unit Reallocation",
+   "available_to": [
+    "SW Virginia EMS Council"
+   ],
+   "cost": 15000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Move ambulances and crews between areas or call types. Covers the need you move them to; the area they leave waits longer."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "Emergency Dispensing Protocol",
+   "available_to": [
+    "SW Virginia Independent Pharmacy Network"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "VA Department of Health SW District",
+   "trust_impact": 1,
+   "description": "Authorise pharmacists to dispense an emergency supply of a patient's regular medicines without the usual verification. Keeps people on their medicines; some of what is dispensed will go to people who should not have it."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Pharmacy Stock Sharing",
+   "available_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Carilion Rural Clinic Network"
+   ],
+   "cost": 15000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Move medicine stock between pharmacies and clinics to wherever it is shortest. Spreads what exists more evenly; makes no new supply."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "Halt Operations at a Site",
+   "available_to": [
+    "Appalachian Coal Operators",
+    "AEP Appalachian Power"
+   ],
+   "cost": 40000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Stop work at one mine or plant until conditions are checked. Removes the risk there; the lost production and pay are real and land on the same families."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "Union Safety Walkout",
+   "available_to": [
+    "United Mine Workers, District 28"
+   ],
+   "cost": 20000,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Members refuse to work at one site, using their legal right to refuse unsafe work. Stops exposure at once; costs members their pay and the union its relationship with the operator."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Manual Safety Monitoring Crews",
+   "available_to": [
+    "Appalachian Coal Operators",
+    "AEP Appalachian Power",
+    "United Mine Workers, District 28"
+   ],
+   "cost": 30000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Put trained crews with handheld gas, dust or pressure instruments at one site in place of the systems that are offline. Covers the shifts they are present for, and only those."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Joint Safety Inspection",
+   "available_to": [
+    "United Mine Workers, District 28",
+    "Appalachian Coal Operators",
+    "VA DEQ SW Regional Office"
+   ],
+   "cost": 10000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A walk-through of one site by the operator, the union and an inspector together, with a signed list of what must change. Builds an account both sides accept; changes nothing until someone pays for the list."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Emergency Structural Repair",
+   "available_to": [
+    "AEP Appalachian Power",
+    "Appalachian Coal Operators"
+   ],
+   "cost": 60000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Reinforce or patch one failing structure — a dike, a seal, a containment wall. Buys time for that structure; it is a repair, not an inspection, and no one yet knows what else has weakened."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Controlled Release Through Treatment",
+   "available_to": [
+    "AEP Appalachian Power",
+    "Wise County Public Service Authority"
+   ],
+   "cost": 45000,
+   "delay_mins": 20,
+   "requires_approval": "VA DEQ SW Regional Office",
+   "trust_impact": 0,
+   "description": "Lower the level in a pond or tank by releasing water through treatment under a permit. Takes pressure off the structure; what treatment does not remove goes into the river."
+  },
+  {
+   "action_id": "A23",
+   "action_name": "Regulatory Emergency Order",
+   "available_to": [
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response"
+   ],
+   "cost": 5000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": -1,
+   "description": "A written order requiring one facility to take a named step by a deadline. Forces the step; the facility may contest it, and it does not pay for anything."
+  },
+  {
+   "action_id": "A24",
+   "action_name": "Federal Response Team Deployment",
+   "available_to": [
+    "EPA Region 3 Emergency Response"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": -1,
+   "description": "Send a federal emergency response team with its own sampling and lab support to one area. Brings capacity the state lacks; local officials may refuse it access to their property."
+  },
+  {
+   "action_id": "A25",
+   "action_name": "Interagency Sampling Agreement",
+   "available_to": [
+    "EPA Region 3 Emergency Response",
+    "VA DEQ SW Regional Office",
+    "Wise County Public Service Authority",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "cost": 5000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "A signed agreement on who samples where, which lab runs it, and who releases results. Ends competing numbers, if every party that signs keeps to it."
+  },
+  {
+   "action_id": "A26",
+   "action_name": "Trusted Messenger Briefing",
+   "available_to": [
+    "VDH Risk Communication",
+    "Carilion Rural Clinic Network",
+    "United Mine Workers, District 28"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Brief pastors, fire chiefs, union stewards and other local voices on one message so they can carry it. Reaches people who ignore officials; the messengers repeat only what they believe."
+  },
+  {
+   "action_id": "A27",
+   "action_name": "Door-to-Door Outreach",
+   "available_to": [
+    "VDH Risk Communication",
+    "Wise County Public Service Authority",
+    "SW Virginia EMS Council"
+   ],
+   "cost": 25000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Teams knock on doors in one area with a printed notice and answer questions. Reaches homes with no signal and no trust in a feed; slow, and covers only the streets walked."
+  },
+  {
+   "action_id": "A28",
+   "action_name": "Publish Results with Methods",
+   "available_to": [
+    "Virginia Tech Water Quality Lab",
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response",
+    "VA Department of Health SW District"
+   ],
+   "cost": 5000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Release one set of results in public with how they were taken, what they can and cannot show, and the uncertainty. The record anyone can check; it is out the moment it is published, read correctly or not."
+  },
+  {
+   "action_id": "A29",
+   "action_name": "Confidential Briefing to Officials",
+   "available_to": [
+    "Virginia Tech Water Quality Lab",
+    "VA DEQ SW Regional Office"
+   ],
+   "cost": 0,
+   "delay_mins": 5,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Share results privately with the agencies that can act before anything is public. Lets them act first; if it leaks, it reads as a cover-up."
+  },
+  {
+   "action_id": "A30",
+   "action_name": "Home Water Test Kits",
+   "available_to": [
+    "Virginia Tech Water Quality Lab",
+    "Wise County Public Service Authority"
+   ],
+   "cost": 20000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Hand out kits so households can sample their own taps and send them in. Many more homes tested than staff could reach; slower, and only as reliable as each household's sample."
+  }
+ ]
+}
