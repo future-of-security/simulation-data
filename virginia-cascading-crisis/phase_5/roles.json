@@ -68,9 +68,9 @@
    "team": "Redwood",
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
-   "budget": 35000,
-   "trust": 7,
-   "score": 125.0,
+   "budget": 25000,
+   "trust": 6,
+   "score": 170.0,
    "responsibility": "Prescriptions that cannot be verified and medicines that are running out"
   },
   {
@@ -95,9 +95,9 @@
    "team": "Yellowstone",
    "role": "VDH Risk Communication",
    "sector": "Public Communication",
-   "budget": 37500,
-   "trust": 7,
-   "score": 37.5,
+   "budget": 32500,
+   "trust": 6,
+   "score": 93.75,
    "responsibility": "Health warnings that have to reach people who stopped listening to officials"
   },
   {
@@ -105,8 +105,8 @@
    "role": "Virginia Tech Water Quality Lab",
    "sector": "Research",
    "budget": 35000,
-   "trust": 7,
-   "score": 200.0,
+   "trust": 6,
+   "score": 237.5,
    "responsibility": "Independent test results, and when and to whom they are released"
   }
  ]
