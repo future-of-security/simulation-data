@@ -205,7 +205,7 @@
     "Virginia Tech Water Quality Lab"
    ],
    "time_limit": 40,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -224,7 +224,7 @@
     "VDH Risk Communication"
    ],
    "time_limit": 35,
-   "state": "open",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -310,7 +310,7 @@
    "phase": 5,
    "sim_time": "0:21",
    "incident": "The Mines Can See Again And The Crews Want The Dark Shifts Accounted For",
-   "description": "The mines are not working blind any more, and a mine that is not working blind leaves a record of the days it did: every shift since Monday's restart, the crews, the readings nobody took (I502, I507). Two hundred and forty miners a shift want to know what they were breathing on those shifts, and the union's stewards will read whatever account the operator publishes before the crews take it. The operator's next decision is what it owes the men who kept its payroll moving, a reconstructed exposure record or a return to normal production.\n\nWhere I505 stood: it was resolved. What was done: Manual monitoring crews with handheld methane, dust and airflow instruments are scheduled onto all three restarted Wise County portals from 06:00 with a 1.0% walk-out threshold…",
+   "description": "The mines are not working blind any more, and a mine that is not working blind leaves a record of the days it did: every shift since Monday's restart, the crews, the readings nobody took (I502, I507). Two hundred and forty miners a shift want to know what they were breathing on those shifts, and the union's stewards will read whatever account the operator publishes before the crews take it. The operator's next decision is what it owes the men who kept its payroll moving, a reconstructed exposure record or a return to normal production.Where I505 stood: it was resolved. What was done: Manual monitoring crews with handheld methane, dust and airflow instruments are scheduled onto all three restarted Wise County portals from 06:00 with a 1.0% walk-out threshold…",
    "location": "Bullitt Fork, Wise County",
    "severity": 4,
    "visible_to": [
@@ -441,9 +441,9 @@
   {
    "id": "I524",
    "phase": 5,
-   "sim_time": "0:22",
+   "sim_time": "0:23",
    "incident": "The Lab Is Now Where Households Go When They Do Not Believe The Utility",
-   "description": "The seven homes that read high know what the lab found and what it could and could not stand behind, and the other twenty-four households that sent jars are waiting for the same treatment (I504). A result that survives being checked becomes the number the county argues with, and the lab is now the party a household turns to when it does not believe the utility. The lab's next decision is what it is for: a service that tests taps on request, or the region's independent record on the water it drinks.",
+   "description": "The seven homes that read high know what the lab found and what it could and could not stand behind, and the other twenty-four households that sent jars are waiting for the same treatment (I504). A result that survives being checked becomes the number the county argues with, and the lab is now the party a household turns to when it does not believe the utility. The lab's next decision is what it is for: a service that tests taps on request, or the region's independent record on the water it drinks.\n\nWhere I512 stood: it was resolved.",
    "location": "Homes on the Wise County system",
    "severity": 3,
    "visible_to": [
@@ -452,7 +452,7 @@
     "VDH Risk Communication"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "I512",
    "opens_when": "resolved"

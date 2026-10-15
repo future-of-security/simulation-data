@@ -16,25 +16,25 @@
    "sector": "Public Health",
    "budget": 90000,
    "trust": 6,
-   "score": 82.5,
+   "score": 120.0,
    "responsibility": "Disease surveillance and the official word on what is making people sick"
   },
   {
    "team": "Denali",
    "role": "VA DEQ SW Regional Office",
    "sector": "Environment",
-   "budget": 20000,
-   "trust": 7,
-   "score": 195.0,
+   "budget": 10000,
+   "trust": 6,
+   "score": 270.0,
    "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
   },
   {
    "team": "Everglades",
    "role": "Wise County Public Service Authority",
    "sector": "Water Utility",
-   "budget": 95000,
-   "trust": 7,
-   "score": 100.0,
+   "budget": 87500,
+   "trust": 8,
+   "score": 162.5,
    "responsibility": "The water that comes out of Wise County's taps, and whether people can drink it"
   },
   {
@@ -59,9 +59,9 @@
    "team": "Olympic",
    "role": "United Mine Workers, District 28",
    "sector": "Labor",
-   "budget": 52500,
-   "trust": 5,
-   "score": 93.75,
+   "budget": 42500,
+   "trust": 6,
+   "score": 156.25,
    "responsibility": "The miners underground, their right to refuse unsafe work, and their families' health"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Virginia Tech Water Quality Lab",
    "sector": "Research",
-   "budget": 40000,
+   "budget": 35000,
    "trust": 7,
-   "score": 75.0,
+   "score": 200.0,
    "responsibility": "Independent test results, and when and to whom they are released"
   }
  ]

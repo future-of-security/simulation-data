@@ -118,3 +118,28 @@ sim_time,team,type,message
 0:21,Glacier,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For
 0:21,Olympic,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For
 0:21,Denali,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For
+0:23,Everglades,report,Read as a supporting report on I512 from the water utility: it resamples the seven flagged homes to protocol instead of releasing the resident-collected samples as they came…
+0:23,Olympic,report,"Olympic files A26 against I511, where it is support to VDH Risk Communication and therefore cannot close the incident however well the briefing works…"
+0:23,Denali,report,Report names I505 and files a mine-monitoring deployment plus a free information share; the deployment is priced from the report's own $30K total at a one-third share.
+0:23,Banff,report,"I507 is UMW District 28's to close and Banff only supports it, so nothing here can go above a partial…"
+0:23,Zion,report,"Graded against I512, where this role is primary."
+0:23,Everglades,incident,I512 — now partially resolved. Open the incident for what changed.
+0:23,Yellowstone,incident,I512 — now partially resolved. Open the incident for what changed.
+0:23,Zion,incident,I512 — now partially resolved. Open the incident for what changed.
+0:23,Olympic,incident,I511 — now partially resolved. Open the incident for what changed.
+0:23,Yellowstone,incident,I511 — now partially resolved. Open the incident for what changed.
+0:23,Zion,incident,I511 — now partially resolved. Open the incident for what changed.
+0:23,Banff,incident,I507 — now in progress. Open the incident for what changed.
+0:23,Glacier,incident,I507 — now in progress. Open the incident for what changed.
+0:23,Olympic,incident,I507 — now in progress. Open the incident for what changed.
+0:23,Everglades,incident,I512 — now resolved. Open the incident for what changed.
+0:23,Yellowstone,incident,I512 — now resolved. Open the incident for what changed.
+0:23,Zion,incident,I512 — now resolved. Open the incident for what changed.
+0:23,Everglades,report,"I512 — next time: Say when the protocol numbers will be released and by whom, so the county is not left holding two unreconciled sets of figures."
+0:23,Olympic,report,"I511 — next time: Say which stewards and pastors were actually briefed and what each came away carrying, not what the briefings will cover."
+0:23,Denali,report,"I505 — next time: Name the crews, which portals they cover and the readings taken so far — a plan to deploy leaves the effect unverified."
+0:23,Banff,report,"I507 — next time: Say what the walk-through actually produced — the readings, the site, the shifts covered — and who now holds them."
+0:23,Zion,report,I512 — resolved. A suggestion: Say which points the resample covers - tap and service line - and when its numbers replace the resident-collected ones.
+0:23,Zion,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
+0:23,Everglades,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
+0:23,Yellowstone,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
