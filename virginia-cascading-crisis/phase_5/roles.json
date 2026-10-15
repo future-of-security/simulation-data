@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "VA Department of Health SW District",
    "sector": "Public Health",
-   "budget": 90000,
-   "trust": 8,
-   "score": 120.0,
+   "budget": 70000,
+   "trust": 6,
+   "score": 195.0,
    "responsibility": "Disease surveillance and the official word on what is making people sick"
   },
   {
@@ -50,9 +50,9 @@
    "team": "Katmai",
    "role": "SW Virginia EMS Council",
    "sector": "Emergency Medical Services",
-   "budget": 26250,
-   "trust": 5,
-   "score": 90.0,
+   "budget": 16250,
+   "trust": 6,
+   "score": 135.0,
    "responsibility": "Ambulances, overdose response, and which calls wait when every unit is out"
   },
   {
