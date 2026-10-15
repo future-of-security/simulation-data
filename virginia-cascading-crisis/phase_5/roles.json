@@ -6,8 +6,8 @@
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
    "budget": 30000,
-   "trust": 6,
-   "score": 225.0,
+   "trust": 7,
+   "score": 255.0,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
   {
@@ -43,7 +43,7 @@
    "sector": "Industry",
    "budget": 90000,
    "trust": 5,
-   "score": 262.5,
+   "score": 300.0,
    "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
   },
   {
@@ -86,9 +86,9 @@
    "team": "Teton",
    "role": "EPA Region 3 Emergency Response",
    "sector": "Federal Environmental",
-   "budget": 93000,
+   "budget": 48000,
    "trust": 5,
-   "score": 120.0,
+   "score": 245.0,
    "responsibility": "Federal sampling and emergency authority, and a county that has not invited it"
   },
   {
@@ -96,8 +96,8 @@
    "role": "VDH Risk Communication",
    "sector": "Public Communication",
    "budget": 32500,
-   "trust": 6,
-   "score": 93.75,
+   "trust": 5,
+   "score": 131.25,
    "responsibility": "Health warnings that have to reach people who stopped listening to officials"
   },
   {
