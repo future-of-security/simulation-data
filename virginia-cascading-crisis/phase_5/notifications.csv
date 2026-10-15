@@ -160,3 +160,13 @@ sim_time,team,type,message
 0:27,Olympic,report,"I507 — next time: Add what the walkout costs the crews in pay and how long they can hold it, and what the inspection hands them that a crew on the next shift can see."
 0:27,Acadia,report,"I506 — next time: File the move as your own action with a cost line and say what it produces, instead of leaving it as a plan another team has to pick up and pay for."
 0:27,Denali,report,"I515 — next time: Say who took the confidential briefing and what they decided — the utility's intake call, VDH's reply — and who is sampling the reach next."
+0:33,Redwood,report,"I508 was already resolved by Redwood before this report was submitted, so nothing on it was graded or charged."
+0:33,Shenandoah,report,Shenandoah names I509 and files A21 Emergency Structural Repair there; on the standard that is the near miss for I509 (reinforcement at the flagged reach) rather than the closing state…
+0:33,Everglades,report,"The report names I512, whose primary is the Virginia Tech lab, so Everglades' work is support and capped at strong_partial."
+0:33,Shenandoah,report,"AEP files a single free intelligence share against I510, a Wise County sampling-access incident led by EPA Region 3, and its own product is a draft sampling-zone map rather than any filed agreement."
+0:33,Denali,incident,I509 — now partially resolved. Open the incident for what changed.
+0:33,Shenandoah,incident,I509 — now partially resolved. Open the incident for what changed.
+0:33,Teton,incident,I509 — now partially resolved. Open the incident for what changed.
+0:33,Shenandoah,report,"I509 — next time: Say what the post-repair check actually read — pressure and pond level, on a record others can hold — and which structures beyond the flagged reach were examined."
+0:33,Everglades,report,"I512 — next time: Say when the protocol samples come back and what they read, and whether the seven homes share one source."
+0:33,Shenandoah,report,"I510 — next time: Say what the shared data actually showed and which sites the draft map put first, and name any document your own team filed, not only ones other teams signed."
