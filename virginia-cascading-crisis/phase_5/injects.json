@@ -34,7 +34,7 @@
     "Appalachian Coal Operators"
    ],
    "time_limit": 35,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -91,7 +91,7 @@
     "VA DEQ SW Regional Office"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -148,7 +148,7 @@
     "SW Virginia EMS Council"
    ],
    "time_limit": 30,
-   "state": "in_progress",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -167,7 +167,7 @@
     "EPA Region 3 Emergency Response"
    ],
    "time_limit": 30,
-   "state": "in_progress",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -272,7 +272,7 @@
    "phase": 5,
    "sim_time": "0:10",
    "incident": "The River Has A Number And The Intake Downstream Has To Decide What To Do With It",
-   "description": "The reach below the outfall has a measured result in it now, and a number is a decision somebody else has to make: the utility at the intake downstream has to choose whether to keep drawing, the people fishing and swimming below Carbo have to be told something with a basis, and the operator has a permit condition to argue about (I509). One restored sensor and a satellite pass are still the only continuous record of a river that had eleven days of no record at all. What is published next decides whether this number is one the region keeps using.\n\nWhere I503 stood: it was resolved. What was done: Sampling is set at three points on the reach below the Carbo outfall, including the drinking-water intake, but no measurement has come back or been released…",
+   "description": "The reach below the outfall has a measured result in it now, and a number is a decision somebody else has to make: the utility at the intake downstream has to choose whether to keep drawing, the people fishing and swimming below Carbo have to be told something with a basis, and the operator has a permit condition to argue about (I509). One restored sensor and a satellite pass are still the only continuous record of a river that had eleven days of no record at all. What is published next decides whether this number is one the region keeps using.Where I503 stood: it was resolved. What was done: Sampling is set at three points on the reach below the Carbo outfall, including the drinking-water intake, but no measurement has come back or been released…",
    "location": "Clinch River below Carbo, Russell County",
    "severity": 4,
    "visible_to": [
@@ -365,9 +365,9 @@
   {
    "id": "I520",
    "phase": 5,
-   "sim_time": "0:20",
+   "sim_time": "0:18",
    "incident": "The Medicines Are Moving And Only The Pharmacist Knows What Went Out",
-   "description": "The pharmacies can get insulin, blood thinners and heart medicines to the people who need them without a working prescription record, in the same week the counties' overdose calls went up forty percent (I506). Every supply dispensed on a pharmacist's judgement is an entry in a ledger only that pharmacist keeps, and a network rule is only as good as the pharmacy furthest from a supervisor. The next decision is whether the network publishes what it dispensed, and to whom, and takes the argument about diversion in the open.",
+   "description": "The pharmacies can get insulin, blood thinners and heart medicines to the people who need them without a working prescription record, in the same week the counties' overdose calls went up forty percent (I506). Every supply dispensed on a pharmacist's judgement is an entry in a ledger only that pharmacist keeps, and a network rule is only as good as the pharmacy furthest from a supervisor. The next decision is whether the network publishes what it dispensed, and to whom, and takes the argument about diversion in the open.\n\nWhere I508 stood: it was resolved. What was done: Clinic-network stock has been pooled and routed to Norton and to the clinics whose patients are rationing, so those shelves hold a few more days of insulin…",
    "location": "Independent pharmacies, Wise, Lee and Dickenson counties",
    "severity": 3,
    "visible_to": [
@@ -376,7 +376,7 @@
     "SW Virginia EMS Council"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "I508",
    "opens_when": "resolved"
@@ -574,9 +574,9 @@
   {
    "id": "I531",
    "phase": 5,
-   "sim_time": "0:20",
+   "sim_time": "0:18",
    "incident": "The Dike Is Holding For Now And The Pond Is Still Too Full",
-   "description": "Something has been done at the dike and its readings are no longer climbing, but the pond is still above the level the engineers want after a week of rain, and any water that leaves it goes into the Clinch River a few miles above an intake that is still drawing (I503, I509). The dike is holding today on sensors that were dark for eleven days. The decision left is how the pond comes down, and what the region is told about what goes with it.",
+   "description": "Something has been done at the dike and its readings are no longer climbing, but the pond is still above the level the engineers want after a week of rain, and any water that leaves it goes into the Clinch River a few miles above an intake that is still drawing (I503, I509). The dike is holding today on sensors that were dark for eleven days. The decision left is how the pond comes down, and what the region is told about what goes with it.\n\nWhere I509 stood: it was partly resolved. What was done: A joint walk-through of the flagged dike reach has produced a signed list of required changes; the pressure readings are still unexplained, the pond level is unmeasured… The pressure readings on the flagged dike reach are still unexplained and the pond level remains unmeasured…",
    "location": "Clinch River Plant ash pond, Carbo",
    "severity": 4,
    "visible_to": [
@@ -585,7 +585,7 @@
     "Wise County Public Service Authority"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I509",
    "opens_when": "partially_resolved"
