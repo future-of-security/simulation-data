@@ -4,3 +4,18 @@ sim_time,team,type,message
 0:02,Katmai,incident,I501 — now in progress. Open the incident for what changed.
 0:02,Redwood,incident,I501 — now in progress. Open the incident for what changed.
 0:02,Acadia,report,"I501 — next time: Say how many of the forty got a confirmed chair and seat, and what is happening to the patients who cannot reach a pick-up point."
+0:06,Zion,report,"The A2 charge stands at full catalog price with no trust modifier and no split claimed, and the $40K remainder the report states is consistent with the budget less A2 and A25."
+0:06,Denali,report,"Denali reports on I509 only, filing A20 (joint safety inspection, $10K, full share) as DEQ, which is a supporting role on that incident and so capped below a close."
+0:06,Shenandoah,report,"One incident filed, I510, with a single A1 intelligence share at $0 and no split claimed (charge 0 at trust 6, modifier 1.0)."
+0:06,Denali,incident,I503 — now partially resolved. Open the incident for what changed.
+0:06,Shenandoah,incident,I503 — now partially resolved. Open the incident for what changed.
+0:06,Zion,incident,I503 — now partially resolved. Open the incident for what changed.
+0:06,Denali,incident,I509 — now in progress. Open the incident for what changed.
+0:06,Shenandoah,incident,I509 — now in progress. Open the incident for what changed.
+0:06,Teton,incident,I509 — now in progress. Open the incident for what changed.
+0:06,Everglades,incident,I510 — now in progress. Open the incident for what changed.
+0:06,Shenandoah,incident,I510 — now in progress. Open the incident for what changed.
+0:06,Teton,incident,I510 — now in progress. Open the incident for what changed.
+0:06,Zion,report,I503 — next time: Say when the three sample points will be read and what each one shows for people drawing water at Carbo and the intake.
+0:06,Denali,report,"I509 — next time: Say what the walk-through actually found — the readings at the flagged point, who signed the list, and when the next check is due."
+0:06,Shenandoah,report,I510 — next time: Say what the coordination actually produced with Everglades and Teton — what each side agreed to and what is still open — rather than what it should allow.

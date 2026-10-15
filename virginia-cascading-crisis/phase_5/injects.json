@@ -53,7 +53,7 @@
     "Virginia Tech Water Quality Lab"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -167,7 +167,7 @@
     "EPA Region 3 Emergency Response"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -186,7 +186,7 @@
     "AEP Appalachian Power"
    ],
    "time_limit": 35,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
