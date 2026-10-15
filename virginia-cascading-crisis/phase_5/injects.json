@@ -15,7 +15,7 @@
     "SW Virginia Independent Pharmacy Network"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -609,6 +609,5 @@
    "opens_after": "I512",
    "opens_when": "unresolved"
   }
- ],
- "phase": 5
+ ]
 }

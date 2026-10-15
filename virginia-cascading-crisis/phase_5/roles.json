@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
-   "budget": 105000,
+   "budget": 80000,
    "trust": 7,
-   "score": 0,
+   "score": 45.0,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
   {
@@ -109,6 +109,5 @@
    "score": 0,
    "responsibility": "Independent test results, and when and to whom they are released"
   }
- ],
- "phase": 5
+ ]
 }
