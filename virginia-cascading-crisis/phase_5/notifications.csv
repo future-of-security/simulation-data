@@ -275,3 +275,21 @@ sim_time,team,type,message
 1:13,Everglades,report,"I531 — next time: File the step you actually took, not only the step you declined: an action line with its cost, who signs for it, and what it produced."
 1:13,Banff,report,"I507 — next time: Say which readings the shared inspection results actually carried and what the operator or union did with them — a hand-off with no finding named is a start, not an answer."
 1:13,Glacier,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
+1:49,Zion,report,"One incident, I524, filed by the primary role."
+1:49,Redwood,report,I520 is still the primary's to close and this report moves it part of the way: the ledger filed under A1 puts a network record of judgement dispensing into two partner agencies' hands…
+1:49,Shenandoah,report,"Graded against I531 only, the one incident the report names; the A22 release above the intake is the near miss the standard names rather than the plan-permit-report state…"
+1:49,Katmai,report,Single incident filed (I520) under a $0 intelligence-share line whose text is a policy recommendation rather than a share…
+1:49,Everglades,report,"One incident reported (I524) with one filed action, so the reading rests on A30 alone; the action is the near miss its standard warns about and expands self-sampling without consolidating the record."
+1:49,Banff,report,"One incident (I502), one filed catalog action (A9, full charge $15K) at Banff's trust 6, so no modifier…"
+1:49,Acadia,incident,I520 — now partially resolved. Open the incident for what changed.
+1:49,Katmai,incident,I520 — now partially resolved. Open the incident for what changed.
+1:49,Redwood,incident,I520 — now partially resolved. Open the incident for what changed.
+1:49,Banff,incident,I502 — now partially resolved. Open the incident for what changed.
+1:49,Glacier,incident,I502 — now partially resolved. Open the incident for what changed.
+1:49,Teton,incident,I502 — now partially resolved. Open the incident for what changed.
+1:49,Zion,report,"I524 — next time: Say what the release actually contained and how the 24 waiting households were meant to receive it, and on what date."
+1:49,Redwood,report,"I520 — next time: Say what the shared ledger actually recorded and who outside Acadia and Katami can inspect it, and where the record goes from here."
+1:49,Shenandoah,report,"I531 — next time: Say how much water the release moves, what the treatment left in it, and who has been told — the report states an intention, not a result."
+1:49,Katmai,report,I520 — next time: Say what you actually handed to the network and who received it — a recommendation that another agency should publish records is not a share.
+1:49,Everglades,report,"I524 — next time: Say what the kits have produced so far, who runs the analysis, and how a household's reading gets confirmed before anyone relies on it."
+1:49,Banff,report,"I502 — next time: Say what the specimens can and cannot show, by when, and who will carry the answer back to the households on the shared wells."
