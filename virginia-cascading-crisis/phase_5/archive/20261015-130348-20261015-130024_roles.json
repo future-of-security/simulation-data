@@ -1,0 +1,113 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "Carilion Rural Clinic Network",
+   "sector": "Healthcare",
+   "budget": 30000,
+   "trust": 7,
+   "score": 150.0,
+   "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
+  },
+  {
+   "team": "Banff",
+   "role": "VA Department of Health SW District",
+   "sector": "Public Health",
+   "budget": 90000,
+   "trust": 8,
+   "score": 120.0,
+   "responsibility": "Disease surveillance and the official word on what is making people sick"
+  },
+  {
+   "team": "Denali",
+   "role": "VA DEQ SW Regional Office",
+   "sector": "Environment",
+   "budget": 10000,
+   "trust": 6,
+   "score": 270.0,
+   "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
+  },
+  {
+   "team": "Everglades",
+   "role": "Wise County Public Service Authority",
+   "sector": "Water Utility",
+   "budget": 87500,
+   "trust": 8,
+   "score": 162.5,
+   "responsibility": "The water that comes out of Wise County's taps, and whether people can drink it"
+  },
+  {
+   "team": "Glacier",
+   "role": "Appalachian Coal Operators",
+   "sector": "Industry",
+   "budget": 110000,
+   "trust": 6,
+   "score": 187.5,
+   "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
+  },
+  {
+   "team": "Katmai",
+   "role": "SW Virginia EMS Council",
+   "sector": "Emergency Medical Services",
+   "budget": 26250,
+   "trust": 5,
+   "score": 90.0,
+   "responsibility": "Ambulances, overdose response, and which calls wait when every unit is out"
+  },
+  {
+   "team": "Olympic",
+   "role": "United Mine Workers, District 28",
+   "sector": "Labor",
+   "budget": 42500,
+   "trust": 6,
+   "score": 156.25,
+   "responsibility": "The miners underground, their right to refuse unsafe work, and their families' health"
+  },
+  {
+   "team": "Redwood",
+   "role": "SW Virginia Independent Pharmacy Network",
+   "sector": "Pharmacy",
+   "budget": 35000,
+   "trust": 7,
+   "score": 125.0,
+   "responsibility": "Prescriptions that cannot be verified and medicines that are running out"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "AEP Appalachian Power",
+   "sector": "Energy Utility",
+   "budget": 150000,
+   "trust": 5,
+   "score": 82.5,
+   "responsibility": "The Clinch River Plant's coal ash pond and what leaves it"
+  },
+  {
+   "team": "Teton",
+   "role": "EPA Region 3 Emergency Response",
+   "sector": "Federal Environmental",
+   "budget": 93000,
+   "trust": 7,
+   "score": 75.0,
+   "responsibility": "Federal sampling and emergency authority, and a county that has not invited it"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "VDH Risk Communication",
+   "sector": "Public Communication",
+   "budget": 37500,
+   "trust": 7,
+   "score": 37.5,
+   "responsibility": "Health warnings that have to reach people who stopped listening to officials"
+  },
+  {
+   "team": "Zion",
+   "role": "Virginia Tech Water Quality Lab",
+   "sector": "Research",
+   "budget": 35000,
+   "trust": 7,
+   "score": 200.0,
+   "responsibility": "Independent test results, and when and to whom they are released"
+  }
+ ]
+}

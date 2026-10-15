@@ -144,3 +144,19 @@ sim_time,team,type,message
 0:23,Everglades,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
 0:23,Yellowstone,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
 0:23,Banff,report,Correction: your first report (banff_phase5_attempt_1) lost 2 trust partly for the line approving Everglades' boil-water notice. That was our mistake: a health district signing off on a utility's boil-water notice is within your role. The 2 points are restored; your trust is now 8.
+0:27,Shenandoah,report,"The report files one action against I503, a closed incident whose primary is DEQ, and the four points sampled sit inside the live question still open at I515…"
+0:27,Shenandoah,report,"AEP filed A1 against I510 as a supporting role, moving the access question to a draft sampling-zone map with two partner arrangements still open…"
+0:27,Olympic,report,One incident named (I507) and both filed actions are aimed at it; the A20 line is priced at half the catalog cost because the report claims $5K against $10K and shows Glacier taking the other half.
+0:27,Acadia,report,"No action filed — Actions Taken None, collaboration None, $30K unspent — so I506 is graded on a report that proposed a route off the ambulance fleet but did not take one…"
+0:27,Denali,report,"Denali filed two zero-cost, in-role actions that move I515's measured result to the intake utility and the lab without putting anything on the public record…"
+0:27,Banff,incident,I507 — now in progress. Open the incident for what changed.
+0:27,Glacier,incident,I507 — now in progress. Open the incident for what changed.
+0:27,Olympic,incident,I507 — now in progress. Open the incident for what changed.
+0:27,Denali,incident,I515 — now partially resolved. Open the incident for what changed.
+0:27,Shenandoah,incident,I515 — now partially resolved. Open the incident for what changed.
+0:27,Zion,incident,I515 — now partially resolved. Open the incident for what changed.
+0:27,Shenandoah,report,"I503 — next time: Say what the four sampling points actually read and when the lab at Zion reports, so the numbers can be used and not only promised."
+0:27,Shenandoah,report,I510 — next time: Say which sites the draft map covers and what each partner has actually put in writing; 'pending final legal confirmation' reads as nothing landed.
+0:27,Olympic,report,"I507 — next time: Add what the walkout costs the crews in pay and how long they can hold it, and what the inspection hands them that a crew on the next shift can see."
+0:27,Acadia,report,"I506 — next time: File the move as your own action with a cost line and say what it produces, instead of leaving it as a plan another team has to pick up and pay for."
+0:27,Denali,report,"I515 — next time: Say who took the confidential briefing and what they decided — the utility's intake call, VDH's reply — and who is sampling the reach next."

@@ -281,7 +281,7 @@
     "Virginia Tech Water Quality Lab"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "I503",
    "opens_when": "resolved"

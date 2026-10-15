@@ -6,7 +6,7 @@
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
    "budget": 30000,
-   "trust": 7,
+   "trust": 5,
    "score": 150.0,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
@@ -25,7 +25,7 @@
    "sector": "Environment",
    "budget": 10000,
    "trust": 6,
-   "score": 270.0,
+   "score": 332.5,
    "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
   },
   {
@@ -59,9 +59,9 @@
    "team": "Olympic",
    "role": "United Mine Workers, District 28",
    "sector": "Labor",
-   "budget": 42500,
+   "budget": 17500,
    "trust": 6,
-   "score": 156.25,
+   "score": 193.75,
    "responsibility": "The miners underground, their right to refuse unsafe work, and their families' health"
   },
   {
@@ -77,9 +77,9 @@
    "team": "Shenandoah",
    "role": "AEP Appalachian Power",
    "sector": "Energy Utility",
-   "budget": 150000,
-   "trust": 5,
-   "score": 82.5,
+   "budget": 120000,
+   "trust": 7,
+   "score": 157.5,
    "responsibility": "The Clinch River Plant's coal ash pond and what leaves it"
   },
   {
