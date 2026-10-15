@@ -24,7 +24,7 @@
    "role": "VA DEQ SW Regional Office",
    "sector": "Environment",
    "budget": -5000,
-   "trust": 6,
+   "trust": 7,
    "score": 395.0,
    "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
   },
@@ -42,7 +42,7 @@
    "role": "Appalachian Coal Operators",
    "sector": "Industry",
    "budget": 90000,
-   "trust": 5,
+   "trust": 6,
    "score": 300.0,
    "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
   },
@@ -96,7 +96,7 @@
    "role": "VDH Risk Communication",
    "sector": "Public Communication",
    "budget": 32500,
-   "trust": 5,
+   "trust": 6,
    "score": 131.25,
    "responsibility": "Health warnings that have to reach people who stopped listening to officials"
   },
@@ -105,7 +105,7 @@
    "role": "Virginia Tech Water Quality Lab",
    "sector": "Research",
    "budget": -2500,
-   "trust": 6,
+   "trust": 7,
    "score": 325.0,
    "responsibility": "Independent test results, and when and to whom they are released"
   }

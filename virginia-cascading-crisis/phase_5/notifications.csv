@@ -349,3 +349,9 @@ sim_time,team,type,message
 2:10,Shenandoah,update,"Everglades filed nothing on A22, so the split does not hold; you carry the action's full $45K and are charged the unpaid $22.5K remainder."
 2:10,Zion,update,"Everglades confirmed the even split on A2; your half of the $15,000 sampling is charged and the collaboration stands."
 2:10,Zion,update,"Denali never filed an A4 arrangement, so the split you claimed does not hold; you are charged the remaining 5000 of the 10000 price and lose a point of trust for the partner you named."
+3:05,Denali,update,Collaboration confirmed by your partner; the split holds and trust rises.
+3:05,Everglades,update,Collaboration confirmed by your partner; the split holds and trust rises.
+3:05,Glacier,update,Collaboration confirmed by your partner; the split holds and trust rises.
+3:05,Olympic,update,Collaboration confirmed by your partner; the split holds and trust rises.
+3:05,Yellowstone,update,Collaboration confirmed by your partner; the split holds and trust rises.
+3:05,Zion,update,Collaboration confirmed by your partner; the split holds and trust rises.
