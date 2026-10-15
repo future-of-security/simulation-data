@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "VA DEQ SW Regional Office",
    "sector": "Environment",
-   "budget": 10000,
-   "trust": 6,
-   "score": 332.5,
+   "budget": 5000,
+   "trust": 7,
+   "score": 395.0,
    "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Virginia Tech Water Quality Lab",
    "sector": "Research",
-   "budget": 35000,
-   "trust": 6,
-   "score": 237.5,
+   "budget": 10000,
+   "trust": 7,
+   "score": 275.0,
    "responsibility": "Independent test results, and when and to whom they are released"
   }
  ]

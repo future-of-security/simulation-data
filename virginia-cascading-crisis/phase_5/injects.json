@@ -129,7 +129,7 @@
     "VA Department of Health SW District"
    ],
    "time_limit": 25,
-   "state": "in_progress",
+   "state": "escalated",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -319,7 +319,7 @@
     "VA DEQ SW Regional Office"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "I505",
    "opens_when": "resolved"
@@ -443,7 +443,7 @@
    "phase": 5,
    "sim_time": "0:23",
    "incident": "The Lab Is Now Where Households Go When They Do Not Believe The Utility",
-   "description": "The seven homes that read high know what the lab found and what it could and could not stand behind, and the other twenty-four households that sent jars are waiting for the same treatment (I504). A result that survives being checked becomes the number the county argues with, and the lab is now the party a household turns to when it does not believe the utility. The lab's next decision is what it is for: a service that tests taps on request, or the region's independent record on the water it drinks.\n\nWhere I512 stood: it was resolved.",
+   "description": "The seven homes that read high know what the lab found and what it could and could not stand behind, and the other twenty-four households that sent jars are waiting for the same treatment (I504). A result that survives being checked becomes the number the county argues with, and the lab is now the party a household turns to when it does not believe the utility. The lab's next decision is what it is for: a service that tests taps on request, or the region's independent record on the water it drinks.Where I512 stood: it was resolved.",
    "location": "Homes on the Wise County system",
    "severity": 3,
    "visible_to": [
@@ -536,9 +536,9 @@
   {
    "id": "I529",
    "phase": 5,
-   "sim_time": "0:25",
+   "sim_time": "0:48",
    "incident": "The Crews Walked Out And Three Mines Are Idle Again",
-   "description": "Crews have walked out of the mine where the detector read high, and of the two others, and the operators say the instrument was faulty and will not pay the shifts, so the mines that restarted on Monday to get a payroll moving have stopped again (I505, I507). The legal right to refuse unsafe work has done what it does: the miners are out of the exposure, unpaid, and no closer to a mine anybody can prove is safe. The union still holds the one thing the operator cannot buy, which is a crew that will go back down.",
+   "description": "Crews have walked out of the mine where the detector read high, and of the two others, and the operators say the instrument was faulty and will not pay the shifts, so the mines that restarted on Monday to get a payroll moving have stopped again (I505, I507). The legal right to refuse unsafe work has done what it does: the miners are out of the exposure, unpaid, and no closer to a mine anybody can prove is safe. The union still holds the one thing the operator cannot buy, which is a crew that will go back down.\n\nWhere I507 stood: it escalated. What was done: The joint inspection's results are now circulating among the operators, but nothing recorded underground has changed: no union-named crew is on the shift and no hourly hand-held reading exists… Bullitt Fork's shift is not being worked: the union has taken its members out of the mine and the operator has no men at the face…",
    "location": "Bullitt Fork portal",
    "severity": 4,
    "visible_to": [
@@ -547,7 +547,7 @@
     "VA Department of Health SW District"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I507",
    "opens_when": "escalated"
