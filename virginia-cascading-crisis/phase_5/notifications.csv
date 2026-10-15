@@ -143,3 +143,4 @@ sim_time,team,type,message
 0:23,Zion,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
 0:23,Everglades,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
 0:23,Yellowstone,escalation,New incident: The Lab Is Now Where Households Go When They Do Not Believe The Utility
+0:23,Banff,report,Correction: your first report (banff_phase5_attempt_1) lost 2 trust partly for the line approving Everglades' boil-water notice. That was our mistake: a health district signing off on a utility's boil-water notice is within your role. The 2 points are restored; your trust is now 8.
