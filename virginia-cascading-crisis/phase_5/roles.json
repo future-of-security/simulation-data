@@ -33,7 +33,7 @@
    "role": "Wise County Public Service Authority",
    "sector": "Water Utility",
    "budget": 87500,
-   "trust": 8,
+   "trust": 6,
    "score": 162.5,
    "responsibility": "The water that comes out of Wise County's taps, and whether people can drink it"
   },
@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "Appalachian Coal Operators",
    "sector": "Industry",
-   "budget": 110000,
-   "trust": 6,
-   "score": 225.0,
+   "budget": 90000,
+   "trust": 5,
+   "score": 262.5,
    "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
   },
   {
@@ -61,16 +61,16 @@
    "sector": "Labor",
    "budget": 17500,
    "trust": 6,
-   "score": 231.25,
+   "score": 375.0,
    "responsibility": "The miners underground, their right to refuse unsafe work, and their families' health"
   },
   {
    "team": "Redwood",
    "role": "SW Virginia Independent Pharmacy Network",
    "sector": "Pharmacy",
-   "budget": 25000,
-   "trust": 6,
-   "score": 170.0,
+   "budget": 10000,
+   "trust": 7,
+   "score": 215.0,
    "responsibility": "Prescriptions that cannot be verified and medicines that are running out"
   },
   {

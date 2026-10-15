@@ -255,3 +255,23 @@ sim_time,team,type,message
 1:00,Banff,report,"Attempt 7 files a single catalog action, A3, against I507 at full price; the district is a supporting role on that incident and cannot close it, so the ceiling is strong_partial."
 1:00,Denali,report,"I515 — next time: Say what the shared results actually were — the number, the point, the method — and who now holds them, instead of describing the fact that something was shared."
 1:00,Banff,report,"I507 — next time: Say which portal sites the monitors are at and what they read once they are up, so the reading can be held against the disputed alarm."
+1:13,Glacier,report,"The submission is effectively the collaboration table alone: the report's own filed action is A17, a halt at one mine cost-shared with Teton, and it names no incident…"
+1:13,Olympic,report,"No catalog action is filed: both deliverables are improvised union actions at $0 to the union, recorded as custom and charged nothing."
+1:13,Redwood,report,"Single-incident report on I501 with one filed action (A16), consistent and in-role; its situation judgment also covers I506's ambulance tie-up but no action is filed against it…"
+1:13,Shenandoah,report,"Filed against I510 only, where AEP Appalachian Power supports EPA Region 3's primary role, so the award is capped at strong_partial; A1 was free and has been filed on six earlier reports."
+1:13,Everglades,report,"Everglades reports against I531 only, and files no action at all — the pond is untouched and the report's value is its honest list of unknowns, not a change in the world."
+1:13,Banff,report,"The report is filed against I507 only, though the district can also see I529 (the actual walkout) and I504; nothing is filed toward either, so they are not graded here."
+1:13,Banff,incident,I529 — now in progress. Open the incident for what changed.
+1:13,Glacier,incident,I529 — now in progress. Open the incident for what changed.
+1:13,Olympic,incident,I529 — now in progress. Open the incident for what changed.
+1:13,Acadia,incident,I501 — now in progress. Open the incident for what changed.
+1:13,Katmai,incident,I501 — now in progress. Open the incident for what changed.
+1:13,Redwood,incident,I501 — now in progress. Open the incident for what changed.
+1:13,Glacier,report,"I529 — next time: Say which mine the suspension covers, when it takes effect, and file it against the incident you mean — this report named no incident or outcome."
+1:13,Olympic,report,"I507 — resolved. A suggestion: Say which mine's shift goes first and when the checkers start, so the next report carries a start time rather than 'next shift'."
+1:13,Olympic,report,"I529 — next time: If the return-to-work agreement is meant to end the walkout, file it against that incident too and say whether the operator funds the lost shifts."
+1:13,Redwood,report,"I501 — next time: Say where the rerouted supplies actually landed, how many patients they now cover, and what changed at the Norton centre as a result."
+1:13,Shenandoah,report,I510 — next time: Say which sites the draft priority map actually covers and what the first samples show once the lab and the release route are named.
+1:13,Everglades,report,"I531 — next time: File the step you actually took, not only the step you declined: an action line with its cost, who signs for it, and what it produced."
+1:13,Banff,report,"I507 — next time: Say which readings the shared inspection results actually carried and what the operator or union did with them — a hand-off with no finding named is a start, not an answer."
+1:13,Glacier,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
