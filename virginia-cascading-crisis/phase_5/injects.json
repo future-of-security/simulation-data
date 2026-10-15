@@ -91,7 +91,7 @@
     "VA DEQ SW Regional Office"
    ],
    "time_limit": 25,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -129,7 +129,7 @@
     "VA Department of Health SW District"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -308,9 +308,9 @@
   {
    "id": "I517",
    "phase": 5,
-   "sim_time": "0:18",
+   "sim_time": "0:21",
    "incident": "The Mines Can See Again And The Crews Want The Dark Shifts Accounted For",
-   "description": "The mines are not working blind any more, and a mine that is not working blind leaves a record of the days it did: every shift since Monday's restart, the crews, the readings nobody took (I502, I507). Two hundred and forty miners a shift want to know what they were breathing on those shifts, and the union's stewards will read whatever account the operator publishes before the crews take it. The operator's next decision is what it owes the men who kept its payroll moving, a reconstructed exposure record or a return to normal production.",
+   "description": "The mines are not working blind any more, and a mine that is not working blind leaves a record of the days it did: every shift since Monday's restart, the crews, the readings nobody took (I502, I507). Two hundred and forty miners a shift want to know what they were breathing on those shifts, and the union's stewards will read whatever account the operator publishes before the crews take it. The operator's next decision is what it owes the men who kept its payroll moving, a reconstructed exposure record or a return to normal production.\n\nWhere I505 stood: it was resolved. What was done: Manual monitoring crews with handheld methane, dust and airflow instruments are scheduled onto all three restarted Wise County portals from 06:00 with a 1.0% walk-out threshold…",
    "location": "Bullitt Fork, Wise County",
    "severity": 4,
    "visible_to": [
@@ -319,7 +319,7 @@
     "VA DEQ SW Regional Office"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I505",
    "opens_when": "resolved"
@@ -367,7 +367,7 @@
    "phase": 5,
    "sim_time": "0:18",
    "incident": "The Medicines Are Moving And Only The Pharmacist Knows What Went Out",
-   "description": "The pharmacies can get insulin, blood thinners and heart medicines to the people who need them without a working prescription record, in the same week the counties' overdose calls went up forty percent (I506). Every supply dispensed on a pharmacist's judgement is an entry in a ledger only that pharmacist keeps, and a network rule is only as good as the pharmacy furthest from a supervisor. The next decision is whether the network publishes what it dispensed, and to whom, and takes the argument about diversion in the open.\n\nWhere I508 stood: it was resolved. What was done: Clinic-network stock has been pooled and routed to Norton and to the clinics whose patients are rationing, so those shelves hold a few more days of insulin…",
+   "description": "The pharmacies can get insulin, blood thinners and heart medicines to the people who need them without a working prescription record, in the same week the counties' overdose calls went up forty percent (I506). Every supply dispensed on a pharmacist's judgement is an entry in a ledger only that pharmacist keeps, and a network rule is only as good as the pharmacy furthest from a supervisor. The next decision is whether the network publishes what it dispensed, and to whom, and takes the argument about diversion in the open.Where I508 stood: it was resolved. What was done: Clinic-network stock has been pooled and routed to Norton and to the clinics whose patients are rationing, so those shelves hold a few more days of insulin…",
    "location": "Independent pharmacies, Wise, Lee and Dickenson counties",
    "severity": 3,
    "visible_to": [
@@ -576,7 +576,7 @@
    "phase": 5,
    "sim_time": "0:18",
    "incident": "The Dike Is Holding For Now And The Pond Is Still Too Full",
-   "description": "Something has been done at the dike and its readings are no longer climbing, but the pond is still above the level the engineers want after a week of rain, and any water that leaves it goes into the Clinch River a few miles above an intake that is still drawing (I503, I509). The dike is holding today on sensors that were dark for eleven days. The decision left is how the pond comes down, and what the region is told about what goes with it.\n\nWhere I509 stood: it was partly resolved. What was done: A joint walk-through of the flagged dike reach has produced a signed list of required changes; the pressure readings are still unexplained, the pond level is unmeasured… The pressure readings on the flagged dike reach are still unexplained and the pond level remains unmeasured…",
+   "description": "Something has been done at the dike and its readings are no longer climbing, but the pond is still above the level the engineers want after a week of rain, and any water that leaves it goes into the Clinch River a few miles above an intake that is still drawing (I503, I509). The dike is holding today on sensors that were dark for eleven days. The decision left is how the pond comes down, and what the region is told about what goes with it.Where I509 stood: it was partly resolved. What was done: A joint walk-through of the flagged dike reach has produced a signed list of required changes; the pressure readings are still unexplained, the pond level is unmeasured… The pressure readings on the flagged dike reach are still unexplained and the pond level remains unmeasured…",
    "location": "Clinch River Plant ash pond, Carbo",
    "severity": 4,
    "visible_to": [

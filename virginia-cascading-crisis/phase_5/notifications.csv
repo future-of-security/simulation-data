@@ -93,3 +93,28 @@ sim_time,team,type,message
 0:18,Shenandoah,escalation,New incident: The Dike Is Holding For Now And The Pond Is Still Too Full
 0:18,Denali,escalation,New incident: The Dike Is Holding For Now And The Pond Is Still Too Full
 0:18,Everglades,escalation,New incident: The Dike Is Holding For Now And The Pond Is Still Too Full
+0:21,Katmai,report,"Katmai files one action on I501 as a supporting role (the incident's primary is the Carilion Rural Clinic Network, which caps any award here)…"
+0:21,Glacier,report,The submission is about I507 only and files a single catalog action from a supporting role: it may not exceed strong_partial…
+0:21,Glacier,report,"One incident filed, I505, and the operator's A19 supplies the signature the board showed was missing from the scheduled manual crews, so the restarted shifts are graded as covered."
+0:21,Yellowstone,report,"Assessed against I504 only, the incident the report names; A27 is available to VDH Risk Communication and the charge is half of its $25K catalog price under the claimed 50/50 split with Everglades."
+0:21,Acadia,report,"A single in-role action against I501, honestly reported, but it is the transport route the incident explicitly leaves standing: the centre keeps two chairs and the no-car households stay unscheduled."
+0:21,Acadia,incident,I501 — now in progress. Open the incident for what changed.
+0:21,Katmai,incident,I501 — now in progress. Open the incident for what changed.
+0:21,Redwood,incident,I501 — now in progress. Open the incident for what changed.
+0:21,Banff,incident,I507 — now in progress. Open the incident for what changed.
+0:21,Glacier,incident,I507 — now in progress. Open the incident for what changed.
+0:21,Olympic,incident,I507 — now in progress. Open the incident for what changed.
+0:21,Denali,incident,I505 — now resolved. Open the incident for what changed.
+0:21,Glacier,incident,I505 — now resolved. Open the incident for what changed.
+0:21,Olympic,incident,I505 — now resolved. Open the incident for what changed.
+0:21,Banff,incident,I504 — now in progress. Open the incident for what changed.
+0:21,Everglades,incident,I504 — now in progress. Open the incident for what changed.
+0:21,Yellowstone,incident,I504 — now in progress. Open the incident for what changed.
+0:21,Katmai,report,"I501 — next time: Say which patients the runs actually carried, to which site, and how many chairs accepted them — the destination side is what makes a run real."
+0:21,Glacier,report,"I507 — next time: Say which site the walk-through covered and what the signed list requires, and whether the operator signed the monitoring arrangement already scheduled."
+0:21,Glacier,report,I505 — resolved. A suggestion: Say what the first covered shift actually showed — where the crews stood and what the instruments read.
+0:21,Yellowstone,report,"I504 — next time: Say which streets were walked and what residents asked or were told back, so the reach of the outreach can be judged against homes with no feed."
+0:21,Acadia,report,"I501 — next time: Say how many patients the arranged runs actually put in a chair, and what was arranged for the households that cannot reach a pick-up point."
+0:21,Glacier,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For
+0:21,Olympic,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For
+0:21,Denali,escalation,New incident: The Mines Can See Again And The Crews Want The Dark Shifts Accounted For

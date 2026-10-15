@@ -41,18 +41,18 @@
    "team": "Glacier",
    "role": "Appalachian Coal Operators",
    "sector": "Industry",
-   "budget": 125000,
+   "budget": 110000,
    "trust": 6,
-   "score": 0,
+   "score": 187.5,
    "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
   },
   {
    "team": "Katmai",
    "role": "SW Virginia EMS Council",
    "sector": "Emergency Medical Services",
-   "budget": 51250,
+   "budget": 26250,
    "trust": 5,
-   "score": 45.0,
+   "score": 90.0,
    "responsibility": "Ambulances, overdose response, and which calls wait when every unit is out"
   },
   {
@@ -95,9 +95,9 @@
    "team": "Yellowstone",
    "role": "VDH Risk Communication",
    "sector": "Public Communication",
-   "budget": 50000,
-   "trust": 5,
-   "score": 0,
+   "budget": 37500,
+   "trust": 7,
+   "score": 37.5,
    "responsibility": "Health warnings that have to reach people who stopped listening to officials"
   },
   {

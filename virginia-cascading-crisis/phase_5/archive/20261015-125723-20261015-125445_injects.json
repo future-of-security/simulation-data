@@ -1,0 +1,613 @@
+{
+ "key": "injects",
+ "injects": [
+  {
+   "id": "I501",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Forty Dialysis Patients Have Two Chairs In Norton And Two Hours To Kingsport",
+   "description": "The Norton dialysis center is down to two working chairs and one nurse who has done four double shifts; forty patients need three sessions a week. The convoy lane on US-23 still opens only at its published hours (I401), so a run to Kingsport or Bristol takes two hours each way when it runs at all. Two patients missed sessions this week and one was admitted. Seeing more people in Norton means pulling staff from clinics that are already short; sending them away means vehicles the region does not have.",
+   "location": "Norton dialysis center",
+   "severity": 5,
+   "visible_to": [
+    "Carilion Rural Clinic Network",
+    "SW Virginia EMS Council",
+    "SW Virginia Independent Pharmacy Network"
+   ],
+   "time_limit": 30,
+   "state": "in_progress",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I502",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Twenty-Three People In Appalachia Cannot Breathe And Nobody Knows Why",
+   "description": "Twenty-three people in and around the town of Appalachia have come in with coughing, chest tightness and shortness of breath since Saturday; three are in hospital, one a child. They live near the restarted Bullitt Fork portal, and several share a well system. It could be dust, water, an infection or something nobody has thought of. The families want to know today what it is and whether to leave, and an answer given today may turn out to be wrong.",
+   "location": "Appalachia, Wise County",
+   "severity": 5,
+   "visible_to": [
+    "VA Department of Health SW District",
+    "EPA Region 3 Emergency Response",
+    "Appalachian Coal Operators"
+   ],
+   "time_limit": 35,
+   "state": "in_progress",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I503",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "The Satellite Shows A Grey Plume Below The Clinch River Plant",
+   "description": "The river monitors below AEP's Clinch River Plant were offline for eleven days. Monday's satellite pass shows a grey plume running two miles downstream of the ash pond outfall, and one restored sensor reads conductivity three times normal. Nobody has a sample. There is a drinking-water intake downstream and people fish and swim below Carbo. A river advisory issued on an image could be wrong; one issued after the lab results could be a week late.",
+   "location": "Clinch River below Carbo, Russell County",
+   "severity": 5,
+   "visible_to": [
+    "VA DEQ SW Regional Office",
+    "AEP Appalachian Power",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I504",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "The Water Plant Ran Eleven Days By Hand And The Records Have Holes",
+   "description": "Wise County's main treatment plant ran on manual backup for eleven days while its control system was down. Operators kept paper logs, and on four of those days the chlorine readings are missing for whole shifts. Eighteen thousand customers have been drinking the water the whole time and no one is known to be sick from it. A notice now protects them and tells them the utility does not know what it served; no notice means betting that the gaps hide nothing.",
+   "location": "Wise County water treatment plant",
+   "severity": 4,
+   "visible_to": [
+    "Wise County Public Service Authority",
+    "VA Department of Health SW District",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 25,
+   "state": "in_progress",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I505",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Three Mines Restarted This Week With Their Gas Monitors Still Dark",
+   "description": "Three mines restarted on Monday because the operators could not miss another payroll; their methane and dust monitoring systems are still offline from the attack. Crews are working with handheld detectors and a promise that the systems will be back 'within days'. Two hundred and forty miners are underground each shift. Every day closed costs the families the wages they have just started getting back; every day open is a day without the alarms the law requires.",
+   "location": "Bullitt Fork, Wise County",
+   "severity": 5,
+   "visible_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28",
+    "VA DEQ SW Regional Office"
+   ],
+   "time_limit": 25,
+   "state": "partially_resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I506",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Overdose Calls Are Up Forty Percent And Every Ambulance Is On A Dialysis Run",
+   "description": "Overdose calls across Wise and Dickenson counties are up forty percent since the pharmacies lost their prescription records. Four of the region's nine ambulances are tied up most of the day carrying dialysis patients out of the area. Response times to cardiac and overdose calls have doubled. Whatever the crews are moved to cover, something else waits longer.",
+   "location": "Wise and Dickenson counties",
+   "severity": 5,
+   "visible_to": [
+    "SW Virginia EMS Council",
+    "SW Virginia Independent Pharmacy Network",
+    "Carilion Rural Clinic Network"
+   ],
+   "time_limit": 30,
+   "state": "in_progress",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I507",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "A Methane Alarm Went Off At Bullitt Fork And The Union Wants Everyone Out",
+   "description": "A handheld detector at the Bullitt Fork restart read near the methane limit on Tuesday night and the crew withdrew on its own. The operator says the reading was a faulty instrument; the miners say they are being asked to trust a promise instead of an alarm. The union can call its members out of all three restarted mines, which is its legal right and costs every one of them their pay, or it can try to make the operator prove the mines are safe.",
+   "location": "Bullitt Fork portal",
+   "severity": 4,
+   "visible_to": [
+    "United Mine Workers, District 28",
+    "Appalachian Coal Operators",
+    "VA Department of Health SW District"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I508",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Insulin And Heart Medicine Are Running Out And The Prescriptions Cannot Be Checked",
+   "description": "The independent pharmacies still cannot reach the prescription monitoring system or most insurers, so they cannot verify who is prescribed what. Insulin, blood thinners and heart medicines are down to a few days' stock in several towns, and patients are rationing. Dispensing on a patient's word keeps people alive and will also put controlled drugs in the wrong hands while overdoses are already rising. Refusing means people go without.",
+   "location": "Independent pharmacies, Wise, Lee and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Carilion Rural Clinic Network",
+    "SW Virginia EMS Council"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I509",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "The Ash Pond Dike Is Showing Pressure Nobody Has Measured Since The Attack",
+   "description": "The pressure sensors in the ash pond dike at the Clinch River Plant came back online on Tuesday reading well above their last recorded level, after eleven days dark and a week of rain. Engineers cannot tell yet whether the dike is weakening or the sensors are wrong. Lowering the pond means releasing water into the Clinch River, through treatment, a few miles above an intake. Reinforcing it takes days and does not tell anyone what has already left the pond.",
+   "location": "Clinch River Plant ash pond, Carbo",
+   "severity": 5,
+   "visible_to": [
+    "AEP Appalachian Power",
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response"
+   ],
+   "time_limit": 30,
+   "state": "partially_resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I510",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "EPA Can Take Over The Sampling And Wise County Has Not Asked",
+   "description": "EPA's regional emergency team can be in Wise County tomorrow with its own samplers and a lab that can return results in days, which the state cannot match. The county board that voted last week to set its own rules (I404) has said it will not let 'another outside agency' onto county property without its consent; the county's Public Service Authority, which holds the water sites, can sign for access to its own. Going in without an invitation gets data and a fight; waiting for one may take longer than the river can.",
+   "location": "Wise County",
+   "severity": 4,
+   "visible_to": [
+    "EPA Region 3 Emergency Response",
+    "Wise County Public Service Authority",
+    "AEP Appalachian Power"
+   ],
+   "time_limit": 35,
+   "state": "partially_resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I511",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "The Hollows Will Not Hear A Health Warning Unless Someone They Trust Says It",
+   "description": "Whatever the region learns this week about the water, the air or the sick in Appalachia has to reach households who stopped listening to official feeds after last week's clip (I409) and who hear news through their pastor or nowhere at all (I411). Some have no signal. A warning that is too certain will be wrong by Friday; one that is too careful will be ignored. Someone has to decide what to tell people while nobody yet knows what is wrong.",
+   "location": "Hollows of Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "VDH Risk Communication",
+    "United Mine Workers, District 28",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "time_limit": 40,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I512",
+   "phase": 5,
+   "sim_time": "0:00",
+   "incident": "Families' Tap Samples Show Arsenic Above The Limit And The Utility Says The Water Is Fine",
+   "description": "Families worried by the rumours sent tap samples to the Virginia Tech lab; seven of thirty-one show arsenic above the federal limit. The samples were collected by residents, not to protocol, and the utility's own plant readings are within limits. The families want the results now. Publishing them could start a panic over a sampling error; holding them while officials check could look like the lab sitting on bad news.",
+   "location": "Homes on the Wise County system",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Tech Water Quality Lab",
+    "Wise County Public Service Authority",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 35,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I513",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Runs Are Working And Norton Still Has Two Chairs",
+   "description": "Norton is dialysing more people than its two chairs were meant for, on staff borrowed from rural clinics that were already short, and those clinics are now cutting their own hours (I501). The patients who cannot reach Norton at the times it has are still being driven to Kingsport and Bristol, on vehicles the overdose and clinic calls are waiting on (I506). The question left is whether the region buys chairs in Norton or keeps buying chair time out of the county by the hour.",
+   "location": "Norton dialysis center",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Rural Clinic Network",
+    "SW Virginia EMS Council",
+    "SW Virginia Independent Pharmacy Network"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I501",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I514",
+   "phase": 5,
+   "sim_time": "0:22",
+   "incident": "The Sickness Has A Name And A Boundary And Everybody Outside It Is Asking",
+   "description": "Whatever is making people in Appalachia sick now has a name, a route and a boundary, and everything on the far side of that boundary is the next problem: the households along the same route who have no symptoms yet, the ones who have already left, and whoever runs the source that has been named. Telling twenty-three people what they have is what the hospital needed; telling everyone else what to watch for, and getting a screening to the households that will not come to a clinic, decides how many are sick by Friday.",
+   "location": "Appalachia, Wise County",
+   "severity": 4,
+   "visible_to": [
+    "VA Department of Health SW District",
+    "EPA Region 3 Emergency Response",
+    "Appalachian Coal Operators"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I502",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I515",
+   "phase": 5,
+   "sim_time": "0:10",
+   "incident": "The River Has A Number And The Intake Downstream Has To Decide What To Do With It",
+   "description": "The reach below the outfall has a measured result in it now, and a number is a decision somebody else has to make: the utility at the intake downstream has to choose whether to keep drawing, the people fishing and swimming below Carbo have to be told something with a basis, and the operator has a permit condition to argue about (I509). One restored sensor and a satellite pass are still the only continuous record of a river that had eleven days of no record at all. What is published next decides whether this number is one the region keeps using.Where I503 stood: it was resolved. What was done: Sampling is set at three points on the reach below the Carbo outfall, including the drinking-water intake, but no measurement has come back or been released…",
+   "location": "Clinch River below Carbo, Russell County",
+   "severity": 4,
+   "visible_to": [
+    "VA DEQ SW Regional Office",
+    "AEP Appalachian Power",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I503",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I516",
+   "phase": 5,
+   "sim_time": "0:16",
+   "incident": "The Utility Knows What It Served And Eighteen Thousand Households Want A Date",
+   "description": "The utility can now say what its system carried, shift by shift, and eighteen thousand customers want to know what that means for the water they drink today and drank on the days the logs were dark (I512). Some streets will test clean and some will not, and every street the utility clears is a promise it makes to that street. The county has to decide whether its answer comes street by street on evidence, or system-wide on appetite.",
+   "location": "Wise County water treatment plant",
+   "severity": 3,
+   "visible_to": [
+    "Wise County Public Service Authority",
+    "VA Department of Health SW District",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I504",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I517",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Mines Can See Again And The Crews Want The Dark Shifts Accounted For",
+   "description": "The mines are not working blind any more, and a mine that is not working blind leaves a record of the days it did: every shift since Monday's restart, the crews, the readings nobody took (I502, I507). Two hundred and forty miners a shift want to know what they were breathing on those shifts, and the union's stewards will read whatever account the operator publishes before the crews take it. The operator's next decision is what it owes the men who kept its payroll moving, a reconstructed exposure record or a return to normal production.",
+   "location": "Bullitt Fork, Wise County",
+   "severity": 4,
+   "visible_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28",
+    "VA DEQ SW Regional Office"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I505",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I518",
+   "phase": 5,
+   "sim_time": "0:20",
+   "incident": "The Ambulances Are Back On The Counties And The Dialysis Runs Belong To Somebody Else",
+   "description": "The 911 fleet is back on the counties, and the scheduled runs that were tying it up are somebody else's problem now: a van, a driver and a patient who has to be in Kingsport by nine whatever happens in Coeburn that morning (I501). Overdose calls are still forty percent above normal, the pharmacies still cannot verify a prescription (I508), and the non-emergency timetable nobody has published is the thing the whole arrangement rests on. Getting people to treatment and answering a cardiac arrest keep being given to the same nine vehicles.",
+   "location": "Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "SW Virginia EMS Council",
+    "Carilion Rural Clinic Network",
+    "SW Virginia Independent Pharmacy Network"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I506",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I519",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Reading Was Run Down And The Next One Is Already Being Taken",
+   "description": "The reading at Bullitt Fork has been explained and the miners are back on the shift, on a basis that has to hold for the next reading and the next one, at two other mines whose instruments are the same age and the same vintage (I505). Members accepted an explanation this time and will ask what it is worth the next time a detector stops a shift, and the operator has learnt that a crew will walk out at an hour's notice. What the union builds now is whether the walkout was a procedure or a habit.",
+   "location": "Bullitt Fork portal",
+   "severity": 3,
+   "visible_to": [
+    "United Mine Workers, District 28",
+    "Appalachian Coal Operators",
+    "VA Department of Health SW District"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I507",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I520",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Medicines Are Moving And Only The Pharmacist Knows What Went Out",
+   "description": "The pharmacies can get insulin, blood thinners and heart medicines to the people who need them without a working prescription record, in the same week the counties' overdose calls went up forty percent (I506). Every supply dispensed on a pharmacist's judgement is an entry in a ledger only that pharmacist keeps, and a network rule is only as good as the pharmacy furthest from a supervisor. The next decision is whether the network publishes what it dispensed, and to whom, and takes the argument about diversion in the open.\n\nWhere I508 stood: it was resolved. What was done: Clinic-network stock has been pooled and routed to Norton and to the clinics whose patients are rationing, so those shelves hold a few more days of insulin…",
+   "location": "Independent pharmacies, Wise, Lee and Dickenson counties",
+   "severity": 3,
+   "visible_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Carilion Rural Clinic Network",
+    "SW Virginia EMS Council"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 100,
+   "opens_after": "I508",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I521",
+   "phase": 5,
+   "sim_time": "0:20",
+   "incident": "The Pond Is Holding And What Went Into The River Is Now The Operator's Number",
+   "description": "The pond is at a level the dike can hold and the pressure readings are moving as they should, on sensors that spent eleven days dark and a week under rain (I503). Every hour the release runs is an hour of water the treatment works has to account for, into a river with a drinking-water intake a few miles down and a satellite watching it. The operator now owns a number it has to put its name to and a dike whose failure mode nobody has measured, and the state's file on both is open.",
+   "location": "Clinch River Plant ash pond, Carbo",
+   "severity": 4,
+   "visible_to": [
+    "AEP Appalachian Power",
+    "VA DEQ SW Regional Office",
+    "EPA Region 3 Emergency Response"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I509",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I522",
+   "phase": 5,
+   "sim_time": "0:24",
+   "incident": "The Agreement Covers This Week And The County Wants A Say In The Next",
+   "description": "Federal samplers are working under a signed agreement, and the county people who signed it have watched them work on a plan written mostly in Philadelphia (I504, I512). The county's own staff still hold the local knowledge, which wells, which streets, which pond, and the state still holds the regulatory file any decision has to come out of. The next question is whose samplers come back next week, and whether the county is a party to the results or only the place they were taken.",
+   "location": "Wise County",
+   "severity": 3,
+   "visible_to": [
+    "EPA Region 3 Emergency Response",
+    "Wise County Public Service Authority",
+    "VA DEQ SW Regional Office"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I510",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I523",
+   "phase": 5,
+   "sim_time": "0:25",
+   "incident": "The Messengers Are Carrying It And The Message Keeps Going Stale",
+   "description": "A message built for the hollows is now being carried by the people the hollows actually answer to, with a date and a version on it so a household can tell when it has gone stale (I502, I512). The region is still learning things this week that change what the message says: a cause, a river number, a resampling result. Every change costs a little of the messenger's credibility, and every day without one costs the message its point.",
+   "location": "Hollows of Wise and Dickenson counties",
+   "severity": 3,
+   "visible_to": [
+    "VDH Risk Communication",
+    "United Mine Workers, District 28",
+    "Virginia Tech Water Quality Lab"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I511",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I524",
+   "phase": 5,
+   "sim_time": "0:22",
+   "incident": "The Lab Is Now Where Households Go When They Do Not Believe The Utility",
+   "description": "The seven homes that read high know what the lab found and what it could and could not stand behind, and the other twenty-four households that sent jars are waiting for the same treatment (I504). A result that survives being checked becomes the number the county argues with, and the lab is now the party a household turns to when it does not believe the utility. The lab's next decision is what it is for: a service that tests taps on request, or the region's independent record on the water it drinks.",
+   "location": "Homes on the Wise County system",
+   "severity": 3,
+   "visible_to": [
+    "Virginia Tech Water Quality Lab",
+    "Wise County Public Service Authority",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I512",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I525",
+   "phase": 5,
+   "sim_time": "0:15",
+   "incident": "Households Have Stopped Waiting And The County Is Buying Water By The Pallet",
+   "description": "The utility's answer is only half in and households have stopped waiting for the rest: schools and fire halls are handing out bottled water the county is buying by the pallet, the queues are the same ones everything else in the county uses, and the utility's crews are sampling houses that have already decided what the answer is (I512). Every day without a clear answer costs the utility trust and the county money it has not budgeted, and an all-clear given too early costs something the county cannot buy back. The utility's people are the only ones who can turn a county-wide worry into a street-by-street answer.",
+   "location": "Wise County water treatment plant",
+   "severity": 3,
+   "visible_to": [
+    "Wise County Public Service Authority",
+    "VA Department of Health SW District",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I504",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I526",
+   "phase": 5,
+   "sim_time": "0:35",
+   "incident": "Forty-One Are Sick And The Wells Are Still Being Drawn",
+   "description": "The case count has passed forty and follows the same wells and the same downwind streets as the first twenty-three, the school has asked what to tell parents, and two households have left (I502, I511). The state lab's queue puts confirmed results a week out and the county has nothing to say that is not also a guess, while federal samplers and a federal lab could be on the ground tomorrow with a county board that has not asked for them (I510). Every day without a measured answer, the households on that exposure line decide for themselves what to do.",
+   "location": "Appalachia, Wise County",
+   "severity": 5,
+   "visible_to": [
+    "EPA Region 3 Emergency Response",
+    "VA Department of Health SW District",
+    "Appalachian Coal Operators"
+   ],
+   "time_limit": 20,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I502",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I527",
+   "phase": 5,
+   "sim_time": "0:30",
+   "incident": "The Plume Is On Its Second Day And The River Has No Number",
+   "description": "The plume is into a second day on the image record, the one restored sensor still reads three times normal, and the river below Carbo has no measured number in it (I503, I511). The utility drawing from the intake downstream is deciding for itself whether to keep pumping and the families fishing below Carbo are deciding what to do with what they catch, while the operator and the state argue about whose sampler and whose release. The lab is the only sampler on this river that is not a party to that argument.",
+   "location": "Clinch River below Carbo, Russell County",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Tech Water Quality Lab",
+    "VA DEQ SW Regional Office",
+    "AEP Appalachian Power"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I503",
+   "opens_when": "unresolved"
+  },
+  {
+   "id": "I528",
+   "phase": 5,
+   "sim_time": "0:25",
+   "incident": "A Second Reading Took A Second Crew And The Monitors Are Still Dark",
+   "description": "A second hand-held reading took a second crew off the face this week, two hundred and forty miners are underground each shift across three mines whose methane and dust systems are still down, and the state's inspector has the file open (I505, I507). Handheld detectors catch what is at the face at the hour somebody points them; the systems that are dark used to alarm across a whole mine at once. Every day closed is a day of pay the families have only just started getting back, and the operators say the systems are days away.",
+   "location": "Bullitt Fork, Wise County",
+   "severity": 5,
+   "visible_to": [
+    "Appalachian Coal Operators",
+    "United Mine Workers, District 28",
+    "VA DEQ SW Regional Office"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I505",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I529",
+   "phase": 5,
+   "sim_time": "0:25",
+   "incident": "The Crews Walked Out And Three Mines Are Idle Again",
+   "description": "Crews have walked out of the mine where the detector read high, and of the two others, and the operators say the instrument was faulty and will not pay the shifts, so the mines that restarted on Monday to get a payroll moving have stopped again (I505, I507). The legal right to refuse unsafe work has done what it does: the miners are out of the exposure, unpaid, and no closer to a mine anybody can prove is safe. The union still holds the one thing the operator cannot buy, which is a crew that will go back down.",
+   "location": "Bullitt Fork portal",
+   "severity": 4,
+   "visible_to": [
+    "United Mine Workers, District 28",
+    "Appalachian Coal Operators",
+    "VA Department of Health SW District"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I507",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I530",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Emergency Supply Is Moving And Nobody Is Counting What Went Out",
+   "description": "Emergency supplies of insulin, blood thinners and heart medicines are reaching some of the patients who could not wait, without verification, in counties whose overdose calls are already up forty percent (I506). Every pharmacy in the network has become its own gatekeeper: some are supplying ninety days, some refuse anybody new, and the controlled drugs going out without a check are the part nobody is writing down. The network's next decision is whether there is one rule or as many rules as there are pharmacists.",
+   "location": "Independent pharmacies, Wise, Lee and Dickenson counties",
+   "severity": 3,
+   "visible_to": [
+    "SW Virginia Independent Pharmacy Network",
+    "Carilion Rural Clinic Network",
+    "VA Department of Health SW District"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I508",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I531",
+   "phase": 5,
+   "sim_time": "0:18",
+   "incident": "The Dike Is Holding For Now And The Pond Is Still Too Full",
+   "description": "Something has been done at the dike and its readings are no longer climbing, but the pond is still above the level the engineers want after a week of rain, and any water that leaves it goes into the Clinch River a few miles above an intake that is still drawing (I503, I509). The dike is holding today on sensors that were dark for eleven days. The decision left is how the pond comes down, and what the region is told about what goes with it.\n\nWhere I509 stood: it was partly resolved. What was done: A joint walk-through of the flagged dike reach has produced a signed list of required changes; the pressure readings are still unexplained, the pond level is unmeasured… The pressure readings on the flagged dike reach are still unexplained and the pond level remains unmeasured…",
+   "location": "Clinch River Plant ash pond, Carbo",
+   "severity": 4,
+   "visible_to": [
+    "AEP Appalachian Power",
+    "VA DEQ SW Regional Office",
+    "Wise County Public Service Authority"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I509",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I532",
+   "phase": 5,
+   "sim_time": "0:35",
+   "incident": "The Jars Keep Coming And The County Still Has No Number",
+   "description": "The thirty-one jars are still on the bench, the seven households that read high have told their neighbours, and more households have sent samples collected their own way (I512, I511). The utility's plant readings are within limits and the county is now working from two accounts of its water: the utility's, and a stack of jars whose collection nobody can describe. The households that are frightened are frightened of a number nobody has published with a method, and the people who could give the county a defensible number are the ones holding the jars.",
+   "location": "Homes on the Wise County system",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Tech Water Quality Lab",
+    "Wise County Public Service Authority",
+    "VDH Risk Communication"
+   ],
+   "time_limit": 20,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I512",
+   "opens_when": "unresolved"
+  }
+ ]
+}
