@@ -6,8 +6,8 @@
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
    "budget": 30000,
-   "trust": 5,
-   "score": 150.0,
+   "trust": 6,
+   "score": 225.0,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
   {
@@ -42,8 +42,8 @@
    "role": "Appalachian Coal Operators",
    "sector": "Industry",
    "budget": 110000,
-   "trust": 7,
-   "score": 187.5,
+   "trust": 6,
+   "score": 225.0,
    "responsibility": "Which mines run, under what monitoring, and what a lost week of production costs"
   },
   {
@@ -61,7 +61,7 @@
    "sector": "Labor",
    "budget": 17500,
    "trust": 6,
-   "score": 193.75,
+   "score": 231.25,
    "responsibility": "The miners underground, their right to refuse unsafe work, and their families' health"
   },
   {
@@ -87,8 +87,8 @@
    "role": "EPA Region 3 Emergency Response",
    "sector": "Federal Environmental",
    "budget": 93000,
-   "trust": 7,
-   "score": 75.0,
+   "trust": 5,
+   "score": 120.0,
    "responsibility": "Federal sampling and emergency authority, and a county that has not invited it"
   },
   {

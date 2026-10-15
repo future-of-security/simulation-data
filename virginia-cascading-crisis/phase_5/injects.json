@@ -376,7 +376,7 @@
     "SW Virginia EMS Council"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 100,
    "opens_after": "I508",
    "opens_when": "resolved"
@@ -452,7 +452,7 @@
     "VDH Risk Communication"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "escalated",
    "points_resolve": 100,
    "opens_after": "I512",
    "opens_when": "resolved"
@@ -585,7 +585,7 @@
     "Wise County Public Service Authority"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "escalated",
    "points_resolve": 125,
    "opens_after": "I509",
    "opens_when": "partially_resolved"

@@ -228,3 +228,26 @@ sim_time,team,type,message
 0:48,Olympic,escalation,New incident: The Crews Walked Out And Three Mines Are Idle Again
 0:48,Glacier,escalation,New incident: The Crews Walked Out And Three Mines Are Idle Again
 0:48,Banff,escalation,New incident: The Crews Walked Out And Three Mines Are Idle Again
+0:54,Acadia,report,"A16 was charged on the team's attempt_3 and is reused here against I520 with the same-action-already-paid-for wording, so the full catalog price is recorded and the phase zeroes the later use itself."
+0:54,Teton,report,"One action filed against I502, A1 at $0, and the effect it is said to carry is unverifiable rather than a charge…"
+0:54,Olympic,report,"The filing names I517 and no other incident, but its only action id is A1 at zero cost while the described result is a 5K transfer to Denali for another team's A20/A28 proposal…"
+0:54,Glacier,report,"A20 was charged to this team earlier in the phase (attempt 1) but this report files it again at $10K without saying it is the same action already paid for, so it is priced as a new use…"
+0:54,Acadia,incident,I520 — now partially resolved. Open the incident for what changed.
+0:54,Katmai,incident,I520 — now partially resolved. Open the incident for what changed.
+0:54,Redwood,incident,I520 — now partially resolved. Open the incident for what changed.
+0:54,Banff,incident,I502 — now partially resolved. Open the incident for what changed.
+0:54,Glacier,incident,I502 — now partially resolved. Open the incident for what changed.
+0:54,Teton,incident,I502 — now partially resolved. Open the incident for what changed.
+0:54,Denali,incident,I517 — now partially resolved. Open the incident for what changed.
+0:54,Glacier,incident,I517 — now partially resolved. Open the incident for what changed.
+0:54,Olympic,incident,I517 — now partially resolved. Open the incident for what changed.
+0:54,Everglades,escalation,I524 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Yellowstone,escalation,I524 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Zion,escalation,I524 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Denali,escalation,I531 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Everglades,escalation,I531 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Shenandoah,escalation,I531 — escalated. Open the incident for what happens now and what would have closed it.
+0:54,Acadia,report,"I520 — next time: Say what the aggregate actually showed and when it went out — counts by drug and pharmacy, and where the sealed ledger now sits — not that a record now exists."
+0:54,Teton,report,"I502 — next time: File the catalogue action that does the thing you describe, and say what the coordination produced: who was told what, and what sampling followed."
+0:54,Olympic,report,"I517 — next time: Name what the money bought and who received it, and under A1 say which specific reading or finding was shared and with whom."
+0:54,Glacier,report,"I517 — next time: Filing the inspection is a start; the report never says what the walk-through found or produced, so next time name the result and who holds it."
