@@ -314,3 +314,23 @@ sim_time,team,type,message
 1:54,Katmai,report,"I520 — next time: Name what was actually shared with each partner and what came back - a figure, a date, or a refusal - so the exchange reads as a result, not a plan."
 1:54,Teton,report,I510 — resolved. A suggestion: Say which PSA intake points the deployed crews actually sampled and when the first lab numbers are due back.
 1:54,Redwood,report,"I506 — next time: Say what the kits actually did — how many were handed out, from which counters, to which crews — rather than the doses set aside for distribution."
+1:59,Acadia,report,"Acadia works I506 with a contracted non-emergency van for its ambulatory dialysis panel (A11, claimed at $12K, i.e."
+1:59,Everglades,report,"The report declares I510, which the board already shows resolved, and its primary is EPA Region 3, so the tier is capped at strong_partial…"
+1:59,Everglades,report,"Everglades is the primary on I504 and its filed actions are A6, A27 and A1, judged against that incident…"
+1:59,Acadia,report,"A11 was already charged this phase (acadia_phase5_attempt_1.md, 25000) and this report files it again without saying it is the same already-paid action or writing a cost-0 explanation…"
+1:59,Banff,report,"A28 is a new charge for this team (I502); the earlier A8, A3, A9 and A5 filings on this incident are already credited and were not re-filed here."
+1:59,Acadia,incident,I506 — now partially resolved. Open the incident for what changed.
+1:59,Katmai,incident,I506 — now partially resolved. Open the incident for what changed.
+1:59,Redwood,incident,I506 — now partially resolved. Open the incident for what changed.
+1:59,Acadia,incident,I501 — now in progress. Open the incident for what changed.
+1:59,Katmai,incident,I501 — now in progress. Open the incident for what changed.
+1:59,Redwood,incident,I501 — now in progress. Open the incident for what changed.
+1:59,Banff,incident,I502 — now partially resolved. Open the incident for what changed.
+1:59,Glacier,incident,I502 — now partially resolved. Open the incident for what changed.
+1:59,Teton,incident,I502 — now partially resolved. Open the incident for what changed.
+1:59,Acadia,report,"I506 — next time: The A12 line reads as A10 clinic-staffing backfill, not the mobile clinic you filed; name the carrier and which patients each run carried."
+1:59,Acadia,report,I501 — next time: Say where the van's chairs are and how many of the forty patients are actually booked onto each run.
+1:59,Everglades,report,I510 — next time: Say what the agreement changed on the ground — which sites get sampled first and when results land — rather than what it permits.
+1:59,Everglades,report,"I504 — next time: Name the four missing shifts instead of 'four of the eleven days', and say what the plant's own records show for them."
+1:59,Acadia,report,I501 — next time: Say what the run actually delivered — patients who travelled and sessions that produced — and which households could not be booked at all.
+1:59,Banff,report,"I502 — next time: Say what the release actually showed — which wells, homes or shifts the cases share and what the numbers mean — not only how the results will be distributed."

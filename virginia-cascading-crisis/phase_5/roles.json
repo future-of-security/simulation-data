@@ -6,17 +6,17 @@
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
    "budget": 30000,
-   "trust": 7,
-   "score": 255.0,
+   "trust": 8,
+   "score": 397.5,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
   {
    "team": "Banff",
    "role": "VA Department of Health SW District",
    "sector": "Public Health",
-   "budget": 30000,
+   "budget": 25000,
    "trust": 6,
-   "score": 302.5,
+   "score": 377.5,
    "responsibility": "Disease surveillance and the official word on what is making people sick"
   },
   {
@@ -34,7 +34,7 @@
    "sector": "Water Utility",
    "budget": 67500,
    "trust": 6,
-   "score": 192.5,
+   "score": 255.0,
    "responsibility": "The water that comes out of Wise County's taps, and whether people can drink it"
   },
   {
