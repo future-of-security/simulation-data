@@ -45,3 +45,8 @@ sim_time,team,type,message
 0:11,Teton,incident,I509 — now in progress. Open the incident for what changed.
 0:11,Acadia,report,"I508 — next time: Name the shelves the pooled stock reached and the days of supply each one actually gained, and say plainly whether this is the same A16 the phase already charged."
 0:11,Shenandoah,report,"I509 — next time: Say what the structural check turned up or when and how it will report — a reading, a level, a number — rather than that a check is planned."
+0:13,Everglades,report,All three filed actions are aimed at I504 and the report itself notes it chose A6 and A27 over the sampling and log work that the primary's own incident turns on…
+0:13,Banff,incident,I504 — now in progress. Open the incident for what changed.
+0:13,Everglades,incident,I504 — now in progress. Open the incident for what changed.
+0:13,Yellowstone,incident,I504 — now in progress. Open the incident for what changed.
+0:13,Everglades,report,"I504 — next time: Say what the notice actually reached — how many households, which streets, and when customers can expect it lifted — rather than only that it was issued."
