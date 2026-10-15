@@ -53,7 +53,7 @@
     "Virginia Tech Water Quality Lab"
    ],
    "time_limit": 30,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -148,7 +148,7 @@
     "SW Virginia EMS Council"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -270,9 +270,9 @@
   {
    "id": "I515",
    "phase": 5,
-   "sim_time": "0:20",
+   "sim_time": "0:10",
    "incident": "The River Has A Number And The Intake Downstream Has To Decide What To Do With It",
-   "description": "The reach below the outfall has a measured result in it now, and a number is a decision somebody else has to make: the utility at the intake downstream has to choose whether to keep drawing, the people fishing and swimming below Carbo have to be told something with a basis, and the operator has a permit condition to argue about (I509). One restored sensor and a satellite pass are still the only continuous record of a river that had eleven days of no record at all. What is published next decides whether this number is one the region keeps using.",
+   "description": "The reach below the outfall has a measured result in it now, and a number is a decision somebody else has to make: the utility at the intake downstream has to choose whether to keep drawing, the people fishing and swimming below Carbo have to be told something with a basis, and the operator has a permit condition to argue about (I509). One restored sensor and a satellite pass are still the only continuous record of a river that had eleven days of no record at all. What is published next decides whether this number is one the region keeps using.\n\nWhere I503 stood: it was resolved. What was done: Sampling is set at three points on the reach below the Carbo outfall, including the drinking-water intake, but no measurement has come back or been released…",
    "location": "Clinch River below Carbo, Russell County",
    "severity": 4,
    "visible_to": [
@@ -281,7 +281,7 @@
     "Virginia Tech Water Quality Lab"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I503",
    "opens_when": "resolved"

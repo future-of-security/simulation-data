@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "Carilion Rural Clinic Network",
    "sector": "Healthcare",
-   "budget": 45000,
+   "budget": 30000,
    "trust": 7,
-   "score": 90.0,
+   "score": 150.0,
    "responsibility": "The rural clinics and the Norton dialysis center: who is seen, where, and who is sent away"
   },
   {
@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "VA DEQ SW Regional Office",
    "sector": "Environment",
-   "budget": 60000,
-   "trust": 6,
-   "score": 45.0,
+   "budget": 20000,
+   "trust": 7,
+   "score": 195.0,
    "responsibility": "What is in the river and the air, and the orders that make a facility act on it"
   },
   {

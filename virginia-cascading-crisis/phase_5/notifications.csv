@@ -24,3 +24,17 @@ sim_time,team,type,message
 0:07,Katmai,incident,I506 — now in progress. Open the incident for what changed.
 0:07,Redwood,incident,I506 — now in progress. Open the incident for what changed.
 0:07,Acadia,report,"I506 — next time: Say what the extended hours actually produced — how many patients were seen, and whether any of that volume came off the 911 units."
+0:10,Denali,report,Both filed actions are aimed at I503 and the stated remaining budget of $20k is consistent with $15k plus $25k charged at trust 6.
+0:10,Acadia,report,"Acadia reports against I508 and files A16, which is that incident's named near miss, so it is capped below a close and below strong_partial as a supporting role."
+0:10,Denali,incident,I503 — now resolved. Open the incident for what changed.
+0:10,Shenandoah,incident,I503 — now resolved. Open the incident for what changed.
+0:10,Zion,incident,I503 — now resolved. Open the incident for what changed.
+0:10,Acadia,incident,I508 — now in progress. Open the incident for what changed.
+0:10,Katmai,incident,I508 — now in progress. Open the incident for what changed.
+0:10,Redwood,incident,I508 — now in progress. Open the incident for what changed.
+0:10,Denali,report,"I503 — resolved. A suggestion: Name the contaminants the three samples are run for, and say what the twenty-minute result will settle and what it will leave open."
+0:10,Acadia,report,"I508 — next time: Say which independent pharmacies took the stock and who signs for each emergency supply, so the move can be traced outside your own sites."
+0:10,Acadia,report,"I501 — next time: Say who staffs the chairs and how the forty patients get booked into sessions, not only what stock arrived."
+0:10,Denali,escalation,New incident: The River Has A Number And The Intake Downstream Has To Decide What To Do With It
+0:10,Shenandoah,escalation,New incident: The River Has A Number And The Intake Downstream Has To Decide What To Do With It
+0:10,Zion,escalation,New incident: The River Has A Number And The Intake Downstream Has To Decide What To Do With It
