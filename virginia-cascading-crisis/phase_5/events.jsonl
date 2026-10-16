@@ -1027,3 +1027,9 @@
 {"at": "2026-10-16T10:13:22-04:00", "kind": "pass_finished", "sim": "21:31", "detail": "dispute clean in 5m32s", "data": {"worker": "dispute", "ok": true, "seconds": 332.7, "model": "arc-deepseek-flash-thinking-high"}}
 {"at": "2026-10-16T10:13:31-04:00", "kind": "pass_finished", "sim": "21:31", "detail": "dispute clean in 5m42s", "data": {"worker": "dispute", "ok": true, "seconds": 342.3, "model": "arc-deepseek-flash-thinking-high"}}
 {"at": "2026-10-16T10:20:48-04:00", "kind": "pass_finished", "sim": "21:31", "detail": "dispute clean in 12m59s", "data": {"worker": "dispute", "ok": true, "seconds": 779.3, "model": "arc-deepseek-flash-thinking-high"}}
+{"at": "2026-10-16T10:20:50-04:00", "kind": "team_scored", "sim": "21:44", "team": "Acadia", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 25000.0, "trust_delta": -1.0, "score_awarded": 0.0}}
+{"at": "2026-10-16T10:20:50-04:00", "kind": "team_scored", "sim": "21:44", "team": "Everglades", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 3000.0, "trust_delta": 0.0, "score_awarded": 0.0}}
+{"at": "2026-10-16T10:20:50-04:00", "kind": "team_scored", "sim": "21:44", "team": "Glacier", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 20000.0, "trust_delta": 0.0, "score_awarded": 0.0}}
+{"at": "2026-10-16T10:20:50-04:00", "kind": "team_scored", "sim": "21:44", "team": "Olympic", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 25000.0, "trust_delta": 0.0, "score_awarded": 0.0}}
+{"at": "2026-10-16T10:20:50-04:00", "kind": "reconcile_finished", "sim": "21:44", "detail": "4 team(s) corrected", "data": {}}
+{"at": "2026-10-16T10:36:20-04:00", "kind": "phase_ended", "detail": "countdown stopped; unconfirmed splits settle next"}
