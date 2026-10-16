@@ -5,6 +5,7 @@
       "title": "Virginia Cascading Crisis",
       "path": "virginia-cascading-crisis",
       "active_phase": 5,
+      "completed_through": 5,
       "phases": [
         {
           "num": 0,
