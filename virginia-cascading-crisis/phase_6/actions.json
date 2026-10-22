@@ -1,0 +1,407 @@
+{
+ "key": "actions",
+ "phase": 6,
+ "actions": [
+  {
+   "action_id": "A1",
+   "action_name": "Intelligence Sharing",
+   "available_to": [
+    "ALL"
+   ],
+   "cost": 0,
+   "delay_mins": 0,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Share what you have verified — a damage figure, a case count, a claim decision, a deadline — with every other team. Free and always available; the cheapest way to keep two agencies from working off two different numbers."
+  },
+  {
+   "action_id": "A2",
+   "action_name": "Damage and Needs Assessment",
+   "available_to": [
+    "FEMA Region 3",
+    "Virginia Department of Emergency Management",
+    "LENOWISCO Planning District Commission",
+    "Virginia VOAD"
+   ],
+   "cost": 20000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Teams go out and count what was lost in the area you name — homes, businesses, public systems, income — with photographs and costs. Gives a documented figure that programs can be decided on; it counts only what the teams reached and what people were willing to show them."
+  },
+  {
+   "action_id": "A3",
+   "action_name": "Request Federal Declaration",
+   "available_to": [
+    "Virginia Department of Emergency Management"
+   ],
+   "cost": 5000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "The state asks the federal government, in writing, for an emergency or major disaster declaration for the counties you name, with the damage on record. Without a request nothing federal opens; a request is a case, and it is only as strong as the documentation behind it."
+  },
+  {
+   "action_id": "A4",
+   "action_name": "Federal Assistance Program Activation",
+   "available_to": [
+    "FEMA Region 3"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open one federal program for the declared counties — public assistance for government repairs, or individual assistance for households. Money starts to move; each program has its own eligibility rules, and the people they leave out stay out."
+  },
+  {
+   "action_id": "A5",
+   "action_name": "Cost-Share Commitment",
+   "available_to": [
+    "Virginia Department of Emergency Management",
+    "Virginia Department of Housing and Community Development",
+    "Appalachian Regional Commission"
+   ],
+   "cost": 40000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Commit state or regional money to cover the local share of a federal program for the places you name. Lets counties that cannot pay their share take part; the money is not spent on anything else."
+  },
+  {
+   "action_id": "A6",
+   "action_name": "Hazard Mitigation Grant Application",
+   "available_to": [
+    "Virginia Department of Emergency Management",
+    "LENOWISCO Planning District Commission",
+    "Shentel Communications",
+    "Carilion Clinic System"
+   ],
+   "cost": 15000,
+   "delay_mins": 20,
+   "requires_approval": "FEMA Region 3",
+   "trust_impact": 0,
+   "description": "Apply for federal mitigation money for one project that makes the next failure smaller — a second route, a hardened site, a backup system. Funds the version that would have held; the money takes months to arrive and the project years to finish."
+  },
+  {
+   "action_id": "A7",
+   "action_name": "Household Registration Drive",
+   "available_to": [
+    "FEMA Region 3",
+    "Virginia VOAD",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "cost": 20000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Staff and volunteers help households in one area register for assistance and assemble the documents it asks for. More eligible people apply; the program's rules do not change because they did."
+  },
+  {
+   "action_id": "A8",
+   "action_name": "Alternate Documentation Policy",
+   "available_to": [
+    "FEMA Region 3",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "cost": 10000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Accept other proof of ownership or occupancy — a tax receipt, a utility bill, a signed statement from neighbours — for one program. Opens aid to heirs' property families and informal renters; some of what is accepted will be wrong."
+  },
+  {
+   "action_id": "A9",
+   "action_name": "Disaster Loan Program",
+   "available_to": [
+    "SBA Office of Disaster Recovery and Resilience"
+   ],
+   "cost": 30000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Offer low-interest disaster loans to businesses and households in the declared area. Puts capital in reach quickly; it is debt, and the businesses hit hardest are the ones least able to take more."
+  },
+  {
+   "action_id": "A10",
+   "action_name": "Bridge Grant Fund",
+   "available_to": [
+    "Appalachian Regional Commission",
+    "Virginia Department of Housing and Community Development",
+    "Virginia Energy",
+    "SBA Office of Disaster Recovery and Resilience"
+   ],
+   "cost": 40000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Grant money that does not have to be repaid, for one group you name — small businesses, workers, households. Keeps them going until slower money arrives; there is never enough for everyone who applies."
+  },
+  {
+   "action_id": "A11",
+   "action_name": "Business Recovery Center",
+   "available_to": [
+    "SBA Office of Disaster Recovery and Resilience",
+    "Appalachian Regional Commission",
+    "Virginia Bureau of Insurance"
+   ],
+   "cost": 20000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Open a walk-in center where businesses get help with loans, grants, insurance claims and lost records. Turns programs into applications; it serves the people who come through the door."
+  },
+  {
+   "action_id": "A12",
+   "action_name": "Housing Repair Program",
+   "available_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia VOAD"
+   ],
+   "cost": 40000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Repair or replace the damaged parts of homes in one area — plumbing, wells, heating. Makes homes livable; contractors are scarce and every job takes longer than promised."
+  },
+  {
+   "action_id": "A13",
+   "action_name": "Emergency Rental Assistance",
+   "available_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia VOAD"
+   ],
+   "cost": 25000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Pay a set number of months of back rent or mortgage for eligible households. Stops evictions for those months; does nothing about the income that was lost."
+  },
+  {
+   "action_id": "A14",
+   "action_name": "Disaster Case Management",
+   "available_to": [
+    "Virginia VOAD",
+    "Virginia Department of Housing and Community Development",
+    "FEMA Region 3"
+   ],
+   "cost": 25000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Assign case managers to households with open needs, each working through what programs exist and what is still unmet. The only way the hardest cases get finished; each manager can carry only so many."
+  },
+  {
+   "action_id": "A15",
+   "action_name": "Volunteer Rebuild Teams",
+   "available_to": [
+    "Virginia VOAD"
+   ],
+   "cost": 15000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Organise volunteer crews from churches and national groups for repair work in one area. Cheap labour for simple jobs; volunteers come for weeks, not years, and cannot do licensed work."
+  },
+  {
+   "action_id": "A16",
+   "action_name": "Insurance Claims Bulletin",
+   "available_to": [
+    "Virginia Bureau of Insurance"
+   ],
+   "cost": 5000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "An administrative letter to every insurer licensed in Virginia setting out how claims from this event must be handled and explained. Insurers must follow it; it cannot rewrite a policy that excludes the loss."
+  },
+  {
+   "action_id": "A17",
+   "action_name": "Market Conduct Examination",
+   "available_to": [
+    "Virginia Bureau of Insurance"
+   ],
+   "cost": 15000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": -1,
+   "description": "Examine one insurer's handling of claims from this event, with powers to require records and order corrections. Finds and fixes improper denials; takes months and makes an adversary of the company."
+  },
+  {
+   "action_id": "A18",
+   "action_name": "Consumer Claims Clinic",
+   "available_to": [
+    "Virginia Bureau of Insurance",
+    "Virginia VOAD",
+    "SBA Office of Disaster Recovery and Resilience"
+   ],
+   "cost": 15000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Volunteer lawyers and adjusters help policyholders file, document and appeal claims. More claims get paid that should be paid; it only helps people who come and who had insurance."
+  },
+  {
+   "action_id": "A19",
+   "action_name": "Rebuild Like-for-Like",
+   "available_to": [
+    "Shentel Communications",
+    "Carilion Clinic System",
+    "Virginia Energy"
+   ],
+   "cost": 30000,
+   "delay_mins": 10,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Restore a damaged system exactly as it was. Fastest and cheapest way back; it can fail the same way again."
+  },
+  {
+   "action_id": "A20",
+   "action_name": "Build Back With Redundancy",
+   "available_to": [
+    "Shentel Communications",
+    "Carilion Clinic System"
+   ],
+   "cost": 60000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Rebuild a system with a second path, a backup site or a manual fallback, so a single failure cannot take it down. The version that would have held; it costs more and takes months longer."
+  },
+  {
+   "action_id": "A21",
+   "action_name": "Telehealth Network Expansion",
+   "available_to": [
+    "Carilion Clinic System",
+    "Shentel Communications",
+    "UVA Wise"
+   ],
+   "cost": 35000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Equip clinics, libraries and homes in one area for remote visits. Brings specialists to people who cannot travel; it depends on a connection that was the thing the attack cut."
+  },
+  {
+   "action_id": "A22",
+   "action_name": "Permanent Service Commitment",
+   "available_to": [
+    "Carilion Clinic System"
+   ],
+   "cost": 50000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Keep a service opened during the crisis — chairs, a clinic, a staffed site — running permanently, with its staff and budget. People keep the care they came to rely on; the money comes out of something else every year."
+  },
+  {
+   "action_id": "A23",
+   "action_name": "Long-Term Health Registry",
+   "available_to": [
+    "Carilion Clinic System",
+    "UVA Wise"
+   ],
+   "cost": 30000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Enrol people exposed during the crisis in a registry with follow-up screening for years. Finds the illness that appears late, and records who was exposed; enrolment depends on people trusting who runs it."
+  },
+  {
+   "action_id": "A24",
+   "action_name": "Workforce Retraining Cohort",
+   "available_to": [
+    "UVA Wise",
+    "Virginia Energy",
+    "Appalachian Regional Commission"
+   ],
+   "cost": 35000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Fund a cohort of workers through a training program for jobs that exist in the region. Gives people a path to stay; the jobs at the end have to be there too."
+  },
+  {
+   "action_id": "A25",
+   "action_name": "Retention Incentive",
+   "available_to": [
+    "UVA Wise",
+    "Carilion Clinic System",
+    "Appalachian Regional Commission"
+   ],
+   "cost": 30000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Offer loan repayment, stipends or guaranteed positions to people who commit to staying and working in the region. Keeps some who would have left; buys a commitment of years, not a career."
+  },
+  {
+   "action_id": "A26",
+   "action_name": "Mine Land Reclamation Project",
+   "available_to": [
+    "Virginia Energy",
+    "Appalachian Regional Commission"
+   ],
+   "cost": 50000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Fund reclamation of one abandoned or forfeited mine site, hiring local crews. Treats the water and the land, and puts miners to work for the life of the project."
+  },
+  {
+   "action_id": "A27",
+   "action_name": "Bond Forfeiture and Permit Action",
+   "available_to": [
+    "Virginia Energy"
+   ],
+   "cost": 10000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": -1,
+   "description": "Revoke an operator's permit and call in its reclamation bond, or order it to post more. Secures what the bond covers; often much less than the cleanup costs, and the company may contest it in court."
+  },
+  {
+   "action_id": "A28",
+   "action_name": "Regional Recovery Plan",
+   "available_to": [
+    "LENOWISCO Planning District Commission",
+    "Virginia Department of Emergency Management",
+    "Appalachian Regional Commission"
+   ],
+   "cost": 20000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Write and adopt the recovery plan for the area: what is rebuilt, in what order, with what money. The plan grant programs read; it is only as fair as the process that wrote it."
+  },
+  {
+   "action_id": "A29",
+   "action_name": "Community Listening Sessions",
+   "available_to": [
+    "LENOWISCO Planning District Commission",
+    "Virginia VOAD",
+    "UVA Wise",
+    "Virginia Department of Emergency Management"
+   ],
+   "cost": 5000,
+   "delay_mins": 15,
+   "requires_approval": "NONE",
+   "trust_impact": 1,
+   "description": "Hold meetings in the places you name — churches, fire halls, schools — with transport and childcare, and record what people ask for. Hears from people who do not come to county offices; they want to see what is done with what they said."
+  },
+  {
+   "action_id": "A30",
+   "action_name": "Public After-Action Review",
+   "available_to": [
+    "Virginia Department of Emergency Management",
+    "FEMA Region 3",
+    "LENOWISCO Planning District Commission",
+    "UVA Wise"
+   ],
+   "cost": 10000,
+   "delay_mins": 20,
+   "requires_approval": "NONE",
+   "trust_impact": 0,
+   "description": "Publish an account of what failed, who decided what, and what will change, with names and dates. The record the region learns from; somebody comes out of it badly."
+  }
+ ]
+}
