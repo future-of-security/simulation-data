@@ -110,7 +110,7 @@
     "LENOWISCO Planning District Commission"
    ],
    "time_limit": 30,
-   "state": "in_progress",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -129,7 +129,7 @@
     "UVA Wise"
    ],
    "time_limit": 35,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -148,7 +148,7 @@
     "Shentel Communications"
    ],
    "time_limit": 30,
-   "state": "in_progress",
+   "state": "escalated",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -186,7 +186,7 @@
     "Virginia Department of Housing and Community Development"
    ],
    "time_limit": 35,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -346,9 +346,9 @@
   {
    "id": "I619",
    "phase": 6,
-   "sim_time": "0:22",
+   "sim_time": "0:46",
    "incident": "The Registry Has Found A Pattern And The Households Who Enrolled Want Their Own Results",
-   "description": "The registry has been running long enough to show something: the screenings of the people exposed during the crisis have a pattern in them, in a county where the same households were told by official bodies that the water was fine. The people who enrolled did so on the understanding that it was for their health and not for a study, and a finding published before they have been told their own results makes them the last to know what is in their own bodies. Somebody has to decide which comes first, the record or the person.",
+   "description": "The registry has been running long enough to show something: the screenings of the people exposed during the crisis have a pattern in them, in a county where the same households were told by official bodies that the water was fine. The people who enrolled did so on the understanding that it was for their health and not for a study, and a finding published before they have been told their own results makes them the last to know what is in their own bodies. Somebody has to decide which comes first, the record or the person.\n\nWhere I607 stood: it was resolved. What was done: A screening registry for people exposed this month has opened and residents are being signed up for regular monitoring, with telehealth capacity being equipped to follow them remotely…",
    "location": "Appalachia, Carbo and the Wise County water system",
    "severity": 4,
    "visible_to": [
@@ -357,7 +357,7 @@
     "UVA Wise"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I607",
    "opens_when": "resolved"
@@ -403,9 +403,9 @@
   {
    "id": "I622",
    "phase": 6,
-   "sim_time": "0:22",
+   "sim_time": "0:46",
    "incident": "The Plan Says What The Hollows Asked For And The First Grants Went To The Projects With A Sponsor",
-   "description": "The plan was adopted with the hollows in it, and the first funding round under it went to the projects that had somebody to sign the application: the county water line, the town's main street, the college's building. A project in an unincorporated hollow needs an applicant with a bank account and an audit, and the households that turned out at the fire hall to ask for it do not have one. The plan's own ranking is the only thing standing between what was asked for and what gets built.",
+   "description": "The plan was adopted with the hollows in it, and the first funding round under it went to the projects that had somebody to sign the application: the county water line, the town's main street, the college's building. A project in an unincorporated hollow needs an applicant with a bank account and an audit, and the households that turned out at the fire hall to ask for it do not have one. The plan's own ranking is the only thing standing between what was asked for and what gets built.\n\nWhere I610 stood: it was resolved. What was done: Pre-disaster baseline figures for hollows housing and miners' families are being circulated to inform a baseline plan, but nothing records what those households themselves asked for… Door-to-door outreach is gathering what renters and miners' families in Wise and two neighbouring counties say they need, with a written summary promised to LENOWISCO before adoption…",
    "location": "Lee, Wise, Scott and Norton",
    "severity": 3,
    "visible_to": [
@@ -414,7 +414,7 @@
     "Virginia Department of Housing and Community Development"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "I610",
    "opens_when": "resolved"
@@ -557,7 +557,7 @@
    "phase": 6,
    "sim_time": "0:30",
    "incident": "The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses",
-   "description": "The graduates who were deciding have decided, and the clinics are covering the shifts they would have worked with travel nurses at several times the salary, on contracts that end in weeks. The university is training the next class for the same recruiters and the young families are still leaving, so the cost of a decision nobody made is now a line in a hospital budget that comes out of something else. Somebody has to decide whether the region pays to keep people or pays more to rent them.\n\nWhere I606 stood: it was only partly addressed. What was done: Loan repayment stipends now go to undecided nursing graduates who commit two years to a regional clinic, and a local LPN/CNA-to-RN cohort is funded… Carilion has put loan repayment and stipends on the table for undecided UVA Wise graduates, which slows some signings…",
+   "description": "The graduates who were deciding have decided, and the clinics are covering the shifts they would have worked with travel nurses at several times the salary, on contracts that end in weeks. The university is training the next class for the same recruiters and the young families are still leaving, so the cost of a decision nobody made is now a line in a hospital budget that comes out of something else. Somebody has to decide whether the region pays to keep people or pays more to rent them.Where I606 stood: it was only partly addressed. What was done: Loan repayment stipends now go to undecided nursing graduates who commit two years to a regional clinic, and a local LPN/CNA-to-RN cohort is funded… Carilion has put loan repayment and stipends on the table for undecided UVA Wise graduates, which slows some signings…",
    "location": "Norton, Wise and Big Stone Gap",
    "severity": 4,
    "visible_to": [
