@@ -1,0 +1,113 @@
+{
+ "key": "roles",
+ "teams": [
+  {
+   "team": "Acadia",
+   "role": "Shentel Communications",
+   "sector": "Telecommunications",
+   "budget": -17200,
+   "trust": 6,
+   "score": 402.5,
+   "responsibility": "The fiber backbone the attack cut: how it is rebuilt, and whether it can fail the same way again"
+  },
+  {
+   "team": "Banff",
+   "role": "FEMA Region 3",
+   "sector": "Federal Disaster Assistance",
+   "budget": 18333,
+   "trust": 5,
+   "score": 307.5,
+   "responsibility": "Whether this disaster qualifies for federal help, which programs open, and on what terms"
+  },
+  {
+   "team": "Denali",
+   "role": "Virginia VOAD",
+   "sector": "Voluntary Recovery",
+   "budget": 31000,
+   "trust": 7,
+   "score": 300.0,
+   "responsibility": "The long-term recovery group: open household cases, volunteers, and the needs no program covers"
+  },
+  {
+   "team": "Everglades",
+   "role": "Carilion Clinic System",
+   "sector": "Health System Recovery",
+   "budget": 21000,
+   "trust": 7,
+   "score": 408.75,
+   "responsibility": "Which emergency services stay after the crisis, and the long-term health of people exposed during it"
+  },
+  {
+   "team": "Glacier",
+   "role": "Virginia Department of Emergency Management",
+   "sector": "State Emergency Management",
+   "budget": 83334,
+   "trust": 5,
+   "score": 307.5,
+   "responsibility": "The state's request for federal help, its share of the cost, and who it is spent on"
+  },
+  {
+   "team": "Katmai",
+   "role": "Virginia Department of Housing and Community Development",
+   "sector": "Housing",
+   "budget": 25000,
+   "trust": 8,
+   "score": 526.25,
+   "responsibility": "Households behind on rent and repairs, and the housing money that arrives months after it is needed"
+  },
+  {
+   "team": "Olympic",
+   "role": "SBA Office of Disaster Recovery and Resilience",
+   "sector": "Disaster Lending",
+   "budget": 52500,
+   "trust": 5,
+   "score": 37.5,
+   "responsibility": "Disaster loans to businesses and households, and who can qualify for them"
+  },
+  {
+   "team": "Redwood",
+   "role": "Virginia Energy",
+   "sector": "Energy and Mine Land",
+   "budget": 72500,
+   "trust": 4,
+   "score": 167.5,
+   "responsibility": "Mine permits, reclamation bonds, and what happens to land and jobs when a coal operator walks away"
+  },
+  {
+   "team": "Shenandoah",
+   "role": "UVA Wise",
+   "sector": "Higher Education",
+   "budget": -46250,
+   "trust": 6,
+   "score": 240.0,
+   "responsibility": "The region's university: graduates, nurses and young people deciding whether to stay"
+  },
+  {
+   "team": "Teton",
+   "role": "LENOWISCO Planning District Commission",
+   "sector": "Regional Planning",
+   "budget": 33334,
+   "trust": 7,
+   "score": 307.5,
+   "responsibility": "The recovery plan for Lee, Wise and Scott counties and Norton, and whose voices are in it"
+  },
+  {
+   "team": "Yellowstone",
+   "role": "Appalachian Regional Commission",
+   "sector": "Regional Economic Development",
+   "budget": 12500,
+   "trust": 7,
+   "score": 255.0,
+   "responsibility": "Federal-state economic development money, and whether it rebuilds the old economy or a new one"
+  },
+  {
+   "team": "Zion",
+   "role": "Virginia Bureau of Insurance",
+   "sector": "Insurance Regulation",
+   "budget": 20000,
+   "trust": 6,
+   "score": 168.75,
+   "responsibility": "Insurers' claims decisions, policy exclusions, and the bonds and coverage the region depends on"
+  }
+ ]
+}
