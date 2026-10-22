@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "FEMA Region 3",
    "sector": "Federal Disaster Assistance",
-   "budget": 60000,
-   "trust": 5,
-   "score": 75.0,
+   "budget": 43333,
+   "trust": 4,
+   "score": 120.0,
    "responsibility": "Whether this disaster qualifies for federal help, which programs open, and on what terms"
   },
   {
@@ -41,9 +41,9 @@
    "team": "Glacier",
    "role": "Virginia Department of Emergency Management",
    "sector": "State Emergency Management",
-   "budget": 95000,
+   "budget": 83334,
    "trust": 6,
-   "score": 0,
+   "score": 225.0,
    "responsibility": "The state's request for federal help, its share of the cost, and who it is spent on"
   },
   {
@@ -59,9 +59,9 @@
    "team": "Olympic",
    "role": "SBA Office of Disaster Recovery and Resilience",
    "sector": "Disaster Lending",
-   "budget": 90000,
-   "trust": 6,
-   "score": 0,
+   "budget": 82500,
+   "trust": 4,
+   "score": 0.0,
    "responsibility": "Disaster loans to businesses and households, and who can qualify for them"
   },
   {
@@ -104,9 +104,9 @@
    "team": "Zion",
    "role": "Virginia Bureau of Insurance",
    "sector": "Insurance Regulation",
-   "budget": 52500,
+   "budget": 40000,
    "trust": 7,
-   "score": 75.0,
+   "score": 112.5,
    "responsibility": "Insurers' claims decisions, policy exclusions, and the bonds and coverage the region depends on"
   }
  ]

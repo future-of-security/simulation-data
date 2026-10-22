@@ -34,7 +34,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -148,7 +148,7 @@
     "Shentel Communications"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -251,9 +251,9 @@
   {
    "id": "I614",
    "phase": 6,
-   "sim_time": "0:20",
+   "sim_time": "0:26",
    "incident": "The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From",
-   "description": "The request is filed, and the federal reviewers have come back on the weakest part of it: the household losses, gathered in a month when the teams could not reach half the hollows. A declaration rests on a case that can be defended line by line, and the state can run the assessment again in the places the reviewers named and file that answer inside the window, or let the case rest on the counts it already holds. Every program the counties are waiting on is downstream of a number somebody has to stand behind.",
+   "description": "The request is filed, and the federal reviewers have come back on the weakest part of it: the household losses, gathered in a month when the teams could not reach half the hollows. A declaration rests on a case that can be defended line by line, and the state can run the assessment again in the places the reviewers named and file that answer inside the window, or let the case rest on the counts it already holds. Every program the counties are waiting on is downstream of a number somebody has to stand behind.\n\nWhere I602 stood: it was resolved. What was done: Field teams are counting households, wells and lost wages in the hollows that were never reached; the household losses are being documented…",
    "location": "Richmond and the coalfield counties",
    "severity": 4,
    "visible_to": [
@@ -262,7 +262,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I602",
    "opens_when": "resolved"
@@ -272,7 +272,7 @@
    "phase": 6,
    "sim_time": "0:23",
    "incident": "The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well",
-   "description": "The hearings came off the docket and the households are in their homes, in houses whose plumbing was ruined by the bad water and whose wells are on a list nobody has reached. A renewed lease in a house that cannot be lived in is a few months of the same problem, and the repair money is the slower money: it wants a title, an inspection and a contractor, and the households with the weakest paperwork are the ones whose houses are worst. The same household can be served by two programs and only one of them leaves it with a house that works.\n\nWhere I603 stood: it was resolved. What was done: One month of back rent has reached roughly 25–30 households on Friday's eviction docket and caseworkers are opening files for docketed and heirs'-property families… A further round of rental assistance is moving for the docketed households that can produce a lease and a signing landlord…",
+   "description": "The hearings came off the docket and the households are in their homes, in houses whose plumbing was ruined by the bad water and whose wells are on a list nobody has reached. A renewed lease in a house that cannot be lived in is a few months of the same problem, and the repair money is the slower money: it wants a title, an inspection and a contractor, and the households with the weakest paperwork are the ones whose houses are worst. The same household can be served by two programs and only one of them leaves it with a house that works.Where I603 stood: it was resolved. What was done: One month of back rent has reached roughly 25–30 households on Friday's eviction docket and caseworkers are opening files for docketed and heirs'-property families… A further round of rental assistance is moving for the docketed households that can produce a lease and a signing landlord…",
    "location": "Wise and Dickenson counties",
    "severity": 4,
    "visible_to": [

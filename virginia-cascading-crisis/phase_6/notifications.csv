@@ -94,3 +94,33 @@ sim_time,team,type,message
 0:23,Katmai,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
 0:23,Denali,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
 0:23,Banff,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
+0:26,Banff,report,"A4 was already credited in attempt 1 and is filed again here at the full price with no statement that it is the same charge, so the full $40K is recorded for the phase to zero itself…"
+0:26,Banff,report,"On I625 the housing agency leads and FEMA Region 3 can only support, but this report files no action of its own and describes no result from the transfer it paid for…"
+0:26,Olympic,report,Filed a $0 A1 intelligence share against I608 with a rationale about mine-safety underwriting that sits outside the SBA disaster-lending charter…
+0:26,Zion,report,"I608 is graded as the bulletin-plus-clinic near miss, not a close: money is not moving and no denial has been ordered corrected…"
+0:26,Glacier,report,"Single-incident report on I602: three catalog actions filed, with A2 charged at a claimed one-third share in line with the remaining-budget figure."
+0:26,Glacier,report,"Graded as VDEM's support onto I601, where FEMA Region 3 is primary; the assessment reaches documented ash pond and dike damage, the basis for stretching the definition…"
+0:26,Everglades,report,"Only I606 is worked; I607, I609 and I621 get nothing from this report, and the proposed A22 is expressly not filed so it is neither charged nor credited."
+0:26,Banff,incident,I602 — now partially resolved. Open the incident for what changed.
+0:26,Glacier,incident,I602 — now partially resolved. Open the incident for what changed.
+0:26,Teton,incident,I602 — now partially resolved. Open the incident for what changed.
+0:26,Acadia,incident,I608 — now in progress. Open the incident for what changed.
+0:26,Olympic,incident,I608 — now in progress. Open the incident for what changed.
+0:26,Zion,incident,I608 — now in progress. Open the incident for what changed.
+0:26,Banff,incident,I602 — now resolved. Open the incident for what changed.
+0:26,Glacier,incident,I602 — now resolved. Open the incident for what changed.
+0:26,Teton,incident,I602 — now resolved. Open the incident for what changed.
+0:26,Acadia,incident,I601 — now partially resolved. Open the incident for what changed.
+0:26,Banff,incident,I601 — now partially resolved. Open the incident for what changed.
+0:26,Glacier,incident,I601 — now partially resolved. Open the incident for what changed.
+0:26,Banff,report,"I602 — next time: Say what the damage assessment actually found, county by county, and what stayed uncounted; a funded assessment is not yet a figure anyone can file."
+0:26,Banff,report,"I625 — next time: Say what the money bought and who it reached — the case plan, document or date it produced — rather than naming a partner and a sum."
+0:26,Olympic,report,"I608 — next time: Say what the 7.5K brought about — whether the clinic opened and which denied claims it took — and what was actually shared under A1, rather than what the role might authorise."
+0:26,Zion,report,"I608 — next time: Say what the bulletin and clinic actually produced — how many denials came back with the policy language named, how many appeals the clinic opened — rather than what they will do."
+0:26,Glacier,report,I602 — resolved. A suggestion: Say when the request goes out and what numbers it carries; 'would provide' leaves a reader unable to tell whether it is filed or still waiting on the assessment.
+0:26,Glacier,report,I601 — next time: Say what the county summary actually found once it lands — figures for the ash pond and dike — rather than what it will cover.
+0:26,Everglades,report,I606 — next time: Say what the offers produced — how many went out and what was accepted — not just what will be sent next cycle; the undecided count still rests on UVA Wise.
+0:26,Glacier,report,"I602 was already resolved by Glacier before this report was submitted, so nothing on it was graded or charged."
+0:26,Glacier,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
+0:26,Teton,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
+0:26,Banff,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
