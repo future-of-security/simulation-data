@@ -53,7 +53,7 @@
     "SBA Office of Disaster Recovery and Resilience"
    ],
    "time_limit": 30,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -270,9 +270,9 @@
   {
    "id": "I615",
    "phase": 6,
-   "sim_time": "0:20",
+   "sim_time": "0:23",
    "incident": "The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well",
-   "description": "The hearings came off the docket and the households are in their homes, in houses whose plumbing was ruined by the bad water and whose wells are on a list nobody has reached. A renewed lease in a house that cannot be lived in is a few months of the same problem, and the repair money is the slower money: it wants a title, an inspection and a contractor, and the households with the weakest paperwork are the ones whose houses are worst. The same household can be served by two programs and only one of them leaves it with a house that works.",
+   "description": "The hearings came off the docket and the households are in their homes, in houses whose plumbing was ruined by the bad water and whose wells are on a list nobody has reached. A renewed lease in a house that cannot be lived in is a few months of the same problem, and the repair money is the slower money: it wants a title, an inspection and a contractor, and the households with the weakest paperwork are the ones whose houses are worst. The same household can be served by two programs and only one of them leaves it with a house that works.\n\nWhere I603 stood: it was resolved. What was done: One month of back rent has reached roughly 25–30 households on Friday's eviction docket and caseworkers are opening files for docketed and heirs'-property families… A further round of rental assistance is moving for the docketed households that can produce a lease and a signing landlord…",
    "location": "Wise and Dickenson counties",
    "severity": 4,
    "visible_to": [
@@ -281,7 +281,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I603",
    "opens_when": "resolved"
@@ -424,7 +424,7 @@
    "phase": 6,
    "sim_time": "0:19",
    "incident": "The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers",
-   "description": "Case management has been through all four hundred files, and the cases still open are the ones with no program at the end of them: the household on inherited land with no deed, the renter whose landlord took the repair money, the family whose application was denied and never appealed. No agency's rules reach them and the volunteers who could have done the work with a hammer have gone home. What is left is a list and a decision about whether the region does anything for the people no program was written for.\n\nWhere I611 stood: it was resolved.",
+   "description": "Case management has been through all four hundred files, and the cases still open are the ones with no program at the end of them: the household on inherited land with no deed, the renter whose landlord took the repair money, the family whose application was denied and never appealed. No agency's rules reach them and the volunteers who could have done the work with a hammer have gone home. What is left is a list and a decision about whether the region does anything for the people no program was written for.Where I611 stood: it was resolved.",
    "location": "Southwest Virginia long-term recovery group",
    "severity": 3,
    "visible_to": [
@@ -471,7 +471,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "I603",
    "opens_when": "partially_resolved"

@@ -76,3 +76,21 @@ sim_time,team,type,message
 0:19,Denali,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers
 0:19,Katmai,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers
 0:19,Banff,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers
+0:23,Redwood,report,"I612 saw only a free intelligence share; the primary role did not file a permit, bond or reclamation action this cycle, so the incident sits where it was apart from attempt 1's already-credited work."
+0:23,Katmai,report,"A13 was already charged on katmai_phase6_attempt_1.md and this report refiles it at the full $25K without declaring it the same purchase, so it is charged again at the claimed 0.8 split…"
+0:23,Shenandoah,report,Both filed actions were charged in shenandoah_phase6_attempt_1 and are written here at $0K with no statement that they are already paid for…
+0:23,Denali,report,A13 was already charged on attempt_1 against I603; this is a new use against I625 and is charged at the trust-8 modifier with Denali's claimed 0.4 share of the $25K (Banff holding the other $15K).
+0:23,Denali,incident,I603 — now resolved. Open the incident for what changed.
+0:23,Katmai,incident,I603 — now resolved. Open the incident for what changed.
+0:23,Olympic,incident,I603 — now resolved. Open the incident for what changed.
+0:23,Banff,incident,I625 — now partially resolved. Open the incident for what changed.
+0:23,Denali,incident,I625 — now partially resolved. Open the incident for what changed.
+0:23,Katmai,incident,I625 — now partially resolved. Open the incident for what changed.
+0:23,Redwood,report,"I612 — next time: Name the numbers the operator's filing shows - bond held, cleanup estimate, wages owed - so the next action can be sized."
+0:23,Katmai,report,I603 — resolved. A suggestion: Say which counties' dockets are covered — Lee as well as Wise and Dickenson — and how many months of arrears each household is getting.
+0:23,Katmai,report,I625 — next time: Say how many months the payment buys and what the household will be living on when it ends.
+0:23,Shenandoah,report,"I607 — next time: Say who runs the registry and what each partner contributes, and reconcile the $0 cost lines and $55K balance with the board's figures."
+0:23,Denali,report,"I625 — next time: Say which households the bridge actually reached and what each caseworker's income plan put that household on, rather than a 40-45 range."
+0:23,Katmai,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
+0:23,Denali,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
+0:23,Banff,escalation,New incident: The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well
