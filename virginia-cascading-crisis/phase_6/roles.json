@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "FEMA Region 3",
    "sector": "Federal Disaster Assistance",
-   "budget": 100000,
-   "trust": 6,
-   "score": 0,
+   "budget": 60000,
+   "trust": 5,
+   "score": 75.0,
    "responsibility": "Whether this disaster qualifies for federal help, which programs open, and on what terms"
   },
   {

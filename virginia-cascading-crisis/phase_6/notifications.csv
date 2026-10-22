@@ -20,3 +20,8 @@ sim_time,team,type,message
 0:10,Acadia,escalation,New incident: The Second Route Is Being Built And The Bill Is Arriving At The Customers
 0:10,Banff,escalation,New incident: The Second Route Is Being Built And The Bill Is Arriving At The Customers
 0:10,Everglades,escalation,New incident: The Second Route Is Being Built And The Bill Is Arriving At The Customers
+0:14,Banff,report,"The report works I601 only: it activates A4 at $40K with trust 6, consistent with the stated $60K remaining budget, but leaves the declaration type, the programs that open and shut…"
+0:14,Acadia,incident,I601 — now partially resolved. Open the incident for what changed.
+0:14,Banff,incident,I601 — now partially resolved. Open the incident for what changed.
+0:14,Glacier,incident,I601 — now partially resolved. Open the incident for what changed.
+0:14,Banff,report,"I601 — next time: Say what the statement and program activation actually produced, in past tense, and what a county or a household can now file for under it."
