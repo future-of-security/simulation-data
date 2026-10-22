@@ -161,3 +161,28 @@ sim_time,team,type,message
 0:36,Denali,report,"I623 — next time: Say how many of the open files got a legal path or a repair date, and name who is still waiting on either."
 0:36,Glacier,report,I610 — next time: Say what the shared data actually produced: a baseline is not a plan.
 0:36,Acadia,report,"I608 — next time: If Shentel files on I608, name what it hands a denied business — a filing channel, a referral, a named counterpart — not clinic circuits."
+0:38,Yellowstone,report,"Yellowstone files A10 and A11 against I604, both in role for ARC and priced at trust 6 with no split claimed…"
+0:38,Redwood,report,"One action filed, in role under A24, aimed at I612 and priced at half of the $35K with the ARC named as cost-sharer."
+0:38,Olympic,report,"A9 is the whole of the filed substance against I604, and it reaches only the half of the incident that was never in doubt…"
+0:38,Everglades,report,"A20 was already charged in attempt_2 and is re-filed here as '$0k (already paid)', so it carries no new charge and no claimed split; it adds no new effect on I621."
+0:38,Katmai,report,"Katmai is a supporting role on I610 (primary: LENOWISCO), so the award is capped below full; grading is on the outreach the report says it filed."
+0:38,Olympic,incident,I604 — now partially resolved. Open the incident for what changed.
+0:38,Yellowstone,incident,I604 — now partially resolved. Open the incident for what changed.
+0:38,Zion,incident,I604 — now partially resolved. Open the incident for what changed.
+0:38,Redwood,incident,I612 — now partially resolved. Open the incident for what changed.
+0:38,Yellowstone,incident,I612 — now partially resolved. Open the incident for what changed.
+0:38,Zion,incident,I612 — now partially resolved. Open the incident for what changed.
+0:38,Olympic,incident,I604 — now in progress. Open the incident for what changed.
+0:38,Yellowstone,incident,I604 — now in progress. Open the incident for what changed.
+0:38,Zion,incident,I604 — now in progress. Open the incident for what changed.
+0:38,Acadia,incident,I621 — now in progress. Open the incident for what changed.
+0:38,Banff,incident,I621 — now in progress. Open the incident for what changed.
+0:38,Everglades,incident,I621 — now in progress. Open the incident for what changed.
+0:38,Glacier,incident,I610 — now partially resolved. Open the incident for what changed.
+0:38,Katmai,incident,I610 — now partially resolved. Open the incident for what changed.
+0:38,Teton,incident,I610 — now partially resolved. Open the incident for what changed.
+0:38,Yellowstone,report,I604 — next time: Say how many businesses the grant money reached and how much each got against what it lost; 'produced a plan' does not show the money moving.
+0:38,Redwood,report,"I612 — next time: Say where the jobs at the end of the training actually are, and what your office can do about the operator and the sites themselves, not only the crews."
+0:38,Olympic,report,"I604 — next time: Say how many businesses were actually reached and what was offered to the ones who could not take on more debt, instead of restating what the loan program is."
+0:38,Everglades,report,"I621 — next time: Say what the A6 application actually asked for and what Banff's approval covers, and which cost figures A1 put in front of the other teams."
+0:38,Katmai,report,"I610 — next time: Say how many households the door-to-door teams actually reached and what the summary said, rather than what the teams are assigned to do."

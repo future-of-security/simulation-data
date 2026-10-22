@@ -32,9 +32,9 @@
    "team": "Everglades",
    "role": "Carilion Clinic System",
    "sector": "Health System Recovery",
-   "budget": 136000,
-   "trust": 7,
-   "score": 90.0,
+   "budget": 121000,
+   "trust": 5,
+   "score": 127.5,
    "responsibility": "Which emergency services stay after the crisis, and the long-term health of people exposed during it"
   },
   {
@@ -50,27 +50,27 @@
    "team": "Katmai",
    "role": "Virginia Department of Housing and Community Development",
    "sector": "Housing",
-   "budget": 110000,
-   "trust": 6,
-   "score": 213.75,
+   "budget": 90000,
+   "trust": 7,
+   "score": 276.25,
    "responsibility": "Households behind on rent and repairs, and the housing money that arrives months after it is needed"
   },
   {
    "team": "Olympic",
    "role": "SBA Office of Disaster Recovery and Resilience",
    "sector": "Disaster Lending",
-   "budget": 82500,
-   "trust": 4,
-   "score": 0.0,
+   "budget": 52500,
+   "trust": 5,
+   "score": 37.5,
    "responsibility": "Disaster loans to businesses and households, and who can qualify for them"
   },
   {
    "team": "Redwood",
    "role": "Virginia Energy",
    "sector": "Energy and Mine Land",
-   "budget": 100000,
-   "trust": 6,
-   "score": 85.0,
+   "budget": 82500,
+   "trust": 4,
+   "score": 122.5,
    "responsibility": "Mine permits, reclamation bonds, and what happens to land and jobs when a coal operator walks away"
   },
   {
@@ -95,9 +95,9 @@
    "team": "Yellowstone",
    "role": "Appalachian Regional Commission",
    "sector": "Regional Economic Development",
-   "budget": 117500,
-   "trust": 6,
-   "score": 45.0,
+   "budget": 57500,
+   "trust": 7,
+   "score": 107.5,
    "responsibility": "Federal-state economic development money, and whether it rebuilds the old economy or a new one"
   },
   {

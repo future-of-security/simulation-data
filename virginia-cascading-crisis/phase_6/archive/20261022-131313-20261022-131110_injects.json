@@ -1,0 +1,613 @@
+{
+ "key": "injects",
+ "injects": [
+  {
+   "id": "I601",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Cyberattack Does Not Fit The Definition Of A Major Disaster",
+   "description": "The Stafford Act defines a major disaster by natural catastrophe, or by fire, flood or explosion; a cyberattack is none of these by name. FEMA's Regional office has to recommend what to do with Virginia's request: an emergency declaration with narrow, short help; a major disaster declaration that stretches the definition through the ash pond and the flooded dike work; or a finding that this belongs to other agencies. Whatever is recommended becomes the precedent the next state cites, and the counties need an answer that says what they can apply for.",
+   "location": "Southwest Virginia",
+   "severity": 5,
+   "visible_to": [
+    "FEMA Region 3",
+    "Virginia Department of Emergency Management",
+    "Shentel Communications"
+   ],
+   "time_limit": 35,
+   "state": "partially_resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I602",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Request For Federal Help Is Due On Day Thirty And The Damage Count Is Half Done",
+   "description": "A governor's request for a federal declaration has to be made within thirty days of the incident, and this is day thirty. The damage assessment covers the public systems and the plant; the household losses — lost wages, spoiled medicine, ruined wells, missed rent — are only half counted, because the teams could not reach the hollows. The state can send a request now on the numbers it has, or ask for an extension and send a stronger case later, while every program waits on the request.",
+   "location": "Richmond and the coalfield counties",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Department of Emergency Management",
+    "LENOWISCO Planning District Commission",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I603",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "Two Thousand Households Are A Month Behind On Rent And The Eviction Notices Start Friday",
+   "description": "The mines were shut for most of the month, then shut again, and paychecks stopped with them. About two thousand households in the three counties are at least a month behind on rent or mortgage. Landlords who were patient in week one are filing in week four; the first eviction hearings are Friday. Many of the households are renters, or live on inherited land with no deed in their name, and the federal housing programs are written around owners with paperwork.",
+   "location": "Wise, Lee and Dickenson counties",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia VOAD",
+    "SBA Office of Disaster Recovery and Resilience"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I604",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Diner Needs A Grant And The Only Thing On Offer Is A Loan",
+   "description": "Small businesses lost a month of sales, and many lost their records with the systems. SBA's disaster loans are the fastest money available, at low interest over long terms, but they are loans: the diner, the hardware store and the hair salon that were already thin are being asked to take on debt to survive a disaster they did not cause. Loan applications ask for tax returns and records some of them no longer have.",
+   "location": "Main streets of Norton, Wise and Big Stone Gap",
+   "severity": 4,
+   "visible_to": [
+    "SBA Office of Disaster Recovery and Resilience",
+    "Virginia Bureau of Insurance",
+    "Appalachian Regional Commission"
+   ],
+   "time_limit": 35,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I605",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Grant Window Is Open And The Coal Jobs That Came Back Will Not Stay",
+   "description": "The Appalachian Regional Commission has economic development money it can move to the region this year. The quickest, most popular use is to restart what was there: the mines, the haul companies, the businesses that serve them. The mines that restarted in the crisis are idling again, and the region's coal jobs were shrinking before the attack. Money spent restoring the old economy is visible this year; money spent building a different one shows nothing for several.",
+   "location": "Lee, Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Appalachian Regional Commission",
+    "Virginia Energy",
+    "UVA Wise"
+   ],
+   "time_limit": 40,
+   "state": "partially_resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I606",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "A Third Of UVA Wise's Nursing Class Has Signed With Hospitals In Knoxville",
+   "description": "The graduating nurses watched the clinics run short through the crisis and the dialysis patients driven two hours away. A third of the class has signed contracts with hospitals in Knoxville and Johnson City, which pay more and were not attacked; others are deciding now. Families with young children are leaving the counties too. The region cannot recover its clinics without the people who staff them, and the people deciding to go are the ones the region trained.",
+   "location": "UVA Wise, Wise",
+   "severity": 5,
+   "visible_to": [
+    "UVA Wise",
+    "Carilion Clinic System",
+    "LENOWISCO Planning District Commission"
+   ],
+   "time_limit": 30,
+   "state": "in_progress",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I607",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The People Exposed This Month Need Twenty Years Of Follow-Up And Nobody Has Paid For Year Two",
+   "description": "People drank water from a plant with missing chlorine records, lived near an ash pond under pressure, and breathed whatever made twenty-three people sick in Appalachia. Some of what follows exposure appears years later. Carilion can enrol them in a registry with regular screening, but the crisis money ends this year, and many of the people who would be enrolled no longer believe what official bodies tell them about their health.",
+   "location": "Appalachia, Carbo and the Wise County water system",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Clinic System",
+    "Virginia VOAD",
+    "UVA Wise"
+   ],
+   "time_limit": 35,
+   "state": "partially_resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I608",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "Insurers Are Denying Business Claims Under The War Exclusion",
+   "description": "Businesses filing for lost income and damaged equipment are getting denials citing the war or hostile-acts exclusion: the attack was state-backed, the insurers say, so it is war. Courts have rejected that reading in another cyberattack case, and policies written since then use new exclusion wording that is still untested. Every denied claim is a business deciding whether to borrow, fight in court for a year, or close.",
+   "location": "Southwest Virginia",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Bureau of Insurance",
+    "SBA Office of Disaster Recovery and Resilience",
+    "Shentel Communications"
+   ],
+   "time_limit": 30,
+   "state": "in_progress",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I609",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "Shentel Can Restore The Fiber As It Was In Two Weeks, Or With A Second Route In Five Months",
+   "description": "The fiber trunk the attack cut carried the region's 911 links, clinic records and most of its internet over a single path. Shentel can splice it back as it was in two weeks, or build a second, separate route that would have kept the region connected, which takes five months and costs several times more. Every week of delay is a week of degraded service; every dollar of the second route is a dollar that someone — the company, its customers or a mitigation grant — has to put up.",
+   "location": "Shentel backbone, Southwest Virginia",
+   "severity": 5,
+   "visible_to": [
+    "Shentel Communications",
+    "FEMA Region 3",
+    "Carilion Clinic System"
+   ],
+   "time_limit": 30,
+   "state": "resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I610",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Recovery Plan Is Due And Nobody From The Hollows Came To The Meetings",
+   "description": "LENOWISCO has to adopt a recovery plan that federal and state grants will read to decide what gets funded. Three public meetings were held at the county offices during working hours; the people who came were officials, business owners and contractors. The households in the hollows, the miners' families and the renters were not there, and many of them have no internet and no reason to trust a meeting at the courthouse. The plan will be written either way.",
+   "location": "Lee, Wise, Scott and Norton",
+   "severity": 4,
+   "visible_to": [
+    "LENOWISCO Planning District Commission",
+    "Virginia Department of Emergency Management",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "time_limit": 35,
+   "state": "in_progress",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I611",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "Four Hundred Household Cases Are Still Open And The Volunteers Are Going Home",
+   "description": "Church groups and national volunteer organisations came in week one. By week four most are leaving, as they do after every disaster, and the long-term recovery group still has four hundred open household cases: wells to replace, plumbing ruined by bad water, back rent, medicine debts, applications denied for missing paperwork. The cases that remain are the hardest, and they will take a year, after the cameras and the money have gone.",
+   "location": "Southwest Virginia long-term recovery group",
+   "severity": 4,
+   "visible_to": [
+    "Virginia VOAD",
+    "FEMA Region 3",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "time_limit": 40,
+   "state": "resolved",
+   "points_resolve": 125,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I612",
+   "phase": 6,
+   "sim_time": "0:00",
+   "incident": "The Bullitt Fork Operator Has Filed For Bankruptcy And Its Bond Covers A Third Of The Cleanup",
+   "description": "The company that ran Bullitt Fork and the other restarted mines filed for bankruptcy after the crews walked out again. It owes its miners back wages and has left three permitted sites unreclaimed, with water running off one of them. The reclamation bonds the state holds cover about a third of the estimated cleanup; the surety that wrote them has said it will contest. The land, the water and the jobs that the cleanup would bring are now the state's problem.",
+   "location": "Bullitt Fork and two other permitted sites",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Energy",
+    "Virginia Bureau of Insurance",
+    "Appalachian Regional Commission"
+   ],
+   "time_limit": 30,
+   "state": "partially_resolved",
+   "points_resolve": 150,
+   "opens_after": "",
+   "opens_when": ""
+  },
+  {
+   "id": "I613",
+   "phase": 6,
+   "sim_time": "0:22",
+   "incident": "The Declaration Opens Programs The Counties Cannot Afford Their Share Of",
+   "description": "The declaration is on the record and the counties it names have a program to apply under, and the first thing that stops them is the local share. Wise, Lee and Dickenson have spent their road, water and school budgets on the response and cannot front the percentage every public assistance project requires; a county that cannot pay its share does not get the work done, and the share is not the county's to set. The recommendation that named the programs is now the thing that decides whether the poorest places in the region can use them.",
+   "location": "Lee, Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Department of Emergency Management",
+    "FEMA Region 3",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I601",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I614",
+   "phase": 6,
+   "sim_time": "0:26",
+   "incident": "The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From",
+   "description": "The request is filed, and the federal reviewers have come back on the weakest part of it: the household losses, gathered in a month when the teams could not reach half the hollows. A declaration rests on a case that can be defended line by line, and the state can run the assessment again in the places the reviewers named and file that answer inside the window, or let the case rest on the counts it already holds. Every program the counties are waiting on is downstream of a number somebody has to stand behind.Where I602 stood: it was resolved. What was done: Field teams are counting households, wells and lost wages in the hollows that were never reached; the household losses are being documented…",
+   "location": "Richmond and the coalfield counties",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Department of Emergency Management",
+    "LENOWISCO Planning District Commission",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I602",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I615",
+   "phase": 6,
+   "sim_time": "0:23",
+   "incident": "The Rent Is Paid And The Houses Still Have Ruined Plumbing And No Well",
+   "description": "The hearings came off the docket and the households are in their homes, in houses whose plumbing was ruined by the bad water and whose wells are on a list nobody has reached. A renewed lease in a house that cannot be lived in is a few months of the same problem, and the repair money is the slower money: it wants a title, an inspection and a contractor, and the households with the weakest paperwork are the ones whose houses are worst. The same household can be served by two programs and only one of them leaves it with a house that works.Where I603 stood: it was resolved. What was done: One month of back rent has reached roughly 25–30 households on Friday's eviction docket and caseworkers are opening files for docketed and heirs'-property families… A further round of rental assistance is moving for the docketed households that can produce a lease and a signing landlord…",
+   "location": "Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia VOAD",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I603",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I616",
+   "phase": 6,
+   "sim_time": "0:24",
+   "incident": "The Loans Are Signed And The Mine That Bought Their Lunch Is Gone",
+   "description": "The diners and the hardware stores that took the disaster money have it, and the customer they took it for has filed: the operator at Bullitt Fork is in bankruptcy and the crews that ate lunch in town are not on a payroll. A loan sized to last year's sales is now a payment against this year's, and the same businesses that borrowed to survive the attack are being asked to service the debt in a town with fewer paychecks in it. The terms on those loans are the lender's to change and nobody else's.",
+   "location": "Main streets of Norton, Wise and Big Stone Gap",
+   "severity": 4,
+   "visible_to": [
+    "SBA Office of Disaster Recovery and Resilience",
+    "Appalachian Regional Commission",
+    "Virginia Bureau of Insurance"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I604",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I617",
+   "phase": 6,
+   "sim_time": "0:25",
+   "incident": "The Applications Came From The Towns With Grant Writers And The Hollows Sent None",
+   "description": "The money is committed and every application that came in was written by a town with a planning office, a county with a consultant or a business with an accountant. The communities that were hit hardest sent nothing, because writing the application costs money they do not have before any of it is awarded, and the same people are writing the same applications for the round that is left. A grant program reaches the places that can fill in its forms, which are not the places that lost the most.",
+   "location": "Lee, Wise and Dickenson counties",
+   "severity": 3,
+   "visible_to": [
+    "Appalachian Regional Commission",
+    "UVA Wise",
+    "Virginia Energy"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I605",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I618",
+   "phase": 6,
+   "sim_time": "0:20",
+   "incident": "The Nurses Stayed And The Places That Lost Their Care Did Not Get Them",
+   "description": "The graduates who signed are staying, and the work they trained for is the work that closed: the rural clinics shut during the crisis have not reopened, so a nurse on a retention agreement is being placed in Norton or in a clinic two counties away, and the households in the hollows still have the drive they had in week one. Keeping people in the region and getting care back to the places that lost it are two different promises, and the second one has to be kept before the first one looks like a trick.",
+   "location": "Wise, Dickenson and Lee counties",
+   "severity": 4,
+   "visible_to": [
+    "UVA Wise",
+    "Carilion Clinic System",
+    "LENOWISCO Planning District Commission"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I606",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I619",
+   "phase": 6,
+   "sim_time": "0:22",
+   "incident": "The Registry Has Found A Pattern And The Households Who Enrolled Want Their Own Results",
+   "description": "The registry has been running long enough to show something: the screenings of the people exposed during the crisis have a pattern in them, in a county where the same households were told by official bodies that the water was fine. The people who enrolled did so on the understanding that it was for their health and not for a study, and a finding published before they have been told their own results makes them the last to know what is in their own bodies. Somebody has to decide which comes first, the record or the person.",
+   "location": "Appalachia, Carbo and the Wise County water system",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Clinic System",
+    "Virginia VOAD",
+    "UVA Wise"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I607",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I620",
+   "phase": 6,
+   "sim_time": "0:20",
+   "incident": "The Claims Are Being Paid And The Policies Are Not Being Renewed",
+   "description": "The denials that were ordered corrected are being paid, and the same insurers are sending non-renewal notices to the businesses that filed. A paid claim and an uninsurable main street are both outcomes of the same examination, the insurers are not obliged to write a policy they do not want to write, and the businesses have nowhere else in the state to buy the cover they need. What the bureau writes down now decides whether a business here can be insured for the next event at any price.",
+   "location": "Southwest Virginia",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Bureau of Insurance",
+    "SBA Office of Disaster Recovery and Resilience",
+    "Shentel Communications"
+   ],
+   "time_limit": 28,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I608",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I621",
+   "phase": 6,
+   "sim_time": "0:10",
+   "incident": "The Second Route Is Being Built And The Bill Is Arriving At The Customers",
+   "description": "The second path is funded and under construction, and the money has become a line on the bills of the households and clinics that lost service, some of them in the hollows the new route does not reach and where service never came back properly in the first place. A route that holds is a public good paid for by a private company's ratepayers, and the boards that were loudest about redundancy in week one are the ones whose constituents are asking why the bill went up. The company's next decision is who pays for it and who is told what it bought.Where I609 stood: it was resolved.",
+   "location": "Shentel backbone, Southwest Virginia",
+   "severity": 4,
+   "visible_to": [
+    "Shentel Communications",
+    "FEMA Region 3",
+    "Carilion Clinic System"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I609",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I622",
+   "phase": 6,
+   "sim_time": "0:22",
+   "incident": "The Plan Says What The Hollows Asked For And The First Grants Went To The Projects With A Sponsor",
+   "description": "The plan was adopted with the hollows in it, and the first funding round under it went to the projects that had somebody to sign the application: the county water line, the town's main street, the college's building. A project in an unincorporated hollow needs an applicant with a bank account and an audit, and the households that turned out at the fire hall to ask for it do not have one. The plan's own ranking is the only thing standing between what was asked for and what gets built.",
+   "location": "Lee, Wise, Scott and Norton",
+   "severity": 3,
+   "visible_to": [
+    "LENOWISCO Planning District Commission",
+    "Virginia Department of Emergency Management",
+    "Virginia Department of Housing and Community Development"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I610",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I623",
+   "phase": 6,
+   "sim_time": "0:19",
+   "incident": "The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers",
+   "description": "Case management has been through all four hundred files, and the cases still open are the ones with no program at the end of them: the household on inherited land with no deed, the renter whose landlord took the repair money, the family whose application was denied and never appealed. No agency's rules reach them and the volunteers who could have done the work with a hammer have gone home. What is left is a list and a decision about whether the region does anything for the people no program was written for.Where I611 stood: it was resolved.",
+   "location": "Southwest Virginia long-term recovery group",
+   "severity": 3,
+   "visible_to": [
+    "Virginia VOAD",
+    "Virginia Department of Housing and Community Development",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "in_progress",
+   "points_resolve": 125,
+   "opens_after": "I611",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I624",
+   "phase": 6,
+   "sim_time": "0:20",
+   "incident": "The Crews Are On The Site And The Money Runs Out At The Second One",
+   "description": "The bond and the state's reclamation money are paying local crews to close the three permitted sites, and the arithmetic is public: what is funded gets two of them clean and staffed for two years, and the third is a water problem that does not stop when the money does. Drainage from a closed site is treated for decades or it is not treated at all, and the operator that owed it is in a courtroom. The decision is what the state writes down as the obligation at the end of the work.",
+   "location": "Bullitt Fork and two other permitted sites",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Energy",
+    "Virginia Bureau of Insurance",
+    "Appalachian Regional Commission"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I612",
+   "opens_when": "resolved"
+  },
+  {
+   "id": "I625",
+   "phase": 6,
+   "sim_time": "0:06",
+   "incident": "The Rent Is Being Paid And Nobody Has Found The Paychecks",
+   "description": "Rental assistance is reaching the households on the Friday list and the hearings are being continued rather than dismissed, because what the money bought is months and not income. The mines that were going to hire back are the ones in bankruptcy, the businesses that served them are counting customers, and the same households will be on a docket in the spring with the same arrears and a program that has already been used on them. The landlords have learned that the county pays, and some have started asking for what the program will cover.Where I603 stood: it was partly resolved.",
+   "location": "Wise and Dickenson counties",
+   "severity": 4,
+   "visible_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia VOAD",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "partially_resolved",
+   "points_resolve": 125,
+   "opens_after": "I603",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I626",
+   "phase": 6,
+   "sim_time": "0:17",
+   "incident": "The Denials Have Been Explained And The Businesses Are Still Waiting",
+   "description": "Every insurer has answered in writing with the policy language it is relying on, and the answers have turned a pile of denials into a pile of disputes: a business has a document it can appeal, a lawyer's letter costs more than some of the claims are worth, and the insurers with the newer exclusion wording are citing it in terms nobody has tested in a Virginia court. Explaining a denial and paying a claim are different acts and only one of them keeps a business open. What is missing is somebody to hear the appeal who does not charge by the hour.",
+   "location": "Southwest Virginia",
+   "severity": 3,
+   "visible_to": [
+    "Virginia Bureau of Insurance",
+    "SBA Office of Disaster Recovery and Resilience",
+    "Appalachian Regional Commission"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 100,
+   "opens_after": "I608",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I627",
+   "phase": 6,
+   "sim_time": "0:20",
+   "incident": "The Case Managers Have The Files And The Crews Have Gone Home",
+   "description": "Case managers are working the four hundred cases and the crews that could have done the work are gone for the year, so the files are moving and the houses are not: a case closes when the well is in and the plumbing is fixed, and what the case managers can do this month is order the work, price it and put the household on a list for a crew that is not coming. The easiest cases were closed first, and the ones left need a hammer and a licensed trade.",
+   "location": "Southwest Virginia long-term recovery group",
+   "severity": 4,
+   "visible_to": [
+    "Virginia VOAD",
+    "Virginia Department of Housing and Community Development",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 125,
+   "opens_after": "I611",
+   "opens_when": "partially_resolved"
+  },
+  {
+   "id": "I628",
+   "phase": 6,
+   "sim_time": "0:35",
+   "incident": "The Recommendation Names Other Agencies And The Counties Have Run Out Of Time To Wait",
+   "description": "Nothing the counties can apply for has come out of the definition question, and where there is an answer on the record it is that the programs these households need sit with other agencies: a legal answer that is also a decision about who pays. The three counties are holding damage they have already documented, an eviction list that does not wait for a declaration, and wells and plumbing on a repair list no federal program reaches. Whatever is spent in the coalfield this year is spent by the state, out of money that comes from somewhere else.",
+   "location": "Southwest Virginia",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Department of Housing and Community Development",
+    "Virginia Department of Emergency Management",
+    "FEMA Region 3"
+   ],
+   "time_limit": 25,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I601",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I629",
+   "phase": 6,
+   "sim_time": "0:25",
+   "incident": "The Window Closed With The Request Unfinished And FEMA Decides What A Late Filing Is Worth",
+   "description": "Day thirty has gone and there is no request on the record that a federal program can act on: the public damage is counted, the household losses are a figure the teams could not complete, and the counties nobody reached are named as not reached if they are named at all. FEMA can take what exists, return it for the record it does not have, or open what it can on what is there, and every program the counties are waiting on now hangs off a filing date that has passed.",
+   "location": "Richmond and the coalfield counties",
+   "severity": 5,
+   "visible_to": [
+    "FEMA Region 3",
+    "Virginia Department of Emergency Management",
+    "LENOWISCO Planning District Commission"
+   ],
+   "time_limit": 30,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I602",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I630",
+   "phase": 6,
+   "sim_time": "0:30",
+   "incident": "The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses",
+   "description": "The graduates who were deciding have decided, and the clinics are covering the shifts they would have worked with travel nurses at several times the salary, on contracts that end in weeks. The university is training the next class for the same recruiters and the young families are still leaving, so the cost of a decision nobody made is now a line in a hospital budget that comes out of something else. Somebody has to decide whether the region pays to keep people or pays more to rent them.\n\nWhere I606 stood: it was only partly addressed. What was done: Loan repayment stipends now go to undecided nursing graduates who commit two years to a regional clinic, and a local LPN/CNA-to-RN cohort is funded… Carilion has put loan repayment and stipends on the table for undecided UVA Wise graduates, which slows some signings…",
+   "location": "Norton, Wise and Big Stone Gap",
+   "severity": 4,
+   "visible_to": [
+    "Carilion Clinic System",
+    "UVA Wise",
+    "LENOWISCO Planning District Commission"
+   ],
+   "time_limit": 25,
+   "state": "open",
+   "points_resolve": 125,
+   "opens_after": "I606",
+   "opens_when": "unresolved"
+  },
+  {
+   "id": "I631",
+   "phase": 6,
+   "sim_time": "0:30",
+   "incident": "The Path Is Still Single And The Mitigation Money Has One Cycle Left",
+   "description": "The trunk is carrying the region's 911 links, clinic records and internet on the same single path it carried them on the day the attack cut it, and every week spent deciding is a week of degraded service on that path. The federal mitigation money that could pay for a second route is awarded in cycles, the last one of the year closes in weeks, and an application that does not show what the route protects is not funded at all. The region gets one chance to be in that cycle and the company is the only applicant that can be in it.",
+   "location": "Shentel backbone, Southwest Virginia",
+   "severity": 5,
+   "visible_to": [
+    "Shentel Communications",
+    "FEMA Region 3",
+    "Carilion Clinic System"
+   ],
+   "time_limit": 22,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I609",
+   "opens_when": "escalated"
+  },
+  {
+   "id": "I632",
+   "phase": 6,
+   "sim_time": "0:30",
+   "incident": "The Surety Is Contesting The Bond And The Water Off Bullitt Fork Is Going Somewhere",
+   "description": "The bond the state holds is being contested by the surety that wrote it, the bankruptcy has frozen the operator's assets, and the runoff from the Bullitt Fork site is running into a creek that reaches a public intake a few miles down. The state's reclamation fund is the only money that can be spent before a court says who owes what, and spending it sets the number the state will argue about for years. Waiting keeps the state's claim clean and leaves the water running.",
+   "location": "Bullitt Fork and two other permitted sites",
+   "severity": 5,
+   "visible_to": [
+    "Virginia Energy",
+    "Virginia Bureau of Insurance",
+    "Appalachian Regional Commission"
+   ],
+   "time_limit": 20,
+   "state": "hidden",
+   "points_resolve": 150,
+   "opens_after": "I612",
+   "opens_when": "escalated"
+  }
+ ]
+}
