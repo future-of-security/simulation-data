@@ -44,3 +44,35 @@ sim_time,team,type,message
 0:17,Teton,report,"I602 — next time: Say what the field teams came back with — how many households, wells and lost wages — rather than that teams were sent in."
 0:17,Redwood,report,"I605 — next time: Say how many miners the reclamation payroll hires and over what period, so this spend can be read against the other applications for the same money."
 0:17,Redwood,report,"I612 — next time: Name which forfeited site the crews are on and when the water work starts, if that is where the money is going."
+0:19,Shenandoah,report,"Both actions were filed at $0K with no explanation, so they are recorded at catalog price with the claimed 0.5 split on A25; the phase zeroes any repeat use itself."
+0:19,Denali,report,Both filed actions are in role for Virginia VOAD; A14 was already charged on denali_phase6_attempt_1.md and is re-filed here at list price with no statement that it is already paid for…
+0:19,Zion,report,The report is a single-incident submission on I612 and says what the examination will demand and who receives the findings…
+0:19,Acadia,report,"I608's primary is the Virginia Bureau of Insurance, so this report could not have closed it; in any case its filed action leaves the denials untouched."
+0:19,Everglades,report,A20 charged at catalog price with the trust modifier and the claimed half share; as written the action is advocacy about Shentel's route rather than redundancy in a system Carilion owns…
+0:19,Acadia,report,"A6 is treated as taken against I601, the incident the report names, and graded as a supporting role's contribution since I601 is FEMA Region 3's to close, so the ceiling is strong_partial…"
+0:19,Katmai,report,"Katmai filed A13 against I603 in role, but this is the near miss the incident turns on and the report adds nothing that reaches the families the paperwork excludes…"
+0:19,Redwood,incident,I605 — now partially resolved. Open the incident for what changed.
+0:19,Shenandoah,incident,I605 — now partially resolved. Open the incident for what changed.
+0:19,Yellowstone,incident,I605 — now partially resolved. Open the incident for what changed.
+0:19,Banff,incident,I611 — now resolved. Open the incident for what changed.
+0:19,Denali,incident,I611 — now resolved. Open the incident for what changed.
+0:19,Katmai,incident,I611 — now resolved. Open the incident for what changed.
+0:19,Redwood,incident,I612 — now partially resolved. Open the incident for what changed.
+0:19,Yellowstone,incident,I612 — now partially resolved. Open the incident for what changed.
+0:19,Zion,incident,I612 — now partially resolved. Open the incident for what changed.
+0:19,Acadia,incident,I601 — now partially resolved. Open the incident for what changed.
+0:19,Banff,incident,I601 — now partially resolved. Open the incident for what changed.
+0:19,Glacier,incident,I601 — now partially resolved. Open the incident for what changed.
+0:19,Denali,incident,I603 — now partially resolved. Open the incident for what changed.
+0:19,Katmai,incident,I603 — now partially resolved. Open the incident for what changed.
+0:19,Olympic,incident,I603 — now partially resolved. Open the incident for what changed.
+0:19,Shenandoah,report,"I605 — next time: Name the employer or contract each cohort feeds and the employment it produces, and say what the stipends actually held onto."
+0:19,Denali,report,I611 — resolved. A suggestion: Name the caseload each manager carries and where the rest of the four hundred cases land once the high-risk half is triaged.
+0:19,Zion,report,"I612 — next time: Say when the surety's bond files will actually be in hand and what the examination can compel, so Virginia Energy knows what to do with the findings."
+0:19,Acadia,report,"I608 — next time: Say which clinics, libraries or homes actually got connected and who was seen, and what that does for the businesses whose claims were denied."
+0:19,Everglades,report,"I609 — next time: Say what the $30K actually buys — which system gets a backup or manual fallback, and when it is live — instead of what Carilion will advocate for."
+0:19,Acadia,report,"I601 — next time: Add the application number and any VDEM or FEMA Region 3 acknowledgement of receipt, so other teams can cite the filing without checking back with you."
+0:19,Katmai,report,"I603 — next time: Say how many months of back rent the payment covers and which docketed households it reaches, and describe what the money produced rather than the meeting it opened."
+0:19,Denali,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers
+0:19,Katmai,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers
+0:19,Banff,escalation,New incident: The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers

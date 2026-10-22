@@ -205,7 +205,7 @@
     "Virginia Department of Housing and Community Development"
    ],
    "time_limit": 40,
-   "state": "open",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -224,7 +224,7 @@
     "Appalachian Regional Commission"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -386,7 +386,7 @@
    "phase": 6,
    "sim_time": "0:10",
    "incident": "The Second Route Is Being Built And The Bill Is Arriving At The Customers",
-   "description": "The second path is funded and under construction, and the money has become a line on the bills of the households and clinics that lost service, some of them in the hollows the new route does not reach and where service never came back properly in the first place. A route that holds is a public good paid for by a private company's ratepayers, and the boards that were loudest about redundancy in week one are the ones whose constituents are asking why the bill went up. The company's next decision is who pays for it and who is told what it bought.\n\nWhere I609 stood: it was resolved.",
+   "description": "The second path is funded and under construction, and the money has become a line on the bills of the households and clinics that lost service, some of them in the hollows the new route does not reach and where service never came back properly in the first place. A route that holds is a public good paid for by a private company's ratepayers, and the boards that were loudest about redundancy in week one are the ones whose constituents are asking why the bill went up. The company's next decision is who pays for it and who is told what it bought.Where I609 stood: it was resolved.",
    "location": "Shentel backbone, Southwest Virginia",
    "severity": 4,
    "visible_to": [
@@ -422,9 +422,9 @@
   {
    "id": "I623",
    "phase": 6,
-   "sim_time": "0:25",
+   "sim_time": "0:19",
    "incident": "The Easy Cases Are Closed And What Is Left Are The Ones No Program Covers",
-   "description": "Case management has been through all four hundred files, and the cases still open are the ones with no program at the end of them: the household on inherited land with no deed, the renter whose landlord took the repair money, the family whose application was denied and never appealed. No agency's rules reach them and the volunteers who could have done the work with a hammer have gone home. What is left is a list and a decision about whether the region does anything for the people no program was written for.",
+   "description": "Case management has been through all four hundred files, and the cases still open are the ones with no program at the end of them: the household on inherited land with no deed, the renter whose landlord took the repair money, the family whose application was denied and never appealed. No agency's rules reach them and the volunteers who could have done the work with a hammer have gone home. What is left is a list and a decision about whether the region does anything for the people no program was written for.\n\nWhere I611 stood: it was resolved.",
    "location": "Southwest Virginia long-term recovery group",
    "severity": 3,
    "visible_to": [
@@ -433,7 +433,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I611",
    "opens_when": "resolved"
