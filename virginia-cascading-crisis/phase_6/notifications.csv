@@ -336,3 +336,5 @@ sim_time,team,type,message
 1:09,Katmai,incident,I622 — now in progress. Open the incident for what changed.
 1:09,Teton,incident,I622 — now in progress. Open the incident for what changed.
 1:09,Glacier,report,"I622 — next time: Say which hollow project the application names, who signs it, and how many households the door-to-door record covers."
+1:13,Everglades,report,"The submission is a planning brief and a critique of the simulation: it files no action id, no cost and no result, so no incident visible to this role was moved by it."
+1:13,Everglades,report,"Your report did not name an incident id on its **Incident:** line, so its incident's clock was not held while it was read."
