@@ -53,7 +53,7 @@
     "SBA Office of Disaster Recovery and Resilience"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -460,9 +460,9 @@
   {
    "id": "I625",
    "phase": 6,
-   "sim_time": "0:16",
+   "sim_time": "0:06",
    "incident": "The Rent Is Being Paid And Nobody Has Found The Paychecks",
-   "description": "Rental assistance is reaching the households on the Friday list and the hearings are being continued rather than dismissed, because what the money bought is months and not income. The mines that were going to hire back are the ones in bankruptcy, the businesses that served them are counting customers, and the same households will be on a docket in the spring with the same arrears and a program that has already been used on them. The landlords have learned that the county pays, and some have started asking for what the program will cover.",
+   "description": "Rental assistance is reaching the households on the Friday list and the hearings are being continued rather than dismissed, because what the money bought is months and not income. The mines that were going to hire back are the ones in bankruptcy, the businesses that served them are counting customers, and the same households will be on a docket in the spring with the same arrears and a program that has already been used on them. The landlords have learned that the county pays, and some have started asking for what the program will cover.\n\nWhere I603 stood: it was partly resolved.",
    "location": "Wise and Dickenson counties",
    "severity": 4,
    "visible_to": [
@@ -471,7 +471,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I603",
    "opens_when": "partially_resolved"
@@ -609,6 +609,5 @@
    "opens_after": "I612",
    "opens_when": "escalated"
   }
- ],
- "phase": 6
+ ]
 }

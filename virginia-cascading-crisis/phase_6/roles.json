@@ -23,9 +23,9 @@
    "team": "Denali",
    "role": "Virginia VOAD",
    "sector": "Voluntary Recovery",
-   "budget": 125000,
-   "trust": 7,
-   "score": 0,
+   "budget": 55000,
+   "trust": 8,
+   "score": 75.0,
    "responsibility": "The long-term recovery group: open household cases, volunteers, and the needs no program covers"
   },
   {
@@ -109,6 +109,5 @@
    "score": 0,
    "responsibility": "Insurers' claims decisions, policy exclusions, and the bonds and coverage the region depends on"
   }
- ],
- "phase": 6
+ ]
 }
