@@ -34,7 +34,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
@@ -91,7 +91,7 @@
     "UVA Wise"
    ],
    "time_limit": 40,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -110,7 +110,7 @@
     "LENOWISCO Planning District Commission"
    ],
    "time_limit": 30,
-   "state": "open",
+   "state": "in_progress",
    "points_resolve": 150,
    "opens_after": "",
    "opens_when": ""
