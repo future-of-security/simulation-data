@@ -141,3 +141,23 @@ sim_time,team,type,message
 0:30,Everglades,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
 0:30,Shenandoah,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
 0:30,Teton,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
+0:36,Acadia,report,"Acadia filed against I601, where it is a distant supporting role behind FEMA Region 3, and its A6 sub-application feeds the declaration record without moving which declaration is chosen."
+0:36,Yellowstone,report,"I612's primary is Virginia Energy; ARC is a visible supporting role, so the ceiling here is strong_partial…"
+0:36,Denali,report,"Filed under I625, but the actions and every effect they describe are on I623 (the no-program files), so the world moved there and not on the rental households; credit sits on I623 accordingly."
+0:36,Glacier,report,"The report targets I610 and files only free A1, describing a baseline recovery plan built from Katmai's aggregate data; no plan action (A28) is filed, and LENOWISCO holds the primary role on I610."
+0:36,Acadia,report,"The submission names I608, where Shentel is a supporting role, but its single action is a re-use of the telehealth expansion credited earlier and the team concedes it delivers nothing to the denied…"
+0:36,Redwood,incident,I612 — now partially resolved. Open the incident for what changed.
+0:36,Yellowstone,incident,I612 — now partially resolved. Open the incident for what changed.
+0:36,Zion,incident,I612 — now partially resolved. Open the incident for what changed.
+0:36,Banff,incident,I623 — now in progress. Open the incident for what changed.
+0:36,Denali,incident,I623 — now in progress. Open the incident for what changed.
+0:36,Katmai,incident,I623 — now in progress. Open the incident for what changed.
+0:36,Glacier,incident,I610 — now in progress. Open the incident for what changed.
+0:36,Katmai,incident,I610 — now in progress. Open the incident for what changed.
+0:36,Teton,incident,I610 — now in progress. Open the incident for what changed.
+0:36,Acadia,report,"I601 — next time: Say how your evidence bears on the declaration FEMA has to choose between, not only what the application contains."
+0:36,Yellowstone,report,"I612 — next time: Say what the stipends and the cohort actually produced — how many workers accepted or enrolled, and which employers will be hiring at the end of it."
+0:36,Denali,report,"I625 — next time: Say what the clinics and crews produced, and file against the incident the work serves — the rental households appear nowhere in this report."
+0:36,Denali,report,"I623 — next time: Say how many of the open files got a legal path or a repair date, and name who is still waiting on either."
+0:36,Glacier,report,I610 — next time: Say what the shared data actually produced: a baseline is not a plan.
+0:36,Acadia,report,"I608 — next time: If Shentel files on I608, name what it hands a denied business — a filing channel, a referral, a named counterpart — not clinic circuits."
