@@ -1003,3 +1003,7 @@
 {"at": "2026-10-22T15:16:45-04:00", "kind": "claim_settled", "sim": "2:41", "team": "Everglades", "detail": "with ?:", "data": {"action_id": "A25"}}
 {"at": "2026-10-22T15:16:46-04:00", "kind": "pass_started", "sim": "2:41", "detail": "dispute started", "data": {"worker": "dispute", "model": "arc-deepseek-flash-thinking-high", "stage": "A2-I602"}}
 {"at": "2026-10-22T15:18:07-04:00", "kind": "pass_finished", "sim": "2:41", "detail": "dispute failed in 1m21s", "data": {"worker": "dispute", "ok": false, "seconds": 81.7, "model": "arc-deepseek-flash-thinking-high", "problems": "dispute: wrote to the live board: ['roles.json']"}}
+{"at": "2026-10-22T15:18:09-04:00", "kind": "team_scored", "sim": "2:43", "team": "Everglades", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 0.0, "trust_delta": 0.0, "score_awarded": 0.0}}
+{"at": "2026-10-22T15:18:09-04:00", "kind": "team_scored", "sim": "2:43", "team": "Shenandoah", "detail": "reconciled: corrected after the partner's report", "data": {"budget_charged": 0.0, "trust_delta": 0.0, "score_awarded": 0.0}}
+{"at": "2026-10-22T15:18:09-04:00", "kind": "reconcile_finished", "sim": "2:43", "detail": "2 team(s) corrected", "data": {"credited": "Everglades, Shenandoah"}}
+{"at": "2026-10-22T15:53:45-04:00", "kind": "phase_ended", "detail": "countdown stopped; unconfirmed splits settle next"}
