@@ -23,7 +23,7 @@
    "team": "Denali",
    "role": "Virginia VOAD",
    "sector": "Voluntary Recovery",
-   "budget": 31000,
+   "budget": 6000,
    "trust": 6,
    "score": 300.0,
    "responsibility": "The long-term recovery group: open household cases, volunteers, and the needs no program covers"
@@ -32,7 +32,7 @@
    "team": "Everglades",
    "role": "Carilion Clinic System",
    "sector": "Health System Recovery",
-   "budget": -30000,
+   "budget": -90000,
    "trust": 3,
    "score": 408.75,
    "responsibility": "Which emergency services stay after the crisis, and the long-term health of people exposed during it"
@@ -41,7 +41,7 @@
    "team": "Glacier",
    "role": "Virginia Department of Emergency Management",
    "sector": "State Emergency Management",
-   "budget": 68334,
+   "budget": 48334,
    "trust": 5,
    "score": 442.5,
    "responsibility": "The state's request for federal help, its share of the cost, and who it is spent on"
@@ -77,7 +77,7 @@
    "team": "Shenandoah",
    "role": "UVA Wise",
    "sector": "Higher Education",
-   "budget": -20000,
+   "budget": -77500,
    "trust": 6,
    "score": 240.0,
    "responsibility": "The region's university: graduates, nurses and young people deciding whether to stay"
