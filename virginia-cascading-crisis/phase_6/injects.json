@@ -253,7 +253,7 @@
    "phase": 6,
    "sim_time": "0:26",
    "incident": "The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From",
-   "description": "The request is filed, and the federal reviewers have come back on the weakest part of it: the household losses, gathered in a month when the teams could not reach half the hollows. A declaration rests on a case that can be defended line by line, and the state can run the assessment again in the places the reviewers named and file that answer inside the window, or let the case rest on the counts it already holds. Every program the counties are waiting on is downstream of a number somebody has to stand behind.\n\nWhere I602 stood: it was resolved. What was done: Field teams are counting households, wells and lost wages in the hollows that were never reached; the household losses are being documented…",
+   "description": "The request is filed, and the federal reviewers have come back on the weakest part of it: the household losses, gathered in a month when the teams could not reach half the hollows. A declaration rests on a case that can be defended line by line, and the state can run the assessment again in the places the reviewers named and file that answer inside the window, or let the case rest on the counts it already holds. Every program the counties are waiting on is downstream of a number somebody has to stand behind.Where I602 stood: it was resolved. What was done: Field teams are counting households, wells and lost wages in the hollows that were never reached; the household losses are being documented…",
    "location": "Richmond and the coalfield counties",
    "severity": 4,
    "visible_to": [
@@ -557,7 +557,7 @@
    "phase": 6,
    "sim_time": "0:30",
    "incident": "The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses",
-   "description": "The graduates who were deciding have decided, and the clinics are covering the shifts they would have worked with travel nurses at several times the salary, on contracts that end in weeks. The university is training the next class for the same recruiters and the young families are still leaving, so the cost of a decision nobody made is now a line in a hospital budget that comes out of something else. Somebody has to decide whether the region pays to keep people or pays more to rent them.",
+   "description": "The graduates who were deciding have decided, and the clinics are covering the shifts they would have worked with travel nurses at several times the salary, on contracts that end in weeks. The university is training the next class for the same recruiters and the young families are still leaving, so the cost of a decision nobody made is now a line in a hospital budget that comes out of something else. Somebody has to decide whether the region pays to keep people or pays more to rent them.\n\nWhere I606 stood: it was only partly addressed. What was done: Loan repayment stipends now go to undecided nursing graduates who commit two years to a regional clinic, and a local LPN/CNA-to-RN cohort is funded… Carilion has put loan repayment and stipends on the table for undecided UVA Wise graduates, which slows some signings…",
    "location": "Norton, Wise and Big Stone Gap",
    "severity": 4,
    "visible_to": [
@@ -566,7 +566,7 @@
     "LENOWISCO Planning District Commission"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 125,
    "opens_after": "I606",
    "opens_when": "unresolved"

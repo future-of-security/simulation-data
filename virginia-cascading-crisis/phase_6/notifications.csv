@@ -124,3 +124,20 @@ sim_time,team,type,message
 0:26,Glacier,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
 0:26,Teton,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
 0:26,Banff,escalation,New incident: The Request Is A Case Now And FEMA Is Asking Which Houses The Household Numbers Came From
+0:30,Acadia,report,"Attempt 5 addresses I621 only in prose: a situation judgment and two proposed custom actions, with an explicit 'Actions Taken: None', so nothing is charged and no outcome above nothing can be awarded."
+0:30,Teton,report,"Two actions filed against I606, which UVA Wise leads, and both are described as commitments rather than as results."
+0:30,Olympic,report,"Olympic is a supporting role on I603, but its sole filed action is an unpriced intelligence share whose own description concerns mine safety rather than the rent arrears…"
+0:30,Shenandoah,report,"Filed against I606 in a role that leads it, and the report itself describes the incentive without named placements or a rota, so the class is helped but not staffed into the region."
+0:30,Banff,report,"Banff filed one in-role A8 against I611 at a claimed half-share with Denali; I611 is already resolved on the board and the standard there is case management, so the action scores as help only…"
+0:30,Everglades,incident,I606 — now in progress. Open the incident for what changed.
+0:30,Shenandoah,incident,I606 — now in progress. Open the incident for what changed.
+0:30,Teton,incident,I606 — now in progress. Open the incident for what changed.
+0:30,Acadia,report,I621 — next time: Put the rate case and the customer notice on an action line with a cost you can actually fund — a proposal section moves nothing on anyone's bill.
+0:30,Teton,report,"I606 — next time: Say what the plan's workforce section actually commits — a dollar amount per graduate, who signs it, and when the money lands — not the funding categories it points at."
+0:30,Olympic,report,"I603 — next time: Say what verified figure or deadline you shared, with whom and when; 'agreed for Denali finance' is an arrangement, not a result, and no docketed household sees it."
+0:30,Shenandoah,report,"I606 — next time: Say which clinic, unit and start date each offer names, and what a graduate with a spouse needing work and children needing childcare is actually offered."
+0:30,Banff,report,"I611 — next time: Name the single program the widened documentation rule applies to, and how many previously denied applications it has reopened, and where."
+0:30,Banff,report,"I623 — next time: Say which of the uncovered households the documentation change actually reached, with a number or a place, rather than describing the policy in general."
+0:30,Everglades,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
+0:30,Shenandoah,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
+0:30,Teton,escalation,New incident: The Class Has Gone And The Clinics Are Covering Shifts With Travel Nurses
