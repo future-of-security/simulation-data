@@ -7,3 +7,8 @@ sim_time,team,type,message
 0:06,Katmai,escalation,New incident: The Rent Is Being Paid And Nobody Has Found The Paychecks
 0:06,Denali,escalation,New incident: The Rent Is Being Paid And Nobody Has Found The Paychecks
 0:06,Banff,escalation,New incident: The Rent Is Being Paid And Nobody Has Found The Paychecks
+0:09,Shenandoah,report,Only I607 is addressed.
+0:09,Denali,incident,I607 — now partially resolved. Open the incident for what changed.
+0:09,Everglades,incident,I607 — now partially resolved. Open the incident for what changed.
+0:09,Shenandoah,incident,I607 — now partially resolved. Open the incident for what changed.
+0:09,Shenandoah,report,"I607 — next time: Say what the enrolment itself produced — who runs the registry, how many signed up, and when their first screening is — rather than what Carilion did with the money."
