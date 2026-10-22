@@ -91,7 +91,7 @@
     "UVA Wise"
    ],
    "time_limit": 40,
-   "state": "partially_resolved",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "",
    "opens_when": ""
@@ -262,7 +262,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "partially_resolved",
    "points_resolve": 125,
    "opens_after": "I602",
    "opens_when": "resolved"
@@ -308,9 +308,9 @@
   {
    "id": "I617",
    "phase": 6,
-   "sim_time": "0:25",
+   "sim_time": "0:54",
    "incident": "The Applications Came From The Towns With Grant Writers And The Hollows Sent None",
-   "description": "The money is committed and every application that came in was written by a town with a planning office, a county with a consultant or a business with an accountant. The communities that were hit hardest sent nothing, because writing the application costs money they do not have before any of it is awarded, and the same people are writing the same applications for the round that is left. A grant program reaches the places that can fill in its forms, which are not the places that lost the most.",
+   "description": "The money is committed and every application that came in was written by a town with a planning office, a county with a consultant or a business with an accountant. The communities that were hit hardest sent nothing, because writing the application costs money they do not have before any of it is awarded, and the same people are writing the same applications for the round that is left. A grant program reaches the places that can fill in its forms, which are not the places that lost the most.\n\nWhere I605 stood: it was resolved. What was done: Reclamation payroll is now carrying displaced miners on forfeited mine land, but the ARC money still has no published split between the businesses that exist now and work that is not coal… Training for displaced miners and retention stipends are moving, but no employer or contract is named behind either and the ARC money still has no published split between the businesses that exist…",
    "location": "Lee, Wise and Dickenson counties",
    "severity": 3,
    "visible_to": [
@@ -319,7 +319,7 @@
     "Virginia Energy"
    ],
    "time_limit": 25,
-   "state": "hidden",
+   "state": "open",
    "points_resolve": 100,
    "opens_after": "I605",
    "opens_when": "resolved"
@@ -348,7 +348,7 @@
    "phase": 6,
    "sim_time": "0:46",
    "incident": "The Registry Has Found A Pattern And The Households Who Enrolled Want Their Own Results",
-   "description": "The registry has been running long enough to show something: the screenings of the people exposed during the crisis have a pattern in them, in a county where the same households were told by official bodies that the water was fine. The people who enrolled did so on the understanding that it was for their health and not for a study, and a finding published before they have been told their own results makes them the last to know what is in their own bodies. Somebody has to decide which comes first, the record or the person.\n\nWhere I607 stood: it was resolved. What was done: A screening registry for people exposed this month has opened and residents are being signed up for regular monitoring, with telehealth capacity being equipped to follow them remotely…",
+   "description": "The registry has been running long enough to show something: the screenings of the people exposed during the crisis have a pattern in them, in a county where the same households were told by official bodies that the water was fine. The people who enrolled did so on the understanding that it was for their health and not for a study, and a finding published before they have been told their own results makes them the last to know what is in their own bodies. Somebody has to decide which comes first, the record or the person.Where I607 stood: it was resolved. What was done: A screening registry for people exposed this month has opened and residents are being signed up for regular monitoring, with telehealth capacity being equipped to follow them remotely…",
    "location": "Appalachia, Carbo and the Wise County water system",
    "severity": 4,
    "visible_to": [
@@ -405,7 +405,7 @@
    "phase": 6,
    "sim_time": "0:46",
    "incident": "The Plan Says What The Hollows Asked For And The First Grants Went To The Projects With A Sponsor",
-   "description": "The plan was adopted with the hollows in it, and the first funding round under it went to the projects that had somebody to sign the application: the county water line, the town's main street, the college's building. A project in an unincorporated hollow needs an applicant with a bank account and an audit, and the households that turned out at the fire hall to ask for it do not have one. The plan's own ranking is the only thing standing between what was asked for and what gets built.\n\nWhere I610 stood: it was resolved. What was done: Pre-disaster baseline figures for hollows housing and miners' families are being circulated to inform a baseline plan, but nothing records what those households themselves asked for… Door-to-door outreach is gathering what renters and miners' families in Wise and two neighbouring counties say they need, with a written summary promised to LENOWISCO before adoption…",
+   "description": "The plan was adopted with the hollows in it, and the first funding round under it went to the projects that had somebody to sign the application: the county water line, the town's main street, the college's building. A project in an unincorporated hollow needs an applicant with a bank account and an audit, and the households that turned out at the fire hall to ask for it do not have one. The plan's own ranking is the only thing standing between what was asked for and what gets built.Where I610 stood: it was resolved. What was done: Pre-disaster baseline figures for hollows housing and miners' families are being circulated to inform a baseline plan, but nothing records what those households themselves asked for… Door-to-door outreach is gathering what renters and miners' families in Wise and two neighbouring counties say they need, with a written summary promised to LENOWISCO before adoption…",
    "location": "Lee, Wise, Scott and Norton",
    "severity": 3,
    "visible_to": [

@@ -14,9 +14,9 @@
    "team": "Banff",
    "role": "FEMA Region 3",
    "sector": "Federal Disaster Assistance",
-   "budget": 38333,
-   "trust": 6,
-   "score": 251.25,
+   "budget": 18333,
+   "trust": 5,
+   "score": 307.5,
    "responsibility": "Whether this disaster qualifies for federal help, which programs open, and on what terms"
   },
   {
@@ -87,17 +87,17 @@
    "role": "LENOWISCO Planning District Commission",
    "sector": "Regional Planning",
    "budget": 33334,
-   "trust": 6,
-   "score": 245.0,
+   "trust": 7,
+   "score": 307.5,
    "responsibility": "The recovery plan for Lee, Wise and Scott counties and Norton, and whose voices are in it"
   },
   {
    "team": "Yellowstone",
    "role": "Appalachian Regional Commission",
    "sector": "Regional Economic Development",
-   "budget": 57500,
+   "budget": 12500,
    "trust": 7,
-   "score": 107.5,
+   "score": 255.0,
    "responsibility": "Federal-state economic development money, and whether it rebuilds the old economy or a new one"
   },
   {

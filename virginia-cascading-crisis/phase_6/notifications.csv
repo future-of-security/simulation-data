@@ -261,3 +261,24 @@ sim_time,team,type,message
 0:51,Glacier,report,"I601 — next time: Say what A3 actually filed and when, and what answer came back from Banff on declaration type and programs — a planned output reads as intent, not a result."
 0:51,Katmai,report,"I615 — resolved. A suggestion: Say what the 48-hour inspections actually found and which crews took the jobs, so the next report shows repairs moving rather than intent."
 0:51,Banff,report,"I615 — next time: Say which households the share actually reached and what the follow-up assessment found or booked for each, rather than that priorities were coordinated."
+0:54,Yellowstone,report,"Against I605 the report files A28 and A26 in role and heads for the named state, with the dollar split between the existing economy and new work left thin."
+0:54,Acadia,report,"The report is filed against I601 only, where Shentel is a supporting role, so the award is capped below a close…"
+0:54,Banff,report,"The report files on I615 but its judgment and action concern I614's household-loss review, so the named incident and the work described do not match…"
+0:54,Teton,report,"Teton can see I614 but is not its primary, so the report is graded as support and cannot exceed a strong partial; A1 is free, so the charge is zero."
+0:54,Yellowstone,report,"Both filed actions were charged in full here as repeat filings of work credited on yellowstone_phase6_attempt_2; what this report adds is a weaker description, not new work."
+0:54,Redwood,incident,I605 — now resolved. Open the incident for what changed.
+0:54,Shenandoah,incident,I605 — now resolved. Open the incident for what changed.
+0:54,Yellowstone,incident,I605 — now resolved. Open the incident for what changed.
+0:54,Banff,incident,I614 — now partially resolved. Open the incident for what changed.
+0:54,Glacier,incident,I614 — now partially resolved. Open the incident for what changed.
+0:54,Teton,incident,I614 — now partially resolved. Open the incident for what changed.
+0:54,Yellowstone,report,"I605 — resolved. A suggestion: Say what the plan actually commits and to whom — the employer or contract behind each line and the wages it carries, not only what the plan will identify."
+0:54,Yellowstone,report,"I612 — next time: Name the site the reclamation money buys and the crews hired, so the cleanup is traceable to a place."
+0:54,Acadia,report,"I601 — next time: Say when the package landed and who acknowledged it, and which single program the counties should queue for if the narrow declaration is what comes back."
+0:54,Banff,report,"I615 — next time: Say how many households the drive registered, in which counties, and what each of them can now apply for."
+0:54,Banff,report,"I614 — next time: Name the hollows the registrations actually reached and when those records go to the state, so a count can be tied to an address."
+0:54,Teton,report,"I614 — next time: Say which field action produced the 184 parcels, when the count was made, and how the households without deeds were reached, so the number can be cited with its method."
+0:54,Yellowstone,report,"I604 — next time: Say which named businesses the bridge fund actually reached, the amount each got and the date it went out, rather than the plan that created it."
+0:54,Yellowstone,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
+0:54,Shenandoah,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
+0:54,Redwood,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
