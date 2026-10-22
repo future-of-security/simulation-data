@@ -5,9 +5,9 @@
    "team": "Acadia",
    "role": "Shentel Communications",
    "sector": "Telecommunications",
-   "budget": -9200,
-   "trust": 8,
-   "score": 365.0,
+   "budget": -17200,
+   "trust": 6,
+   "score": 402.5,
    "responsibility": "The fiber backbone the attack cut: how it is rebuilt, and whether it can fail the same way again"
   },
   {
@@ -33,8 +33,8 @@
    "role": "Carilion Clinic System",
    "sector": "Health System Recovery",
    "budget": 21000,
-   "trust": 8,
-   "score": 346.25,
+   "trust": 7,
+   "score": 408.75,
    "responsibility": "Which emergency services stay after the crisis, and the long-term health of people exposed during it"
   },
   {
@@ -50,9 +50,9 @@
    "team": "Katmai",
    "role": "Virginia Department of Housing and Community Development",
    "sector": "Housing",
-   "budget": 50000,
-   "trust": 7,
-   "score": 401.25,
+   "budget": 25000,
+   "trust": 8,
+   "score": 526.25,
    "responsibility": "Households behind on rent and repairs, and the housing money that arrives months after it is needed"
   },
   {
@@ -78,8 +78,8 @@
    "role": "UVA Wise",
    "sector": "Higher Education",
    "budget": -46250,
-   "trust": 4,
-   "score": 157.5,
+   "trust": 6,
+   "score": 240.0,
    "responsibility": "The region's university: graduates, nurses and young people deciding whether to stay"
   },
   {

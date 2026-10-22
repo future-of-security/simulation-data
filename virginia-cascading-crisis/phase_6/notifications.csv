@@ -282,3 +282,25 @@ sim_time,team,type,message
 0:54,Yellowstone,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
 0:54,Shenandoah,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
 0:54,Redwood,escalation,New incident: The Applications Came From The Towns With Grant Writers And The Hollows Sent None
+0:58,Acadia,report,"Acadia filed two improvised actions against I608 only, and as a non-primary role it moved businesses toward an appeal route without touching the denials or their payment."
+0:58,Shenandoah,report,"Only A1 is filed; the report names I606 in its header but argues I630's situation throughout, and the placement agreement remains a proposal with no funder…"
+0:58,Katmai,report,"Katmai, the primary on I625, filed A14 for case management of fifty docketed households in Wise, Dickenson and Buchanan and described the case plans and employment tracking the action produces…"
+0:58,Shenandoah,report,"The report works only I630; I606 and the other incidents this role can see are referenced as unknowns, not acted on."
+0:58,Everglades,report,"A25 is charged at the trust-8 rate ($30,000 × 0.8 = $24,000) even though the report calls it a repeat of the I606 payment."
+0:58,Everglades,incident,I606 — now partially resolved. Open the incident for what changed.
+0:58,Shenandoah,incident,I606 — now partially resolved. Open the incident for what changed.
+0:58,Teton,incident,I606 — now partially resolved. Open the incident for what changed.
+0:58,Banff,incident,I625 — now resolved. Open the incident for what changed.
+0:58,Denali,incident,I625 — now resolved. Open the incident for what changed.
+0:58,Katmai,incident,I625 — now resolved. Open the incident for what changed.
+0:58,Everglades,incident,I630 — now in progress. Open the incident for what changed.
+0:58,Shenandoah,incident,I630 — now in progress. Open the incident for what changed.
+0:58,Teton,incident,I630 — now in progress. Open the incident for what changed.
+0:58,Everglades,incident,I630 — now partially resolved. Open the incident for what changed.
+0:58,Shenandoah,incident,I630 — now partially resolved. Open the incident for what changed.
+0:58,Teton,incident,I630 — now partially resolved. Open the incident for what changed.
+0:58,Acadia,report,"I608 — next time: Say who holds the authority to re-read a denial and on what policy reading, not only what the business is handed to appeal with."
+0:58,Shenandoah,report,"I606 — next time: Name the clinic post, the funder and the start date the placement plan produces, and file it as an action rather than a proposal."
+0:58,Katmai,report,"I625 — resolved. A suggestion: Say which month the rental assistance steps down for these households, so the plan shows the help ending on wages rather than on an exhausted program."
+0:58,Shenandoah,report,"I630 — next time: Report what came back from Carilion and LENOWISCO — who agreed, what they committed, and by when."
+0:58,Everglades,report,"I630 — next time: Say what the stipends actually produced — how many graduates signed, which shifts their commitment covers, and when the travel contracts they replace run out."
