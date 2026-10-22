@@ -15,8 +15,8 @@
    "role": "FEMA Region 3",
    "sector": "Federal Disaster Assistance",
    "budget": 38333,
-   "trust": 5,
-   "score": 213.75,
+   "trust": 6,
+   "score": 251.25,
    "responsibility": "Whether this disaster qualifies for federal help, which programs open, and on what terms"
   },
   {
@@ -43,16 +43,16 @@
    "sector": "State Emergency Management",
    "budget": 83334,
    "trust": 5,
-   "score": 262.5,
+   "score": 307.5,
    "responsibility": "The state's request for federal help, its share of the cost, and who it is spent on"
   },
   {
    "team": "Katmai",
    "role": "Virginia Department of Housing and Community Development",
    "sector": "Housing",
-   "budget": 90000,
+   "budget": 50000,
    "trust": 7,
-   "score": 276.25,
+   "score": 401.25,
    "responsibility": "Households behind on rent and repairs, and the housing money that arrives months after it is needed"
   },
   {

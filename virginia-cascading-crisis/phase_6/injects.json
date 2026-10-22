@@ -281,7 +281,7 @@
     "FEMA Region 3"
    ],
    "time_limit": 25,
-   "state": "open",
+   "state": "resolved",
    "points_resolve": 125,
    "opens_after": "I603",
    "opens_when": "resolved"
